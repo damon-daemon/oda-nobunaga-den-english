@@ -1,0 +1,66 @@
+@3.0
+So the Oda are this formidable.
+
+@3.1
+Father, victory and defeat are the luck of the hour. Though we were beaten, our army can still fight the Oda.
+
+@3.2
+Yes. But for now let us pull back to eastern Mikawa and settle in for a long haul. Nobunaga cannot linger in Totomi either.
+
+@4.1
+Father?
+
+@5.0
+M-my lord!
+
+@5.1
+Q-quickly, fetch a physician!
+
+@6.0
+What~! Shingen has withdrawn to Kai!
+
+@7.0
+Hmph, then I will fight on even without Shingen!
+
+@8.0
+I will call on the lords and raise troops to bring down Nobunaga.
+
+@12.0
+My lord. The Takeda forces are falling back from Mikawa toward Shinano.
+
+@12.1
+What! Shingen!?
+
+@12.2
+Has Shingen given up on marching on Kyoto?
+
+@12.3
+My lord. According to my men, a palanquin bearing what looks like Shingen's corpse has left the Takeda camp for a nearby temple.
+
+@13.0
+My lord!
+
+@14.0
+Oh, Toshiie. What is it?
+
+@14.1
+An urgent messenger from Kyoto reports that Lord Yoshiaki is calling on the home provinces' forces to destroy the Oda.
+
+@14.3
+Damn Yoshiaki. To defy me is the height of folly; his wretched end is decided. We return to Gifu at once. Make ready!
+
+@15.0
+Raise troops and strike down Nobunaga, he says...
+
+@15.1
+Heh heh heh heh, my blood stirs. Even in old age I cannot give up ambition.
+
+@16.4
+Please stop doing things that provoke Lord Nobunaga. It will become beyond remedy.
+
+@24.0
+What, Lord Yoshiaki!? I never noticed in the least.
+
+@34.0
+It seems the garrison of Makishima Castle was reinforced while we were away at Mikatagahara.
+

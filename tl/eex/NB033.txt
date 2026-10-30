@@ -1,0 +1,180 @@
+@0
+"Ieyasu's Rebellion"
+
+@2
+"Ieyasu's Rebellion"
+
+@3
+"Ieyasu's Rebellion"
+
+@4
+"Ieyasu's Rebellion"
+
+@8.0
+You have served well in my absence.
+
+@9.0
+My lord! Thank God you are safe... The Monkey is overjoyed. I return to you all the lands Hideyoshi held in your stead.
+
+@9.1
+Yes. Monkey, you did well to avenge me.
+
+@10.0
+My lord, to see you again is the greatest joy I could ask.
+
+@12.0
+Mitsuhide caught me off guard, but I have not given up the realm under one sword. My ally Ieyasu is now an enemy, and Uesugi, Hojo, Mori, Chosokabe and the rest are regaining strength. I declare the pacification of the provinces resumed! Monkey!
+
+@13.1
+Go to Bitchu with Masakatsu and resume the Chugoku campaign!
+
+@13.2
+Yes, my lord! I will bring the Mori under your banner.
+
+@13.3
+Narimasa!
+
+@14.0
+Return to Etchu and resume the subjugation of Uesugi with Mitsuharu!
+
+@14.2
+Finish what Katsuie left undone!
+
+@14.4
+Kazumasu!
+
+@15.1
+Send many spies into Ieyasu's lands and report every move in Hamamatsu!
+
+@15.3
+Nagahide!
+
+@16.1
+Cross to Shikoku with Yoritaka and the Kuki fleet! Bring the bat of the birdless isle, Chosokabe, to heel!
+
+@19
+Though beaten at Komaki, Ieyasu strengthened his ties with the Hojo further, and his power was not to be taken lightly.
+
+@20.0
+So that man was alive after all...
+
+@20.1
+But there is no turning back now.
+
+@20.2
+The Oda have begun sending troops to the provinces again. Armies are heading for Chugoku, Shikoku and Hokuriku.
+
+@20.3
+I think now is the time to seek a decisive battle.
+
+@20.4
+No, we hold. We must not be hasty. Knowing that I will not move, that man has sent his armies abroad. We shall ally with the other powers and gradually encircle the Oda. When the weary Oda army wavers, we seek a decisive battle at one stroke.
+
+@20.5
+To that end, first we secure Mikawa. Tadakatsu, Tadayo, go into Noda Castle.
+
+@20.7
+Mototada! Go into Okazaki Castle and hold it.
+
+@20.9
+Yasumasa, go to Odawara. Secure a promise to send reinforcements, in case the worst happens!
+
+@20.11
+Our enemy is Oda Nobunaga. We take every precaution and wait until the time is ripe!
+
+@23.0
+Lord Sakakibara, you have come a long way.
+
+@23.1
+Lord Ujimasa, forgive my haste, but I would have your answer.
+
+@23.2
+Yes. If anything befalls Ieyasu, the Hojo are in danger too. We will send reinforcements at any time.
+
+@24
+Hojo Ujimasa readily agreed to Ieyasu's request.\n\nAfter that there was no movement in the Oda and Tokugawa camps, and several months passed...
+
+@29.0
+We postpone the attack on Okazaki and go to put down Iga.
+
+@33.0
+Since the Tokugawa strengthened the castles of Mikawa, they have not moved at all.
+
+@33.1
+My lord, I think Ieyasu means to fight a war of attrition. What will you do?
+
+@33.2
+Hmm... Hideyoshi and Narimasa are both struggling. The longer the encirclement drags on, the worse for us. Very well, we surround Okazaki Castle and lure Ieyasu out!
+
+@34.0
+All of you, prepare to march!
+
+@36.0
+I still cannot believe that Lord Tokugawa has betrayed us...
+
+@37.0
+Iga was pacified only recently, so there must be some who plot uprisings.
+
+@38.0
+I cannot forgive this betrayal!
+
+@39.0
+Could this be Ieyasu's scheming...? No, I am thinking too much...
+
+@40.0
+Ieyasu is encamped at Hamamatsu.
+
+@41.0
+We might have left the rebels alone...
+
+@42.0
+The Tokugawa castles are the four of Hamamatsu, Okazaki, Noda and Yoshida.
+
+@44.0
+We must take the castles one at a time, surely.
+
+@46.0
+Honda Tadakatsu and others wait in Yoshida Castle.
+
+@47.0
+Leave it to me. I will deal with the rebels easily.
+
+@48.0
+I cannot believe Ieyasu would go to war without a plan.
+
+@49.0
+An uprising in Iga is rather suspicious...
+
+@50.0
+The commander of Okazaki Castle is Torii Mototada.
+
+@52.0
+The Hojo seem to be scheming something. Be careful.
+
+@53.0
+Iga is full of mountains and hard to move through.
+
+@54.0
+Just in case, why not have the rear guard protect the camp?
+
+@56.0
+The shadow of the Hojo flickers behind Ieyasu.
+
+@57.0
+One of my men was cut down by someone. This must be the work of the Iga men.
+
+@58.0
+If we surround Okazaki Castle, Ieyasu will surely send reinforcements.
+
+@59.0
+Units with mountain tactics gain both attack and defence in the mountains.
+
+@60.0
+Give me the vanguard. I will give the enemy a fright.
+
+@61.0
+I pray for your good fortune.
+
+@62.0
+So even Lord Ieyasu could not overcome his own ambition...
+

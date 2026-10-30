@@ -1,0 +1,84 @@
+@0
+"Retaking the Royal Capital"
+
+@2
+"Retaking the Royal Capital"
+
+@3
+"Retaking the Royal Capital"
+
+@4
+"Retaking the Royal Capital"
+
+@5
+Kyoto - Azai and Asakura Camp
+
+@6.0
+We have taken the capital, but the Oda forces will probably attack by tomorrow morning. Can we hold them off...
+
+@6.1
+Rest easy, my lord. Our troops are posted all over the city. However strong the Oda are, they cannot break such defences.
+
+@6.2
+I hope so...
+
+@6.3
+Do not worry, Lord Nagamasa. My Asakura forces will stay in Kyoto a while too. We will beat the Oda back, then strike Mino at once!
+
+@6.5
+My lord, why not request reinforcements from Mt. Hiei?
+
+@6.6
+Mt. Hiei... Good. Send a messenger to ask Hiei for help.
+
+@8.0
+My lord. The city is overflowing with Azai and Asakura troops.
+
+@9.0
+Curse Nagamasa. He takes advantage of my absence to occupy Kyoto! Enough! At dawn tomorrow we attack the city!
+
+@10.0
+With respect, my lord! The soldiers are worn out from marching day after day. Let them rest a while...
+
+@10.1
+Monkey!
+
+@10.2
+Yes, my lord!
+
+@10.3
+If we do not retake Kyoto as soon as possible, we will be rats in a sack!
+
+@10.4
+Yes, you are quite right!
+
+@10.5
+We sortie tomorrow morning! Prepare yourselves. We retake Kyoto at all costs! Cut down any man who turns his back!
+
+@11
+Morning
+
+@12.0
+All forces, sortie! We retake Kyoto!
+
+@14.0
+Grr, to lose Kyoto... What was the rear guard doing!
+
+@15.0
+Let us scatter the Azai and Asakura and take back Kyoto.
+
+@16.0
+This expense hurts...
+
+@17.0
+How about crushing the Asakura army and isolating the Azai?
+
+@18.0
+I wonder how the monks of Mt. Hiei will move...
+
+@19.0
+The enemy has fortified Kyoto. We cannot let our guard down.
+
+@20.0
+We cannot use fire attacks inside the city either. This is troublesome...
+

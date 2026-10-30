@@ -1,0 +1,111 @@
+@0.0
+Viper, I am coming!
+
+@0.1
+Son-in-law...
+
+@0.2
+Heh, so it is Nobunaga. What can he do with that handful of troops? I will send them all to hell together!
+
+@1
+Battle of the Nagara River\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Battle of the Nagara River\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3.0
+We should be safe this far.
+
+@4
+Safely withdrew from Mino
+
+@5.0
+We should be safe this far.
+
+@6
+Safely withdrew from Mino
+
+@7.0
+We should be safe this far.
+
+@8
+Safely withdrew from Mino
+
+@9
+Enemy ambushers appeared.
+
+@10
+Village
+
+@11.0
+You are a samurai of the Oda clan, aren't you?
+
+@11.1
+Please tell Lord Nobunaga. Lord Dosan and Lord Yoshitatsu are at war. Please make them stop.
+
+@12
+Treasure
+
+@13.0
+Son-in-law, this is no time to fight Yoshitatsu. Return to Owari at once.
+
+@13.1
+Understood... But you come too, Viper.
+
+@13.2
+No, I must settle things with Yoshitatsu.
+
+@13.3
+Mino is my land. I cannot very well run away.
+
+@13.4
+Now go!
+
+@13.5
+Viper...
+
+@14.0
+Ugh...
+
+@14.1
+It seems my capacity was only large enough for one province, Mino...
+
+@14.2
+I would have liked to see my son-in-law's true folly...
+
+@14.3
+Ugh... Gah...
+
+@14.4
+Viper!
+
+@14.5
+You old Viper... Going ahead of me...
+
+@15
+Saito Dosan falls at the Battle of the Nagara River
+
+@16
+Battle of the Nagara River\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the village\n     in the south-east corner.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@17
+Battle of the Nagara River (victory condition added)\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the village\n     in the south-east corner.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@19.0
+Viper, forgive me...
+
+@20
+Oda Nobunaga defeated Saito Yoshitatsu's army.
+
+@22
+Defeated Saito Yoshitatsu at the Battle of the Nagara River
+
+@23
+Oda Nobunaga was defeated by Saito Yoshitatsu.
+
+@24
+Defeated by Saito Yoshitatsu
+
+@25.0
+Curse you, Nobunaga! I will repay this one day!
+

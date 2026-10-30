@@ -1,0 +1,393 @@
+@0
+"The Mass Slaughter"
+
+@1
+"Autumn Wind at Odani"
+
+@2.0
+My lord, bands of scavengers hunt fallen warriors around here. I suggest you spend the night at Kenshoji temple, just ahead.
+
+@2.1
+Bah! That I, head of the Asakura, must flee into a temple... What a pitiful thing.
+
+@2.2
+Lamenting will not help us. Quickly, my lord, hurry!
+
+@3
+Echizen - Kenshoji
+
+@4.0
+What of the others? What became of the maids and the pages?
+
+@5.0
+All of them were killed by the scavengers.
+
+@5.1
+The men were slain and robbed of their swords and spears. The women...
+
+@6.0
+How wretched.
+
+@7.0
+My lord, I think you should make up your mind...
+
+@8.0
+I do not want to die. Is there nothing to be done?
+
+@8.1
+No, my lord. You will die here.
+
+@9.0
+Who is there?
+
+@10.0
+You... Kageakira!
+
+@10.1
+To surrender to the Oda, I must have your head, my lord.
+
+@10.2
+I do not wish to bear the shame of killing my own lord either. Take your own life with honour.
+
+@11.0
+What are you saying, traitor? Have you no shame!
+
+@11.1
+Hmph. Kill them.
+
+@12.0
+Aaargh!
+
+@13.0
+Ughh!
+
+@14.0
+Now, die. Right here, right now.
+
+@16
+Omi - Odani Castle, Living Quarters
+
+@17.0
+Are you still here? Hurry and go.
+
+@18.0
+I only wished to say one word of farewell...
+
+@19.1
+Oichi. I made you suffer. Forgive me.
+
+@20.0
+No... In the next life too, I wish to be your wife, my lord.
+
+@20.1
+Yes. Then we shall live happily. Now go, quickly. The flames will soon reach this place.
+
+@21.0
+My lord... my lord...
+
+@22.0
+Be well.
+
+@23.0
+Gh... Oichi... We shall meet in the next life...
+
+@24
+Asakura Yoshikage and Azai Nagamasa both fell in the 8th month of the 1st year of Tensho (1573).\nYoshikage was 41, Nagamasa 29.
+
+@25
+"The Mass Slaughter"
+
+@26
+"The Mass Slaughter"
+
+@27
+"The Mass Slaughter"
+
+@29.0
+Monkey, you fought splendidly against the Azai and the Asakura. For that I grant you the Azai's old lands, 120,000 koku in Omi.
+
+@30.0
+My lord, I am most grateful.
+
+@30.1
+Such a reward is far too generous for a monkey like me. I thank you from my heart, my lord.
+
+@31.0
+That reminds me, you have taken the name Hashiba, have you not?
+
+@31.1
+Yes, my lord. I wished to share in the fortunes of Lord Shibata and Lord Niwa, so I took one character from each.
+
+@31.2
+Ha ha ha. I do not mind at all.
+
+@31.3
+Now, Hideyoshi, you are lord of a province and a castle. I expect even greater service from you.
+
+@32.0
+My lord, why did you pardon the commanders who surrendered and give them the Asakura's old lands?
+
+@32.1
+Because I have a use for them.
+
+@33.0
+Monkey, send word that Echizen is to be taxed heavily. So heavily that an uprising breaks out.
+
+@35.0
+(I will draw out the Ikko followers and set them against the Asakura's old retainers. Proper rule can come after.)
+
+@36.0
+My lord, we have captured Sugitani Zenjubo, the man who once tried to shoot you. What shall we do with him?
+
+@36.1
+Ah. Have him sawn to death.
+
+@36.2
+Sawn... to death, my lord?
+
+@36.3
+Yes. Bury him up to the neck in the roadside, and have every passer-by draw a bamboo saw across his neck.
+
+@36.4
+Understood.
+
+@37.0
+My lord, Lord Matsunaga Hisahide, who had refused to attend court, has come to see you.
+
+@37.1
+I shall see him. Show him in.
+
+@38.0
+Lord Matsunaga, enter.
+
+@39.0
+I am Matsunaga Hisahide. Please forgive my long silence.
+
+@39.1
+Why did you not show your face?
+
+@39.2
+I am old, my lord, and I have been bedridden with illness.
+
+@39.3
+My health has at last recovered, so I have come.
+
+@39.4
+I beg your forgiveness...
+
+@39.5
+With Takeda Shingen dead and the Azai and Asakura destroyed, you would indeed have to get well.
+
+@39.6
+Very well. I forgive you.
+
+@39.7
+!?
+
+@39.8
+You may withdraw.
+
+@40.0
+Is that all right, my lord?
+
+@40.1
+It does not matter. Somehow, I cannot bring myself to dislike that man.
+
+@41.0
+Good, this council is over. Katsuie, stay. The rest may withdraw.
+
+@43.0
+Katsuie.
+
+@44.0
+You know Oichi well, do you not? How about looking after her?
+
+@44.1
+Yes, my lord. I will gladly look after Lady Oichi.
+
+@45
+The New Year came, the 2nd year of Tensho (1574).
+
+@46.0
+Hear me, all of you. My heir Nobushige has been granted the Junior Fifth Rank, Lower Grade, and changed his name to Nobutada.
+
+@46.1
+From now on he is the Oda heir, and may sit among my senior retainers.
+
+@47.0
+Yes, my lord. I will do my utmost not to shame the Oda name.
+
+@48.0
+I grant you all a cup. These cups were made from the skulls of the Asakura and the Azai father and son.
+
+@48.1
+Katsuie, drink your New Year sake from Azai Nagamasa's cup!
+
+@49.0
+Katsuie, tell me how your first drink tastes.
+
+@49.1
+Ha ha ha, my lord is truly bold. It tastes excellent indeed.
+
+@50.0
+Monkey, it is the New Year. I will not hear that you cannot drink! Drink from this cup of Azai Hisamasa.
+
+@51.0
+Monkey, how does the New Year taste?
+
+@51.1
+Ugh... It is... excellent...
+
+@51.2
+Mitsuhide, celebrate the New Year with Asakura Yoshikage's skull.
+
+@52.0
+Mitsuhide, take the cup.
+
+@53.0
+Forgive me, my lord. This cup belonged to my former lord...
+
+@54.0
+What? You Kumquat head. Do you refuse my order?
+
+@54.1
+So that cup matters more to you than I, Nobunaga.
+
+@55.0
+I am sorry.
+
+@56
+Hold my temper\nHow dare you! Kick him
+
+@57.0
+You have spoiled the mood, Kumquat head.
+
+@59.0
+Kumquat head, you have sobered me up.
+
+@61.0
+(Damn you...)
+
+@62.0
+My lord, the Ranjatai of Todaiji that you wanted has finally been obtained.
+
+@63.0
+Oh, so this is it. What a wonderful fragrance.
+
+@64.0
+Oh, Nohime.
+
+@65.0
+...Your conduct just now made your retainers frown.
+
+@65.1
+Making a cup of an enemy general's skull and making everyone drink from it is a prank that goes too far.
+
+@66.0
+I thought it amusing. I see. They were not pleased.
+
+@66.1
+What are you saying? You call that amusing?
+
+@67.0
+Nohime, you too have become a dull woman.
+
+@67.1
+The Azai and Asakura, and the monks of Mount Hiei too, would not have been killed had they not defied me.
+
+@67.2
+They were killed because they fought me and lost. In the Sengoku age, the loser is killed. That is the rule.
+
+@68.0
+You kill more people than you need to.
+
+@69.0
+Be quiet. To build a new age, those with old heads must die.
+
+@69.1
+Had I not killed them, they would have gone on killing forever. If the wars continue, men will keep killing men.
+
+@69.2
+I will kill a thousand, ten thousand, anyone who hinders my great enterprise of ending the wars, the Realm Under One Sword.
+
+@69.3
+To unify the realm I would kill gods, I would kill Buddhas. That is how I, Nobunaga, live.
+
+@70.0
+If you say such things, your father in the other world will weep.
+
+@71.0
+Hmph. My father is laughing in hell.
+
+@72.0
+That is, if there is a hell.
+
+@73.0
+Nohime, do you fear me?
+
+@74.0
+...No.
+
+@74.1
+Without ruthlessness, I could not take the realm, let alone protect my own life.
+
+@74.2
+I may become a skull any day. So I want to live without regret. You understand, Nohime.
+
+@77
+The 7th month, 2nd year of Tensho (1574)\nNobunaga resolved to launch a great offensive to crush the Nagashima Ikko.
+
+@78.0
+My lord, word has come that Echizen has fallen into the hands of the Ikko followers.
+
+@78.1
+Leave it. With Honganji's eyes turned to Echizen, now is the chance to annihilate the Ikko followers.
+
+@79.0
+Kazumasu, attack from the sea together with Kuki.
+
+@80.0
+Yes, my lord. I will make the name of the Kuki navy ring across the realm.
+
+@83.0
+This is a battle to avenge Ujiie Bokuzen. I will destroy them in one blow.
+
+@84.0
+They do not fear death, so they are troublesome foes.
+
+@85.0
+Nagashima Castle is surrounded by shallows. Cannon cannot be used in shallows, so take care.
+
+@86.0
+I cannot believe the Honganji monks will merely stand by and watch.
+
+@87.0
+If it is a castle assault, leave it to this Monkey.
+
+@88.0
+The Ikko followers seem to have asked Honganji for reinforcements.
+
+@89.0
+Each may be weak, but there are so many of them. We must not be careless.
+
+@90.0
+My men report that warrior monks are indeed marching to their aid.
+
+@91.0
+Rather than wipe them out, I think it best to take them into our own army...
+
+@92.0
+There is also a report that Honganji has sent supplies and they have refitted. Be careful.
+
+@93.0
+In shallows, flooding is effective.
+
+@94.0
+I will guard the camp.
+
+@95.0
+Ha, it seems it is my turn. I will scatter these Ikko followers!
+
+@96.0
+Sea, river, shallows... all are terrain I am good at.
+

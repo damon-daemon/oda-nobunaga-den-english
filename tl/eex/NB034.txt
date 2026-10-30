@@ -1,0 +1,165 @@
+@0
+"The End of the Warring Age"
+
+@2
+"The End of the Warring Age"
+
+@3
+"The End of the Warring Age"
+
+@4
+"The End of the Warring Age"
+
+@7
+The Oda army's successful first strike in Mikawa calmed the anti-Nobunaga forces, and the tide began to turn everywhere. Peace was finally made with Chosokabe of Shikoku, and alliances were concluded with the Mori of Chugoku and the Uesugi of Echigo. The Oda had in effect brought these powers under their wing.\n\nNobunaga could now throw his entire strength against the Tokugawa and Hojo.
+
+@8.0
+My lord, a report. I have made peace with Mori Terumoto on condition that the Mori cede all their lands except Suo and Nagato.
+
+@8.1
+Monkey, well done.
+
+@8.3
+My lord, Uesugi of Echigo has also offered peace. What shall we do?
+
+@8.4
+Let them keep Echigo alone and accept the peace.
+
+@8.6
+Chosokabe, who swept across Shikoku, was recently confined to Tosa. Now only the Tokugawa and Hojo still defy the Oda.
+
+@8.7
+My lord, now is the time for the eastern campaign.
+
+@8.8
+Yes. How is Ieyasu faring?
+
+@8.9
+He has moved his seat to Sunpu and is in frequent contact with the Hojo.
+
+@8.10
+If we start east, the Hojo will aid the Tokugawa with their whole army. We would face both at once.
+
+@11.0
+My lord, Uesugi, Mori and Chosokabe have bowed to the Oda.
+
+@11.2
+The Oda will surely hurl their full strength at Suruga.
+
+@11.3
+...(Should I never have aimed for the realm?)
+
+@11.4
+My lord... what is the matter?
+
+@11.5
+Hm...? No, nothing.
+
+@11.6
+...My lord. With respect, let me tell you what is in your heart.
+
+@11.8
+You regret that you aimed for the realm.
+
+@11.9
+How dare you, Tadatsugu! Rude!
+
+@11.10
+Even you, Tadatsugu, I will not forgive!
+
+@11.11
+Wait.
+
+@11.12
+Tadatsugu is right... I was indeed regretting it.
+
+@11.14
+But we are warriors of Mikawa. We are used to bearing the unbearable and enduring the unendurable. Remember when we were vassals of the Imagawa. Compared to those days, today's hardship is nothing...
+
+@14.0
+And if the Tokugawa lose, we are in danger... If the Oda attack Suruga, we fight with all we have... Ujinao, prepare to march!
+
+@17.0
+This one battle will decide it and end the age of war! Everyone, we march!
+
+@17.1
+My lord, please wait a moment!
+
+@17.2
+What is it, Monkey?
+
+@17.3
+With respect, this Monkey has an idea.
+
+@17.4
+Speak.
+
+@17.5
+Yes. If we attack Suruga, the Hojo will surely send reinforcements. How about invading Sagami from Fuchu in Kai, fighting the Hojo army and keeping the two armies from joining?
+
+@17.6
+I see... Monkey, go to Kai with Masakatsu!
+
+@17.8
+My lord, give me that duty too.
+
+@17.9
+And me.
+
+@17.10
+Yes. Toshiie, Narimasa, Nagachika and Mitsuharu, go to Kai with the Monkey as a separate force!
+
+@18.0
+This will be the last battle. Let us meet the enemy with all our strength!
+
+@19.0
+The enemy's main force is at Sunpu Castle.
+
+@20.0
+Let us hit Ieyasu with everything and crush him at once!
+
+@21.0
+I am wary of the Hojo waiting behind them...
+
+@22.0
+I will fight to the death!
+
+@23.0
+This is the last battle. Make good use of your war funds.
+
+@24.0
+My lord, leave Hanzo to me!
+
+@25.0
+When the enemy is massed in one place, cannon are effective.
+
+@26.0
+Fire arrows can throw the enemy into confusion. Use them at the right moment.
+
+@27.0
+Seizing Odawara Castle in one stroke is also an option.
+
+@28.0
+If the situation turns against Ieyasu, he will surely retreat to Odawara Castle. We should settle it before that.
+
+@29.0
+The terrain there is mostly flat. Fire attacks will give us the advantage.
+
+@30.0
+Attacking Sunpu and then Odawara in order would be proper.
+
+@31.0
+The Monkey thinks a surprise attack on Ieyasu would be most effective...
+
+@32.0
+Leave the enemy ninja to me and Kazumasu.
+
+@33.0
+Why not shoot Ieyasu down with muskets?
+
+@34.0
+It is the last battle. Let us attack head-on.
+
+@35.0
+My lord, stay safe...
+

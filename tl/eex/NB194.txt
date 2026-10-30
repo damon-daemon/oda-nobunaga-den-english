@@ -1,0 +1,102 @@
+@0.0
+Boss, the rumour of the mountain god is working well. The villagers are scared out of their wits.
+
+@0.1
+Idiot, look properly! There's a tag-along.
+
+@0.2
+Just some foot soldiers, surely. Let's cut them down.
+
+@0.3
+Right, boys, let's go!
+
+@1
+The Mountain God of Suzuka\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+The Mountain God of Suzuka\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3.0
+The mountain god is angry!
+
+@3.1
+Ah, how terrifying... Everyone, run!
+
+@3.2
+Everyone, run!
+
+@4
+All the villagers fled.
+
+@5.0
+The mountain god is angry!
+
+@5.1
+Ugh... Lord Nobunaga...
+
+@6
+All the villagers fled.
+
+@7.0
+The mountain god is angry!
+
+@7.1
+Waaah, everyone, run!
+
+@8
+All the villagers fled.
+
+@9.0
+Please use this to drive them off.
+
+@9.1
+They are no messengers of the mountain god. They are just bandits.
+
+@10
+The villagers seem to have fled; no one is here.
+
+@11.0
+Ho ho ho, with Lord Nobunaga here we are as strong as a hundred men.
+
+@11.1
+This is a secret medicine. Please use it.
+
+@12
+The villagers seem to have fled; no one is here.
+
+@13.0
+Ah, samurai sir. The mountain god's messengers have appeared.\n\nPlease take this. Help us.
+
+@15
+The villagers seem to have fled; no one is here.
+
+@16.0
+Beaten by mere foot soldiers... me...
+
+@17.0
+So they were the Oda army...
+
+@18.0
+Heh heh heh, this is what comes of defying the mountain god's messengers.
+
+@20
+Defeated by the Suzuka bandits
+
+@21.0
+As I thought, there are no gods.
+
+@22
+Oda Nobunaga wiped out the bandits.
+
+@23
+Gained 10000 gold
+
+@25
+Suzuka bandits wiped out
+
+@26
+Oda Nobunaga was defeated by the bandits.
+
+@27
+Defeated by the Suzuka bandits
+

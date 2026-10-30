@@ -1,0 +1,48 @@
+@0.0
+Hmm. Odani Castle is completely surrounded by Nobunaga's men.
+
+@0.1
+Very well, the whole army advances on Odani Castle!
+
+@6
+The Saito army appeared.
+
+@8.0
+So Lord Yoshikage has moved as well...
+
+@8.1
+That fellow Nobunaga would never dream that I am after his main camp.
+
+@8.2
+Just a little longer... Just a little more patience...
+
+@47.0
+Damn, if this goes on we will be cut off!
+
+@47.1
+Very well, we sally forth!
+
+@48.0
+Damn, if this goes on we will be cut off!
+
+@48.1
+Very well, we sally forth!
+
+@49.0
+Damn, if this goes on we will be cut off!
+
+@49.1
+Very well, we sally forth!
+
+@50.0
+Damn, if this goes on we will be cut off!
+
+@50.1
+Very well, we sally forth!
+
+@51.0
+Damn, if this goes on we will be cut off!
+
+@51.1
+Very well, we sally forth!
+

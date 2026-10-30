@@ -1,0 +1,309 @@
+@0
+"Unification of the Whole Country"
+
+@1
+"Unification of the Whole Country"
+
+@4
+The Oda army, having crushed the combined forces of Tokugawa and Hojo, returned in triumph to Gifu.\n\nNobunaga's power now reached from the Kanto to Chugoku and Shikoku, and even the lords of the far frontiers swore allegiance to him.\n\nThe land of Japan had been unified by Nobunaga.
+
+@5
+Having defeated the Hojo and pacified the Kanto, Nobunaga returned in triumph to Gifu.\n\nNobunaga's power now reached from the Kanto to Chugoku and Shikoku, and even the lords of the far frontiers swore allegiance to him.\n\nThe land of Japan had been unified by Nobunaga.
+
+@6.0
+My lord, our heartfelt congratulations on unifying the realm. All your retainers rejoice with all their hearts.
+
+@7.0
+My lord, now the realm is truly at peace.
+
+@7.1
+You have a smooth tongue.
+
+@7.2
+But Monkey, your service has been truly splendid. I will praise you specially for it.
+
+@8.0
+Yes, my lord! I am most grateful.
+
+@8.1
+Such words are more than this Monkey deserves.
+
+@8.2
+All of you have served well.
+
+@8.3
+From now on, devote your strength to peace in the realm.
+
+@9.1
+(Lord Nobunaga has unified the realm so very quickly.)
+
+@9.2
+(But a bird of prey will not stay within a birdcage.)
+
+@9.3
+(I cannot believe Lord Nobunaga will be content with a peaceful age as it is...)
+
+@10
+A few days later, Nobunaga, having unified the realm, went up to Kyoto.
+
+@11
+Honnoji Incident occurs\nNo Honnoji Incident
+
+@12
+Katsuie and Nobutada live\nKatsuie and Nobutada die
+
+@13
+Ieyasu is an ally\nIeyasu rebels
+
+@15
+Day after day, nobles of Kyoto, wealthy merchants and tea masters came to greet Nobunaga, who had come up to the capital.
+
+@16.0
+Our congratulations on your unification of the realm.
+
+@16.2
+This is a treasured tea utensil of mine. Please accept it.
+
+@16.3
+Hm, well done.
+
+@16.4
+Then, if you will excuse me, I shall take my leave for today.
+
+@17.0
+Hah... I am tired.
+
+@17.1
+Ranmaru, what comes next?
+
+@17.2
+My lord. Next Lord Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
+
+@18.0
+Enough! That will do!
+
+@18.1
+I am going to rest a while.
+
+@19.0
+M-my lord! Please wait.
+
+@20.0
+Hehehe, you are as you always were, my lord.
+
+@20.1
+What! Who are you?
+
+@20.2
+Have you forgotten me, my lord?
+
+@20.3
+......?! Nohime... Nohime, is it you!
+
+@20.4
+You lived, Nohime!
+
+@20.5
+...Yes. Sen no Rikyu saved me when I was in grave danger, and I have been recovering ever since.
+
+@20.6
+Why did you send no word?
+
+@20.7
+I could not rise from my bed... and I did not wish to hinder the unification of the realm.
+
+@21.0
+Just as ever. You are as strong-willed as the viper.
+
+@23
+Day after day, nobles of Kyoto, wealthy merchants and tea masters came to greet Nobunaga, who had come up to the capital.
+
+@24.0
+Our congratulations on your unification of the realm.
+
+@24.2
+This is a treasured tea utensil of mine. Please accept it.
+
+@24.3
+Hm, well done.
+
+@24.4
+Then, if you will excuse me, I shall take my leave for today.
+
+@25.0
+Hah... I am tired.
+
+@25.1
+Ranmaru, what comes next?
+
+@25.2
+My lord. Next Lord Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
+
+@26.0
+Enough! That will do!
+
+@26.1
+I am going to rest a while.
+
+@27.0
+My lord! Please wait.
+
+@28.0
+...Being like this brings back old times.
+
+@28.3
+Are you angry?
+
+@28.4
+What is wrong with being angry?
+
+@28.5
+What I am asking is whom you are angry at.
+
+@28.6
+Isn't it obvious? They all fawn on people, every last one of them. It makes me sick.
+
+@28.7
+No. That is not it.
+
+@28.9
+Your anger is directed at yourself.
+
+@28.10
+At yourself, for being unable to take a step toward an even greater ambition.
+
+@29.0
+......!!
+
+@29.1
+You want the world, do you not?
+
+@30.0
+...Yes. You are right, Nohime. I want the world.
+
+@31.1
+I am going out to take the night air.
+
+@35.0
+Moon-viewing at such a late hour, my lord?
+
+@36.0
+......My lord?
+
+@36.1
+Monkey. Do you remember when we first met?
+
+@36.2
+Of course, my lord. This Monkey has not forgotten it for a single day.
+
+@37.0
+I have taken the realm.
+
+@37.1
+Magnificently done, my lord.
+
+@38.0
+Monkey. Look at that.
+
+@39.0
+A beautiful moon.
+
+@39.1
+Perhaps the moon too is celebrating your great achievement, my lord.
+
+@39.2
+Tell me, Monkey. Is the moon seen in a foreign land as beautiful as this?
+
+@40.0
+......! (My lord... could he be thinking...!?)
+
+@40.1
+It must be beautiful... No, it is certain to be beautiful!
+
+@40.2
+(I knew it!!)
+
+@40.3
+Monkey!
+
+@40.5
+I want the world!
+
+@41.0
+Monkey!
+
+@42.1
+Can I take the world!
+
+@42.2
+Who but you, my lord, could do it!
+
+@42.3
+Monkey! Will you follow me!
+
+@42.4
+This Monkey will go anywhere with you, my lord, through fire and through water!
+
+@42.5
+Well said!
+
+@43.0
+Tomorrow I hold a council. Gather all my retainers!
+
+@44.0
+The reason I have gathered you all today is simple. I wish to speak of our course from here on.
+
+@44.1
+What do you mean, my lord?
+
+@44.2
+Hm.\n\nI became master of the realm because I cast off old ways of thinking and always took in what was new.
+
+@44.3
+As you know, foreign lands are full of new things and new ways of thinking. Therefore.
+
+@45.0
+To gain all of them, I will cross the sea and conquer the world!
+
+@47.0
+(Hmm. As expected of Lord Nobunaga, a man beyond all measure.)\n\n(So the realm cannot be seized while he lives...)\n\n(But a chance will come in time.)\n\n(Until then, I can only endure...)
+
+@48.0
+Yoshitaka!
+
+@48.2
+To fight foreign powers we need ships even stronger than we have now. Build them with all speed.
+
+@48.4
+All of you. Our goal is the unification of the world!
+
+@49
+Several months later...
+
+@50.0
+My lord, the ships are ready.
+
+@51.0
+Look at that sea, all of you. What we aim for lies beyond that endless sea.
+
+@52.0
+Father, give the vanguard to me, Nobutada.
+
+@53.0
+Toshiie will go with you too.
+
+@54.0
+Leave supplies to me, Nagahide.
+
+@55.0
+Think of me, Ieyasu, as your younger brother and use me.
+
+@56.0
+My lord! All of us are resolved to follow you wherever you go.
+
+@57.0
+My lord, give the order to sortie!
+
+@58.0
+Good! Men, we sortie!!
+

@@ -1,0 +1,534 @@
+@0
+Mass-produced tachi, known as a "numbers sword". Not very powerful.
+
+@1
+A tachi reforged for a keener edge. A fine blade.
+
+@2
+A tachi lightened and reforged as an uchigatana. Allows draw-strikes.
+
+@3
+A tachi with a larger blade for greater attack power.
+
+@4
+A tachi with a longer blade, favouring accuracy over attack power.
+
+@5
+A wide-bladed uchigatana for high attack. Called Oni Hocho for its cleaver-like blade.
+
+@6
+An uchigatana built for easy draw-strikes. The blade gleams white.
+
+@7
+An Osafune-school tachi at the limit of attack power. Named for the Dai Hannya sutra.
+
+@8
+A fine Ichimonji-school blade adorned with chrysanthemums. Sharp and beautiful.
+
+@9
+Named for its very long blade. Excels at thrusts and has high accuracy.
+
+@10
+A replica of the legendary blade said to have slain demons. Very easy to handle.
+
+@11
+A keen blade gathering the skill of the master smith Muramasa.
+
+@12
+An uchigatana modelled on the master smith Masamune. Sharp and beautiful.
+
+@13
+A Seki smith's skilled recreation of Izumi no Kami Kanesada. Light and easy to handle.
+
+@14
+A fine piece made with Etchu smithing skill. Well balanced and easy to handle.
+
+@15
+A blade with a wave-like temper line like a surging tide. Fairly powerful.
+
+@16
+A thick-bladed tachi. Deep grooves make it lighter than it looks.
+
+@17
+A blade modelled on the smith Osafune. Has an imposing tachi form.
+
+@18
+A blade modelled on the smith Yoshimitsu. Seemingly unfinished, yet still powerful.
+
+@19
+Light as a dagger. Maker unknown, but the style resembles Yoshimitsu's.
+
+@20
+A cursed blade of terrifying power, said to be always wet. Cannot be upgraded.
+
+@21
+Even more crudely made than the mass-produced tachi. Low power.
+
+@22
+A common spear with a short shaft.
+
+@23
+A short spear with a reforged head and a strengthened shaft.
+
+@24
+A spear with a reforged head and a longer shaft. A bit awkward for its length.
+
+@25
+A short spear with a cross-shaped head for more attack power.
+
+@26
+A short spear whose ordinary bamboo-leaf head is strengthened to the utmost.
+
+@27
+A long spear with an upward hook on one side of the head. The hook can parry swords.
+
+@28
+A long spear with a downward hook. The hook also strikes when the spear is pulled back.
+
+@29
+A Hozoin-school spear with a crescent-shaped hook. Highest attack among short spears.
+
+@30
+A great spear with a plover-shaped head. Its hooks slant downward, unlike the cross spear.
+
+@31
+A short spear with an enormous head to raise the bamboo-leaf spear's attack power.
+
+@32
+A short spear with a single-edged head. Can also slash like a naginata.
+
+@33
+The finest one-hook spear. Named for a dragonfly that landed on its tip and was cut.
+
+@34
+A long spear whose head is shaped like the arrowhead plant. Hard to pull out once stuck.
+
+@35
+A hook spear with an even longer shaft. Its length was said to let it cut even the moon.
+
+@36
+A hook spear with a larger downward hook, for stronger attacks on the pull-back.
+
+@37
+A naginata used by warrior monks, with strengthened blade and shaft.
+
+@38
+A bamboo tip cut at a slant. Very light, but expect little effect.
+
+@39
+A famous spear painted red all over. Light, with high accuracy.
+
+@40
+A famous spear strengthened while keeping the Red Spear's lightness.
+
+@41
+A Great Red Spear fitted with a sharp triangular head. Easy to handle and powerful.
+
+@42
+A spear with a cross-shaped head, a type of two-hook spear. Ginkgo-leaf head shape.
+
+@43
+A type of plain spear. The head is blade-shaped.
+
+@44
+A small bamboo bow. Expect little power from such a small bow.
+
+@45
+The standard bamboo bow. The basic type from which all upgrades are made.
+
+@46
+A bamboo bow wrapped in rattan and lacquered for strength.
+
+@47
+A bamboo bow reinforced with green bamboo and enlarged to bring out the bamboo's best.
+
+@48
+A bamboo bow reinforced with a second layer for more power.
+
+@49
+A rattan bow with a double rattan wrapping. Somewhat lacking in stability.
+
+@50
+A rattan bow reinforced with bamboo and red lacquer. Combines the best of both bows.
+
+@51
+A large bamboo bow made as light and strong as possible. Handy enough to shoot swallows.
+
+@52
+A large bamboo bow wrapped in bamboo. Named for looking like a bow inside a bow.
+
+@53
+A two-ply bamboo bow with two more layers of bamboo for greater power.
+
+@54
+A two-ply bamboo bow with three more layers of bamboo. High attack and easy to handle.
+
+@55
+A heavy rattan bow at its limit. Said to fell demons, but very heavy and unwieldy.
+
+@56
+A larger, stronger heavy rattan bow. Higher attack and stability than the original.
+
+@57
+A red-lacquered rattan bow reinforced with bamboo. Increased power.
+
+@58
+A red-lacquered rattan bow combined with tough logs. Built for ease of use.
+
+@59
+A Chinese crossbow. A little heavy, but long range and high accuracy.
+
+@60
+A continental crossbow strengthened with Western crossbow technology.
+
+@61
+A Namban crossbow able to fire repeatedly. High in range, power and everything else.
+
+@62
+Modelled on the bowyer Yoshimitsu's masterpiece. High range and power.
+
+@63
+A continental crossbow that fires repeatedly. Powerful, but heavy and awkward.
+
+@64
+A Namban repeating crossbow. Long range and powerful, but heavy and awkward.
+
+@65
+A faithful recreation of Nasu no Yoichi's bow. Light and easy to handle.
+
+@66
+A small-bore matchlock for practice. The small bore means modest effect.
+
+@67
+A domestic copy of the Tanegashima matchlock. Stronger than the Slim Musket.
+
+@68
+A matchlock with a shortened, lightened barrel so it can be used on horseback.
+
+@69
+A matchlock with a larger bore than the Namban musket. Built for power.
+
+@70
+A Namban musket with a shortened barrel, easier to handle on the battlefield.
+
+@71
+A matchlock with a still shorter, lighter barrel, easy to use on horseback.
+
+@72
+A large-bore domestic Kunitomo gun. Very powerful but heavy and awkward.
+
+@73
+A large-bore domestic gun developed in Sakai, made for higher accuracy.
+
+@74
+A medium musket fitted for a loading device. Also more powerful.
+
+@75
+A large-bore horseback gun. Usable mounted, but heavy recoil means low accuracy.
+
+@76
+A matchlock built for ease of use, with a very short barrel. Uses a loading device.
+
+@77
+A large-bore Namban gun. Apparently made to order, with very high accuracy.
+
+@78
+An enlarged Namban 10-momme musket. The finest gun.
+
+@79
+A repeater with six barrels bundled together. Shortened to save weight, but still heavy.
+
+@80
+Two matchlock barrels bundled for accuracy on horseback. Fires two shots at once.
+
+@81
+Several barrels bundled together. It turns after each shot to ignite the next barrel.
+
+@84
+A small bronze cannon. Lacking in accuracy and power.
+
+@85
+A bronze cannon. Fair accuracy and power.
+
+@86
+A cannon made of sheet metal rolled into a tube and bound with iron bands.
+
+@87
+An enlarged bronze cannon. Power is much greater.
+
+@88
+An enlarged Haritate cannon. Power is much greater.
+
+@89
+A Haritate cannon made smaller and lighter without losing power. Light and easy to handle.
+
+@90
+A domestic cannon based on the large Folangji. Powerful, but very heavy.
+
+@91
+A Western cannon. High power and accuracy, showing the Western gunsmiths' skill.
+
+@92
+A Western culverin made with Haritate techniques. Tremendously powerful.
+
+@93
+A large Haritate cannon improved for accuracy. Also uses Western techniques.
+
+@94
+A small Haritate cannon made smaller and lighter. Can be used unmounted.
+
+@95
+A large cannon with Shibatsuji power and accuracy maxed out. Cannot be upgraded.
+
+@102
+A hand-thrown dart shorter than a bow arrow. Low power, but very light.
+
+@103
+A claw on an iron chain, swung to attack. Much more powerful than the dart.
+
+@104
+An explosive shell made of ninja powder. Can hit several enemies.
+
+@105
+A weapon linking a weight and a sickle with an iron chain. Wide range and high power.
+
+@106
+A small throwing dagger. Useless in close combat.
+
+@107
+A secret Koga ninja explosive. Strong powder packed with bullets.
+
+@108
+A spherical powder ball made of oiled paper. Bursts into flames over a wide area.
+
+@109
+A secret Iga throwing weapon. The finest among ninja weapons.
+
+@110
+A stronger, heavier chain sickle. Very accurate and easy to handle.
+
+@111
+A dagger shuriken of the type Koga ninja use. Low power but very light.
+
+@112
+A cross shuriken of the type Iga ninja use. Highly accurate and very light.
+
+@113
+A larger Horoku bomb. Heavy, so accuracy is low.
+
+@114
+An extremely powerful double-layered explosive. Heavy and awkward.
+
+@115
+A larger, stronger Horoku fire. Designed to spread flames when it explodes.
+
+@116
+A Horoku fire filled with oil balls, made to spread flames over a wide area.
+
+@117
+A weapon scattered at enemy feet or thrown to attack.
+
+@118
+Shaped like the Flying Claw, but the claw is a sharp blade.
+
+@119
+A Dragon Claw with a lightning-shaped claw for high attack. Long chain, wide range.
+
+@124
+An ordinary war fan. Little attack effect, but raises Intelligence by 10.
+
+@125
+A large leather war fan. Not very powerful.
+
+@126
+A war fan inscribed with omens of direction and time. Raises Intelligence by 20; no power.
+
+@127
+A large war fan with thin iron plating. Reasonably powerful.
+
+@128
+A bronze war fan inscribed with omens of direction and time. Built for power.
+
+@129
+A leather war fan inscribed with weather and climate. Raises Intelligence by 30.
+
+@130
+A war fan inscribed with omens of weather and terrain. Built to raise Intelligence.
+
+@131
+A large iron fan. Highest attack of all the war fans.
+
+@132
+An iron fan inscribed with omens of direction and time.
+
+@133
+An iron war fan inscribed with omens of direction and time. Easier to use than a tessen.
+
+@134
+An iron war fan inscribed with weather and climate. No power; raises Intelligence by 40.
+
+@135
+A bronze war fan inscribed with weather and climate. Improved for ease of use.
+
+@136
+A leather war fan detailing terrain. Raises Intelligence by 40.
+
+@137
+A leather war fan of history, formations and omens. Raises Intelligence by 50.
+
+@138
+A war fan inscribed with formations and strategy. No power; raises Intelligence by 60.
+
+@139
+A small war fan. Expect neither power nor Intelligence gains.
+
+@140
+A war fan inscribed with ancient strategy. No power, but raises Intelligence by 80.
+
+@146
+Simple armour of iron plates joined with rivets.
+
+@147
+Seamless domaru armour made from a single iron plate. Built for defence.
+
+@148
+An improved domaru with reinforced iron plates for extra sturdiness. Kept fairly light.
+
+@149
+A Namban domaru with gauntlets and leg guards. A full set: sturdy but heavy.
+
+@150
+A Namban domaru reinforced with red lacing. Somewhat heavy.
+
+@151
+An Okegawa domaru with gauntlets and leg guards. A full set, kept fairly light.
+
+@152
+An Okegawa domaru reinforced with white lacing. Very light and easy to move in.
+
+@153
+A Namban dogusoku with black lacing and a bear-hair helmet. A full set of armour.
+
+@154
+A Namban dogusoku reinforced with black lacing. Much more defence, but heavy.
+
+@155
+Red-laced Namban armour with a helmet bearing Fudo Myoo. High defence but heavy.
+
+@156
+Red-laced Namban armour with gauntlets and leg guards. Well balanced at a high level.
+
+@157
+An Okegawa dogusoku with blue lacing and an antler helmet. A full set of armour.
+
+@158
+An Okegawa dogusoku reinforced with blue lacing. Kept fairly light.
+
+@159
+White-laced Okegawa armour with a sujikabuto helmet. Full set, very light and mobile.
+
+@160
+White-laced Okegawa armour with gauntlets and leg guards. Lightest of the full sets.
+
+@161
+Chain-woven armour worn by ninja. About as effective as a domaru.
+
+@162
+A domaru reinforced with navy lacing. Finely made, famous armour.
+
+@163
+A navy-laced domaru with gauntlets and leg guards. Light yet high in defence.
+
+@164
+A navy-laced dogusoku with a demon helmet. A full set, light yet high in defence.
+
+@165
+Back-split armour of iron plates joined with rivets. Low defence.
+
+@168
+Just as the name says, a rusted tachi. Cannot be used as it is...
+
+@169
+A bean that restores a little endurance to the unit that uses it.
+
+@170
+Barley that restores a fair amount of endurance to the unit that uses it.
+
+@171
+Rice that greatly restores the endurance of the unit that uses it.
+
+@172
+Meat that fully restores the endurance of the unit that uses it.
+
+@173
+A medicine that restores a little endurance to several friendly units.
+
+@174
+A medicine that restores a fair amount of endurance to several friendly units.
+
+@175
+A medicine that greatly restores endurance to several friendly units.
+
+@176
+A medicine that fully restores endurance to several friendly units.
+
+@177
+A scroll that restores a little endurance to several friendly units.
+
+@181
+Water that restores a little skill points to the unit that uses it.
+
+@182
+Sake that restores a fair amount of skill points to the unit that uses it.
+
+@183
+Tea that greatly restores the skill points of the unit that uses it.
+
+@184
+Wine that restores a great many skill points to the unit that uses it.
+
+@185
+Sake that restores a little skill points to several friendly units.
+
+@186
+Sake that restores a fair amount of skill points to several friendly units.
+
+@187
+Sake that greatly restores skill points to several friendly units.
+
+@193
+A medicine that cures paralysis in the unit that uses it.
+
+@194
+A medicine that breaks the seal on the user's skills.
+
+@195
+A medicine that calms confusion in the unit that uses it.
+
+@196
+A medicine that heals deep wounds in the unit that uses it.
+
+@197
+A medicine that cures the status ailments of the unit that uses it.
+
+@200
+A shield that raises a unit's endurance.
+
+@208
+A statue that raises an officer's skill points.
+
+@216
+A horse that raises a unit's movement by 1.
+
+@218
+A horse that raises a unit's movement by 2.
+
+@221
+A horse that raises a unit's movement by 3.
+
+@224
+Used on a unit of level 20 or higher, it advances the unit to the next class.
+
+@240
+A bean that restores a little endurance to the unit that uses it.
+

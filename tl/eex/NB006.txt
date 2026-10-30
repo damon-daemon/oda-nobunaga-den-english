@@ -1,0 +1,558 @@
+@0
+"A Throw of the Dice"
+
+@2
+The 3rd month, 2nd year of Eiroku (1559)\nNobunaga took Iwakura Castle, all but completing the pacification of Owari.\nHe was 26.
+
+@3
+The 3rd month, 2nd year of Eiroku (1559)\nNobunaga lost the Battle of Ukino and failed to unify Owari.\nHe was 26.
+
+@4
+"A Throw of the Dice"
+
+@5
+"A Throw of the Dice"
+
+@6
+"A Throw of the Dice"
+
+@7
+Suruga Province
+
+@8.0
+I am tired of kemari and poetry alike. Since Sessai's death I have avoided war to secure my footing, but...
+
+@8.1
+It is about time I made a move toward the realm.
+
+@8.2
+Toward the realm, my lord?
+
+@9.0
+I will march on Kyoto, serve as the shogun's guardian, and proclaim my hegemony over the realm.
+
+@9.1
+Born into a great house, I deserve a measure of wealth, fame and power worthy of my stature,
+
+@9.2
+and it is my duty to seize them.
+
+@9.3
+Thanks to the three-way alliance Sessai arranged, there is no fear of being struck from behind.
+
+@9.4
+First, I shall scatter that Fool of Owari. Ho ho ho.
+
+@9.5
+Then leave the vanguard to me.
+
+@10.0
+The vanguard shall go to Matsudaira Motoyasu of Mikawa.
+
+@10.1
+I do not wish to lose a single one of my own men. Ho ho ho.
+
+@11
+Sunpu - Residence of Matsudaira Motoyasu
+
+@12.0
+I understand: the vanguard of the march on Kyoto. Please give my regards to Lord Imagawa.
+
+@13.0
+Yes, my lord. I take my leave.
+
+@14.0
+......\n\n\nPhew.
+
+@16.0
+My lord, I hear an envoy has come from the Imagawa...
+
+@16.1
+Yes.
+
+@16.2
+And what does Lord Imagawa say?
+
+@16.3
+He means to march west on Kyoto.
+
+@16.4
+......!
+
+@16.5
+Lord Imagawa marches on Kyoto...
+
+@16.6
+We have been ordered to lead the van. As soon as we are ready, we march at once.
+
+@17.0
+As you command.
+
+@18.0
+We enter Owari and first take the Oda fort at Marune.
+
+@18.1
+Yes, my lord!
+
+@18.2
+(So at last I must cross swords with Lord Nobunaga...)\n\n(But it cannot be helped... We are vassals of the Imagawa. Disobey, and we are destroyed.)
+
+@20.0
+My lord, Yamaguchi Noritsugu, lord of Narumi Castle, has defected to the Imagawa.
+
+@20.1
+The whole town is full of rumours that Imagawa Yoshimoto is coming. At this rate more traitors will appear.
+
+@20.2
+Perhaps it would be best to surrender to the Imagawa...
+
+@20.3
+Never. There is no road to peace between the Imagawa and the Oda.
+
+@20.4
+And do not worry. Yamaguchi's defection is a sham.
+
+@20.5
+I have ordered him to strike the enemy's rear when Yoshimoto attacks. Rest easy.
+
+@20.6
+All of you, post more watchers so that no true traitor emerges.
+
+@20.7
+Yoshinari, I have a word with you. The rest may withdraw.
+
+@21.0
+Yoshinari, come closer.
+
+@22.0
+Slip spies into Sunpu and spread the word that Yamaguchi's defection was our stratagem.
+
+@22.1
+Then what happened just now...
+
+@22.2
+A sham.
+
+@22.3
+Never mind that. See that it is done well. A traitor deserves death.
+
+@23.0
+Yes, my lord.
+
+@23.1
+(What a man. With a farce he reassures his retainers, and he also has the traitor murdered.)
+
+@24
+Kyoto
+
+@25.0
+A year already in Kyoto...
+
+@25.1
+Hey, I hear Imagawa Yoshimoto of Suruga is marching on Kyoto.
+
+@26.0
+......!
+
+@26.1
+Well now, so the great Imagawa house is finally coming to Kyoto.
+
+@26.2
+If the Imagawa muster Suruga, Totomi and Mikawa, that is twenty thousand at least. Nothing will stand in their way to Kyoto.
+
+@26.3
+The first to be offered up in blood will be the Oda of Owari, I'd say.
+
+@27.0
+......!
+
+@28.0
+Could that be Lord Akechi?
+
+@29.0
+Ah, Soeki.
+
+@30.0
+So you have come to Kyoto?
+
+@30.1
+Yes.
+
+@30.2
+Thank you for your kindness in Sakai.
+
+@30.3
+Not at all, think nothing of it. Where are you headed now, Lord Akechi?
+
+@30.4
+I plan to leave Kyoto for a while and go to Echizen.
+
+@30.5
+Echizen, is it? Take care on the road.
+
+@30.6
+Thank you. Keep well, Soeki.
+
+@31
+Sunpu - The Imagawa
+
+@32
+Sunpu Castle - Audience Hall
+
+@33.0
+My lord, I have summoned Yamaguchi Noritsugu to Sunpu and had him beheaded.
+
+@33.1
+Ho ho ho. Is that so, is that so.
+
+@33.2
+So his surrender was false, meant to cut off our retreat once we had pushed deep into Owari...
+
+@33.3
+Ho ho ho. This is a war we would win even without counting on the enemy's treachery.
+
+@33.4
+My lord, two days have already passed since the vanguard set out.
+
+@33.5
+Hm. Then it is time for us to go. Move out.
+
+@34
+Owari - Kiyosu Castle
+
+@36.0
+My lord, the enemy vanguard is closing in on the forts of Marune and Washizu.
+
+@36.1
+My lord, the enemy is said to number thirty or forty thousand. Our only course is to hold out in Kiyosu Castle.
+
+@36.2
+My lord, decide!
+
+@37
+Sally out\nHold Kiyosu Castle
+
+@38.0
+If reinforcements could be expected, holding the castle would be fine. But not this time.
+
+@38.1
+Those who shut themselves in a castle meet only ruin.
+
+@39.0
+I will sally out, even alone. Those who will follow, come. Those who wish to stay, stay.
+
+@40.0
+(A charge, then, and death with glory. I threw away my life once already. I will make a fine end of it.)
+
+@40.1
+(For the sake of my clan, I will fight to the death...)
+
+@40.2
+(So the fortunes of the Oda are spent.)
+
+@41.0
+Even without hope of reinforcements, you may as well shut yourselves in the castle.
+
+@41.1
+Those who hold a castle do not always meet ruin.
+
+@42.0
+Those who wish to fight with me, stay.
+
+@43.0
+(Holding the castle, then, and death with glory. I threw away my life once already. I will make a fine end of it.)
+
+@43.1
+(In the end, this was our fate.)
+
+@43.2
+(This is the end of the Oda.)
+
+@45.0
+If reinforcements could be expected, holding the castle would be fine. But not this time.
+
+@45.1
+Those who shut themselves in a castle meet only ruin.
+
+@46.0
+I will sally out, even alone. Those who will follow, come. Those who wish to stay, stay.
+
+@47.0
+(A charge, then, and death with glory. I threw away my life once already. I will make a fine end of it.)
+
+@47.1
+(For the sake of my clan, I will fight to the death...)
+
+@47.2
+(So the fortunes of the Oda are spent.)
+
+@48
+Kiyosu Castle - Commanders' Hall
+
+@49.0
+Nohime. Lend me your lap.
+
+@50.0
+Do you think you can win?
+
+@50.1
+And if I said I could not? Would you run?
+
+@50.2
+I have nowhere to flee back to.
+
+@50.3
+Besides, now that I am your wife, I have no intention of leaving your side.
+
+@51.0
+...I am prepared for the worst. Fight to your heart's content.
+
+@51.1
+I see. I shall sleep. Stay as you are for a while.
+
+@51.2
+Yes...
+
+@52.0
+(I may die...)
+
+@52.1
+(Seek to live and you die; seek to die and you live. Perhaps that is how it is.)
+
+@52.2
+(I cannot drag Nohime down with me. I will trade this life for Yoshimoto's head. There is life in the midst of death!)
+
+@53.0
+Report! The Imagawa host has fallen on the forts of Marune and Washizu.
+
+@53.1
+So they have come!
+
+@54.0
+Bring me a tsuzumi drum!
+
+@55.0
+Man's life is fifty years...
+
+@56.0
+Compared with the realm below the heavens...
+
+@57.0
+It is but a dream, an illusion.
+
+@58.0
+Is there anyone who, once born,
+
+@59.0
+shall never perish?
+
+@60.0
+Bring my horse! To battle!!
+
+@61
+Kiyosu - Audience Hall
+
+@62.0
+Lord Nobunaga has ridden out!
+
+@63.0
+Wh-What! Do not fall behind! Men, follow him!
+
+@64
+Imagawa Main Camp
+
+@65.0
+Reports from the vanguard, Matsudaira Motoyasu and Asahina Yasuyoshi: the forts of Marune and Washizu have been taken.
+
+@65.1
+Ho ho ho. How trifling. Are Oda forts no more than that?
+
+@65.2
+The Oda are not worth mentioning. Wherever your banner goes, even demons and gods will make way.
+
+@65.3
+Villagers from nearby request an audience. They wish to present something to you, my lord.
+
+@65.4
+As their new lord, I suppose I must receive them. Ho ho ho.
+
+@66.0
+It is an honour to be granted an audience.
+
+@66.1
+We have prepared sake and fish to celebrate Lord Imagawa's first victory. Please accept them.
+
+@66.2
+Ho ho ho. There is no need for that. Your lands are secure, so do not worry.
+
+@66.3
+You may withdraw.
+
+@67.0
+Such fine sake and fish. I think I shall hold a small victory banquet, but...
+
+@68.0
+Is there a suitable place nearby?
+
+@68.1
+In that case, there is a hollow nearby called Okehazama.
+
+@68.2
+Good. Pitch camp there.
+
+@69
+Atsuta Shrine
+
+@70.0
+Just now, when we prayed for victory, I heard the sound of arms from deep within the shrine. Our prayer has been heard.
+
+@70.1
+Entrust your lives to me, Nobunaga.
+
+@71
+Nobunaga had ridden out with only six horsemen, but by now three thousand soldiers followed him.\n\nYet Nobunaga hesitated to give the order. He did not know where Imagawa Yoshimoto was.
+
+@72.0
+(I can only wager that I will learn where Yoshimoto is while on the march.)
+
+@73
+Then came the fateful report that would lift Nobunaga to mastery of the Sengoku age.
+
+@74.0
+Report! The enemy commander, Imagawa Yoshimoto, has pitched camp at Okehazama and is resting!
+
+@75
+Resigned to death, yet striving with all his might, Nobunaga's tenacity brought a single ray of hope into a battle that could not be won.
+
+@76.0
+(We can win this battle!)
+
+@77.0
+Fortune is with me!
+
+@77.1
+Advance! To Okehazama! Yoshimoto's head is all we seek!
+
+@78
+Kiyosu Castle - Commanders' Hall
+
+@79.0
+Nohime. Lend me your lap.
+
+@80.0
+Do you think you can win?
+
+@80.1
+And if I said I could not? Would you run?
+
+@80.2
+I have nowhere to flee back to.
+
+@80.3
+Besides, now that I am your wife, I have no intention of leaving your side.
+
+@81.0
+...I am prepared for the worst. Fight to your heart's content.
+
+@81.1
+I see. I shall sleep. Stay as you are for a while.
+
+@81.2
+Yes...
+
+@82.0
+(I may die...)
+
+@82.1
+(Seek to live and you die; seek to die and you live. Perhaps that is how it is.)
+
+@82.2
+(I cannot drag Nohime down with me. I will trade this life for Yoshimoto's head. There is life in the midst of death!)
+
+@83.0
+Report! The Imagawa host has fallen on the forts of Marune and Washizu.
+
+@83.1
+So they have come!
+
+@84.0
+Bring me a tsuzumi drum!
+
+@85.0
+Man's life is fifty years...
+
+@86.0
+Compared with the realm below the heavens...
+
+@87.0
+It is but a dream, an illusion.
+
+@88.0
+Is there anyone who, once born,
+
+@89.0
+shall never perish?
+
+@108.0
+I, Katsuie, will fight like a demon god.
+
+@109.0
+Holding a castle is a losing course. Please reconsider...
+
+@110
+Skip the battle and go to Chapter 7?
+
+@111.0
+A merchant says healing barley is somewhat more effective than beans. Please do buy some.
+
+@112.0
+A merchant came to sell new wares, but things being as they are, it may be pointless...
+
+@113.0
+The enemy host is large. What will you do?
+
+@114.0
+To fall in defeat is a blossom too.
+
+@115.0
+With rain cover, muskets can be used even in rainy weather.
+
+@116.0
+I have made up my mind.
+
+@117.0
+Taking a castle clumsily will only provoke the enemy.
+
+@118.0
+We must die once anyway.
+
+@119.0
+I will cut into the enemy lines myself.
+
+@120.0
+If a separate force were to strike Yoshimoto...
+
+@121.0
+I will fight like a man possessed.
+
+@122.0
+I am resolved to die with the castle as my pillow.
+
+@123.0
+Even if we sally out, we have no chance of winning...
+
+@124.0
+If we lure the enemy out one unit at a time, we may find an opening...
+
+@125.0
+Yoshimoto's head, whatever it takes.
+
+@126.0
+With bows and muskets, you can attack enemies outside from within the castle.
+
+@127.0
+I will follow you to the end, my lord.
+
+@128.0
+There is no hope of winning by holding the castle...
+

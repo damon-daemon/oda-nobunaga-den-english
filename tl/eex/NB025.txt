@@ -1,0 +1,231 @@
+@0
+"The Eastern Campaign"
+
+@1
+The war between Motochika, who aimed to unify Shikoku, and Nobunaga, who aimed to unify the whole country, was over.\n\nDefeated, Motochika made peace with Nobunaga and submitted to him.
+
+@2
+"The Lid on Shikoku"
+
+@3
+"The Eastern Campaign"
+
+@4
+"The Eastern Campaign"
+
+@5
+"The Eastern Campaign"
+
+@6
+Chosokabe Clan - Oko Castle, Tosa
+
+@7.0
+So you are Motochika.
+
+@7.2
+You fought well against my army.
+
+@7.3
+I am honoured by your praise.
+
+@7.4
+I shall confirm you in possession of this Tosa.
+
+@7.5
+Yes, my lord. I am most grateful.
+
+@8.0
+I will place my third son Nobutaka in Awa and entrust Shikoku's governance to him.
+
+@8.1
+The Mori of Chugoku have also ceded two provinces and come to submit. No one in the western provinces defies us now.
+
+@8.2
+Yes.\n\n\nWith no enemy left in the west, what remains is the east.\n\nUesugi Kagekatsu and Hojo Ujimasa...
+
+@9.1
+Oh! Well done, Monkey!\n\nThere is no longer any enemy in the west.\n\n\nNow we return to Kyoto in triumph. Next, the Eastern Campaign.
+
+@10
+Near Uozu Castle, Etchu
+
+@11
+News of the surrender of the Mori and the Chosokabe reached Uesugi Kagekatsu in Echigo as well.\n\nIf the war dragged on any longer, Nobunaga would throw his entire army into the conquest of Echigo. Thinking so, Kagekatsu sent an envoy to Shibata Katsuie, stationed in Etchu, and offered peace on condition of ceding territory. Like the Mori and the Chosokabe, the Uesugi too surrendered to the Oda.
+
+@12
+Hojo Clan - Odawara Castle
+
+@13
+Odawara Castle - Council Hall
+
+@14.0
+Nobunaga has sent an envoy.
+
+@14.1
+And what does Nobunaga say?
+
+@14.2
+That if we surrender, he will confirm us in possession of the single province of Sagami...
+
+@14.3
+Damn! That Nobunaga!
+
+@14.4
+And what does my lord intend to do?
+
+@14.6
+Father, a man like Nobunaga is nothing to fear. Let us gather the troops of Sagami and Musashi and force a decisive battle!
+
+@14.8
+Wait, I say! Nobunaga has brought the Chosokabe, the Mori and the Uesugi to their knees. If we defy him now, he will lead his whole army and swarm into this Kanto. Do we truly have any hope of winning?
+
+@14.9
+Hmm.
+
+@14.10
+Lord Ujikuni. You say such things because you have grown old and timid.
+
+@14.11
+Damn!
+
+@14.12
+Even if Nobunaga comes with a great army, we have many branch castles and this impregnable castle.
+
+@14.13
+My lord, I share Ujinao's opinion. Could you bear being confined to the single province of Sagami and standing beneath Nobunaga?
+
+@14.14
+...\n\n\nVery well. Everyone, I have decided! We will fight Nobunaga with the whole strength of the Kanto! Ujiteru!
+
+@14.16
+Enter Hachioji Castle and stop the Oda army from invading along the Kai road!
+
+@14.17
+As you command!
+
+@14.18
+Ujikuni!
+
+@14.20
+You will enter Hachigata Castle and hold the northern defences!
+
+@14.22
+Ujinori!
+
+@14.24
+Nobunaga will surely order Ieyasu to advance on the Kanto too. Return quickly to Nirayama Castle and reinforce it!
+
+@14.25
+As you command!
+
+@15
+Having completed the pacification of Shikoku, Nobunaga returned to Kyoto in triumph.
+
+@17.0
+What reply has come from the Hojo?
+
+@17.1
+Still none.
+
+@17.2
+My lord, there are signs of unrest among the Hojo. According to the shinobi sent into Sagami, the Hojo are gathering troops and provisions in their castles of Sagami, Izu and Musashi.
+
+@17.3
+Hmm, Ujimasa. He means to fight me to the end.\n\nVery well, we march into the Kanto and subdue the Hojo!\n\nNagahide!
+
+@17.5
+Send a messenger to Katsuie in Hokuriku! Tell him to enter Hojo territory from Shinano and take every Hojo branch castle.
+
+@17.7
+The Kanto will not be taken easily.\n\n\nI will ask Lord Tokugawa for reinforcements and have him attack the Hojo from Suruga.\n\nWe shall advance east along the Shinano road and attack the Kanto from Kai.
+
+@18
+Suruga - Tokugawa Ieyasu's Camp
+
+@19
+At Nobunaga's request, Tokugawa Ieyasu also began his advance east along the Tokaido.
+
+@20.0
+Our army will now advance on Odawara!
+
+@20.1
+My lord, at Nirayama Castle, on the way to Odawara, Hojo Ujinori lies in wait.
+
+@20.2
+Yes. First, we take Nirayama!
+
+@21
+Etchu - Uozu Castle
+
+@22.0
+By my lord's order, we now invade Kozuke by way of Shinano! Our target is the enemy's Hachigata Castle!
+
+@23
+Shibata Katsuie and the other Hokuriku commanders, who had been campaigning in Etchu, also marched out toward Shinano and Kozuke to subdue the Hojo.
+
+@24
+Nobunaga's army, setting out from Kyoto, advanced along the Shinano road and entered the province of Kai, formerly the domain of the Takeda.
+
+@25
+Kai - Oda Nobunaga's Camp
+
+@26.0
+Hidetaka, Nagayoshi, you have guarded the lands of Kai and Shinano well.
+
+@26.2
+I am honoured by your praise.
+
+@26.3
+Kazumasu, your fighting against the Hojo in Kozuke was truly a great service.
+
+@26.4
+Yes, my lord!\n\n\nTo think I would see your face again like this...\n\nFor me, Kazumasu, there is no greater happiness.
+
+@26.5
+At last the time has come for your efforts to bear fruit.\n\nNow we attack the Hojo of Sagami.\n\n\nIf we defeat the Hojo, we shall achieve our long-cherished unification of the realm!
+
+@28.0
+The Hojo are shut up in Odawara Castle, holding the three castles of Nirayama, Hachigata and Hachioji. Nirayama is close to Odawara, and I fear Lord Tokugawa alone will find it hard to take. Let us send support too.
+
+@29.0
+This is the final battle. Use our war funds wisely.
+
+@30.0
+To attack Odawara Castle, we must take at least one of Nirayama, Hachigata or Hachioji...
+
+@31.0
+If we take the three castles of Nirayama, Hachigata and Hachioji, the enemy's morale will fall.
+
+@32.0
+A long campaign is certain. Be sure to carry plenty of medicine and the like.
+
+@33.0
+I think it best to attack from a distance with muskets and cannon.
+
+@34.0
+Lord Shibata's army is small. Should we not send reinforcements?
+
+@35.0
+Why not lure the enemy out and strike Odawara Castle in one sudden assault?
+
+@36.0
+Father, order me to lead the vanguard.
+
+@37.0
+My lord, beware of Fuma Kotaro.
+
+@38.0
+Leave fire attacks and healing to me.
+
+@39.0
+I will fight with all my strength!
+
+@40.0
+Ninja are hard to hit. Counter them with special skills.
+
+@41.0
+Skills like Rampage and Barrage catch our own allies as well. You must take care when using them.
+
+@42.0
+If we take the enemy's branch castles, their reinforcements will no longer be able to sortie.
+

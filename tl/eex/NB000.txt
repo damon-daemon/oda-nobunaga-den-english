@@ -1,0 +1,207 @@
+@0
+"The Young Lord's First Battle"
+
+@1
+"The Young Lord's First Battle"
+
+@2
+Owari Province
+
+@3
+Owari Province - Nagoya Castle
+
+@4.0
+My lord!
+
+@5.0
+My lord, where are you?
+
+@6.0
+What is it, Masahide?
+
+@7.0
+Sire.
+
+@8.0
+Forgive me, but...\nThe young lord pays not the slightest heed to anything I tell him.
+
+@9.0
+...Masahide.\nYou are his guardian. What good does whining do?
+
+@9.1
+He is my son.\nDo not worry. He will surely grow into a fine warrior.
+
+@10
+In those days, the power of the Shiba, the shugo (military governors) of Owari, had waned, and the province had fallen under the rule of the Oda, their deputy governors.\n\nThere were the Iwakura Oda, who ruled the four upper districts of northern Owari, and the Kiyosu Oda, who ruled the four lower districts of the south.\n\n\nThe Kiyosu Oda house had three magistrates known as the "Three Magistrates of Kiyosu." One of them was Nobunaga's father, Oda Nobuhide.\n\nThrough his valour and cunning, Nobuhide gradually rose to prominence, until his power surpassed even that of his masters, the Kiyosu Oda. Nobuhide had all but taken control of Owari, but now he faced two great warlords: Imagawa Yoshimoto of Suruga to the east, and Saito Dosan of Mino to the north.
+
+@11
+Owari Province
+
+@12
+There was an age when no one could escape the closeness of death. It was the Sengoku era, the age of warring states.\n\nThe people trembled at war after war and grew weary. They came to long for one who could end the age of strife, a ruler of great strength.\nThe 16th year of Tenbun (1547)...\nHere in Owari Province lived one who burned with the ambition to unify the realm.\n\n...Oda Nobunaga.\nThe man later called both hero and tyrant.\n\n\nFourteen years since he was born in this land, and no one yet saw the beginnings of his conquest. People called him "the Fool."
+
+@13.0
+The Fool is passing through. Will Owari be all right, I wonder?
+
+@13.1
+Is he really Lord Nobuhide's son?
+
+@14.0
+If that dolt takes over after him, Owari is finished.
+
+@14.1
+And his brother Lord Nobuyuki is such a fine young man.
+
+@15
+It is recorded in the "Shincho Koki" that he wore a yukata with the sleeves torn off and half-length hakama, a flint pouch at his waist and gourds hanging from it, his hair tied up like a tea whisk, and a vermilion sword at his side.
+
+@16
+Owari Province - Suemori Castle
+
+@17.0
+Oh! Brother.
+
+@18.0
+...
+
+@18.1
+Father has been waiting for you for some time.
+
+@18.2
+I know.
+
+@19.0
+Nobunaga! What a sight you are! You are the heir of the Oda clan!
+
+@20.0
+Hmph.
+
+@21.0
+It seems Lord Nobuhide will choose Nobunaga as his successor after all...
+
+@21.1
+...
+
+@21.2
+How many times have I wished you were the eldest son!
+
+@21.3
+Do not worry, Mother. I will get along well with Brother.
+
+@22.0
+Poor Nobuyuki... Why would Lord Nobuhide let such a fool inherit the house? Why...
+
+@23.0
+Mother...
+
+@24
+Owari Province - Suemori Castle - Living Quarters
+
+@25.0
+Brother, the rumours about Nobunaga must have reached your ears.
+
+@25.1
+Hmm...
+
+@25.2
+As heir to the Oda clan, he is rather lacking in ability.
+
+@25.3
+...
+
+@25.4
+No, I think there is something to him. His eyes... He may yet do something extraordinary.
+
+@25.5
+I think I will put Nobunaga to the test.
+
+@26.0
+Masahide, take Nobunaga and attack Mikawa.
+
+@27.0
+Yes, my lord.
+
+@28.0
+Father, you called?
+
+@28.1
+You came. It is about time you fought your first battle.
+
+@28.2
+Father, then...
+
+@29.0
+Yes. Attack Ohama in Mikawa. Well, will you do it?
+
+@29.1
+Leave it to me.
+
+@30.0
+(The young lord, going to his first battle! All my toil in raising him was worth it. Sob...)
+
+@31.0
+And take the attendants who run wild with you.
+
+@32.0
+Young lord, I will accompany you!
+
+@32.1
+Ah, Inuchiyo.
+
+@32.2
+Take me with you as well.
+
+@32.3
+Please take me too.
+
+@32.4
+I am counting on you all.
+
+@33
+Select the person you wish to speak to with the cursor.
+
+@34.0
+Win your first battle with distinction.
+
+@35.0
+You will help me too, Gonroku?
+
+@36.0
+I must look after Lord Nobuyuki...
+
+@37.0
+Spear attacks are effective against swordsmen.
+
+@38.0
+Bring plenty of healing beans.
+
+@39.0
+Sword attacks are effective against archers.
+
+@40.0
+Leave the healing to me, Nagahide.
+
+@41.0
+Young lord, a musket cannot attack on the turn after it fires.
+
+@42.0
+If you attack from outside the enemy's attack range, you will take no counterattack.
+
+@43.0
+Young lord, you can check equipment by calling a merchant or the storekeeper.
+
+@44.0
+Bow attacks are effective against spearmen.
+
+@45.0
+Nobunaga, do you need my strength?
+
+@45.1
+Uncle, there is no need to worry.
+
+@46.0
+Sally forth!
+
+@47.0
+Young lord, please wait.
+

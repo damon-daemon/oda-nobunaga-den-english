@@ -1,0 +1,159 @@
+@0.0
+Heh heh heh, that Nobunaga has walked right into it.
+
+@0.1
+Good, attack the village. Make him see how powerless he is!
+
+@1
+Lake Biwa Pirates\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. A village is attacked.\n  2. The Oda army is wiped out.\n  3. The Oda main camp is taken.\n  4. More than 40 turns pass.
+
+@2
+Lake Biwa Pirates\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. A village is attacked.\n  2. The Oda army is wiped out.\n  3. The Oda main camp is taken.\n  4. More than 40 turns pass.
+
+@3.0
+Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+
+@3.1
+Oh, what a disaster. The village...
+
+@3.2
+Lord Nobunaga did not even have the strength to protect us...
+
+@5
+Lost a village to Lake Biwa pirates
+
+@6.0
+Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+
+@6.1
+Oh, what a disaster. The village...
+
+@6.2
+Lord Nobunaga did not even have the strength to protect us...
+
+@8
+Lost a village to Lake Biwa pirates
+
+@9.0
+Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+
+@9.1
+Oh, what a disaster. The village...
+
+@9.2
+Lord Nobunaga did not even have the strength to protect us...
+
+@11
+Lost a village to Lake Biwa pirates
+
+@12.0
+Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+
+@12.1
+Oh, what a disaster. The village...
+
+@12.2
+Lord Nobunaga did not even have the strength to protect us...
+
+@14
+Lost a village to Lake Biwa pirates
+
+@15.0
+Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+
+@15.1
+Oh, what a disaster. The village...
+
+@15.2
+Lord Nobunaga did not even have the strength to protect us...
+
+@17
+Lost a village to Lake Biwa pirates
+
+@18.0
+Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+
+@18.1
+Oh, what a disaster. The village...
+
+@18.2
+Lord Nobunaga did not even have the strength to protect us...
+
+@20
+Lost a village to Lake Biwa pirates
+
+@21.0
+Everyone, it is Lord Nobunaga's army. Peace will come at last.
+
+@21.1
+We all worked together to make this. Please accept it.
+
+@22.0
+Thank you for coming. We have all waited so long for this day.
+
+@22.1
+Truly, we are grateful...
+
+@22.2
+Please use this bow, handed down in our village for generations.
+
+@23.0
+Ah, now we are saved. Everyone in the village is cheering you on.
+
+@23.1
+Sir samurai, please accept this.
+
+@25.0
+Oh, samurai sir. You have come.
+
+@25.1
+Those lake pirates have made us weep for so long. Please help us.
+
+@25.2
+Yes, please use this. It was my brother's keepsake.
+
+@26.0
+Sir, please accept this.
+
+@26.1
+We heard you were coming to destroy the lake pirates, so we all pooled our money.
+
+@28.0
+Sir, those pirates fear nothing. Be careful.
+
+@28.1
+It is all we can do, but please put it to some use.
+
+@29.0
+Ugh, Boss, this isn't what you told us...
+
+@30.0
+Gah! I never thought they would be this strong...
+
+@31.0
+Heh, protecting the village is all very well, but your camp is wide open.
+
+@31.1
+Damn, I have been careless.
+
+@33
+Defeated by Lake Biwa pirates
+
+@34.0
+Do mere lake pirates think they can match us?!
+
+@35
+Oda Nobunaga protected the village from the lake pirates.
+
+@36
+Gained 10000 gold
+
+@38
+Lake Biwa pirates wiped out
+
+@39
+Oda Nobunaga was defeated by the lake pirates.
+
+@40
+Defeated by Lake Biwa pirates
+

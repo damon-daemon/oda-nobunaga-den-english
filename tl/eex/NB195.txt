@@ -1,0 +1,75 @@
+@0.0
+Damn, I never thought they'd come to hunt us down.
+
+@0.1
+What do we do, Boss?
+
+@0.2
+Right, we hold them up and seize their main camp!
+
+@0.3
+Meanwhile, we quietly make off with all their valuables.
+
+@0.4
+Brilliant plan, Boss.
+
+@0.5
+Boys, charge!
+
+@1
+The Bandit Village\nVictory: 1. Wipe out the enemy.\nDefeat: 1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+The Bandit Village\n\nVictory: 1. Wipe out the enemy.\n\nDefeat: 1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3.0
+Good, we have taken their village.
+
+@4.0
+Good, we have taken their village.
+
+@5.0
+Good, we have taken their village.
+
+@6.0
+Ugh, I don't want to die...
+
+@7.0
+Urgh... How strong they are...
+
+@8.0
+B-Boss...
+
+@9.0
+Gah! I underestimated them...
+
+@10.0
+Boss!\n\nB-Boss has...
+
+@11.0
+Boss! We did it!
+
+@12.0
+Boss, we've avenged you!
+
+@13.0
+What?! Beaten by mere bandits, I, Nobunaga?!
+
+@15
+Defeated by the Arashiyama bandits
+
+@16.0
+Bandits will be bandits, after all.
+
+@17
+Oda Nobunaga gloriously wiped out the bandit band.
+
+@19
+Arashiyama bandits wiped out
+
+@20
+Oda Nobunaga was defeated by the bandit band.
+
+@21
+Defeated by the Arashiyama bandits
+

@@ -1,0 +1,48 @@
+@0.0
+I see, so that is the band in question.
+
+@0.1
+It seems best to crush them early after all.
+
+@1
+One Province, One Castle\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+One Province, One Castle\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3.0
+There seems to be no one here.\nHm, that horse!
+
+@4.0
+There seems to be no one here.\nHm, what is this!
+
+@5.0
+Good, we have taken their main camp!
+
+@5.1
+Damn, this is no way to fight a battle. Retreat!
+
+@7
+Defeated in the fight with the independent soldiers
+
+@8.0
+I was no match for him after all...
+
+@9.0
+What strength...
+
+@10.0
+As long as men like that exist, my wars will never end...
+
+@11
+Oda Nobunaga wiped out the independent soldiers.
+
+@12
+Win the fight with the independent soldiers
+
+@14
+Oda Nobunaga was defeated by the independent soldiers.
+
+@15
+Defeated in the fight with the independent soldiers
+

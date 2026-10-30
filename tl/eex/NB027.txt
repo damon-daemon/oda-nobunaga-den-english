@@ -1,0 +1,45 @@
+@0
+"Securing the Home Provinces"
+
+@2
+"Securing the Home Provinces"
+
+@3
+"Securing the Home Provinces"
+
+@4
+"Securing the Home Provinces"
+
+@6
+Kyoto - Audience Hall
+
+@7.0
+My lord, may I have a moment?
+
+@7.1
+Very well. Come in.
+
+@8.0
+My lord, I hear a band of bandits on Mt. Arashiyama is ravaging the people around Kyoto.
+
+@8.1
+Perhaps you should wipe them out and restore order to the capital.
+
+@10.0
+Mitsuhide, do you think I would tolerate such lawless scum? I will cut down every last one of them.
+
+@11.0
+Remember this: I, Nobunaga, will never forgive evil.
+
+@15.0
+As you have all heard, I have decided to destroy the bandits who terrorise the people of the capital.
+
+@15.2
+Hmph. Even a monkey's wit grasps that much. Hurry and prepare to march.
+
+@16.0
+We will hunt down the Miyoshi remnants and pacify the home provinces.
+
+@16.1
+(If I destroy the Miyoshi clan, no one in the home provinces will dare defy me.)
+

@@ -1,0 +1,234 @@
+@0
+"Sorrowful Wind over the Nagara"
+
+@1
+"Masahide's Final Remonstrance"
+
+@2
+In the 4th month of the 1st year of Koji (1555), Nobunaga seized Kiyosu Castle with his uncle Nobumitsu and moved his seat there from Nagoya. He was twenty-two.
+
+@3
+"Sorrowful Wind over the Nagara"
+
+@4
+"Sorrowful Wind over the Nagara"
+
+@5
+"Sorrowful Wind over the Nagara"
+
+@8.0
+My lord, Lord Nobumitsu of Nagoya Castle has been killed by his own retainers!
+
+@8.1
+I see.
+
+@8.2
+My lord, your uncle is dead!
+
+@8.3
+I owe my uncle a debt, but I have no use for the dead.
+
+@9.0
+Hidesada.
+
+@11.0
+I give you Nagoya Castle. Guard it well.
+
+@11.1
+Yes, my lord. I am most grateful.
+
+@11.2
+(Surely it was not his lordship who...)
+
+@16
+Sagiyama Castle
+
+@17.0
+My lord!! A grave matter!
+
+@17.1
+What is it? Such a racket.
+
+@17.2
+Lord Yoshitatsu has rebelled! Lord Magoshiro and Lord Kiheiji have already been slain...
+
+@17.3
+The enemy is closing in. Please hurry!!
+
+@18.0
+What!? W-what?
+
+@18.1
+Ha ha ha, that Yoshitatsu has done well for himself.
+
+@19.0
+Gather the chief men in the council chamber.
+
+@20
+Sagiyama Castle - Council Chamber
+
+@21.0
+Listen, all of you. Yoshitatsu has rebelled.
+
+@21.1
+No, it is not a rebellion. I had already handed the headship to that fool. Wa ha ha ha.
+
+@22.0
+Those who wish to side with Yoshitatsu, leave now.
+
+@23.0
+We are all resolved to share life and death with you, my lord.
+
+@23.1
+Understood. I, Dosan the lay priest, accept all your lives.\n(Heh. They all have fine eyes.)
+
+@24.0
+Akechi Mitsuyasu and Hotta Doku, remain here. The rest, hurry and gather troops.
+
+@26.0
+Mitsuyasu, let your nephew Mitsuhide escape to Kyoto.
+
+@26.1
+I want him to broaden his experience in Kyoto and one day become a general who commands great armies.
+
+@26.2
+Yes, I will convey your words to Mitsuhide without fail.
+
+@26.3
+Good. I rely on you.
+
+@27.0
+Doku, deliver this letter to my son-in-law in Owari.
+
+@27.1
+What is this?
+
+@27.2
+A deed of transfer for Mino. I give Mino to my son-in-law.
+
+@27.3
+And take my children to Myokakuji in Kyoto.
+
+@27.4
+They do not have the makings of generals. Living as monks will suit them better.
+
+@27.5
+Myokakuji is the temple I ran away from.\n\n\nI was a fallen monk, but I gave it generous donations, so they should treat them decently. Wa ha ha ha ha.
+
+@28.0
+How pitiful. My lord.
+
+@28.1
+Do not weep. It is not yet decided that I will die.
+
+@28.2
+Saito Dosan does not die so easily. Not so easily...!
+
+@30.0
+Report.
+
+@30.1
+What is it?
+
+@30.2
+A man claiming to be an envoy from Saito Dosan requests an audience.
+
+@30.3
+Show him in.
+
+@32.0
+I have come as an envoy from Lord Dosan. Please take this.
+
+@33.0
+Th-this is!?
+
+@34.0
+Someone! Bring my armour!
+
+@35.0
+My lord, what is the matter?
+
+@36.0
+Where is my helmet!
+
+@37.0
+What on earth has happened?
+
+@38.0
+Oh...
+
+@39.0
+Bring my horse!
+
+@41.0
+Saito Yoshitatsu has rebelled.
+
+@41.1
+W-what!
+
+@42.0
+I march now to help the Viper. Make ready.
+
+@43.0
+My lord, I will accompany you!
+
+@43.1
+Ah, Yoshinari! I expect great deeds of you.
+
+@44.0
+Hmph. An uprising... They think little of me.
+
+@45.0
+I will crush it at once and show the people of this province my authority.
+
+@47.0
+With spirit, stamina recovers naturally.
+
+@48.0
+My lord, food to restore endurance and sake to restore skill points are essential on the battlefield.
+
+@49.0
+Defeating the ronin guide may yield weapons and armour.
+
+@50.0
+Even if we are outnumbered, there is a chance of victory.
+
+@51
+Skip the battle (debug) and go to Chapter 4?
+
+@52.0
+Let us help your father-in-law.
+
+@53.0
+Heh heh, this will be good experience.
+
+@54.0
+Attacking recklessly is not all there is to war.
+
+@55.0
+They say defeating the enemy early yields fine weapons.
+
+@56.0
+Special techniques draw no counterattack. Use them at the decisive moment.
+
+@57.0
+Let us scatter these rebels.
+
+@58.0
+One cannot lead troops without knowing the art of war.
+
+@59.0
+Hurry!
+
+@60.0
+We will not lose to rebels!
+
+@61.0
+I will win glory.
+
+@62.0
+You are going to help Lord Dosan. The Battle of the Nagara River.
+
+@62.1
+Yes. Follow me.
+

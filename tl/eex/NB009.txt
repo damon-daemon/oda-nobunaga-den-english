@@ -1,0 +1,108 @@
+@0
+"The Overlord Marches on Kyoto"
+
+@1
+Kyoto - Council Hall
+
+@2.0
+I hear the bandit band of Arashiyama is committing outrages against the people around Kyoto.
+
+@2.1
+Why not wipe out the bandits and restore order in Kyoto?
+
+@3
+Wipe out the bandits\nLeave the bandits
+
+@4.0
+Nobunaga will not forgive such lawless rabble. I will destroy every last one.
+
+@5.0
+Remember this: I, Nobunaga, never forgive evil.
+
+@6.0
+You have all heard by now. We will wipe out the bandit band that harms the people of the capital.
+
+@6.1
+You mean to restore order in the capital and win the hearts of the people.
+
+@7.0
+Hmph. Even monkey wit can grasp that much, it seems.
+
+@9.0
+With the Miyoshi faction liable to strike at any moment, I cannot bother with bandits.
+
+@10.0
+From here we hunt down the Miyoshi remnants and pacify the Kinai.
+
+@10.1
+(If the Miyoshi clan is destroyed, the present shogun Yoshihide loses his backing.)
+
+@10.2
+(Then the Court will have no choice but to appoint Lord Yoshiaki as shogun.)
+
+@10.3
+Hachiya, I give you the vanguard.
+
+@12.0
+I am most grateful for such a weighty charge.
+
+@15.0
+With bandits appearing, Kyoto has become a hard city to live in.
+
+@16.0
+Watch well and see my martial valour.
+
+@17.0
+Wiping out bandits? My arm itches for it.
+
+@18.0
+We cannot leave them be.
+
+@19.0
+This disorder tells the tale of the Miyoshi faction's misrule.
+
+@20.0
+I will not fall behind you, my lord.
+
+@21.0
+I hear there are several bandit villages. We will have to seize them all.
+
+@22.0
+Fighting at my age is rather hard.
+
+@23.0
+The bandits' lairs are ringed by mountains, which puts the attacker at a disadvantage.
+
+@24.0
+I shall show you the skill that won me the name Demon Goroza.
+
+@25.0
+You mean to restore order in the capital and win the hearts of the people.
+
+@26.0
+My lord, war is information. Do ask the villagers.
+
+@27.0
+The Arashiyama bandits are armed, so do not let your guard down.
+
+@28.0
+Miyoshi Masayasu, one of the Miyoshi Triumvirate, is a fierce general famed for his valour. Take care.
+
+@29.0
+I would rather stay and guard the castle.
+
+@30.0
+As for the Miyoshi Triumvirate, they may well use some underhand tricks...
+
+@31.0
+Hmm, I have little appetite for fighting bandits in the mountains.
+
+@32.0
+I will win merit in arms.
+
+@33.0
+Do not be careless.
+
+@34.0
+I am most grateful for such a weighty charge.
+

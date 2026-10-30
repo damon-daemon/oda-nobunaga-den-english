@@ -1,0 +1,222 @@
+@0
+"Bishamonten"
+
+@2
+The 4th year of Tensho (1576)\nThe Mori, who had taken in Ashikaga Yoshiaki, backed Honganji and declared themselves enemies of Nobunaga. Facing the numerically superior Oda army, the Mori strategist Kobayakawa Takakage began to scheme a second Nobunaga Encirclement.
+
+@3
+"Bishamonten"
+
+@4
+"Bishamonten"
+
+@5
+"Bishamonten"
+
+@6
+Echigo - Kasugayama Castle
+
+@7
+Kasugayama Castle - Council Hall
+
+@8.0
+I am Ankokuji Ekei, a humble monk sent by Lord Mori Terumoto.
+
+@8.1
+Be at ease. State your business.
+
+@9.0
+We ask that you ally with the Mori and attack the Oda lands from the north.
+
+@9.1
+That I cannot do. My house is allied with the Oda.
+
+@9.2
+In Echizen, I hear, the common folk and peasants who joined the uprising were all put to the sword.
+
+@9.3
+If Nobunaga is not struck down now, the people of this land will one day share their fate.
+
+@9.4
+Here I have a secret letter from the shogun Yoshiaki, whom Nobunaga drove out of Kyoto.
+
+@9.5
+To strike down Nobunaga, who wrongs the shogun, is the path of loyalty.
+
+@9.6
+Hmm...!?
+
+@10.0
+Nobunaga burned Mt. Hiei, and now he means to tear down Honganji. He may truly be called an enemy of Buddhism.
+
+@11.0
+I hear that you, my lord, are troubled by the Ikko uprisings. The Mori are allied with Honganji.
+
+@11.1
+If you will strike the Oda from the other side, I shall go and settle matters with the Ikko forces of Kaga.
+
+@12.0
+Your words are just, Ekei. "I shall lend my sword in the name of righteousness." Tell Lord Mori so.
+
+@12.1
+However, I, Kenshin, cannot commit the injustice of betraying an ally.
+
+@13.0
+You there,
+
+@14.0
+Sir,
+
+@14.1
+Take word to Nobunaga: "Uesugi Kenshin shall mete out heaven's punishment in Bishamonten's stead!"
+
+@14.2
+Yes, at once.
+
+@15
+Omi - Azuchi
+
+@16.0
+Hey, what does this say?
+
+@16.1
+It says that in Azuchi, even people who don't belong to a guild may start trading freely.
+
+@16.2
+And any merchant travelling the Nakasendo must stop at this town.
+
+@16.3
+Oho, this could be a fine place for us merchants to earn a living.
+
+@17
+Azuchi - Nobunaga's Residence
+
+@18.0
+Lord Tokugawa Ieyasu has arrived.
+
+@19.0
+It has been a long time.
+
+@19.1
+Good of you to come. Well, Ieyasu, Azuchi is lively, is it not?
+
+@19.2
+As in Gifu, I have made this a town of free markets and open guilds.
+
+@19.3
+More to the point, I want to introduce you to an interesting fellow.
+
+@20.0
+This is Matsunaga Danjo Hisahide. He has done three things that few men in this world could.
+
+@20.1
+First he killed his lord, then he killed the shogun Ashikaga Yoshiteru, and finally he burned down the Great Buddha Hall.
+
+@21.0
+Ha ha ha! Quite a character, this old man, is he not?
+
+@21.2
+Ha ha ha! A fearsome man indeed.
+
+@22.0
+(Lord Nobunaga has killed his own brother, driven out Ashikaga Yoshiaki, and burned Mt. Hiei.)
+
+@22.1
+(This old man resembles Lord Nobunaga. Does he see himself in Hisahide?)
+
+@23.1
+What is it?
+
+@23.2
+Uesugi Kenshin of Echigo has begun an invasion of Echizen.
+
+@23.3
+What!
+
+@24.0
+Kenshin...
+
+@24.2
+So Kenshin has finally moved.\n\nTell Katsuie to hold Echizen at all costs!
+
+@26
+The bad news reached Azuchi Castle a few days later.
+
+@28.0
+My lord. I hear that Mori Terumoto, Kennyo of the Honganji and Uesugi Kenshin have made a secret pact against the Oda.
+
+@28.1
+Yoshiaki, that sly wretch.
+
+@28.2
+No, the one to fear is the Mori strategist who used Yoshiaki to set the Uesugi moving.
+
+@28.3
+The Mori lack ambition. They will likely never attack us of their own accord.
+
+@28.4
+But that man is different. Mitsuhide, what do you make of Kenshin?
+
+@28.5
+Sir, I believe Lord Uesugi was on close terms with the 13th shogun, Yoshiteru. Therefore...
+
+@28.6
+Kumquat-head, spare me the lecture and give your conclusion.
+
+@29.0
+Yes, sir. I believe Lord Uesugi means to march on Kyoto and rebuild the Muromachi shogunate.
+
+@29.1
+Ha ha ha! Rebuilding the shogunate, how old-fashioned. Remember this, Mitsuhide: it is only natural that old things decay.
+
+@29.2
+If we leave government to what has decayed, the realm will perish. You think so too, do you not?
+
+@29.3
+Yes, sir, just as you say.
+
+@29.4
+Be that as it may, the Uesugi army is strong. I shall have to face them myself.
+
+@30.1
+Lord Shibata was defeated by the Uesugi at the Tedori River and has withdrawn his forces to Daishoji Castle in Kaga.
+
+@31.0
+What! Kenshin is swift.
+
+@32.0
+If the enemy is Kenshin, Katsuie is no match for him.
+
+@33.0
+We march! Make ready.
+
+@35.0
+Let us go to his relief at once!
+
+@36.0
+Kenshin is a formidable foe. You must prepare thoroughly.
+
+@37.0
+The Uesugi army's morale is high. If we meet them head-on, our losses will be severe.
+
+@38.0
+Lord Katsuie has few troops. He cannot hold out long. We must send reinforcements quickly!
+
+@39.0
+My lord, please hurry.
+
+@40.0
+To think Kenshin would attack...
+
+@41.0
+I suggest we send mobile troops to relieve Lord Katsuie.
+
+@42.0
+Kenshin is a man even Shingen feared. Going in unprepared means certain defeat. Might we lure the enemy in and use fire?
+
+@43.0
+Leave the rearguard to me.
+
+@44.0
+The time has come at last to settle it with Kenshin... Leave the vanguard to me.
+

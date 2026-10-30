@@ -1,0 +1,45 @@
+@0.4
+If Kiyosu sends reinforcements, they may strike our flank.
+
+@0.5
+I hear the Imagawa forces are acting suspiciously near the Mikawa border.
+
+@0.6
+We cannot let this battle drag on.
+
+@1
+Battle of Kayazu\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 15 turns pass.
+
+@2
+Battle of Kayazu\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 15 turns pass.
+
+@3.1
+That Nobunaga is a poor general. We will draw them in well, then take his castle with a detached force!
+
+@4.1
+Oh, Nobuyuki and Gonroku. We will beat Sakai. Follow me!
+
+@5.1
+Detached force, attack Nobunaga's castle!
+
+@21
+Gained 800 gold
+
+@22
+Oda Nobunaga was defeated by Sakai Daizen's army
+
+@25.0
+Continuing the fight any longer is to our disadvantage...
+
+@25.1
+Retreat!
+
+@25.2
+Ha ha ha ha ha! Nobunaga is a poor general after all!
+
+@26
+Nobunaga's army retreated to Nagoya Castle.
+
+@27
+Nobunaga retreated to Nagoya Castle at Kayazu
+

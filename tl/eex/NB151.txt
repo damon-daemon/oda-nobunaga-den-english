@@ -1,0 +1,84 @@
+@0.0
+So those are the Takeda cavalry, said to be the strongest of the Sengoku. Quite a sight.
+
+@0.1
+If possible, I would have preferred not to cross swords with the Takeda...
+
+@0.2
+My lord! Please be careful.
+
+@0.3
+The scouts report that a separate enemy detachment is circling round to our flank.
+
+@0.4
+I see. Understood.
+
+@0.5
+Vanguard! Charge the Oda forces!
+
+@0.6
+Show me your valour, and let Nobutomo see it well!
+
+@1
+Defence of Mino\nVictory: 1. Make Akiyama Nobutomo retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Defence of Mino\n\nVictory: 1. Make Akiyama Nobutomo retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3.0
+Grr, the insolent Oda forces!
+
+@3.1
+We have no choice. We begin the general assault now!
+
+@3.2
+Trample the Oda forces in one stroke!
+
+@4.0
+The detachment should be coming out on the Oda flank about now.
+
+@5
+An enemy detachment appeared!
+
+@6.0
+So they have come at last!
+
+@7.0
+The second unit follows the first, charge!
+
+@8.0
+Damn you! Nobunaga, face me!
+
+@8.1
+Nobutomo! I have no use for small fry like you!
+
+@8.2
+Bring me that mountain ape Shingen!
+
+@8.3
+Gh! Damn you!
+
+@8.4
+I shall take your head as a gift for our lord!
+
+@9
+Akiyama Nobutomo's attack power rose!
+
+@13.0
+Tell Shingen this! It is impossible for him to take Mino from Nobunaga!
+
+@14
+Oda Nobunaga defeated\nthe army of Akiyama Nobutomo.
+
+@16
+Akiyama Nobutomo's army defeated in Mino
+
+@17
+Oda Nobunaga was defeated by the army\nof Akiyama Nobutomo, a Takeda Shingen retainer.
+
+@18.0
+A blunder...
+
+@18.1
+R-Retreat! Fall back to Shinano!
+

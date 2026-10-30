@@ -1,0 +1,87 @@
+@0.0
+Nobuyuki, why do you bare your fangs at me?
+
+@0.1
+Did Gonroku put you up to it?
+
+@0.2
+No, Brother.
+
+@0.3
+I do this for Owari. You cannot govern the land.
+
+@0.4
+Quite so.
+
+@0.5
+Lord Nobunaga, hand the headship over to Lord Nobuyuki.
+
+@0.6
+Nonsense.
+
+@0.7
+This is no time for the family to fight itself.
+
+@0.8
+You who cannot see that are the one unfit to lead!
+
+@0.9
+B-Brother...!
+
+@1
+Battle of Inou\nVictory: 1. Make Oda Nobuyuki retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Battle of Inou\n\nVictory: 1. Make Oda Nobuyuki retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3.0
+Ah, I don't know which side to cheer for.
+
+@4.0
+We can only stand here and watch.
+
+@5.0
+Just when I thought peace had come at last, now the brothers fight each other...
+
+@6.0
+Unlike me, Nobuyuki is obedient. He must be easy to set up as a figurehead.
+
+@6.1
+Don't you think so, Gonroku?
+
+@7.0
+Nobuyuki, nothing can fill a hollow vessel.
+
+@7.1
+!!
+
+@7.2
+Do you call me hollow, Brother?!
+
+@7.3
+...I will not forgive this!
+
+@8.0
+What! Katsuie, beaten?!
+
+@9
+Kiyosu Castle was taken by the enemy
+
+@10.0
+Damn, the castle...
+
+@11
+Oda Nobunaga defeated Oda Nobuyuki's army.
+
+@13
+The villagers gave you Healing Beans, Healing Barley and Healing Rice.
+
+@14
+Defeated Oda Nobuyuki on the plain of Inou
+
+@15
+Oda Nobunaga was defeated by Oda Nobuyuki.
+
+@16.0
+Ugh... Fall back to Suemori Castle!
+

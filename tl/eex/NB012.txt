@@ -1,0 +1,375 @@
+@0
+"Hills of Corpses, Rivers of Blood"
+
+@1
+"Retreat from Echizen"
+
+@2
+The 4th month, 1st year of Genki (1570)\nNobunaga withdrew from Kanegasaki to Kyoto, barely escaping with his life.\nHe was 37.
+
+@3
+Faced with Nobunaga's fierce assault, Kitabatake Tomonori surrendered. He made peace with the Oda on the condition that Nobunaga's second son, Nobukatsu, be adopted into the Kitabatake as heir. Thus the Kitabatake, hereditary governors of Ise and a noble house since the Northern and Southern Courts, fell before Nobunaga.
+
+@4
+Takeda Shingen had taken Mino from Nobunaga, but Nobunaga defeated him in Omi and recovered Gifu Castle.\n\nHaving stopped Shingen's march on Kyoto and removed the threat at his back, Nobunaga resolved to attack the Azai and the Asakura.
+
+@5
+Nobunaga met his greatest and most powerful enemy, Takeda Shingen, in Mino and defeated him.\n\nWith the threat at his back removed, he resolved to attack the Azai and the Asakura.
+
+@9
+Between Omi and Ise - the Chigusa Pass
+
+@10
+Having reached Kyoto safely, Nobunaga at once decided to return to Gifu and attack the Azai.\n\nTo get from Kyoto to Gifu he had to pass through Azai territory, but he did not flinch and forced his way along roads that were no roads at all.
+
+@11.0
+My lord, men of the Azai and the Rokkaku are lurking in Omi.
+
+@11.1
+It would be best to take this back road through to Ise.
+
+@11.2
+Hm. I leave it to you.
+
+@12.0
+Ugh!
+
+@13.0
+My lord!
+
+@13.1
+Uh... ugh...
+
+@14.0
+A would-be assassin! After him, catch him!
+
+@15.0
+Leave him. No bullet, however vicious, can harm Nobunaga.
+
+@15.1
+I cannot afford to die yet.
+
+@17
+Mino - Gifu Castle - Council Hall
+
+@18.0
+Curse you, Nagamasa! You will not escape unpunished.
+
+@18.1
+Remember this, all of you. This is what comes of betraying me...
+
+@18.2
+I will destroy his whole clan, down to the last retainer.
+
+@19.0
+My lord, pirates are rampaging in the fishing villages of Ise. What shall we do?
+
+@19.1
+As a first step against the Azai and Asakura, let us make a bloody sacrifice of these pirates.
+
+@19.2
+It is a trifle before a great matter. Ignoring it would make little difference to the larger situation.
+
+@19.3
+What will you do, my lord?
+
+@19.4
+My lord, your decision.
+
+@20
+Deal with the pirates\nLeave the pirates
+
+@21.0
+Before I strike the traitor Azai, I must remove the threat at my back.
+
+@22.0
+Prepare to march out.
+
+@23.0
+This is no time to bother with pirates.
+
+@24.0
+We attack the Azai first. Speak if you have an opinion.
+
+@24.1
+My lord, I believe it best to take Odani Castle by direct assault.
+
+@24.2
+Leave the vanguard to me.\n(I must save Lady Oichi at any cost...!)
+
+@24.3
+My lord, the best plan is to burn the castle town and lure the enemy out.
+
+@24.4
+What do you say, my lord?
+
+@24.5
+Hmm.
+
+@25
+Adopt Katsuie's plan\nAdopt Tokichiro's plan
+
+@26.0
+I take Katsuie's counsel. We storm Odani Castle.
+
+@27.0
+I take the Monkey's counsel. The time is not yet ripe to storm Odani Castle.
+
+@27.1
+We will lure the enemy out and settle this in the field.
+
+@28.0
+Monkey, go and ask Lord Ieyasu for reinforcements, in case the Asakura come to the Azai's aid.
+
+@30.0
+Narimasa.
+
+@30.2
+Stay in this castle with Hachiya and guard against the enemy's attack!
+
+@30.3
+Yes, my lord!
+
+@31.0
+We march!
+
+@33.0
+He took Lady Oichi as his wife, and yet he betrays the Oda! Azai Nagamasa, I will not forgive you!
+
+@34.0
+Leave the vanguard against Odani Castle to me.\n\nI will rescue Lady Oichi, you shall see.
+
+@35.0
+Pirates are nothing. Let us scatter them with ease.
+
+@36.0
+If we can lure the enemy to the Anegawa, we can fight with the terrain on our side.
+
+@37.0
+Storming Odani Castle is dangerous.
+
+@38.0
+Fighting pirates at sea or in the shallows puts us at a disadvantage. It would be best to wait for them on land.
+
+@39.0
+If we bring it to a field battle, our greater numbers will give us the advantage.
+
+@40.0
+If we storm Odani Castle, our losses will be heavy.
+
+@41.0
+There is no need for Lord Nobunaga to go out in person against pirates.
+
+@42.0
+It is with mixed feelings that I think of crossing blades with the Asakura.
+
+@43.0
+I held the same view as Lord Kinoshita, but I will follow my lord's decision.
+
+@44.0
+With the decisive battle against the Azai and Asakura ahead, it is dangerous to spare troops for the pirates.
+
+@45.0
+When you wish to change our equipment, call the merchant or the storekeeper.
+
+@46.0
+A direct assault... It looks to be a hard fight...
+
+@47.0
+There is no harm in giving each man a brocade surcoat.
+
+@48.0
+Leave the rear guard to me.
+
+@49.0
+Hmm, brute force, is it...
+
+@50.0
+There are many villages in that area. We cannot save them all.
+
+@51.0
+Lord Kinoshita's idea is indeed sound.
+
+@52.0
+Let us show the Azai the difference in strength.
+
+@53.0
+With a Restorative, even confused units recover at once.
+
+@54.0
+With Lord Tokugawa joining us, we have the advantage.
+
+@55.0
+We must take care not to be caught in a pincer between the Azai and the Asakura.
+
+@56.0
+What are the effects of Seal-Break Brew and the Buddha Pill?
+
+@57.0
+The Asakura are nothing to fear. Let us pour our main force into the Azai.
+
+@58.0
+Asakura reinforcements are certain to come. A brute-force attack is dangerous.
+
+@59.0
+For the mobile cavalry, the Paralysis Cure is indispensable.
+
+@60.0
+Thank you for taking this Monkey's counsel.
+
+@61.0
+Though it is your own opinion, my lord, this Monkey is against a direct assault.
+
+@62.0
+My lord, please grant this Monkey a brocade surcoat.
+
+@63.0
+Please note that the brocade surcoat can only be used on the battlefield.
+
+@65
+On learning of Nobunaga's advance, Azai Nagamasa at once asked Asakura Yoshikage of Echizen for reinforcements.
+
+@67.0
+I hear a request for reinforcements has come from the Azai.
+
+@67.1
+We have been allied with the Azai for many years. Besides, we owe them thanks for Kanegasaki, so we must go.
+
+@67.2
+But we may need to guard against the Ikko followers in Kaga, and I am not eager.
+
+@67.3
+This is a matter for our house. If the Azai are destroyed, the Asakura will be next.
+
+@67.4
+Then, Kagetake. I will give you 10,000 men. Go to their aid.
+
+@67.5
+(How pitiful. And this is the head of the illustrious Asakura house?)
+
+@68
+With 10,000 reinforcements under Asakura Kagetake in support, Azai Nagamasa shut himself up in Odani Castle.
+
+@69
+Oda Army - Main Camp
+
+@70.0
+I will not rest until I have taken the traitor Azai Nagamasa's head with my own hands,
+
+@70.1
+so I ask you, Lord Ieyasu, to face the Asakura.
+
+@70.2
+Yes, leave it to me. I will scatter the Asakura and show you the strength of my Mikawa troops.
+
+@70.3
+Heh. Most reassuring.
+
+@71.0
+Charge Odani Castle.
+
+@72
+The 6th month, the 1st year of Genki (1570)\nThe Oda-Tokugawa allied army pressed an assault on Odani Castle.
+
+@76.3
+This is a matter for our house. If the Azai are destroyed, the Asakura will be next.
+
+@76.4
+Then, Kagetake. I will give you 10,000 men. Go to their aid.
+
+@77
+Gifu Castle - Living Quarters
+
+@78.0
+You are attacking the Azai, then.
+
+@78.1
+Yes. A traitor deserves death.
+
+@78.2
+And yet that Nagamasa, after I gave him Oichi... I cannot forgive it.
+
+@78.3
+I had even meant to give him Echizen once the Asakura were crushed.
+
+@78.4
+Lord Nagamasa cherishes Lady Oichi dearly.
+
+@78.5
+Even so, he broke his promise to you, and it must have pained him greatly.
+
+@78.6
+......\nBut I must win Oichi back at any cost.
+
+@79
+When 10,000 Asakura reinforcements under Kagetake arrived, Azai Nagamasa personally led 8,000 men to the Anegawa's north bank and challenged Nobunaga to battle.
+
+@80
+Oda Army - Main Camp
+
+@81.0
+Lord Nobunaga, I ask you to entrust me with either the Azai or the Asakura.
+
+@81.1
+I will not rest until I have taken the traitor Azai Nagamasa's head with my own hands,
+
+@81.2
+so you shall face the Asakura. I leave you the left wing.
+
+@81.3
+How many men do you want? Five thousand? Or eight thousand?
+
+@81.4
+If you lend me a thousand, I will scatter the Asakura and show you.
+
+@81.5
+Ha ha ha! Most reassuring. Then I shall give you a thousand, the unit of Inaba Ittetsu.
+
+@82
+The 6th month, the 1st year of Genki (1570)\nThe Oda-Tokugawa allied army deployed south of the Anegawa and faced the Azai-Asakura allied army.
+
+@83
+Odani Castle
+
+@84.0
+Hm. Understood.
+
+@85.0
+At once, ask the Asakura for reinforcements!
+
+@87.0
+Ah, Oichi.
+
+@87.1
+Is it true that Brother's army is marching on Omi?
+
+@87.2
+Yes... \n\n\nI knew it would come to this sooner or later...
+
+@88.0
+Ichi... I am sorry to make you suffer so.\n\nBut this is the age of war.
+
+@88.1
+My lord...
+
+@92.3
+This is a matter for our house. If the Azai are destroyed, the Asakura will be next.
+
+@92.4
+Then, Kagetake. I will give you 10,000 men. Go to their aid.
+
+@93
+Gifu Castle - Living Quarters
+
+@94.5
+Even so, he broke his promise to you, and it must have pained him greatly.
+
+@103
+With 10,000 reinforcements under Asakura Kagetake in support, Azai Nagamasa held Odani Castle.
+
+@105.0
+I will not rest until I have taken the traitor Azai Nagamasa's head with my own hands!
+
+@107
+The 6th month, the 1st year of Genki (1570)\nThe Oda army pressed an assault on Odani Castle.
+

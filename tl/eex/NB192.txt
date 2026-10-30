@@ -1,0 +1,252 @@
+@0.0
+Boys! Take everything of value!
+
+@0.1
+Boss, there's a strange-looking fellow over there. What do we do?
+
+@0.2
+Bother. Kill him along with the rest.
+
+@1
+Sea Raiders\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Sea Raiders\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3.0
+All right, time to go!
+
+@3.2
+Aye!
+
+@3.3
+Understood, Captain!
+
+@4.0
+Resisting is pointless. Hand over all your money!
+
+@4.1
+Ugh...
+
+@4.2
+Why must this happen to us...?
+
+@5
+The village was wiped out.
+
+@6.0
+Resisting is pointless. Hand over all your money!
+
+@6.1
+You pirates! Get out of our village!
+
+@6.2
+Here, this is for you! Yaaah!
+
+@6.3
+Ow... Isn't this the wrong way round?
+
+@7.0
+Come on, come on, die!
+
+@7.1
+Oh, what has happened...
+
+@7.2
+R-run!
+
+@8
+The village was wiped out.
+
+@9.0
+Come on, come on, die!
+
+@9.1
+Everyone, hide quickly!
+
+@9.2
+Samurai, sir, please help us.
+
+@9.3
+Damn! What now?
+
+@10.0
+Hurry up and hand over your valuables!
+
+@10.1
+Waaah, it's hopeless...
+
+@10.2
+H-help us!
+
+@11
+The village was wiped out.
+
+@12.0
+Hurry up and hand over your valuables!
+
+@12.1
+We have Lord Nobunaga with us. Settle down!
+
+@12.2
+We won't be beaten by you anymore.
+
+@12.4
+Damn, you'll regret this!
+
+@13.0
+Heh! I'll kill every one of you!
+
+@13.1
+E-everyone, run!
+
+@13.2
+Ah, the village...
+
+@14
+The village was wiped out.
+
+@15.0
+Heh! I'll kill every one of you!
+
+@15.1
+Here! Take this!
+
+@15.3
+Aaargh! Impossible...
+
+@16.0
+Hee hee hee, money, money, money!
+
+@16.1
+This is bad. Everyone, run!
+
+@16.2
+Waaah, wait for me!
+
+@17
+The village was wiped out.
+
+@18.0
+Hee hee hee, money, money, money!
+
+@18.1
+We have the samurai with us. We won't let you have your way!
+
+@18.2
+You bastards!
+
+@18.3
+What?! What the hell is going on?
+
+@19.0
+Ha ha ha! Die, die, all of you!
+
+@19.1
+Waaah!
+
+@19.2
+Help!
+
+@20
+The village was wiped out.
+
+@21.0
+Ha ha ha! Die, die, all of you!
+
+@21.1
+You scum!
+
+@21.2
+We won't let you have your way!
+
+@21.3
+Wha-? Who are these guys? Damn, we're the ones getting beaten!
+
+@22.0
+Ah, I thought it was the end. Thank you so much.
+
+@22.1
+It is little, but this is the village's store. Please take it.
+
+@24.0
+Please take this too. May it be of use.
+
+@25
+Pirates attacked; the village lies in ruins.
+
+@26.0
+Without you, what would have become of this village...?
+
+@26.1
+People like us cannot run away, you see.
+
+@26.2
+By way of thanks, please accept this.
+
+@28
+Pirates attacked; the village lies in ruins.
+
+@29.0
+Thank you for helping us.
+
+@29.1
+Lord Nobunaga! To think you would come all this way for the likes of us...
+
+@29.2
+Please accept this.
+
+@31
+Pirates attacked; the village lies in ruins.
+
+@32.0
+Th-thank you, sir. Those are the pirates who have been ravaging this area. Please, use this to deal with them.
+
+@34
+Pirates attacked; the village lies in ruins.
+
+@35.0
+Oh, bless you. To think there are people like you.
+
+@35.1
+Please take this.
+
+@37
+Pirates attacked; the village lies in ruins.
+
+@38.0
+Thank you, you have saved us.\n\nIt is not much of a reward, but please take this.
+
+@40
+Pirates attacked; the village lies in ruins.
+
+@41.0
+Gah! These are Oda troops! What are they doing in a place like this...?
+
+@42.0
+I never thought the Oda would be so strong...\n\nGah...
+
+@43.0
+Heh heh heh, we have taken their camp. We win!
+
+@43.1
+Damn. Leaving the camp empty was a mistake...
+
+@45
+Defeated by the Ise pirates
+
+@46.0
+That should teach the pirates a lesson.
+
+@47
+Oda Nobunaga wiped out the pirates.
+
+@49
+Ise pirates wiped out
+
+@50
+Oda Nobunaga was defeated by the pirates.
+
+@51
+Defeated by the Ise pirates
+

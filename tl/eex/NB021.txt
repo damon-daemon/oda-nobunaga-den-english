@@ -1,0 +1,276 @@
+@0
+"The Mori Advance East"
+
+@2.0
+My lord. Araki Murashige has fled, and we still cannot find where he is.
+
+@3.0
+Curse Murashige. So he ran.
+
+@4.0
+We have taken several hundred of the castle's soldiers alive, along with Murashige's kin. What shall we do with them?
+
+@5.0
+Crucify the soldiers who resisted to the end, in Settsu. Behead Murashige's kin in Kyoto.
+
+@6
+All of the Araki clan except the fugitive head, Murashige, were to be executed.\n\nIt is said, however, that not one of them lost composure; each closed their eyes quietly and awaited death with admirable calm.\nMurashige, who fled to the Mori for refuge, later served Hideyoshi as a tea master and lived out his life.
+
+@7.0
+By the way, my lord, Kuroda Kanbei has been rescued from a cell inside the castle...
+
+@7.1
+It seems he was captured as he entered the castle to persuade Murashige.
+
+@7.2
+What...
+
+@7.3
+Will you see Lord Kuroda?
+
+@7.4
+Hmm. I have no face to show Kanbei.
+
+@8.0
+They say Lord Takenaka has secretly been sheltering Kanbei's son.
+
+@9.0
+Oh, is that so.
+
+@9.1
+Hanbee defied my wishes, and ordinarily I would not forgive it, but this once I will let it pass.
+
+@10
+"The Mori Advance East"
+
+@11
+"The Mori Advance East"
+
+@12
+"The Mori Advance East"
+
+@13
+A year and a half had passed since Akechi Mitsuhide laid siege to Yakami Castle in Tanba. Mitsuhide called on the castellan, Hatano Hideharu, to surrender. Hideharu agreed on condition that Mitsuhide's mother be left in Yakami Castle as a hostage, and went to Azuchi to make peace.
+
+@14.0
+Hatano Hideharu, lord of Yakami Castle in Tanba, and Hatano Hidehisa have agreed to surrender.
+
+@14.1
+I beg you to treat them with mercy.
+
+@14.2
+Mitsuhide, execute the Hatano brothers and return at once to the attack on Yakami Castle.
+
+@15.0
+Please wait! My mother is held hostage in Yakami Castle. I beg you to reconsider!
+
+@16
+Reconsider\nNot my concern
+
+@17.0
+If Mitsuhide goes so far, I will spare the Hatano brothers' lives. Only their lives.
+
+@18.0
+However, confiscate all their former lands. The fate of the rest of the clan is for Mitsuhide to decide.
+
+@20
+Thus, through Akechi Mitsuhide's efforts, the conquest of Tango was completed, and Nobunaga's goal of the realm under one sword drew near.
+
+@21.0
+Enough. If you refuse to obey my orders, I will count it as treason.
+
+@22
+The soldiers of Yakami Castle, whose lord had been killed, crucified Mitsuhide's mother and held out in the castle, resisting until every one of them was dead.\n\nEven after losing his mother, Mitsuhide stoically pressed on with the conquest of Tanba and Tango, and a few months later completed the pacification.
+
+@23.0
+My lord... it seems I must bid you farewell.
+
+@24.0
+What are you saying? If you are gone, how am I to go on fighting?
+
+@24.1
+From now on, rely on Lord Kuroda. If you use his strategies, you will win a hundred victories in a hundred battles.
+
+@24.2
+...Only, I am concerned about Lord Nobunaga.
+
+@24.3
+Since Araki Murashige's rebellion, Lord Nobunaga seems to have grown distrustful of his retainers...
+
+@24.4
+Please take one of Lord Nobunaga's sons as heir to the Hashiba house.
+
+@24.5
+Then Lord Nobunaga will not suspect you.
+
+@25.0
+My lord, it seems my escort has come.
+
+@25.1
+My lord, looking back, how enjoyable it all was, this and that.
+
+@25.2
+Hanbee!
+
+@26.0
+To offer plans until the very moment of death... what a remarkable man.
+
+@27
+The 7th year of Tensho (1579)\nHideyoshi's right hand, Takenaka Hanbee, died during the siege of Miki Castle at the age of 36. The strategist Hanbee remained a strategist to his last breath. Hideyoshi adopted one of Nobunaga's sons and named him Hidekatsu.
+
+@28.0
+My lord, a man named Saito Toshimitsu, who serves Lord Akechi, was originally my subordinate.
+
+@28.1
+Could you not ask Lord Akechi to return my man?
+
+@29.0
+Ittetsu, every time we meet you bring up that matter.
+
+@29.1
+All right, all right. I will speak to Mitsuhide myself.
+
+@31.0
+My lord, the pacification of Tanba is complete.
+
+@31.1
+Good. Well done.
+
+@31.2
+I was told to bring my retainer Saito Toshimitsu with me this time...
+
+@32.0
+As to that, I hear Toshimitsu once served Ittetsu.
+
+@32.1
+Toshimitsu is called "the Spear God of Akechi". I understand you do not wish to let him go, but
+
+@32.2
+changing one's lord without cause is hardly fitting for a warrior. Return Toshimitsu to Ittetsu.
+
+@33.0
+I cannot give up a man who has shared life and death with me through so many years of battle.
+
+@33.1
+Please, spare me on Toshimitsu alone.
+
+@34.0
+What? Do you say you will not obey my command?
+
+@34.1
+Though it is your command, my lord, I cannot comply with this. I beg your pardon.
+
+@35
+Forgive him, if he insists\nUnforgivable. Kick him
+
+@36.0
+Hmph. Make your own excuses to Ittetsu.
+
+@38.0
+Toshimitsu, remember this: my life and death are always bound to yours.
+
+@39.0
+M-my lord.
+
+@40.0
+You dare say that!
+
+@42.0
+Enough.
+
+@42.1
+(Curse him.)
+
+@43.0
+My lord, are you all right?
+
+@44.0
+Do not worry... Toshimitsu, remember this: my life and death are always bound to yours.
+
+@45.0
+M-my lord.
+
+@46
+Hashiba Army Main Camp
+
+@47.0
+Brother, the grain stores of Miki Castle are exhausted and some are starting to starve. Shall we not attack soon?
+
+@47.1
+Hanbee is already dead, and Kanbei is ill and not here. How can we fight at such a time?
+
+@47.2
+For now, we only wait for the enemy to surrender.
+
+@48
+Miki Castle - Council Hall
+
+@49.0
+We have been shut up in Miki Castle for a year and eight months. This is the end, it seems...
+
+@49.1
+Someone go to that Monkey and tell him: spare the castle's soldiers in exchange for my belly.
+
+@50.0
+How bitter... how bitter it is.
+
+@51.0
+Tonight we part for this life. Do not weep. Do not weep...
+
+@52
+Miki Castle fell after a siege of starvation lasting 20 months. Bessho Nagaharu is said to have committed seppuku on condition that the castle's soldiers be spared. The siege, which drove the defenders to eat not only paper but human flesh, was later called "the Starving of Miki".
+
+@54
+Azuchi Castle - Council Hall
+
+@55
+With Yakami and Miki Castles taken, Nobunaga's power was steadily growing when sudden word came from Hideyoshi, campaigning in the Chugoku region. The Mori, the great power of the west, had suddenly advanced east.
+
+@56.0
+The Mori, who have so far held back and watched, have begun to move.
+
+@56.1
+Terumoto seems to intend to march on Kyoto, backing the shogun Yoshiaki.\n\nWe will set up our main camp in Kyoto and meet this advance!
+
+@59.0
+Lord Hashiba's army is preparing to meet the Mori at Himeji Castle. Father, please hurry.
+
+@60.0
+The enemy will likely attack from three directions. Shall we divide our army in three, or defeat them one at a time?
+
+@61.0
+I am worried about the Hashiba army.
+
+@62.0
+I hope Himeji Castle holds out...
+
+@63.0
+I will hold them off, even alone.
+
+@64.0
+Honganji most likely cannot move. Let us throw in all our forces and crush them at once.
+
+@65.0
+I am concerned about Owari. I will stay behind to guard it...
+
+@66.0
+I hear Kikkawa Motoharu copied the Taiheiki in camp during the siege of Gassan-Toda Castle.
+
+@67.0
+I hear Lord Kobayakawa is also in contact with the Murakami navy... His ships will be the fastest.
+
+@68.0
+First I shall smash the Murakami navy at the river mouth.
+
+@69.0
+I wonder how much of the blood of his grandfather Motonari, a great general, Terumoto has inherited...
+
+@70.0
+No word at all from my men...
+
+@71.0
+The Hashiba army is small and must fight Terumoto's main force. We must send reinforcements. On the other two roads, we wait for their navy at the river mouth and smash it. After that, I suggest we throw all our forces at the Kikkawa army.
+
+@72.0
+The San'in is deep in mountains and not easy to march through. Let us leave that for last.
+

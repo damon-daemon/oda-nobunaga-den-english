@@ -1,0 +1,186 @@
+@0.0
+I'll show that Nobunaga that I am the better man at war.
+
+@0.1
+Once Katahide and the flanking force move, Nobunaga is finished.
+
+@0.2
+Ha ha ha.
+
+@0.3
+Can we really win with this...
+
+@0.4
+Lord Nobunaga should be fine... But I have heard Yoshikata is a skilled commander.
+
+@0.5
+They say he is especially good at siege defence.
+
+@0.6
+Please be careful.
+
+@0.7
+Rest easy, Ieyasu.
+
+@0.8
+I will not be outdone by the likes of Yoshikata.
+
+@1
+Attack on the Rokkaku\nVictory: 1. Take Kannonji Castle.\n  2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Attack on the Rokkaku\n\nVictory: 1. Take Kannonji Castle.\n  2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@4.0
+Oh, you are from Owari, are you?
+
+@4.1
+You must be the one escorting Lord Yoshiaki to Kyoto.
+
+@4.2
+Well then, please take this.
+
+@5.0
+Ah, why must there be a war at a time like this...
+
+@5.1
+And the rice has just ripened...
+
+@6.0
+Good. Have Katahide's unit and the flanking force raid Nobunaga's main camp.
+
+@7.0
+Tch, the front line has collapsed...
+
+@7.1
+All forces, meet them head on!
+
+@8.0
+So you are Gamo Katahide?
+
+@8.1
+If you surrender quietly, well and good. If not...
+
+@8.2
+Ugh... Understood...
+
+@8.3
+(I am sorry, Lord Yoshikata, but fighting this man would cost me more lives than I have.)
+
+@9
+Gamo Katahide has surrendered
+
+@10.0
+Katahide, you coward!
+
+@11.0
+Yoshikata, prepare yourself!
+
+@11.1
+Grr, to be pressed this far... I cannot believe it...
+
+@12.0
+Katahide, surrender or die. Choose here and now.
+
+@12.1
+Ugh, understood. I surrender...
+
+@13.0
+What, Katahide has surrendered?! Damn you, Nobunaga!
+
+@14.0
+My strategy does not work on him...
+
+@14.1
+Curse it, retreat!
+
+@15.0
+Grr, if only Katahide had not turned traitor, I would have won...\n\nCurse it, retreat!
+
+@16.0
+Grr, if only Katahide had not turned traitor, I would have won...\n\nCurse it, retreat!
+
+@17.0
+We have taken their camp!
+
+@18.0
+Ha ha ha ha, Nobunaga!
+
+@18.1
+Now you know my strength!
+
+@20.0
+Damn, I underestimated Yoshikata...
+
+@20.1
+How mortifying...
+
+@21.0
+We have taken their camp!
+
+@22.0
+Ha ha ha, Nobunaga!
+
+@22.1
+Now you know my strength!
+
+@24.0
+Damn, I underestimated Yoshikata...
+
+@24.1
+How mortifying...
+
+@25
+Oda Nobunaga defeated the army of Rokkaku Yoshikata.
+
+@26
+Gained 1000 gold
+
+@27
+Defeats Rokkaku Yoshikata, who blocked the march on Kyoto
+
+@28
+Oda Nobunaga was defeated by Rokkaku Yoshikata.
+
+@29
+Kannonji Castle taken
+
+@30
+Gained 1000 enemy war funds
+
+@31.0
+Damn, the castle!
+
+@31.1
+Curse it, there is no help for it. Retreat!
+
+@32
+Having lost Kannonji Castle, Rokkaku Yoshikata slipped out of the castle and fled to Iga.
+
+@33
+Oda Nobunaga has subdued southern Omi.
+
+@34
+Takes Kannonji Castle and defeats Rokkaku Yoshikata
+
+@35
+Minotsukuri Castle taken
+
+@36
+Gained 1000 enemy war funds
+
+@37.0
+What, Minotsukuri Castle has fallen?!
+
+@37.1
+Curse it, there is no help for it. Retreat!
+
+@38
+Having lost Minotsukuri Castle, Rokkaku Yoshikata fled to Iga.
+
+@39
+Oda Nobunaga took Kannonji Castle as well, without any effort.
+
+@40
+Takes Minotsukuri Castle and defeats Rokkaku Yoshikata
+

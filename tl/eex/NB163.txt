@@ -1,0 +1,123 @@
+@0.0
+This Echizen was entrusted to me by my lord. I cannot hand it over to Kenshin.
+
+@0.1
+We must hold out at all costs!
+
+@0.2
+Old man!
+
+@0.3
+I, Toshiie, intend to follow you to the ends of the afterlife, old man.
+
+@0.4
+And I!
+
+@0.5
+...Hm? That banner is our lord's army!
+
+@0.6
+Everyone! Our lord's reinforcements have come!
+
+@0.7
+Katsuie, well done holding out!
+
+@0.8
+Advance! Crush the Uesugi forces and save our allies!
+
+@0.9
+So you have come... Nobunaga. In Bishamonten's place, I shall deliver heaven's punishment!
+
+@1
+Interception in Echizen\nVictory: 1. Make Uesugi Kenshin retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. Daishoji Castle is taken.\n  3. The Oda main camp is taken.\n  4. More than 50 turns pass.
+
+@2
+Interception in Echizen\n\nVictory: 1. Make Uesugi Kenshin retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. Daishoji Castle is taken.\n  3. The Oda main camp is taken.\n  4. More than 50 turns pass.
+
+@3.0
+Attack! Vanguard, take the enemy main camp in one stroke!
+
+@4.0
+Attack! Let not a single enemy escape!
+
+@5.0
+Advance! The enemy is few! Surround them and cut them down!
+
+@5.1
+Do not flinch! Hold the castle at all costs!
+
+@7.0
+We had a fine rice harvest this year. Please take some.
+
+@9.0
+This medicine will be of use to you. Please take it.
+
+@11.0
+A fine horse wandered into our village the other day.
+
+@11.1
+Please take it.
+
+@12.0
+Attack! Vanguard, take the enemy main camp in one stroke!
+
+@13.0
+The enemy has sallied out!
+
+@13.1
+Advance! The enemy is few! Surround them and cut them down!
+
+@13.2
+Do not flinch! Hold the castle at all costs!
+
+@14.0
+Attack! Let not a single enemy escape!
+
+@15.0
+Where is Kenshin!
+
+@15.1
+Nobunaga, a man like you is no match even for Kagekatsu. I will not let you lay a finger on my lord!
+
+@16.0
+Nobunaga...
+
+@16.1
+Only Shingen and you have given me this much trouble.
+
+@16.2
+Perhaps this too is Bishamonten's guidance...
+
+@16.3
+Kenshin! To battle!
+
+@17.0
+Damn, it cannot be helped. Retreat!
+
+@17.1
+What, Kagenobu is retreating!
+
+@18.0
+We have taken Daishoji Castle!
+
+@19
+Daishoji Castle was taken by the Uesugi army
+
+@24
+Oda Nobunaga defeated Uesugi Kenshin.
+
+@26
+Defeats the Uesugi in Kaga
+
+@27
+Oda Nobunaga was defeated by Uesugi Kenshin.
+
+@28.0
+That I should be defeated...
+
+@28.1
+Nobunaga may be a greater man than even Shingen...
+
+@28.2
+Nobunaga, we shall meet again on the battlefield!
+

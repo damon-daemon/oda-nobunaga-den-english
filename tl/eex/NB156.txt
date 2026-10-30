@@ -1,0 +1,117 @@
+@0.0
+I was caught off guard in Mino, but I cannot lose here.
+
+@0.1
+I must stop Shingen here at all costs.
+
+@0.2
+My lord, the Miyoshi Triumvirate are reported to be stirring in Settsu.
+
+@0.3
+They may raise an army. I shall...
+
+@0.4
+Leave them alone. Whatever they do, it amounts to little.
+
+@0.5
+Now the whole army must stop Shingen.
+
+@0.7
+...Yes, my lord.
+
+@0.8
+Kyoto is before us. We march on Kyoto in one stroke and stop Nobunaga's evil deeds.
+
+@0.9
+Go, Masakage!
+
+@1
+Shingen's Advance on Kyoto\nVictory: 1. Make Takeda Shingen retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@2
+Shingen's Advance on Kyoto\n\nVictory: 1. Make Takeda Shingen retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@3.0
+Good, the whole army marches on Kyoto!
+
+@4
+The Miyoshi Triumvirate raised an army
+
+@5.0
+That Nobunaga, I will show him the true strength of the Miyoshi Triumvirate.
+
+@5.1
+We wait here until our chance comes.
+
+@6.0
+Go, Katsuyori!
+
+@6.2
+Charge, toward Kyoto!
+
+@7.0
+Are you hurt, my lord? This medicine works well. Please use it.
+
+@8.0
+Nobunaga!
+
+@8.1
+Hm? Now, who might you be?
+
+@8.2
+Grr, what an insult!
+
+@8.3
+Do not dare say you have forgotten the Miyoshi Triumvirate!
+
+@8.4
+Sorry, but I have no time to play with you.
+
+@8.5
+Well, if you were to drive Shingen away for me, that would be another matter...
+
+@8.6
+D-Damn you! How far will you make a fool of me!
+
+@8.7
+I will not forgive this! Never! Nobunaga!
+
+@9.0
+Lord Nobunaga, will you not let me into Kyoto?
+
+@9.1
+Lord Shingen, I hear Kai is a pleasant place to live.
+
+@9.3
+An old man should not strain himself. I think you would do better to convalesce in Kai...
+
+@9.4
+Wa ha ha ha...
+
+@9.5
+(Hm, does this fellow know about my illness?)
+
+@10.0
+Grr... Nobunaga, you will remember this!
+
+@13.0
+Damn, Kyoto...
+
+@14
+Oda Nobunaga was defeated by the enemy.
+
+@15
+Within sight of Kyoto, Takeda Shingen\nwas defeated by Nobunaga...\n\n\nNobunaga blocked\nTakeda Shingen's entry into Kyoto.
+
+@17
+Takeda Shingen's entry into Kyoto blocked
+
+@18
+Oda Nobunaga was defeated\nby Takeda Shingen.
+
+@19.0
+Gh, as expected of Nobunaga.
+
+@19.1
+The whole army, retreat...
+

@@ -1,0 +1,216 @@
+@0.0
+Hmm. Odani Castle is completely surrounded by Nobunaga's men. Very well, the whole army marches for Odani Castle!
+
+@0.1
+(So this is the end of the Asakura... And it is all Yoshikage's doing. If he ever comes running home...)
+
+@0.2
+Heh heh, so Yoshikage did come to the rescue.
+
+@0.3
+While the Monkey holds Odani Castle, I will destroy Yoshikage in one blow.
+
+@1.0
+Gonroku.
+
+@3.0
+Here.
+
+@3.1
+Take Ittetsu and the others and win yourself glory.
+
+@4
+Battle for Ichijodani and Odani\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@5
+Battle for Ichijodani and Odani\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@6
+Sawayama
+
+@7
+Endurance and skill restored
+
+@8
+Took Kanegasaki Castle
+
+@9
+Took Tezutsuyama Castle
+
+@10
+Took Ichijodani Castle
+
+@11.0
+(How pathetic... It seems I will have to have him die.)
+
+@11.1
+My lord, it is no longer safe here. Please flee to Ono District.
+
+@11.2
+Y-yes. I leave the rest to you.
+
+@12.0
+Now, I shall go and fetch my gift.
+
+@13.0
+We can no longer hold the enemy here.
+
+@13.1
+The enemy should not come as far as Ono District.
+
+@14
+The Saito army appeared
+
+@15.0
+Now, charge!
+
+@16.0
+Now! Send out the troops!
+
+@17
+The Azai army appeared
+
+@18.0
+Damn... The siege lines around the castle had broken...
+
+@19.0
+Now! Send out the troops!
+
+@20
+The Azai army appeared
+
+@21.0
+Damn... The siege lines around the castle had broken...
+
+@22.0
+Now! Send out the troops!
+
+@23
+The Azai army appeared
+
+@24.0
+Damn... The siege lines around the castle had broken...
+
+@25.0
+Now! Send out the troops!
+
+@26
+The Azai army appeared
+
+@27.0
+Damn... The siege lines around the castle had broken...
+
+@28.0
+Still here? You have not finished packing for your flight yet, it seems, Yoshikage.
+
+@28.1
+Let him talk! Enough, men, attack!
+
+@29.0
+Too slow, Yoshikage. And you mean to run from me?
+
+@30.0
+Gah, Nobunaga!?
+
+@30.1
+Hisamasa!
+
+@30.2
+(Curse him. If not for this man, Nagamasa would never have betrayed me...)
+
+@30.3
+(This man... this man I can never forgive.)
+
+@30.4
+Hisamasa, prepare yourself!
+
+@31.0
+Surrender, Nagamasa.
+
+@31.1
+The Asakura are finished.
+
+@31.2
+I want no mercy.
+
+@31.3
+Nobunaga, let us settle this!
+
+@32.0
+Surrender, Nagamasa. The Asakura are destroyed.
+
+@32.1
+The Azai are not destroyed yet. Nobunaga, let us settle this!
+
+@33.0
+D-damn! For now, fall back to Ono...
+
+@34.0
+Wah! R-retreat!
+
+@35.0
+(How pathetic... It seems I will have to have him die.)
+
+@36
+The Asakura army began to withdraw
+
+@37.0
+Cursed...
+
+@38.0
+Ugh... My lord...
+
+@39.0
+Nagamasa... Ugh...
+
+@40.0
+Is this the end...
+
+@42
+Oda Nobunaga defeated the Azai and Asakura armies and pacified Echizen and northern Omi.
+
+@43
+Defeated the Azai and Asakura armies,
+
+@44
+pacified Echizen and northern Omi
+
+@45.0
+At this rate our army will be wiped out. The whole army, withdraw to Echizen!
+
+@46.0
+Damn, at this rate we will be cut off...
+
+@47.0
+Damn, at this rate we will be cut off...
+
+@48.0
+Damn, at this rate we will be cut off...
+
+@49.0
+Damn, at this rate we will be cut off...
+
+@50.0
+Damn, at this rate we will be cut off...
+
+@51.0
+We have taken the Oda camp!
+
+@53.0
+Damn, the main camp...
+
+@54
+Oda Nobunaga was defeated by the Azai-Asakura allied army
+
+@55
+Oda Nobunaga annihilated the Asakura army and pacified Echizen and northern Omi.
+
+@57
+Defeated the Azai and Asakura armies,
+
+@58
+pacified Echizen and northern Omi
+
+@59
+Oda Nobunaga was defeated by the Azai-Asakura allied army.
+

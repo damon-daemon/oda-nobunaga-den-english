@@ -1,0 +1,23 @@
+PROG:8011ff18	Sound output
+PROG:8011ff2c	Battle unit moves
+PROG:8011ff40	Battle animations
+PROG:8011ff54	Enemy unit moves
+PROG:8011ff68	Battle map grid
+PROG:8011ff7c	Battlefield scroll step
+PROG:8011ff94	Message advance
+PROG:8011ffcc	Stereo
+PROG:8011ffd8	Mono
+PROG:8011ffe4	On
+PROG:8011fff0	Off
+PROG:8011fffc	On
+PROG:80120008	Off
+PROG:80120014	4 hexes
+PROG:80120020	3 hexes
+PROG:8012002c	2 hexes
+PROG:80120038	1 hex
+PROG:80120054	Button
+PROG:80120060	Auto slow
+PROG:8012006c	Auto fast
+PROG:801200a8	Settings
+PROG:801200b4	Game Start
+PROG:801200cc	OK

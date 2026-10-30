@@ -1,0 +1,144 @@
+@0.0
+To lure out Ieyasu's main force at Hamamatsu Castle, we attack Okazaki Castle!
+
+@0.1
+Everyone, follow me!
+
+@0.2
+It seems Nobunaga means to attack Okazaki Castle in person.
+
+@0.3
+We cannot stand against him with this few men.
+
+@0.4
+Send word to our lord at Hamamatsu Castle. Request reinforcements!
+
+@0.6
+My lord, Mototada at Okazaki Castle requests reinforcements.
+
+@0.7
+I see... So Nobunaga has moved in person.
+
+@0.8
+Good. Prepare to march.
+
+@0.11
+Go to Tadakatsu at Yoshida Castle and give him the order to support Okazaki Castle.
+
+@0.13
+Yasumasa.
+
+@0.15
+Go to Shinano with the Hojo reinforcements and strike Nobunaga in the rear.
+
+@0.17
+An order has come from our lord to support Okazaki Castle.
+
+@0.18
+Prepare to march!
+
+@1
+Battle of Okazaki Castle\nVictory: 1. Force Tokugawa Ieyasu to retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Battle of Okazaki Castle\n\nVictory: 1. Force Tokugawa Ieyasu to retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3
+Hojo reinforcements appeared.
+
+@4.0
+Good, we attack Nobunaga's main camp.
+
+@4.1
+Charge!
+
+@6.0
+This village has a famous spear handed down through the generations.
+
+@6.1
+Please use it to end this age of war quickly.
+
+@7
+Hamamatsu Castle was taken.
+
+@8
+Yoshida Castle was taken.
+
+@9
+Noda Castle was taken.
+
+@10
+Okazaki Castle was taken.
+
+@11.0
+Boss, prey is coming down the road!
+
+@11.1
+What? Prey, after all these years?
+
+@11.2
+Hardly a soul has come this way lately.
+
+@11.3
+Hey, looks like a samurai.
+
+@11.4
+Ha! Now we can say goodbye to going hungry.
+
+@11.5
+All right, strip him of everything!
+
+@11.6
+You got it!
+
+@12.0
+Sally forth! Go!
+
+@12.1
+Good, advance!
+
+@12.2
+All forces, forward!
+
+@13.0
+Ieyasu, I suppose you had your reasons for this treachery.
+
+@13.1
+But I will never forgive those who defy me.
+
+@13.2
+Prepare yourself!
+
+@13.3
+Lord Nobunaga, the age of destruction will soon end.
+
+@13.4
+Before long, an age of peaceful rule will come...
+
+@13.5
+Your part is done, Lord Nobunaga.
+
+@13.6
+You fool!
+
+@14.0
+B-boss, they got us!
+
+@15.0
+Ugh! Too long without prey, my arm has gone soft...
+
+@19
+Oda Nobunaga defeated Tokugawa Ieyasu.
+
+@20
+Gained 8000 gold
+
+@21
+Tokugawa Ieyasu defeated at Okazaki
+
+@22
+Oda Nobunaga was defeated by Tokugawa Ieyasu.
+
+@23.0
+Grr... all forces, retreat.
+

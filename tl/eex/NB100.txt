@@ -1,0 +1,141 @@
+@0.0
+The Oda army seems to have appeared. What do the scouts report?
+
+@0.1
+Sir! The enemy commander is Nobuhide's heir, Nobunaga.
+
+@0.2
+Nobunaga? That fool of Owari we keep hearing about?
+
+@0.3
+Coming out here just to be killed. How very dutiful of him.
+
+@0.4
+Show him the terror of the Mikawa warriors!
+
+@1
+Battle of Kira Ohama\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 20 turns pass.
+
+@2
+Battle of Kira Ohama\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 20 turns pass.
+
+@3.0
+Young lord! Please wait.
+
+@3.1
+What is it, old man?
+
+@3.2
+Riding out to battle all alone, what are you thinking!
+
+@3.3
+Niwa, Maeda and the others are waiting at the main camp.
+
+@3.4
+Press the circle button at the main camp and send them out.
+
+@3.5
+Understood.
+
+@3.6
+Old man, don't strain yourself. Just watch from there.
+
+@3.7
+What are you saying! Lord Nobuhide made me your guardian, and I...
+
+@3.8
+Enough!
+
+@3.9
+Ah, young lord!
+
+@4.0
+Young lord! Please wait.
+
+@4.1
+You are persistent, old man!
+
+@5.1
+What is it, old man?
+
+@5.2
+When your endurance runs low, choose "Use" under the "Item" command and take a Healing Bean.
+
+@5.3
+It will restore your endurance to a fair degree.
+
+@5.4
+Understood.
+
+@6.0
+Young lord! It seems pirates are targeting the main camp.
+
+@6.1
+Please be careful!
+
+@7
+You found a treasure.
+
+@8.0
+There seems to be no one here...
+
+@9.0
+Waah, Owari soldiers! Run!
+
+@9.1
+Why is everyone running away?
+
+@9.2
+Here, you can have what I found over there.
+
+@10.0
+Waah, Owari soldiers! Run!
+
+@10.1
+Hm? They dropped something as they left.
+
+@11.0
+Young lord! Please wait.
+
+@11.1
+You are persistent, old man!
+
+@12.0
+Oh, what a disgrace... How could I have let this happen...
+
+@12.1
+Young lord...
+
+@13.0
+Heh heh heh, the main camp is ours.
+
+@13.1
+Damn, I let my guard down...
+
+@14
+The Oda main camp was taken by the enemy
+
+@15
+Defeated in the Battle of Kira Ohama
+
+@16.0
+Well, that will do. Withdraw!
+
+@17
+Oda Nobunaga defeated the enemy at the Battle of Kira Ohama.\nHe won glory in his first battle.
+
+@18
+Gained 500 gold
+
+@19
+Great victory at the Battle of Kira Ohama
+
+@20
+Oda Nobunaga was defeated at the Battle of Kira Ohama.
+
+@21
+Defeated at the Battle of Kira Ohama
+
+@22.0
+Damn it, I let my guard down...
+

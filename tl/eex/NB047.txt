@@ -1,0 +1,69 @@
+@2
+Takeda Katsuyori's Camp
+
+@3.0
+I see. So Nobunaga and Ieyasu are retreating toward Hamamatsu.
+
+@3.1
+My lord! Now is the opportunity Heaven gives us!
+
+@3.2
+Yes. The enemy's fortunes hang by a thread.
+
+@4.0
+My lord. Give me the vanguard, Masakage. With fast-moving units I will pursue the Oda army.
+
+@5.0
+Yes.\n\nMasakage. Serve as vanguard together with Nobutoyo and Masanobu.
+
+@6.1
+Do not let Nobunaga slip away! Take him and win the glory!
+
+@7.1
+I will launch the pursuit at once. With your leave.
+
+@8.0
+Morinobu!
+
+@8.2
+Only a few soldiers are at Hamamatsu Castle, where Nobunaga is heading. You and Nobushige go ahead, attack Hamamatsu Castle, and cut off the retreat of Nobunaga and Ieyasu!
+
+@8.4
+Then I will go at once.
+
+@9.0
+The rest of us will begin the pursuit as soon as we are ready. We will defeat Nobunaga and plant our banner in the capital of Kyoto!
+
+@10.0
+(Father... watch over me. I will surely take Nobunaga's head...)
+
+@12.0
+Lord Nobutada, Lord Niwa and Lord Hashiba are retreating toward Hamamatsu together.
+
+@12.1
+Damn it, to be beaten by the likes of Katsuyori... How bitter.
+
+@12.2
+Lord Nobunaga, victory and defeat are the way of warriors. Let us fall back to Hamamatsu for now and plan our return!
+
+@14.0
+Give me the rear guard, Katsuie!
+
+@15.0
+I will protect you, my lord, even at the cost of my life.
+
+@16.0
+To think it would come to this...
+
+@17.0
+I cannot think Katsuyori will let us escape. Hurry!
+
+@18.0
+My men have been cut down too, and I cannot grasp the enemy's situation.
+
+@19.0
+When I consider how you must feel, my lord...
+
+@20.0
+We must retreat to Hamamatsu Castle while holding off the enemy pursuit...
+

@@ -1,0 +1,75 @@
+@0
+"The Tiger Watches and Waits"
+
+@1
+"The Tiger Watches and Waits"
+
+@2
+Kai Province - Tsutsujigasaki Mansion
+
+@3
+Shingen's Mansion
+
+@4.0
+I see... So Akiyama was beaten by Nobunaga.
+
+@4.2
+He is better than I thought, that Fool.
+
+@4.3
+My lord, if you would lend me troops, I, Masanobu, would invade Mino and...
+
+@4.4
+No, Masanobu. I want you to go to Mino on a different errand.
+
+@4.5
+Yes, my lord. What errand is that?
+
+@4.6
+Concluding an alliance with the Oda.
+
+@4.7
+Are you giving up on taking Mino?
+
+@4.8
+No, that is not so.\n\nThe time will come again.
+
+@5
+Nagara River - Riverbank
+
+@6.0
+(To march on Kyoto from Mino, we must cross Omi. The northern Azai are allies, but... the southern Rokkaku are the problem...)
+
+@8.0
+So you are here. A messenger has come from the Takeda.
+
+@8.1
+Heh, he has come to urge peace. It seems Shingen will give up on Mino for a while.
+
+@10.0
+I kept you waiting. You are Kosaka?
+
+@10.1
+Yes, my lord. I am Kosaka Masanobu.
+
+@10.2
+Kosaka. You have come to urge peace, have you not?
+
+@10.3
+Hmm, you have judged rightly. Lord Shingen desires an alliance with the Oda.
+
+@10.4
+Heh heh... (Should I ally with Shingen...?)\n\nKosaka! Tell Lord Shingen this.
+
+@11
+Ally with the Takeda\nDo not ally
+
+@12.0
+Tell him I accept the alliance.
+
+@12.2
+(Heh. Now I can advance on the home provinces without worrying about my back.)
+
+@13.0
+Hmph. The Takeda are nothing to fear. An alliance between our houses is unnecessary.
+

@@ -1,0 +1,159 @@
+@0
+Hayashi Hidesada has arrived.
+
+@1
+Sakuma Nobumori has arrived.
+
+@2.0
+Now then, what will the Monkey and Ieyasu do?
+
+@2.1
+Hm, that banner... Surely not.
+
+@2.2
+What is it, Lord Hideyoshi?
+
+@2.3
+Ah, Rokuro. Well, it is Nagayoshi's banner...
+
+@2.4
+His banner? ...
+
+@2.5
+That crest is the Oda family's!
+
+@2.6
+W-what? Then I did not mistake it! Could it be that my lord...
+
+@2.7
+No... it cannot be. That is Lord Nobunaga!
+
+@2.8
+...Yes, there is no doubt. We must inform my lord at once!
+
+@2.9
+My lord, a report from Lord Tadakatsu: Lord Nobunaga has appeared!
+
+@2.10
+What? Absurd... Hm, this must be Hideyoshi's scheme!
+
+@2.11
+Tell Tadakatsu and Yasumasa that man is an impostor.
+
+@2.13
+An impostor, is he! That damned Monkey and his petty tricks.
+
+@2.14
+If that is so, let us finish this in one stroke!
+
+@2.16
+(Is Lord Nobunaga alive after all? I can hardly believe it...)
+
+@2.17
+(But if so, this is a perfect chance... Cut down Nobunaga, and the realm is mine...)
+
+@3
+Battle of Nagakute\nVictory: 1. Force Tokugawa Ieyasu to retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@4
+Battle of Nagakute\n\nVictory: 1. Force Tokugawa Ieyasu to retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@5.0
+Save our lord!
+
+@6.0
+Good, send out the troops!
+
+@7
+Enemy reinforcements have appeared.
+
+@8
+Iwasaki Castle
+
+@9
+Odome Castle
+
+@10
+Komakiyama Castle was taken.
+
+@11
+Kiyosu Castle was taken.
+
+@12.0
+!! F-Father... You are safe...
+
+@12.1
+Nobukatsu, what are you doing in a place like this? Pull your troops back at once!
+
+@12.2
+Y-yes, sir!
+
+@13.0
+Monkey, are you well?
+
+@13.1
+M-my lord! You are safe! Your Monkey is overjoyed, truly overjoyed...
+
+@13.2
+Talk can wait. We settle this battle quickly!
+
+@13.3
+Yes, my lord!
+
+@14.0
+Ieyasu, stop fighting at once and return to Mikawa.
+
+@14.1
+(Damn, he lives... If I obey now, I can forget the realm...)
+
+@14.2
+He does look just like Lord Nobunaga... That Hideyoshi and his petty tricks...
+
+@14.3
+What are you saying, Ieyasu? Do you not know me?
+
+@14.4
+Heh heh heh, I will not be fooled. Prepare yourself, impostor!
+
+@15.0
+Since it has come to this, retreat cannot be helped...
+
+@16.0
+Ugh, that I should be beaten...
+
+@17.0
+Entrusted with the defence of Kiyosu Castle, and such a disgrace. Forgive me, my lord...
+
+@18.0
+...I have failed.
+
+@19.0
+As expected of the Oda army, their strength is fearsome...
+
+@20.0
+Damn, retreat!
+
+@23.0
+Damn, Gakuden Castle...
+
+@24
+Oda Nobunaga defeated Ieyasu's army at Nagakute.\nThe defeated Ieyasu retreated to Mikawa.
+
+@26
+Ieyasu's army crushed at Nagakute
+
+@27
+Oda Nobunaga was defeated by Tokugawa Ieyasu.
+
+@28.0
+Hm, I managed to withdraw...
+
+@29
+Oda Nobunaga defeated Ieyasu's army at Nagakute.\nThe defeated Ieyasu retreated to Mikawa.
+
+@31
+Tokugawa Ieyasu defeated at Nagakute
+
+@32.0
+Tch, it cannot be helped. Retreat to Mikawa.
+

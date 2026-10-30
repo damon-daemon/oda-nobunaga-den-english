@@ -1,0 +1,342 @@
+item:0	Tachi
+item:1	Fine Tachi
+item:2	Fine Uchigatana
+item:3	Great Tachi
+item:4	Long-Edge Tachi
+item:5	Oni Hocho
+item:6	White Blade
+item:7	Dai Hannya
+item:8	Kiku-ichimonji
+item:9	Monohoshizao
+item:10	Onimaru
+item:11	Muramasa
+item:12	Masamune
+item:13	Izumi Kanesada
+item:14	Go Yoshihiro
+item:15	Kagehide
+item:16	Tenta
+item:17	Bizen Osafune
+item:18	Honekui
+item:19	Tamagiri
+item:20	Murasame
+item:21	Unsigned Tachi
+item:22	Short Spear
+item:23	Fine Short Spear
+item:24	Fine Long Spear
+item:25	Cross Spear
+item:26	Sasaho Spear
+item:27	One-Hook Spear
+item:28	Hooked Spear
+item:29	Crescent Spear
+item:30	Chidori Spear
+item:31	Great Spear
+item:32	Kikuchi Spear
+item:33	Tonbokiri
+item:34	Omodaka Spear
+item:35	Zangetsu
+item:36	Nihongo
+item:37	Great Naginata
+item:38	Bamboo Spear
+item:39	Red Spear
+item:40	Great Red Spear
+item:41	Trigon Red Spear
+item:42	Jumonji Spear
+item:43	Tsukushi Spear
+item:44	Small Bamboo
+item:45	Bamboo Bow
+item:46	Rattan Bow
+item:47	Bamboo Longbow
+item:48	Two-Ply Bow
+item:49	Shigeto Bow
+item:50	Red Rattan Bow
+item:51	Hien
+item:52	Higo Bow
+item:53	Three-Ply Bow
+item:54	Four-Ply Bow
+item:55	Oni Otoshi
+item:56	Heavy Longbow
+item:57	Four-Side Bow
+item:58	Laminated Bow
+item:59	Chinese Xbow
+item:60	Namban Xbow
+item:61	Namban Multibow
+item:62	Yoshimitsu Bow
+item:63	Chinese Multibow
+item:64	Namban Bow
+item:65	Nasu Yoichi Bow
+item:66	Slim Musket
+item:67	Namban Musket
+item:68	Cavalry Musket
+item:69	10-Momme Gun
+item:70	Medium Musket
+item:71	Cav Med. Musket
+item:72	Kunitomo 10-Mo
+item:73	Sakai 10-Mo
+item:74	Hayago Medium
+item:75	Cav Samurai Gun
+item:76	Hayago Short
+item:77	Namban 10-Mo
+item:78	Namban 12-Mo
+item:79	Namban 6-Shot
+item:80	Cav Repeater
+item:81	Namban Rptr
+item:82	Kunitomo Rptr
+item:83	Senshu Repeater
+item:84	Small Folangji
+item:85	Folangji
+item:86	Haritate Cannon
+item:87	Large Folangji
+item:88	Large Haritate
+item:89	Small Haritate
+item:90	Kunikuzushi
+item:91	Saker Cannon
+item:92	Culverin
+item:93	Shibatsuji Gun
+item:94	Ozutsu
+item:95	Large Shibatsuji
+item:96	Spare Cannon 1
+item:97	Spare Cannon 2
+item:98	Spare Cannon 3
+item:99	Spare Cannon 4
+item:100	Spare Cannon 5
+item:101	Spare Cannon 6
+item:102	Uchiya Dart
+item:103	Flying Claw
+item:104	Powder Ball
+item:105	Chain Sickle
+item:106	Hand Blade
+item:107	Horoku Bomb
+item:108	Horoku Fire
+item:109	Shadow Slayer
+item:110	Dakon Spike
+item:111	Koga Shuriken
+item:112	Iga Shuriken
+item:113	Large Horoku
+item:114	Kongo Metten
+item:115	Katon Horoku
+item:116	Shiranui
+item:117	Caltrops
+item:118	Dragon Claw
+item:119	Thunder Claw
+item:120	Spare Thrower 1
+item:121	Spare Thrower 2
+item:122	Spare Thrower 3
+item:123	Spare Thrower 4
+item:124	War Fan
+item:125	Leather War Fan
+item:126	Hokoku War Fan
+item:127	Thin Iron Fan
+item:128	Hokoku Bronze
+item:129	Tensho Leather
+item:130	Tenchi Eki Fan
+item:131	Great Iron Fan
+item:132	Hokoku Tessen
+item:133	Hokoku Iron Fan
+item:134	Tensho Iron
+item:135	Tensho Bronze
+item:136	Chiri Leather
+item:137	Rekijin Leather
+item:138	Senjin Kunryaku
+item:139	Small War Fan
+item:140	Gunryaku Fan
+item:141	Spare Fan 1
+item:142	Spare Fan 2
+item:143	Spare Fan 3
+item:144	Spare Fan 4
+item:145	Spare Fan 5
+item:146	Domaru
+item:147	Namban Domaru
+item:148	Okegawa Domaru
+item:149	Namban Gusoku
+item:150	Red Namban Do
+item:151	Okegawa Gusoku
+item:152	Wht Okegawa Do
+item:153	Bear-Hair Mail
+item:154	Dark Namban Mail
+item:155	Myoo Red Mail
+item:156	Red Namban Mail
+item:157	Antler Blue Mail
+item:158	Blue Okegawa
+item:159	Sujikabuto Mail
+item:160	White Okegawa
+item:161	Chain Mail
+item:162	Navy Domaru
+item:163	Navy Dogusoku
+item:164	Oni Navy Mail
+item:165	Spare Armour 1
+item:166	Spare Armour 2
+item:167	Spare Armour 3
+item:168	Rusty Tachi
+item:169	Healing Bean
+item:170	Healing Barley
+item:171	Healing Rice
+item:172	Healing Meat
+item:173	Minor Remedy
+item:174	Medium Remedy
+item:175	Major Remedy
+item:176	Full Remedy
+item:177	Healing Scroll
+item:178	Healing Scroll
+item:179	Healing Scroll
+item:180	Healing Scroll
+item:181	Healing Water
+item:182	Healing Sake
+item:183	Healing Tea
+item:184	Healing Red Wine
+item:185	Plum Sake
+item:186	Bamboo Sake
+item:187	Pine Sake
+item:188	Tonic Sake
+item:189	Spare Healing 1
+item:190	Spare Healing 2
+item:191	Spare Healing 3
+item:192	Spare Healing 4
+item:193	Paralysis Cure
+item:194	Seal-Break Brew
+item:195	Restorative
+item:196	Buddha Pill
+item:197	Spare Medicine 1
+item:198	Spare Medicine 2
+item:199	Spare Medicine 3
+item:200	Wooden Shield
+item:201	Leather Shield
+item:202	White Shield
+item:203	Black Shield
+item:204	Red Shield
+item:205	Iron Shield
+item:206	Spare Shield 1
+item:207	Spare Shield 2
+item:208	Fujin Statue
+item:209	Raijin Statue
+item:210	Taishaku Statue
+item:211	Ashura Statue
+item:212	Fudo Statue
+item:213	Miroku Statue
+item:214	Spare Statue 1
+item:215	Spare Statue 2
+item:216	Chestnut Horse
+item:217	Black Horse
+item:218	Hoshizaki
+item:219	Nowaki
+item:220	Taishaku Kurige
+item:221	Matsukaze
+item:222	Ikezuki
+item:223	Spare Horse
+item:224	Brocade Surcoat
+item:225	Loaner Armour
+item:226	Large Quiver
+item:227	Horse Armour
+item:228	Light Horse Mail
+item:229	Hayago
+item:230	Large Gun Mount
+item:231	Mastery Scroll
+item:232	Ninja Tri-Blades
+item:233	War Fan
+item:234	Mountain Charm
+item:235	Sea Charm
+item:236	Bodhi Rosary
+item:237	Large Cart
+item:238	Deities Ledger
+item:239	Ninja Tri-Throw
+item:240	Spare 1
+item:241	Spare 2
+item:242	Spare 3
+item:243	Spare 4
+item:244	Spare 5
+item:245	Spare 6
+item:246	Spare 7
+item:247	Spare 8
+item:248	Spare 9
+item:249	Spare 10
+item:250	Spare 11
+item:251	Spare 12
+item:252	Spare 13
+item:253	Spare 14
+item:254	Spare 15
+class:0	Sword Inf.
+class:1	Sword Gen.
+class:2	Sword Cav.
+class:3	Sword Cdr
+class:4	Spearmen
+class:5	Spear Gen.
+class:6	Spear Cav.
+class:7	Spear Cdr
+class:8	Archers
+class:9	Bow Gen.
+class:10	Mtd Archer
+class:11	Bow Cdr
+class:12	Gunners
+class:13	Gun Gen.
+class:14	Gun Cav.
+class:15	Gun Cdr
+class:16	Artillery
+class:17	Cann. Gen.
+class:18	Genin
+class:19	Jonin
+class:20	Inspector
+class:21	Strategist
+class:22	Bandits
+class:23	Pirates
+class:24	Monks
+class:25	Ronin
+class:26	Ikko Rebel
+class:27	Townsfolk
+class:28	Error
+class:29	Error
+class:30	Error
+class:31	Error
+class:32	Error
+skill:0	No-Kill
+skill:1	Rainshield
+skill:2	Charge
+skill:3	Sacrifice
+skill:4	Smash
+skill:5	Poison Arr
+skill:6	Fire Arrow
+skill:7	Gun Volley
+skill:8	Dance Cut
+skill:9	Barrage
+skill:10	Rampage
+skill:11	Whirlwind
+skill:12	Fire Art
+skill:13	Self-Blast
+skill:14	Fire Raid
+skill:15	Flooding
+skill:16	Felled Log
+skill:17	Rockfall
+skill:18	Rough Sea
+skill:19	Bear
+skill:20	Skill Jam
+skill:21	Dbl Thrust
+skill:22	Tpl Thrust
+skill:23	Bow Volley
+skill:24	Halt Horse
+skill:25	Halt Ship
+skill:26	Warn Shot
+skill:27	Home Song
+skill:28	Eerie Dnc
+skill:29	Bewilder
+skill:30	Seal Art
+skill:31	Caltrops
+skill:32	Steal Plan
+skill:33	Encourage
+skill:34	Resupply
+skill:35	All Supply
+skill:36	Big Supply
+skill:37	Hunting
+skill:38	Calm Song
+skill:39	Free Song
+skill:40	Vigor Song
+skill:41	First Aid
+skill:42	Rally Song
+skill:43	Unity
+skill:44	Cheer
+skill:45	Rain Dance
+skill:46	Plunder
+skill:47	Quick Step
+skill:48	Fast Boat
+skill:49	Blank 1
+skill:50	Blank 2
+skill:51	Blank 3
+skill:52	Blank 4
+skill:53	Blank 5

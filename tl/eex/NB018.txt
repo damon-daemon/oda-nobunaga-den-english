@@ -1,0 +1,447 @@
+@0
+"Sworn Enemies"
+
+@1
+"The Takeda Advance"
+
+@2
+After a hard fight, Nobunaga defeated the Takeda cavalry, reputed the strongest of the Sengoku age.\n\nThe Takeda, devastated in this battle, were to decline steadily from then on.\nNobunaga was 42 years old.
+
+@3
+The Battle of Nagashino ended in an overwhelming victory for Nobunaga's army. It is said that as many as 10,000 of the Takeda's 15,000 men died. From then on the effectiveness of musket tactics became known throughout the realm.\nNobunaga was 42 years old.
+
+@4
+After a hard fight, Nobunaga defeated the Takeda cavalry, reputed the strongest of the Sengoku age.\n\nThe Takeda, devastated in this battle, were to decline steadily from then on.\nNobunaga was 42 years old.
+
+@5
+The Battle of Nagashino ended in an overwhelming victory for Nobunaga's army. It is said that as many as 10,000 of the Takeda's 15,000 men died. The decline of the Takeda became known throughout the realm.\nNobunaga was 42 years old.
+
+@6
+After a hard fight, Nobunaga defeated the Takeda cavalry, reputed the strongest of the Sengoku age.\n\nThe Takeda, devastated in this battle, were to decline steadily from then on.\nNobunaga was 42 years old.
+
+@7
+"Sworn Enemies"
+
+@8
+"Sworn Enemies"
+
+@9
+"Sworn Enemies"
+
+@10
+Echizen - Ikko Followers
+
+@11.0
+We risked our lives and took this province from the Asakura bastards.
+
+@11.1
+Yeah. But now we have to pay high alms to the Honganji priests who came later and did nothing.
+
+@11.2
+It's no different from when the wicked lords squeezed us for rice tax.
+
+@11.3
+I can't stand it any more. Let's drive out the Honganji priests.
+
+@13.0
+Word has come that a riot has broken out in Echizen. It is our chance to destroy the Ikko followers there.
+
+@14.0
+We march. Advance the troops to Tsuruga at once.
+
+@15
+Seeing the riot as a chance to destroy the Ikko followers of Echizen, Nobunaga gathered an army of 30,000 at Tsuruga.
+
+@16.0
+Hunt the rebels down, even into the mountains and forests.
+
+@17.0
+Cut down each one you find. Root them out completely.
+
+@18
+Echizen - In the Mountains
+
+@19.0
+I surrender. Please, spare my life.
+
+@20.0
+What shall we do?
+
+@20.1
+The lord's order is absolute. It cannot be helped. Kill him.
+
+@21.0
+Aaargh.
+
+@22.0
+They rise with no hope of winning, and so they die.
+
+@23.0
+(But Jubei, what of you? Do you have any hope of winning...)
+
+@24.0
+Echizen, then...
+
+@25.0
+(In those days I lived thinking only of restoring the shogunate. But...)
+
+@25.1
+(Now I am only carried along by whatever Lord Nobunaga commands... like that cloud.)
+
+@25.3
+No, it is nothing. Pay it no mind.
+
+@25.4
+(I seem to be tired. I...)
+
+@26
+Having annihilated the Ikko rebels of Echizen, Nobunaga pressed his advantage and pacified two districts of Kaga as well.
+
+@27.0
+You have all done well in this pacification of Echizen.
+
+@27.1
+Now I shall divide Echizen. First, Katsuie, who did the best service, receives eight districts of Echizen.
+
+@28.0
+Yes, my lord. I am most grateful.
+
+@29.0
+The remaining two districts go to you three, Fuwa Mitsuharu, Sassa Narimasa and Maeda Toshiie. Stay put and assist Katsuie.
+
+@31.0
+I have something else to tell you all. I have decided to hand the headship of the family to Nobutada.
+
+@31.1
+Nobutada, I give you Owari and Mino. Govern them well.
+
+@31.2
+Fa... Father, what are you saying so suddenly?
+
+@31.3
+It is your father's order. Accept it, Nobutada.
+
+@32.0
+Yes, my lord. I will strive with all my might not to shame the Oda name.
+
+@33.0
+I leave Gifu Castle to Nobutada. I shall build a new castle at Azuchi, near Kyoto and well placed for travel.
+
+@33.1
+Nagahide, I appoint you commissioner of construction.
+
+@34.0
+Yes, my lord. I will build a famous castle worthy of the Realm Under One Sword.
+
+@35.0
+Now, having struck the Ikko uprising in Echizen, next is the root of it all, Honganji.
+
+@35.1
+Nobumori, surround Honganji and starve it out. Leave the priests to dry in the sun.
+
+@37.0
+I leave the conquest of Tanba and Tango to Mitsuhide. Take whatever you can.
+
+@38.0
+Yes, my lord. I am most grateful.
+
+@39.0
+Tanba was once the Hosokawa's domain. Fujitaka, follow Mitsuhide and conquer Tanba.
+
+@41.0
+Yes. Let this be the occasion for the two of you to become kin by marriage.
+
+@41.1
+Mitsuhide, how about marrying your daughter to Fujitaka's heir?
+
+@41.2
+Since I know Lord Hosokawa well, I am at ease.
+
+@41.3
+As the child of Lord Akechi, she must be both talented and beautiful. Fujitaka gladly accepts.
+
+@42
+Thus Akechi Mitsuhide's daughter Otama married Hosokawa Fujitaka's heir Tadaoki.\n\nLater Otama would be baptised and take the name Hosokawa Gracia.
+
+@43.0
+My lord, a report says that fallen warriors are raiding villages in western Mino.
+
+@43.1
+They are probably stragglers of the Azai or the Asakura. What will you do?
+
+@45.0
+Good. I will march at once to western Mino.
+
+@45.1
+I myself will put down these ghosts.
+
+@47.0
+Monkey, I leave it to you. Do as you see fit.
+
+@48.0
+Yes, my lord.
+
+@49.0
+My lord, a report says that fallen warriors are raiding villages in western Mino.
+
+@49.1
+They are probably stragglers of the Azai or the Asakura. What will you do?
+
+@51.0
+Good. I will march at once to western Mino.
+
+@51.1
+I myself will put down these ghosts.
+
+@53.0
+Monkey, I leave it to you. Do as you see fit.
+
+@54.0
+Yes, my lord.
+
+@56
+The 11th month, the 3rd year of Tensho (1575)\nNobunaga suddenly resolved to hand the headship of the family to his heir Nobutada.
+
+@57.0
+First I tell you all this. I have decided to hand the headship of the family to Nobutada.
+
+@57.1
+Nobutada, I give you Owari and Mino. Govern them well.
+
+@57.2
+Fa... Father, what are you saying so suddenly?
+
+@57.3
+It is your father's order. Accept it, Nobutada.
+
+@58.0
+Yes, my lord. I will strive with all my might not to shame the Oda name.
+
+@59.0
+I leave Gifu Castle to Nobutada. I shall build a new castle at Azuchi, near Kyoto and well placed for travel.
+
+@59.1
+Nagahide, I appoint you commissioner of construction.
+
+@60.0
+Yes, my lord. I will build a famous castle worthy of the Realm Under One Sword.
+
+@61.0
+Now, having struck the Ikko uprising in Echizen, next is the root of it all, Honganji.
+
+@61.1
+Nobumori, surround Honganji and starve it out. Leave the priests to dry in the sun.
+
+@63.0
+I leave the conquest of Tanba and Tango to Mitsuhide. Take whatever you can.
+
+@64.0
+Yes, my lord. I am most grateful.
+
+@65.0
+Tanba was once the Hosokawa's domain. Fujitaka, follow Mitsuhide and conquer Tanba.
+
+@67.0
+Yes. Let this be the occasion for the two of you to become kin by marriage.
+
+@67.1
+Mitsuhide, how about marrying your daughter to Fujitaka's heir?
+
+@67.2
+Since I know Lord Hosokawa well, I am at ease.
+
+@67.3
+As the child of Lord Akechi, she must be both talented and beautiful. Fujitaka gladly accepts.
+
+@68
+Thus Akechi Mitsuhide's daughter Otama married Hosokawa Fujitaka's heir Tadaoki.\n\nLater Otama would be baptised and take the name Hosokawa Gracia.
+
+@69
+Yoshiaki's Hideout
+
+@70.0
+It has been years since Nobunaga drove me from the shogun's seat, and his power only grows.
+
+@71.0
+If I do not summon the lords of the land and confront him, it will be too late.
+
+@72.0
+But Takeda Shingen is no longer in this world. Who else could take his place...
+
+@73.0
+Yes! There are the Mori. I shall ask the Mori.
+
+@73.1
+If I call, they will surely rise... no, they must rise.
+
+@74
+Aki - Yoshida Koriyama
+
+@75
+Yoshida Koriyama Castle - Council Hall
+
+@76.0
+I have gathered you all for one reason.
+
+@76.1
+It concerns the letter from the shogun, Ashikaga Yoshiaki.
+
+@76.2
+Strike down Nobunaga, so that power is returned to the rightful ruler of the realm, is it...
+
+@76.3
+What a selfish thing to say. We need not deal with him.
+
+@76.4
+It cannot be so simple.
+
+@76.5
+Rather, we might use this chance to make our relationship with the Oda clear.
+
+@76.6
+Hm. What are we to do...
+
+@76.7
+My late grandfather told me that in trouble I should consult my uncle Takakage.
+
+@76.8
+What should I do? Should we put the shogun first and fight the Oda?
+
+@76.9
+This is not the time to fight the Oda. But if you turn the shogun away, my lord, you will lose your men's trust.
+
+@76.10
+I think it best to keep the shogun in Bingo and support Honganji, which is at war with the Oda.
+
+@76.11
+The Oda are mighty. We must avoid a direct clash and keep the road to peace open to the end.
+
+@76.12
+I see. As expected of my uncle.
+
+@77
+Azuchi Castle
+
+@78
+Having won a promise of support from the Mori, Ishiyama Honganji called the Kii Ikko musketeers from Saiga and prepared to strike back at the Oda. Nobunaga at once sent Akechi Mitsuhide and Hosokawa Fujitaka, then campaigning in Tanba, to Honganji, and resolved to take the field himself.
+
+@79.0
+My lord, our army attacking Ishiyama Honganji is in difficulty. What will you do?
+
+@79.1
+It seems I must take command myself.
+
+@81.0
+All of you, we march!
+
+@83.0
+I hear the Mori have delivered provisions to Honganji. It looks to be a hard fight.
+
+@84.0
+I, Nobutada, will not fight in a way that dishonours my father's name.
+
+@85.0
+To think there were still such rogues in my own domain.
+
+@86.0
+Because the war with the Takeda dragged on, Honganji is fully prepared.\n\nThe Saiga band has also arrived, so a frontal assault is dangerous...
+
+@87.0
+Honganji is making ready for a siege.\n\nI think the best plan is to surround and isolate Honganji and starve it out.
+
+@88.0
+To think there were still such rogues in my own domain. A blunder...
+
+@89.0
+My men report that Mori provisions have reached Honganji. And many Saiga musketeers can be seen inside the fort.
+
+@90.0
+My men report that Honganji is running short of provisions.
+
+@91.0
+Fallen warriors like these are no match for us.
+
+@92.0
+Attacking the fort is difficult. How about attacking with muskets and cannon?
+
+@93.0
+If we cut the Mori's supply convoys, the war will be easier.
+
+@94.0
+Hmm... I doubt it, but be on your guard.
+
+@95.0
+Leave the defence of the castle to me.
+
+@96.0
+Ikko followers who do not fear death are troublesome foes. Be careful...
+
+@97.0
+I would like to drink that red wine once, on the battlefield...
+
+@98.0
+I hear a merchant has brought in new goods.
+
+@99.0
+The blood-coloured drink the padres drink is said to be good for the body. How about taking some to battle?
+
+@100.0
+Let us strike them thoroughly, so that no one ever defies you again, my lord.
+
+@101.0
+Kenshin is stirring uneasily. Depending on the outcome of this war, he may attack.
+
+@102.0
+If we drag this into a war of attrition and wear the enemy down bit by bit, it is as good as won.
+
+@103.0
+This is a suspicious tale... It may be a trap.
+
+@104.0
+To think we must force a short war against an enemy with no openings...
+
+@105.0
+If we lose here, the Dragon of Echigo may come out.
+
+@106.0
+Let us teach them the folly of defying the Oda.
+
+@107.0
+When this battle is over, I will take Maeda and the others to Hokuriku.
+
+@108.0
+When this battle is over, I will go to Hokuriku with Lord Shibata.
+
+@109.0
+When this battle is over, I will go to Hokuriku with Lord Shibata and the others.
+
+@110.0
+After this battle I will go to Hokuriku.
+
+@111.0
+When this battle is over, I will go to Hokuriku.
+
+@112.0
+Fallen warriors of the Azai and Asakura, is it...
+
+@113.0
+With strong rear guards and the troops split in two, a few traps will not trouble us.
+
+@114.0
+Leave it to me. I will not lag behind mere fallen warriors.
+
+@115.0
+Even fallen warriors call for caution.
+
+@116.0
+Give me the vanguard! I will scatter these fallen warriors.
+
+@117.0
+I am poor at fighting on plains and in the mountains.
+
+@118.0
+Leave the healing to me.
+
+@119.0
+Good fortune in battle.
+

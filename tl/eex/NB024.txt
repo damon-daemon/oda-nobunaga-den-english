@@ -1,0 +1,84 @@
+@0
+Izumi - Oda Nobunaga's Camp
+
+@1.0
+My lord. Learning of our movements, the Ikko followers of Iga have risen in rebellion. What will you do?
+
+@1.1
+Hmm...
+
+@2
+Suppress them\nIgnore them
+
+@3.0
+Before crossing to Shikoku, I will go and suppress Iga.
+
+@5.0
+No matter. Leave them be.
+
+@7.0
+My lord, the Chosokabe forces have already entered Awa and are closing on Shozui Castle.
+
+@7.1
+We cross the sea now and land in Awa. Stop the Chosokabe advance!
+
+@9.0
+To plot an uprising at a time like this...
+
+@10.0
+Lord Shibata in Etchu has begun his attack on the Uesugi again.
+
+@11.0
+Iga was only pacified recently, so there must be those who would plot such uprisings.
+
+@12.0
+West of Shozui Castle lies Iwakura Castle, and to the south Ushiki Castle. The enemy's main force has gathered in these two.
+
+@13.0
+This is the first I have heard of Ikko followers in that area...
+
+@14.0
+If Shozui Castle in Awa, held by Sogo Nagayasu, falls, we shall be forced to withdraw as well.
+
+@15.0
+An uprising is unforgivable!
+
+@16.0
+The Chosokabe seat, Oko Castle, lies in southern Shikoku.
+
+@17.0
+Leave it to me. I will deal with those rebels with ease, you will see.
+
+@18.0
+Shozui Castle in Awa, where we are headed, is held by Sogo Nagayasu.
+
+@19.0
+An uprising in Iga sounds rather suspicious...
+
+@20.0
+To pacify Shikoku, we have no choice but to utterly crush the Chosokabe forces.
+
+@21.0
+It may be someone's trap. Take care.
+
+@22.0
+They say the Chosokabe forces in Awa have taken the field under their commander-in-chief Motochika, with his heir Nobuchika, Kosokabe Chikayasu, Kira Chikasada and Hisatake Chikanobu.
+
+@23.0
+Iga is mountainous, and movement there is difficult.
+
+@24.0
+The Chosokabe seat is Oko Castle in Tosa. If we win in Awa, the enemy will surely begin to withdraw to Tosa.
+
+@25.0
+Mo-mountains again...
+
+@26.0
+If Lord Hashiba succeeds in subduing the Mori, we can also expect reinforcements from the Inland Sea.
+
+@27.0
+We still cannot leave them alone. Let us put them down quickly.
+
+@28.0
+Father. Motochika has marched on Awa with a large army, but he still leaves a great force in Tosa.
+

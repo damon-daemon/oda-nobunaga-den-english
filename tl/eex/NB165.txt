@@ -1,0 +1,135 @@
+@0.0
+There is no turning back now... Destroy Nobunaga, and seize the realm myself. That is the only road left!
+
+@0.1
+Hidemitsu, do not let him escape!
+
+@0.2
+Yes, leave it to me.
+
+@0.3
+Toshimitsu, you go to Myokakuji, where Nobutada is!
+
+@0.5
+...(Just in case, I should post spies throughout the city...)
+
+@0.6
+Is anyone there!
+
+@0.7
+Yes, my lord. What is it?
+
+@0.8
+Send spies into the city and have them watch the streets!
+
+@0.10
+We cut through the enemy and break out. Bring me a spear!
+
+@1.0
+!! Ugh, damn... I was singled out and shot...
+
+@2
+Oda Nobunaga lost the trait "Spirit"
+
+@3
+Oda Nobunaga lost the trait "Full Heal"
+
+@4
+Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n  2. Reach the area around either of the\n     two Storehouses in the northeast.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+
+@5
+Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n  2. Reach the area around either of the\n     two Storehouses in the northeast.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+
+@6.0
+Grr, Mitsuhide...
+
+@7.0
+Charge Honnoji!
+
+@8.0
+This is... We must save our lord somehow!
+
+@8.1
+Lord Hidesada, let us charge!
+
+@8.2
+Yes!
+
+@9.0
+This is... We must save our lord somehow!
+
+@10.0
+Nobunaga, you will not escape!
+
+@12.0
+My lord, Nobunaga has escaped from Honnoji!
+
+@12.1
+What? Do not let him get away! The whole army, pursue Nobunaga!
+
+@27.0
+Mitsuhide! To think you would betray me...
+
+@27.1
+This is not betrayal. My lord's conduct is that of a demon king himself.
+
+@27.2
+I have merely risen to strike down a demon king.
+
+@27.3
+You have no place in this world. Prepare yourself!
+
+@27.4
+Destruction is unavoidable if a new age is to be built.
+
+@27.5
+How foolish, not to understand that...
+
+@27.6
+In the end you are only that sort of man... Pitiful.
+
+@28.0
+A blunder...
+
+@29.0
+Ugh, what strength...
+
+@30.0
+Ugh... I somehow got out...
+
+@31
+Nobunaga went to Kyoto to pacify the Chugoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnoji and launched an all-out attack.\n\n\nOda Nobunaga shook off Akechi Mitsuhide's pursuit and escaped from Kyoto.
+
+@32
+Gained 3000 gold
+
+@33
+Akechi Mitsuhide rebels
+
+@34.0
+My lord, which direction will you take?
+
+@35
+Head for Omi\nHead for Tanba\nHead for Hida
+
+@37
+Head for Tanba\nHead for Hida
+
+@54
+Nobunaga went to Kyoto to pacify the Chugoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnoji and launched an all-out attack.\n\n\nBefore Nobunaga, who fought like a raging god, Mitsuhide was defeated and retreated.\n\n\nNobunaga barely drove Mitsuhide off, but was gravely wounded in the fight and afterwards went missing...
+
+@55
+Gained 4000 gold
+
+@56
+Defeats Akechi Mitsuhide at Honnoji
+
+@57
+Nobunaga went to Kyoto to pacify the Chugoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnoji and launched an all-out attack.\n\n\nNobunaga tried to escape but could not, and was engulfed in flames together with his ambitions...
+
+@58.0
+Damn, is he a demon god! It cannot be helped, withdraw.
+
+@59.0
+This is the end...
+

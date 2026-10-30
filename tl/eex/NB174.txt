@@ -1,0 +1,147 @@
+@0.0
+At last we march on the Kanto.
+
+@0.1
+After taking Sunpu Castle, we join the Monkey, who has gone to Fuchu, and take Odawara Castle in one stroke!
+
+@0.2
+If we bring the Tokugawa and Hojo under our banner, the realm will be ours.
+
+@0.3
+Everyone, stay sharp! Sally forth!
+
+@0.4
+Thanks to Lord Tokugawa's defection, we have Sunpu as a shield.
+
+@0.5
+Ujinori, go to Sunpu and support Lord Tokugawa.
+
+@0.6
+Yes, understood.
+
+@0.8
+In time the age will no longer need Lord Nobunaga...
+
+@1
+Battle of Sunpu and Odawara\nVictory: 1. Force Tokugawa Ieyasu to retreat.\n  2. Take Sunpu Castle and Odawara Castle.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@2
+Battle of Sunpu and Odawara\n\nVictory: 1. Force Tokugawa Ieyasu to retreat.\n  2. Take Sunpu Castle and Odawara Castle.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@3
+Hideyoshi's force has arrived.
+
+@4.0
+Now we join my lord and attack Odawara Castle!
+
+@4.1
+Let's go!
+
+@5
+Nirayama Castle was taken.
+
+@6.0
+Ujiteru, you too will support Lord Tokugawa. Stay sharp.
+
+@7.0
+Nobunaga, I will not allow you to set foot in the Kanto.
+
+@7.1
+What can these eastern barbarians do? Get out of my way.
+
+@8.0
+Ieyasu, had you not betrayed me, you might have been spared hell.
+
+@8.1
+Lord Nobunaga, soon there will be no place in the world for a destroyer. Lord Nobunaga.
+
+@8.2
+Nonsense. I will silence that sharp tongue of yours!
+
+@9.0
+Oh, my lord... M-my... lord...
+
+@10.0
+Damn, what a disaster. Retreat to Odawara Castle.
+
+@11.0
+Wooaah! Gugh.
+
+@12.0
+Damn, what a disaster. Retreat to Odawara Castle.
+
+@13.0
+Such a blunder...
+
+@14.0
+Damn, what a disaster. Retreat to Odawara Castle.
+
+@15.0
+My lord!
+
+@16.0
+Damn, what a disaster. Retreat to Odawara Castle.
+
+@17.0
+Eek!
+
+@18
+Odawara Castle was taken.
+
+@19
+Odawara Castle was taken.
+
+@20
+Sunpu Castle and Odawara Castle were taken, and the Kanto was pacified.
+
+@21
+Gained 10000 gold
+
+@22
+Tokugawa-Hojo alliance defeated
+
+@23
+Sunpu Castle was taken.
+
+@24
+Sunpu Castle was taken.
+
+@25
+Sunpu Castle and Odawara Castle were taken, and the Kanto was pacified.
+
+@26
+Gained 10000 gold
+
+@27
+Tokugawa-Hojo alliance defeated
+
+@29
+The Oda main camp was taken by the enemy
+
+@30.0
+Damn... Kakegawa Castle...
+
+@31
+Oda Nobunaga was defeated by the enemy.
+
+@32
+Oda Nobunaga defeated the Tokugawa-Hojo alliance and pacified the Kanto.
+
+@33
+Gained 10000 gold
+
+@34
+Tokugawa-Hojo alliance defeated
+
+@35
+Oda Nobunaga was defeated by the Tokugawa-Hojo alliance.
+
+@36.0
+Guah!
+
+@36.1
+Did I misjudge the age...?
+
+@36.3
+No... bu... na... ga...
+

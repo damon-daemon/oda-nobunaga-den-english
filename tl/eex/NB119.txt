@@ -1,0 +1,96 @@
+@0.0
+Nobunaga's army has appeared.
+
+@0.1
+(Heh, it would not be bad to test whether Nobunaga or I am the better man.)
+
+@0.2
+Hisahide chose his tea utensils over his own life. I cannot understand it.
+
+@0.3
+Attack Shigisan Castle with everything!
+
+@1
+Subjugation of Matsunaga Hisahide\nVictory: 1. Make Matsunaga Hisahide retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Subjugation of Matsunaga Hisahide\n\nVictory: 1. Make Matsunaga Hisahide retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3
+Ambushers appeared
+
+@4.0
+Nobunaga has spotted the trap in this storehouse... No help for it, all units, charge!
+
+@5.0
+As expected of Nobunaga... Such petty tricks do not work on him...
+
+@8
+Ambushers appeared
+
+@9.0
+Heh heh, it seems they walked into Lord Hisahide's trap.
+
+@10
+Ambushers appeared
+
+@11.0
+I cannot believe Nobunaga would fall into the same trap twice.
+
+@11.1
+Is this a ploy to lure us out!?
+
+@12
+Ambushers appeared
+
+@13.0
+Ha ha ha, dazzled by the treasure in the storehouse, they rushed into the trap.
+
+@14.0
+Falling into the same trap twice. What fools.
+
+@15.0
+Damn... It seems we had better escape from Shigisan Castle...
+
+@16.0
+Ugh... Fall back to the castle for now.
+
+@17.0
+Ugh... I was no match for him after all...
+
+@17.1
+If I must die anyway, I will show you a death fit for a demon.
+
+@18
+Cornered, Matsunaga Hisahide strapped the Hiragumo kettle to his body, set fire to a barrel of gunpowder, and died in a spectacular explosion.
+
+@19
+Gained 2000 gold
+
+@20
+Killed Matsunaga Hisahide at Shigisan Castle
+
+@23.0
+Damn, I misjudged Hisahide's strength...
+
+@24
+Oda Nobunaga was defeated by Matsunaga Hisahide at Shigisan Castle.
+
+@25.0
+Ugh... I was no match for him after all...
+
+@25.1
+If I must die anyway, I will show you a death fit for a demon.
+
+@26
+Cornered, Matsunaga Hisahide strapped the Hiragumo kettle to his body, set fire to a barrel of gunpowder, and died in a spectacular explosion.
+
+@27
+Gained 2000 gold
+
+@28
+Killed Matsunaga Hisahide at Shigisan Castle
+
+@29
+Oda Nobunaga was defeated by Matsunaga Hisahide at Shigisan Castle.
+

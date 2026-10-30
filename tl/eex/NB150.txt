@@ -1,0 +1,114 @@
+@0.0
+So they have come at last...
+
+@0.1
+So that is Kiyosu...
+
+@0.2
+Wait until orders are given!
+
+@1
+Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+
+@2
+Defence of Kiyosu Castle\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+
+@3
+Imagawa Yoshimoto's main force arrived!
+
+@4.0
+Ho ho ho, I shall watch the end of that Oda upstart with my own eyes.
+
+@4.1
+So that is Yoshimoto's main force!
+
+@5
+Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\n  2. Crush Imagawa Yoshimoto.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+
+@6
+Defence of Kiyosu Castle (victory condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+
+@7
+Enemy reinforcements appeared!
+
+@8.0
+We begin the assault on the castle now!
+
+@8.1
+Attack!
+
+@9
+Imagawa Yoshimoto's main force arrived!
+
+@10.0
+Ho ho ho, I shall watch the end of that Oda upstart with my own eyes.
+
+@10.1
+So that is Yoshimoto's main force!
+
+@11
+Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\n  2. Crush Imagawa Yoshimoto.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+
+@12
+Defence of Kiyosu Castle (victory condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+
+@13
+Enemy reinforcements appeared!
+
+@18
+There is nobody in this village.
+
+@19
+There is nobody in this village.
+
+@20.0
+Why will you not simply bow to the Imagawa...
+
+@20.1
+Nobunaga! I shall send you to your end myself!
+
+@21.0
+So you are Nobunaga. You have a fine face...
+
+@21.1
+Yoshimoto! Prepare yourself!
+
+@22.0
+D-Damn you, Nobunaga!
+
+@23.0
+Th-This cannot be...
+
+@23.1
+My realm...
+
+@23.2
+In a place like this...
+
+@23.3
+Guh! Th-This is a nightmare...
+
+@23.4
+A... nigh... tmare...
+
+@24
+At Kiyosu, Oda Nobunaga\nstruck down Imagawa Yoshimoto.
+
+@26
+Imagawa Yoshimoto defeated in the siege of Kiyosu
+
+@27.0
+Good, we have taken the Oda castle.
+
+@28
+Kiyosu Castle was taken by the enemy.
+
+@30
+At Kiyosu, Oda Nobunaga\nstruck down Imagawa Yoshimoto.
+
+@32
+Imagawa Yoshimoto defeated in the siege of Kiyosu
+
+@33
+Oda Nobunaga was defeated by Imagawa Yoshimoto.
+

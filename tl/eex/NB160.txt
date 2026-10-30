@@ -1,0 +1,72 @@
+@0.0
+A blunder. To think the Azai and Asakura would take Kyoto from me...
+
+@0.1
+Even the Oda forces cannot break through this defence.
+
+@0.2
+We will cut Nobunaga down as an example for all generations.
+
+@1
+Battle for Kyoto against the Azai and Asakura\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Battle for Kyoto against the Azai and Asakura\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3.0
+We sally out now! Do not let Nobunaga slip away!
+
+@4
+Shrine
+
+@5.0
+I pray for victory!
+
+@5.1
+Oh, what is this...
+
+@7.0
+Yoshikage, with swordsmanship like that, it is laughable to think you can cut me down.
+
+@7.1
+Go home at once and compose poems in Echizen.
+
+@7.2
+D-Damn you!
+
+@8.0
+Nagamasa, I commend you for striking where I was unguarded and taking Kyoto.
+
+@8.1
+Lord Nobunaga, I shall take your head.
+
+@9.0
+The chance to destroy Nobunaga will come round again. For now, retreat.
+
+@10
+Warrior monks of Mt. Hiei appeared!
+
+@11.0
+Nobunaga! Your years of cruelty are unforgivable. In the Buddha's stead, we shall punish you!
+
+@11.1
+Oh, Mt. Hiei has raised an army!
+
+@11.2
+Gh, those Hiei monks.
+
+@11.3
+They preach no Buddhist way, yet they side with the Azai and Asakura!
+
+@11.4
+Enough, I will make them feel the terror of Nobunaga!
+
+@17
+Azai-Asakura allied army defeated in Kyoto
+
+@19.0
+Grr, to be beaten after coming this far...
+
+@19.1
+H-How bitter.
+

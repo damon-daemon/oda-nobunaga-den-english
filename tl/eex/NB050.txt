@@ -1,0 +1,138 @@
+@5
+Honnoji Incident occurs\nNo Honnoji Incident
+
+@7
+Defeated by Nobunaga at the Battle of Yamazaki, Mitsuhide slipped away from the field with his retainers and reached Ogurisu, south of Kyoto.
+
+@9.0
+Ugh!\n\nT-this little wound...
+
+@24.0
+All of you, you have done magnificent service in this war.
+
+@25.0
+Father, I am glad you are safe.
+
+@26.0
+My lord! Thank heaven you are alive!
+
+@27.0
+My lord! I, Nagahide, could ask for no greater joy.
+
+@29.1
+You came back swiftly from Bitchu to punish Mitsuhide. Magnificent service.
+
+@31.0
+Is it true, Hanzo?\n\nLord Nobunaga is alive?
+
+@31.1
+Yes, my lord!\n\nLord Nobunaga joined the Hashiba army at Yamazaki, crushed the Akechi, and has returned to Kyoto.
+
+@31.2
+...Nothing but surprises.\n\nFirst Lord Hashiba races back from Bitchu with godlike speed, and now Lord Nobunaga, supposedly dead, is alive...
+
+@31.4
+Hm. With Mitsuhide slain and Lord Nobunaga alive, there is no need to advance our troops. We withdraw to Hamamatsu at once.
+
+@33.0
+They say Hideyoshi has made peace with the Mori and is marching on the home provinces. We must hurry too.
+
+@33.1
+I hear Mitsuhide has already left Kyoto for Shoryuji.
+
+@33.2
+Preparations will be ready by tomorrow.
+
+@34.0
+Huff, huff, huff...
+
+@34.1
+Oh, is that you, Toshiie?
+
+@34.2
+What is it? You are out of breath...
+
+@34.3
+O-Old man, I bring good news!
+
+@34.5
+M-my lord! He is alive!
+
+@35.0
+Toshiie, are you absolutely certain?!
+
+@35.1
+There is no mistake.
+
+@36.0
+His lordship is alive...
+
+@36.1
+And where is his lordship now?
+
+@36.2
+He defeated the Akechi at Yamazaki together with the armies of Lords Hashiba and Niwa, and has returned to Kyoto.
+
+@36.3
+What, Mitsuhide has already been slain...
+
+@38.2
+Listen, all of you.\n\nWe took most of Awa last year, but Sanuki and Shozui Castle in northern Awa are still under our old enemy Sogo. Sogo was allied with Nobunaga, but with Akechi's revolt the Oda house is as good as finished. I believe now is the perfect chance to conquer Awa.
+
+@38.3
+You speak truly, my lord. Let us conquer Awa and Sanuki and achieve our long-cherished unification of Shikoku!
+
+@38.5
+But if we attack Sogo, the Oda will send troops to Shikoku.
+
+@38.6
+That Nobunaga, whom we thought dead, is alive was a miscalculation.\n\nNobunaga has enemies on all sides: Uesugi and Hojo, Mori, and us. He cannot spare an army for Shikoku. Father, let us attack Awa.
+
+@39.0
+Listen, all of you.\n\nWe took most of Awa last year, but Sanuki and Shozui Castle in northern Awa are still under our old enemy Sogo.\n\nI believe now is the perfect chance to conquer Awa.
+
+@39.1
+You speak truly, my lord. Let us conquer Awa and Sanuki and achieve our long-cherished unification of Shikoku!
+
+@39.3
+But if we attack Sogo, the Oda will send troops to Shikoku.
+
+@39.4
+Nobunaga has enemies on all sides: Uesugi and Hojo, Mori, and us. He cannot spare an army for Shikoku. Father, let us attack Awa.
+
+@40.2
+I give you the vanguard for the attack on Shozui!
+
+@43.0
+We now resume the pacification of the provinces.\n\nMonkey! You and Masakatsu will resume the campaign in Chugoku!
+
+@44.0
+Yes, my lord!\n\nI shall surely bring back good news!
+
+@44.1
+Good.\n\nNagahide!
+
+@45.1
+Send a messenger to Katsuie at Kitanosho and order him to resume the campaign against the Uesugi!
+
+@46.2
+My lord.\n\nA courier has come from Lord Sogo Nagayasu in Sanuki.
+
+@48.0
+Chosokabe Motochika of Tosa is marching on our Shozui Castle in Awa.
+
+@49.1
+Our forces are holding Shozui Castle under siege. Please send reinforcements as quickly as you can.
+
+@49.2
+Understood.\n\nNobutada!
+
+@50.1
+We march to relieve Shozui. As soon as preparations are done, we go to Izumi and cross over to Shikoku from there.
+
+@51.1
+This war is more than relieving Shozui Castle.\n\nOur true aim is to destroy the Chosokabe and pacify all of Shikoku!
+
+@54
+Meanwhile, the Hojo, learning that Nobunaga was alive, posted troops in Kozuke and Musashi and took a wait-and-see stance.
+

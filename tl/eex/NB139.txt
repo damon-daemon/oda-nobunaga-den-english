@@ -1,0 +1,33 @@
+@0.0
+Heh heh heh, Nobunaga. Taste the strength of our cavalry to the full.
+
+@0.1
+I will annihilate the Takeda cavalry, hailed as the strongest, and make it the foundation of my dream.
+
+@0.2
+We crush the Takeda army head on! The whole army sorties!
+
+@1
+Battle of Nagashino\nVictory: 1. Make Takeda Katsuyori retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.\n  4. Nagashino Castle is taken.
+
+@2
+Battle of Nagashino\n\nVictory: 1. Make Takeda Katsuyori retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.\n  4. Nagashino Castle is taken.
+
+@3.0
+Begin the attack on Nagashino Castle!
+
+@5.0
+Now! The whole army charges!
+
+@9.0
+Grr, it cannot be helped. The whole army retreats!
+
+@12
+Nagashino Castle has fallen.
+
+@13.0
+My lord, Nagashino Castle came under attack by the Takeda army and has fallen!
+
+@13.1
+Damn, Katsuyori has outwitted me... It cannot be helped. The whole army retreats!
+

@@ -1,0 +1,96 @@
+@0.0
+What a disgrace!
+
+@0.1
+To be pursued by the Azai and Asakura yet again!
+
+@0.2
+Now is the chance to strike down Nobunaga!
+
+@0.3
+Good, let us go!
+
+@1
+Defence of Omi\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Defence of Omi\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3.0
+Good, we advance as well!
+
+@4.0
+Begin the advance! Men, follow me!
+
+@6.0
+The villagers around here ran away before the fighting started.
+
+@6.1
+I'm about to run off myself.
+
+@9
+Rokkaku Yoshikata's army appeared!
+
+@10.0
+A-An army lay in ambush...
+
+@10.1
+Now is the chance to strike down the hateful Nobunaga!
+
+@10.2
+Kill him, and we take back Omi, the land of our forefathers!
+
+@10.3
+Damn you, Rokkaku Yoshikata!
+
+@11
+Rokkaku Yoshikata's army appeared!
+
+@12.0
+Now is the chance to strike down the hateful Nobunaga!
+
+@12.1
+Kill him, and we take back Omi, the land of our forefathers!
+
+@12.2
+Damn you, Rokkaku Yoshikata!
+
+@13.0
+Nobunaga! I have waited long for this day!
+
+@13.1
+I will defeat you and settle my grudge of many years!
+
+@13.2
+Idle boasts. I will cut you down in return!
+
+@14.0
+Asakura Kagetake!
+
+@14.1
+Nobunaga, this time it will not go as it did in Echizen!
+
+@15.0
+...Nagamasa. To think I would end up crossing swords with you...
+
+@15.1
+Lord Nobunaga, prepare yourself!
+
+@16.0
+Gh, defeated by Nobunaga yet again...
+
+@17.0
+Retreat to Echizen!
+
+@18.0
+Retreat!
+
+@22
+Oda Nobunaga defeated\nthe Azai-Asakura allied army.
+
+@24
+Azai-Asakura allied army defeated in southern Omi
+
+@25
+Oda Nobunaga was defeated by\nthe Azai-Asakura allied army.
+

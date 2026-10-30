@@ -1,0 +1,183 @@
+@0.0
+Hmm... Though it came about by circumstance, I have ended up in rebellion.
+
+@0.1
+Whether a man wants it or not, once it begins to move it cannot be stopped, it seems...
+
+@0.2
+(Why did Murashige rebel... I do not understand.)
+
+@0.3
+(But whoever defies me, whoever it may be, must be put down.)
+
+@0.4
+Monkey, Nobumori, try to persuade Ukon of Takatsuki Castle and Kiyohide of Ibaraki Castle. Is that clear?
+
+@0.5
+Yes, my lord. Leave it to this Monkey.
+
+@0.6
+Yes, my lord. Understood.
+
+@0.7
+Very well, all units, sortie!
+
+@1
+Battle to Subdue Araki Murashige\nVictory: 1. Make Araki Murashige retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Battle to Subdue Araki Murashige\n\nVictory: 1. Make Araki Murashige retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3.0
+According to that farmer there should be horses around here... Ah, there!
+
+@4
+Took Ibaraki Castle
+
+@5
+Took Takatsuki Castle
+
+@6.0
+Samurai, let me tell you something good. There is a herd of horses at the foot of the mountains north of this village.
+
+@6.1
+You might find a really fine horse.
+
+@7.0
+Samurai, here are some beans from my field.
+
+@8.0
+Ugh... If I am captured, who knows what they will do to me...
+
+@8.1
+(I have no choice but to slip out of the castle in secret...)
+
+@9.0
+Lord Kiyohide, even if you ally with the Mori and Honganji, no reinforcements will come.
+
+@9.1
+Trust me and return to our side.
+
+@9.3
+Will Lord Nobunaga forgive me...
+
+@9.4
+You need not worry. My lord regrets losing you, Lord Kiyohide.
+
+@9.5
+I understand. I will trust your word and surrender to Lord Nobunaga.
+
+@10
+Nakagawa Kiyohide returned to Nobunaga.
+
+@11.0
+Lord Kiyohide, even if you ally with the Mori and Honganji, no reinforcements will come.
+
+@11.1
+Trust me and return to our side.
+
+@11.3
+Will Lord Nobunaga forgive me...
+
+@11.4
+You need not worry. My lord regrets losing you, Lord Kiyohide.
+
+@11.5
+I understand. I will trust your word and surrender to Lord Nobunaga.
+
+@12
+Nakagawa Kiyohide returned to Nobunaga.
+
+@13.0
+Lord Ukon, they say my lord will forgive you if you come now.
+
+@13.1
+Trust me and return to our side.
+
+@13.2
+Hmm...
+
+@13.3
+I understand. I will surrender to Lord Nobunaga.
+
+@14
+Takayama Ukon returned to Nobunaga.
+
+@15.0
+Lord Ukon, they say my lord will forgive you if you come now.
+
+@15.1
+Trust me and return to our side.
+
+@15.2
+Hmm...
+
+@15.3
+I understand. I will surrender to Lord Nobunaga.
+
+@16
+Takayama Ukon returned to Nobunaga.
+
+@17.0
+Murashige! I will not forgive you for betraying me!
+
+@17.2
+(He is a frightening man after all...)
+
+@18.0
+It has come to this, then... Will Lord Nobunaga forgive me?
+
+@19
+Takayama Ukon surrendered to Nobunaga.
+
+@20.0
+Hmm, there is no help for it now. I will surrender to Lord Nobunaga...
+
+@21
+Nakagawa Kiyohide yielded to Nobunaga.
+
+@22.0
+It seems I managed to slip out of the castle...
+
+@22.1
+Strange... My lord is nowhere to be found.
+
+@22.2
+Surely he has not abandoned us... No...
+
+@23
+Unable to withstand the Oda attack, Murashige secretly fled the castle. The soldiers left behind lost their will to fight, and Itami Castle fell in all but name.
+
+@24
+Gained 2000 gold
+
+@25
+Defeated Araki Murashige in Settsu
+
+@28.0
+Damn... Curse you, Murashige, remember this!
+
+@29
+Oda Nobunaga was defeated by Araki Murashige in Settsu.
+
+@30
+Defeated by Araki Murashige in Settsu
+
+@31.0
+Ugh... Wh-why...
+
+@32
+With their lord Murashige struck down, the soldiers of Itami Castle lost their will to fight, and the castle soon opened its gates.
+
+@33
+Gained 2000 gold
+
+@34
+Killed Araki Murashige in Settsu
+
+@35
+Oda Nobunaga was defeated by Araki Murashige in northern Settsu.
+
+@36
+Defeated by Araki Murashige in Settsu
+

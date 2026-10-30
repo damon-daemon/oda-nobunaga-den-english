@@ -1,0 +1,96 @@
+@9.0
+My lord!\n\nThank heaven you are safe... The Monkey... the Monkey is so happy.
+
+@11.0
+Mitsuhide caught me off guard, but the Realm Under One Sword is not abandoned. Uesugi, Hojo, Mori, Chosokabe all stir.\n\nI declare the pacification of the provinces resumed! Monkey!
+
+@13.0
+Return to Etchu and resume the campaign against the Uesugi with Toshiie, Narimasa, Nagachika and Mitsuharu!
+
+@14.0
+You, send a messenger to Lord Ieyasu!
+
+@19
+In Hamamatsu, a calm eye watched Nobunaga's survival. It was Tokugawa Ieyasu.
+
+@20
+After the Honnoji Incident, Ieyasu had become a great power holding Mikawa, Totomi, Suruga, Kai and Shinano, and had secured his rear by allying with the Hojo.
+
+@21.0
+(But it can be taken...)\n\n(Even if Nobunaga lives, the Oda are no longer what they were...)\nIt can be taken now... The realm...
+
+@21.1
+...?\n\nMy lord, what did you just say...
+
+@21.2
+No, I was only talking to myself.
+
+@22.0
+So when they learned Lord Nobunaga lives, the Shibata and Hashiba forces both pulled back...
+
+@22.2
+My lord, does our invasion of Kai and Shinano not amount to rebellion against Lord Oda?!
+
+@22.4
+No, we only did what is natural for an ally. In the wake of Akechi's revolt, Kai and Shinano fell into disorder and the Hojo marched in. For us to sit by would be equal to betraying the Oda. That is why his lordship decided to invade Kai.
+
+@22.8
+B-but Kai and Shinano are lands our forces won. We cannot simply hand them back to Lord Nobunaga!
+
+@22.12
+My lord. Please tell us what you intend.
+
+@23.0
+...\n\nI aim for the realm.
+
+@24.0
+My lord, there will be no turning back.
+
+@24.1
+Yes. Now is the time to move for the realm.\n\nBut we must not be hasty.\n\nWe link up with other powers and encircle the Oda bit by bit. When the weary Oda army wavers, we offer decisive battle.
+
+@31.0
+What of the envoy we sent to Hamamatsu?
+
+@31.1
+He has not returned. We have had no word about the disposition of Kai and Shinano either.
+
+@31.2
+Worse, the Tokugawa are massing troops in Mikawa. Their break with the Oda alliance is clear!
+
+@31.4
+Hm... So Ieyasu has begun to move for the realm... But as long as the Tokugawa defy me, we must fight.\n\nHideyoshi and Narimasa both struggle. The longer this drags on, the worse for us. Surround Okazaki and lure Ieyasu out!
+
+@33.0
+Mikawa becomes a battlefield again for the first time since your first battle, my lord.
+
+@34.0
+We must strike down Ieyasu at all costs!
+
+@35.0
+To think we would fight the Tokugawa...
+
+@36.0
+If we move, the Hojo, allied to the Tokugawa, will move too. Please take care.
+
+@37.0
+Please give me a chance to restore my honour.
+
+@38.0
+Noda Castle is defended by Honda Tadakatsu and Okubo Tadayo.
+
+@39.0
+Okazaki Castle is defended by Torii Mototada.
+
+@40.0
+When will Hojo reinforcements arrive...
+
+@41.0
+If we attack Okazaki Castle, the Tokugawa will surely move.
+
+@42.0
+Ieyasu is a schemer. We cannot advance carelessly.
+
+@43.0
+To fight alongside my lord once more...
+

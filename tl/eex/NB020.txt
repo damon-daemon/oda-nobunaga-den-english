@@ -1,0 +1,531 @@
+@0
+"Devil King of the Sixth Heaven"
+
+@1
+"Hisahide, Villain of the Age"
+
+@2.0
+My lord, Shigisan Castle is on the verge of falling.
+
+@2.1
+Give the order to storm it.
+
+@2.2
+...Monkey, send a messenger to Hisahide. Tell him that if he hands over the Hiragumo kettle, he will be spared.
+
+@2.3
+Why spare him now, at this late hour?
+
+@2.4
+I do not know. For some reason, I cannot bring myself to kill that man.
+
+@3
+Shigisan Castle - Officers' Hall
+
+@4.0
+Forgive me, Hisamichi. I did not wish to drag you down with me.
+
+@4.1
+It is the fortune of the times. I hold no grudge against you, Father.
+
+@4.2
+Father... I shall go on ahead.
+
+@5.0
+I will wait... for you... at the River of Three Crossings...
+
+@6.0
+Wait for me. Your father will follow soon.
+
+@7.0
+Lord Nobunaga says that if you hand over the Hiragumo kettle, you will be spared.
+
+@8.0
+I see. So Nobunaga wants this, does he?
+
+@8.1
+To Nobunaga... to Nobunaga I will give nothing.
+
+@9.0
+Go back and tell Nobunaga. This is my answer.
+
+@10.0
+I see. He blew himself up along with the Hiragumo.
+
+@11.0
+All forces, storm Shigisan Castle and set it ablaze.
+
+@12
+The 5th year of Tensho (1577), 10th month\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
+
+@13
+"Hisahide, Villain of the Age"
+
+@14
+The 5th year of Tensho (1577), 10th month\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
+
+@15
+"Devil King of the Sixth Heaven"
+
+@16
+"Devil King of the Sixth Heaven"
+
+@17
+"Devil King of the Sixth Heaven"
+
+@18
+Kozuki Castle - Council Hall
+
+@19
+That year, Nobunaga ordered Hideyoshi to subdue the Chugoku region, and Hideyoshi entered Harima with 15,000 men.\n\nAs previously arranged, he took up quarters in Himeji Castle, the seat of Kuroda Kanbei, chief retainer of the Kodera clan.
+
+@20
+Hideyoshi then began his attack on Kozuki Castle.\n\nThe castellan, Kozuki Kagetaka, was killed by his own retainers, who wished to surrender to the Oda, and Kozuki Castle fell.
+
+@21.0
+My lord, whom will you appoint to defend Kozuki Castle?
+
+@21.1
+Heh...
+
+@21.2
+On that, Hanbee has found just the man for it.
+
+@21.3
+Come in.
+
+@22.0
+I am Amago Katsuhisa.
+
+@22.1
+I am Yamanaka Shikanosuke.
+
+@23.0
+So you are Shikanosuke. Your loyalty to the Amago is truly admirable.
+
+@23.1
+I shall give Kozuki Castle to Lord Amago Katsuhisa. Now show me that you can restore the Amago house.
+
+@23.3
+(He means to set the Amago against the Mori!)
+
+@24.0
+I, who was hailed as the incarnation of Bishamonten... ugh.
+
+@24.1
+Kagekatsu... I have not long left. I leave... everything to you.
+
+@24.2
+Do not... fight with your brother Kagetora...
+
+@24.3
+Unite with your retainers... seek peace with the Takeda too... and prepare against Nobunaga...
+
+@24.4
+...Nobunaga is a dangerous man. If you show him weakness... he will surely invade Echigo...
+
+@24.5
+Forty-nine years, a dream in one sleep... a lifetime of glory, one cup of sake... Ah, the willows are green and the flowers red...
+
+@25.0
+Tch, Father. And just when things were beginning.
+
+@26
+The 6th year of Tensho (1578), 3rd month\nImmediately after issuing the order to mobilise for a campaign in the Kanto, Uesugi Kenshin collapsed. He died at the age of 49. Like Takeda Shingen, the Dragon of Echigo met a bitter end on the eve of marching on Kyoto.
+
+@28.0
+I have news. Word has come that Uesugi Kenshin of Echigo is dead.
+
+@29.0
+What!?
+
+@29.1
+He is dead, then. Taking the realm is now only a matter of time.
+
+@30
+Uesugi Kenshin, the man Nobunaga had feared most, was dead. For Nobunaga, the question of seizing the realm had changed from "how" to "when".
+
+@31.0
+Nobutada. As my heir, you must show your prowess with the spear in a way that satisfies the retainers.
+
+@32.0
+I order you to attack Honganji. But there is no need to rush for glory and waste your men's lives.
+
+@32.1
+Starve them out.
+
+@32.2
+Leave it to me, Father.
+
+@32.3
+By the way, have you heard the tale of East Iga?
+
+@32.4
+No. What tale? Tell me.
+
+@32.5
+I hear that in East Iga there is a village of fallen warriors.
+
+@32.6
+And they seem well trained, not like ordinary fallen warriors...
+
+@33
+Go and check\nIgnore it
+
+@34.0
+Hmm, it nags at me. Ranmaru, assemble the chief retainers in the council hall at once.
+
+@36.0
+Fool. Do not let such things distract you before the attack on Honganji.
+
+@37
+Meanwhile, in the west, half a year after the Amago remnants entered Kozuki Castle, it fell to a Mori attack.
+
+@38
+Kozuki Castle
+
+@39.0
+We turned Bessho, and Kozuki Castle has fallen. Takakage's plan worked well.
+
+@39.1
+Now all that remains is to charge Hideyoshi's main camp in one sweep and relieve Miki Castle.
+
+@39.2
+That must not be done.
+
+@39.3
+Is it Father's last testament you mean?
+
+@39.4
+They say attack is the best defence. An attack made for defence does not go against the testament.
+
+@39.5
+That is not the reason. If we go to relieve Miki Castle now, the Ukita army will strike us in the rear.
+
+@39.7
+In the attack on Kozuki Castle, Ukita Naoie feigned illness and did not take the field.
+
+@39.8
+He is most likely already in contact with the Oda. I am sure of it.
+
+@39.9
+Damn it. Then what are we to do?
+
+@39.10
+A great enemy is best broken from within. I have already spread a rumour that Araki Murashige of Settsu plots treason.
+
+@39.11
+Lord Ekei.
+
+@39.13
+Would you go to Araki Murashige and persuade him to defect to the Mori?
+
+@39.14
+Understood.
+
+@40.0
+After that, if we support Honganji with our navy, the siege of Miki Castle will be lifted.
+
+@40.1
+Heh. Though you are my brother, your cunning chills me to the bone.
+
+@41.0
+A schemer, just like Father. Takakage, ha ha ha ha!
+
+@42
+Hashiba Hideyoshi's Camp
+
+@43.0
+I hear Kozuki Castle has fallen.
+
+@43.1
+Yes, sir. Our spies say Amago Katsuhisa committed seppuku, and Yamanaka Shikanosuke was stabbed after yielding.
+
+@43.2
+I see. So Shikanosuke has gone too.
+
+@44.0
+Report! In Settsu, Araki Murashige has rebelled!
+
+@45.0
+What!
+
+@45.1
+What?!
+
+@45.3
+My lord, Lord Araki and I are on close terms. Let me go and persuade him.
+
+@45.4
+If you go, you may be killed.
+
+@45.5
+There are times when a man must stake his life for his lord and his friend.
+
+@45.6
+(He is fired up. It is useless to stop him.)
+
+@45.7
+Kanbei, I ask it of you as well. Persuade him to change his mind.
+
+@45.8
+Yes, sir. Then I take my leave.
+
+@46.0
+Are you sure you should let him go?
+
+@46.1
+If it is useless to stop him, better to send him off gladly.
+
+@46.2
+Heh...
+
+@48.0
+Mitsuhide, your eldest daughter married Araki Murashige's heir, did she not?
+
+@48.1
+Go and find out what Murashige is dissatisfied with.
+
+@49.0
+Yes, sir. I shall go to Murashige at once and question him about this.
+
+@50
+Meanwhile, Nobunaga had sent Akechi Mitsuhide to Araki Murashige.
+
+@51
+Arioka Castle - Living Quarters
+
+@52.0
+Why did you rebel? If you submit now, our lord says he will forgive you.
+
+@52.1
+I will intercede for you, so will you not beg our lord's pardon?
+
+@52.2
+Is it still not too late?
+
+@52.3
+I, Mitsuhide, give you my word. Come what may, no harm will come to you.
+
+@52.4
+...In truth, I never meant to rebel.
+
+@52.5
+But a rumour spread that I was plotting treason, and I had no choice but to turn to the Mori.
+
+@52.6
+I am relieved to hear it. Be sure to come to Azuchi Castle in the coming days. Now, I take my leave.
+
+@54.0
+My lord, do you really think Nobunaga will forgive a man who has betrayed him once?
+
+@54.1
+If you go to Azuchi Castle, you will not return alive.
+
+@54.2
+Nobunaga is only pretending to forgive. That is his way.
+
+@54.3
+Hmm. Perhaps so.
+
+@54.4
+Perhaps the Sengoku age is, after all, a world of kill or be killed.
+
+@54.5
+(It seems I am not suited to be a warrior. I would rather live in a world of flowers, birds, wind and moon.)
+
+@55
+Arioka Castle - Main Gate
+
+@56.0
+Halt! Who goes there?
+
+@56.1
+I am Kuroda Kanbei, chief retainer of the Kodera clan. I ask to be announced to Lord Araki Murashige.
+
+@56.2
+Lord Murashige is seeing no one.
+
+@56.3
+We have orders to seize all suspicious persons. Come along, into the cells with you!
+
+@57.0
+Please, I beg you. Let me see Lord Araki...
+
+@58.0
+Gah!
+
+@60.0
+Murashige never shows himself before me, no matter how long I wait. He must be in earnest.
+
+@60.1
+Now I must face Araki, Honganji and even the Mori all at once.
+
+@60.2
+That Mori strategist is quite capable.
+
+@60.3
+Ranmaru, summon the missionary Organtino and Kuki Yoshitaka.
+
+@61.0
+There must be Christians among Araki Murashige's men too.
+
+@61.1
+See to it that they pledge loyalty to me once more. If they do, I will build a Nanban temple wherever they wish.
+
+@62.0
+Understood.
+
+@63.0
+Kuki, is the item finished?
+
+@63.1
+Yes, sir. The armoured Atake ships and the iron-clad ships will both be finished in a few days.
+
+@63.2
+Good. As soon as they are done, sail for Osaka Bay.
+
+@63.3
+Cut Honganji's sea supply route.
+
+@65.0
+I will show that Mori strategist that I am one step ahead of him.
+
+@65.1
+Ranmaru.
+
+@66.0
+Sir, give me any order.
+
+@66.1
+It puzzles me that Kuroda Kanbei has not come back from Araki.
+
+@66.2
+The Monkey should be holding Kanbei's son as a hostage. Go and tell him to kill the boy.
+
+@67.0
+Understood.
+
+@68
+Hashiba Hideyoshi's Camp
+
+@69.0
+A message from Lord Nobunaga.
+
+@69.1
+Hm? Speak.
+
+@69.2
+Kuroda Kanbei is suspected of treason, and the hostage child is to be killed.
+
+@70.0
+Wh-what!?
+
+@70.1
+My lord, entrust that matter to me.
+
+@70.2
+I-I see. Then tell his lordship that we understand.
+
+@71.0
+Hanbee, do you have a plan?
+
+@71.1
+All you need do is order me to kill the hostage child.
+
+@71.2
+Then I will quietly take the boy into my keeping until Lord Kuroda's suspicion is cleared.
+
+@71.3
+If his lordship finds out, it may cost you your head, you know.
+
+@71.4
+I know that well.
+
+@71.5
+My life is short in any case... if it can serve you, I will gladly lay it down.
+
+@71.6
+Forgive me, Hanbee.
+
+@71.7
+Not at all.
+
+@74
+Kuki Yoshitaka used his iron-clad ships to cut the supply line from the Mori navy to Honganji.\n\nOda Nobutada built camps around Honganji and left it completely isolated.\n\nThus Nobunaga succeeded in preparing to crush Araki, Honganji and the Mori one by one.
+
+@75.0
+Preparations for the attack on Araki are complete. We shall punish the traitor. March out!
+
+@76.0
+You have all heard the tale of East Iga.
+
+@77.0
+We march. None of you is to lag behind.
+
+@79.0
+Now we can crush Araki, Honganji and the Mori one by one.
+
+@80.0
+It is best to carry plenty of medicine.
+
+@81.0
+Use this Monkey to persuade Nakagawa Kiyohide. I will surely bring him over.
+
+@82.0
+Trained soldiers, you say... They will probably come at us in a straightforward attack.
+
+@83.0
+According to my men, Murashige is badly shaken.
+
+@84.0
+Forgive me. I should have had my men look into it...
+
+@85.0
+My daughter is with Araki Murashige's son...
+
+@86.0
+Did you say something, Mitsuhide?
+
+@87.0
+N-nothing at all...
+
+@88.0
+Iga has not yet been pacified, so such men appear.
+
+@89.0
+Leave the persuasion of Takayama Ukon to me.
+
+@90.0
+Disciplined fallen warriors... that intrigues me.
+
+@91.0
+Depending on how this battle goes, the Mori may attack.
+
+@92.0
+Use me in the vanguard.
+
+@93.0
+I used the iron-clad ships to cut the supply from the Mori navy to Honganji.
+
+@94.0
+Hmm... I am no good in the mountains.
+
+@95.0
+Preparations for the attack on Araki are in order.
+
+@96.0
+It is close to Yamato, so it concerns me.
+
+@97.0
+If Takayama Ukon and Nakagawa Kiyohide are persuaded, they will surely come over.
+
+@98.0
+I have heard that tale in Hino... Is it true?
+
+@99.0
+Father, give me the vanguard.
+
+@100.0
+I will fight so as not to shame your name, Father.
+

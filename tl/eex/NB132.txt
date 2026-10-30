@@ -1,0 +1,72 @@
+@0.1
+Yoshitatsu will arrive soon. This battle is ours.
+
+@1
+Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n  2. Take Iwakura Castle.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n  2. Take Iwakura Castle.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@4.0
+Lord Nobukata, I have come to your aid.
+
+@4.1
+Oh, the Mino forces have arrived. Heh heh, now Nobunaga is finished!
+
+@6.1
+Please take this and do your best.
+
+@7.0
+I am a physician from Mino. I was once in Lord Dosan's service.
+
+@9
+Oda Nobuyuki raised an army!
+
+@10.0
+Brother, pointless mercy in this age of war is fatal!
+
+@10.1
+Cavalry, strike the enemy's flank!
+
+@10.2
+We now go to take Kiyosu. Men, follow me!
+
+@10.3
+Curse you, Nobuyuki!
+
+@12.0
+Brother, prepare yourself!
+
+@12.1
+Nobuyuki!
+
+@12.2
+You defy me not once but twice...
+
+@12.3
+I can forgive you no longer!
+
+@15.0
+Ugh... again...
+
+@15.1
+After all, it was a dream that could not come true...
+
+@15.2
+B-Brother...
+
+@16.0
+Curse you, Nobunaga, remember this!
+
+@18.0
+Damn, Kiyosu Castle...
+
+@25
+Having beaten Nobukata and turned back, Nobunaga fiercely assaulted Nobuyuki's army.\n\nWith its morale broken, Nobuyuki's army was defeated in an instant, and Nobuyuki withdrew to Suemori Castle.\n\nNobunaga at once surrounded Suemori Castle and began the attack.\n\nWith nowhere to flee, Nobuyuki took his own life inside the castle.\n\nWhat had driven Nobuyuki to rebel...? It was a painful unification of Owari for Nobunaga.
+
+@28
+Gained 800 gold
+
+@32.0
+Bitter... To lose with so many troops...
+

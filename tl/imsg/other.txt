@@ -1,0 +1,537 @@
+@256
+Attacks one enemy unit, but never delivers the killing blow.
+
+@257
+Attacks one enemy unit. Usable only in rain.
+
+@258
+Deals 1.5x damage to one enemy unit, but also costs your unit endurance.
+
+@259
+Annihilates one enemy unit, but your unit retreats as well.
+
+@260
+Attacks one enemy unit and lowers its skill points by 10.
+
+@261
+Attacks one enemy unit and inflicts a deep wound.
+
+@262
+Attacks one enemy unit and throws it into confusion.
+
+@263
+Attacks enemy units within range in succession.
+
+@264
+Attacks enemy units up to 5 times in one go.
+
+@265
+Attacks every unit in the area, friend and foe alike.
+
+@267
+Damages enemy units in the area of effect.
+
+@268
+Engulfs enemy units in the area in flames, damaging them.
+
+@269
+4x damage in the area; your unit loses endurance, is wounded and confused.
+
+@270
+Burns enemy units on plains, grassland or forest in the area, damaging them.
+
+@271
+Floods enemy units on sea, shallows or beach in the area, damaging them.
+
+@272
+Fells huge trees onto enemy units in forest in the area, damaging them.
+
+@273
+Drops boulders onto enemy units on mountains in the area, damaging them.
+
+@274
+Whips up rough waves against enemy units at sea in the area, damaging them.
+
+@275
+Sets bears on enemy units on mountains in the area: damage and confusion.
+
+@276
+Lowers the skill points of enemy units in the area.
+
+@277
+Attacks one enemy unit and the enemy unit behind it in line.
+
+@278
+Attacks one enemy unit and the two enemy units behind it in line.
+
+@280
+Immobilises one enemy cavalry unit.
+
+@281
+Immobilises one enemy unit at sea.
+
+@282
+Immobilises enemy units in the area and lowers their attack.
+
+@283
+Lowers the attack of enemy units in the area.
+
+@284
+Lowers the defence of one enemy unit.
+
+@285
+Confuses enemy units in the area.
+
+@286
+Seals the skills of one enemy unit.
+
+@287
+Immobilises one enemy unit.
+
+@288
+Steals skill points from one enemy unit, up to 80 percent of its maximum.
+
+@289
+Fully restores the endurance of one allied unit.
+
+@290
+Restores the endurance of one allied unit.
+
+@291
+Fully restores the endurance of allied units in the area.
+
+@292
+Restores the endurance of allied units in the area.
+
+@293
+Restores your unit's endurance when it is on mountains or forest.
+
+@294
+Calms the confusion of one allied unit.
+
+@295
+Lifts the skill seal on one allied unit.
+
+@296
+Cures the immobility of one allied unit.
+
+@297
+Heals the deep wound of one allied unit.
+
+@298
+Raises the attack of allied units in the area.
+
+@299
+Raises the defence of allied units in the area.
+
+@300
+Lets one allied unit that has already acted act again.
+
+@301
+Changes the weather.
+
+@302
+Steals the money held by one enemy unit.
+
+@303
+Lets your unit move further from its current position.
+
+@304
+Lets your unit move further from its position while at sea.
+
+@331
+Men, follow me!
+
+@332
+The time to march is now. Advance!
+
+@333
+Sortie!
+
+@334
+No enemy can stand before Hideyoshi!
+
+@335
+A battle, is it? My arm itches for it.
+
+@336
+Battles are not won by numbers! Marching out!
+
+@337
+Now, to the field!
+
+@338
+Come, let us march!
+
+@339
+Our efforts will decide victory or defeat.
+
+@340
+Let's go!
+
+@341
+Allow me to show you my skill.
+
+@342
+Right, march out!
+
+@343
+I shall march out!
+
+@344
+The glory shall be mine!
+
+@345
+The battlefield is where fame is won.
+
+@346
+In this battle I shall win glory without fail!
+
+@347
+Where is the enemy?!
+
+@349
+Let's go!
+
+@350
+Waaargh!
+
+@352
+I want one thing only: the enemy general's head!
+
+@353
+Heh...
+
+@354
+Now for battle. Let's go!
+
+@355
+The glory is mine, I tell you!
+
+@356
+So the battle begins at last...
+
+@391
+Tch... That I, Nobunaga, should come to this...
+
+@392
+Ngh... a blunder...
+
+@393
+Gah! I cannot face my lord.
+
+@394
+Damn it, I will not fall back like this!
+
+@395
+So I was still unseasoned...
+
+@396
+To think I misread the enemy's movements...
+
+@397
+My lord, forgive me.
+
+@398
+This is as far as I go...
+
+@399
+Withdraw at once!
+
+@400
+Let us pull back for now.
+
+@401
+Damn it, pull back!
+
+@402
+It has come to this. Retreat cannot be helped.
+
+@403
+Tch, is this the end?!
+
+@404
+It was not supposed to be like this.
+
+@405
+Father, I am mortified.
+
+@406
+Oh no, this is bad! Retreat!
+
+@407
+A blunder on my part.
+
+@408
+Tch, this was not supposed to happen!
+
+@409
+My strength is still lacking, it seems.
+
+@410
+Hmm...
+
+@411
+We are no match for them. Fall back!
+
+@412
+What a thing to happen...
+
+@413
+All is lost... is it?
+
+@414
+Curses...
+
+@415
+Damn it all!
+
+@451
+Battle of Kira Ohama
+
+@452
+Battle of Kayazu
+
+@453
+Siege of Kiyosu Castle
+
+@454
+Battle of the Nagara River
+
+@455
+Battle of Inou
+
+@456
+Battle of Ukino
+
+@457
+Battle of Okehazama
+
+@458
+Siege of Inabayama Castle
+
+@459
+Campaign against the Rokkaku
+
+@460
+Campaign against the Miyoshi
+
+@461
+Pacification of Ise
+
+@462
+Retreat from Kanegasaki
+
+@463
+Battle of Anegawa
+
+@464
+Siege of Noda and Fukushima
+
+@465
+Expulsion of Yoshiaki
+
+@466
+Sieges of Ichijodani and Odani
+
+@467
+Nagashima Ikko Uprising
+
+@468
+Battle of Nagashino
+
+@469
+Siege of Honganji
+
+@470
+Subjugation of Matsunaga Hisahide
+
+@471
+Subjugation of Araki Murashige
+
+@472
+Campaign against Iga
+
+@484
+Defence of Kiyosu Castle
+
+@485
+Struggle for Mino
+
+@486
+Interception in Mino
+
+@489
+The Anti-Nobunaga Coalition
+
+@490
+Shingen's March on Kyoto
+
+@492
+Siege of Odani Castle
+
+@493
+Struggle for Omi
+
+@494
+Asai and Asakura in Kyoto
+
+@495
+Battle of Mikatagahara
+
+@496
+Defence of Hamamatsu
+
+@497
+Interception in Echizen
+
+@498
+Interception of the Mori
+
+@499
+Honnoji Incident
+
+@500
+Battle of Yamazaki
+
+@501
+Battle of Shizugatake
+
+@502
+Pacification of Shikoku
+
+@504
+Pacification of Kanto
+
+@506
+Battle of Nagakute
+
+@507
+Battle of Okazaki Castle
+
+@508
+Battle of Sunpu and Odawara
+
+@510
+Ama Uprising
+
+@511
+Dark Clouds over Mino
+
+@512
+Plunderers of the Sea
+
+@513
+Pirates of Lake Biwa
+
+@514
+Mountain God of Suzuka
+
+@515
+The Bandit Village
+
+@516
+The Nameless Ones
+
+@517
+Fallen Warriors and Villagers
+
+@518
+One Province, One Castle
+
+@519
+Those Who Lurk in Darkness
+
+@695
+On grassland, raises attack and defence.
+
+@696
+On mountains, raises attack and defence.
+
+@697
+In forest, raises attack and defence.
+
+@698
+At sea or in shallows, raises attack and defence.
+
+@699
+In shallows, raises attack and defence.
+
+@700
+In castles, forts and castle interiors, raises attack and defence.
+
+@701
+In towns, villages, storehouses, mansions, houses and shrines, raises attack and defence.
+
+@702
+When endurance falls to 20 percent of max or less, defence rises by 30 percent.
+
+@703
+Temporarily raises the defence of nearby units.
+
+@704
+Temporarily raises the attack of nearby units.
+
+@705
+Restores endurance every turn according to level.
+
+@706
+Restores 20 percent more endurance in castles, towns, villages, forts and camps.
+
+@707
+Restores skill points every turn.
+
+@708
+Gains 20 percent more experience when attacking.
+
+@709
+Recovers from all status ailments in 1 turn.
+
+@710
+Recovers from paralysis in 1 turn.
+
+@711
+Recovers from confusion in 1 turn.
+
+@712
+Recovers from a deep wound in 1 turn.
+
+@713
+Recovers from skill seal in 1 turn.
+
+@714
+Raises accuracy of sword and spear attacks by 20 percent.
+
+@715
+Raises accuracy of bow and thrown weapon attacks by 20 percent.
+
+@716
+Raises accuracy of gun and cannon attacks by 20 percent.
+
+@717
+Evades sword and spear attacks with a 1 in 4 chance.
+
+@718
+Evades bow and thrown weapon attacks with a 1 in 4 chance.
+
+@719
+Evades gun and cannon attacks with a 1 in 4 chance.
+
+@720
+Evades enemy attacks with a 1 in 4 chance.
+
+@721
+When endurance is 20 percent of max or less, evades with a 1 in 2 chance.
+
+@722
+In rain or snow, 1 in 3 chance of a critical hit.
+
+@723
+After turn 20, 1 in 3 chance of a critical hit.
+
+@724
+When endurance is 20 percent of max or less, 1 in 2 chance of a critical hit.
+
+@725
+Takes no counterattack on normal attacks.
+

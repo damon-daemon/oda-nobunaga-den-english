@@ -1,0 +1,456 @@
+@0
+"Single-Minded Advance"
+
+@1
+"The Mori Advance East"
+
+@2
+"Devil King of the Sixth Heaven"
+
+@3
+In the 8th year of Tensho (1580), Ishiyama Honganji, the head temple of the Ikko sect that had troubled Nobunaga for so many years, was set on fire by an unknown hand and burned to the ground. Nobunaga was 47. To everyone it seemed that his dream of the realm under one sword was close at hand.
+
+@4
+"Single-Minded Advance"
+
+@5
+"Single-Minded Advance"
+
+@6
+"Single-Minded Advance"
+
+@7.0
+My lord. Araki Murashige has fled, and we still have no trace of him.
+
+@8.0
+Damn Murashige, he has run away.
+
+@9.0
+We took several hundred of the castle garrison alive, together with Murashige's kin. What shall we do with them?
+
+@10.0
+Crucify the soldiers who resisted to the end, in Settsu. Behead Murashige's kin in Kyoto.
+
+@11
+Every member of the Araki clan except Murashige, who had fled, was to be executed.\n\nIt is said that they all met their end splendidly, none showing any agitation, closing their eyes and quietly awaiting death. Murashige, who escaped to the Mori clan, later served Hideyoshi as a tea master and ended his days in that way.
+
+@12.0
+By the way, my lord, Lord Kuroda Kanbei has been rescued from the dungeon inside the castle...
+
+@12.1
+It seems Kanbei was captured when he entered the castle to persuade Murashige.
+
+@12.2
+What...
+
+@12.3
+Will you meet Lord Kuroda?
+
+@12.4
+Hmm... I have no face to show Kanbei.
+
+@13.0
+They say Lord Takenaka has secretly been sheltering Kanbei's son.
+
+@14.0
+Oh, is that so.
+
+@14.1
+Normally I would not forgive Hanbee for defying me, but this time I will let it pass.
+
+@15
+A year and a half had passed since Akechi Mitsuhide besieged Yakami Castle in Tanba. Mitsuhide called on the castle's lord, Hatano Hideharu, to surrender. Hideharu agreed, leaving Mitsuhide's mother in Yakami Castle as a hostage, and travelled to Azuchi to make peace.
+
+@16.0
+Hatano Hideharu, lord of Yakami Castle in Tanba, and Hatano Hidehisa have agreed to surrender.
+
+@16.1
+I beg you to treat them with leniency.
+
+@16.2
+Mitsuhide, execute the Hatano brothers and return at once to the assault on Yakami Castle.
+
+@17.0
+Wait, my lord! My mother is being held hostage in Yakami Castle. Please reconsider!
+
+@18
+I will reconsider\nI care not
+
+@19.0
+If you insist that much, Mitsuhide, I will spare the Hatano brothers. Their lives only.
+
+@20.0
+However, confiscate all of their former lands. What becomes of their kin and retainers I leave to you.
+
+@22
+Thus, through Akechi Mitsuhide's efforts, the conquest of Tango was complete, and Nobunaga's dream of the realm under one sword drew close.
+
+@23.0
+Enough. If you say you will not obey my orders, I will count it as treason.
+
+@24
+The soldiers of Yakami Castle, whose lord had been killed, crucified Akechi Mitsuhide's mother and held out until the last man died fighting.\n\nEven after losing his mother, Mitsuhide bravely pressed on with the conquest of Tanba and Tango, and completed the pacification a few months later.
+
+@25.0
+My lord... it seems I must bid you farewell.
+
+@26.0
+What are you saying? If you are gone, how am I to fight on from here?
+
+@26.1
+From now on, rely on Lord Kuroda. If you use that man's schemes, you will win a hundred victories in a hundred battles.
+
+@26.2
+...But I am worried about Lord Nobunaga.
+
+@26.3
+Since Araki Murashige's rebellion, Lord Nobunaga seems to harbour distrust of his retainers...
+
+@26.4
+Please take one of Lord Nobunaga's sons as heir to the Hashiba house.
+
+@26.5
+Then Lord Nobunaga will not suspect you, my lord.
+
+@27.0
+My lord, it seems my escort has come for me.
+
+@27.1
+My lord, looking back, how enjoyable it all was, this and that.
+
+@27.2
+Hanbee!
+
+@28.0
+Offering me schemes until the very moment of his death... What a splendid man.
+
+@29
+In the 7th year of Tensho (1579), Hideyoshi's trusted right hand, Takenaka Hanbee, died during the siege of Miki Castle at the age of 36. The strategist Takenaka Hanbee remained a strategist until his dying breath. Hideyoshi adopted one of Nobunaga's sons and named him Hidekatsu.
+
+@30.0
+My lord, Saito Toshimitsu, who serves Lord Akechi, was originally my subordinate.
+
+@30.1
+Could you not tell Lord Akechi to return my man to me?
+
+@31.0
+Ittetsu, whenever we meet you bring up that matter without fail.
+
+@31.1
+All right, all right. I will tell Mitsuhide myself.
+
+@33.0
+My lord, the pacification of Tanba has ended without incident.
+
+@33.1
+Hm. Well done.
+
+@33.2
+I received your summons ordering me to bring my retainer Saito Toshimitsu...
+
+@34.0
+It concerns that very matter. I hear Toshimitsu once served Ittetsu.
+
+@34.1
+Toshimitsu is called the "Spear God of Akechi". I understand your reluctance to let him go, but
+
+@34.2
+changing one's lord without cause is hardly proper for a samurai. Return Toshimitsu to Ittetsu.
+
+@35.0
+I cannot let go of a man who has shared life and death with me through so many battles over the years.
+
+@35.1
+I beg you, spare me only Toshimitsu.
+
+@36.0
+What? Do you say you will not heed my command?
+
+@36.1
+Though it is your command, my lord, I cannot consent to that one thing. I beg your pardon.
+
+@37
+Very well, I forgive you\nNever, kick him down
+
+@38.0
+Hmph. You will explain yourself to Ittetsu.
+
+@40.0
+Remember this, Toshimitsu: my life and death are always bound to yours.
+
+@41.0
+M-my lord.
+
+@42.0
+You dare say so.
+
+@44.0
+Enough.
+
+@44.1
+(Damn him.)
+
+@45.0
+My lord, are you all right?
+
+@46.0
+Do not worry... Remember this, Toshimitsu: my life and death are always bound to yours.
+
+@47.0
+M-my lord.
+
+@48
+Hashiba HQ - Besieging Miki Castle
+
+@49.0
+Brother, I hear Miki Castle's provisions have run out, and men are starting to starve. Shall we not attack soon?
+
+@49.1
+Hanbee is already dead, and Kanbei is ill and not here. How can we fight at such a time?
+
+@49.2
+For now, all we do is wait for the enemy to surrender.
+
+@50
+After a siege by starvation lasting twenty months, Miki Castle fell. It is said that Bessho Nagaharu committed seppuku on condition that the garrison's lives be spared. The terrible starvation siege, which drove the defenders to eat even paper and human flesh, was later called "the drying out of Miki".
+
+@51
+Miki Castle - Council Hall
+
+@52.0
+Shut up in this Miki Castle... one year and eight months already. It seems this is the end.
+
+@52.1
+Someone, go to that Monkey and tell him: spare the garrison's lives in exchange for my belly.
+
+@53.0
+How bitter... how bitter this is.
+
+@54.0
+Tonight is our farewell in this life. Do not weep. Do not weep...
+
+@55
+After a siege by starvation lasting twenty months, Miki Castle fell. It is said that Bessho Nagaharu committed seppuku on condition that the garrison's lives be spared. The terrible starvation siege, which drove the defenders to eat even paper and human flesh, was later called "the drying out of Miki".
+
+@57
+Azuchi Castle - Council Hall
+
+@58.0
+Now that the traitors of Settsu and Harima have been put down, next is Honganji.
+
+@59.0
+Next is Honganji.
+
+@60.0
+My lord, it is unwise to keep fighting Honganji any longer.
+
+@60.1
+We should draw them to our side and use them as a tool to suppress the Ikko uprisings.
+
+@60.2
+Now that Honganji has lost its backers, Takeda and Uesugi, I believe they would accept peace.
+
+@60.3
+Mitsuhide, are you saying you can bring about peace with Honganji?
+
+@60.4
+Yes. I will obtain an imperial edict of peace from the Court.
+
+@60.5
+Even the abbot of Honganji cannot defy the Emperor's authority.
+
+@60.6
+Hm. Mitsuhide, try it.
+
+@63.0
+An imperial edict has come down from the Court commanding that Honganji be surrendered and peace made with the Oda.
+
+@63.1
+Kaga has also been attacked by Shibata Katsuie, and its subjugation is only a matter of time.
+
+@63.2
+Now that supplies from the Mori have been cut off as well, I think peace would be best...
+
+@64.0
+I see... It cannot be helped.
+
+@65.0
+Father, how can you be so weak? If we bow before Nobunaga, the enemy of the Law, Honganji's honour will not stand.
+
+@66.0
+If we cling to honour and keep fighting, Nobunaga will slaughter us all. We have no choice but to give up Honganji.
+
+@66.1
+If you wish to leave Honganji, do as you please. I will keep fighting.
+
+@67
+Kennyo accepted Nobunaga's peace, but Kyonyo gathered the Ikko followers and continued to resist.\n\nHowever, four months later he accepted Nobunaga's demands, left Honganji and withdrew to Saiga.\n\nThus Nobunaga had the abbot himself persuade the Ikko followers who still resisted, and succeeded in laying the foundation for unifying the realm.
+
+@69
+Azuchi Castle - Council Chamber
+
+@70.0
+The Honganji campaign has reached a settlement of sorts. Now I have orders for you all.
+
+@71.0
+First, Hidesada.
+
+@71.1
+(A pillar of the Oda house for generations, yet he serves poorly. Now, what shall I do with him?)
+
+@72
+Banish Hayashi Hidesada\nDo not banish him
+
+@73.0
+Twenty-four years ago you rose in rebellion.
+
+@73.1
+I have borne with it until now, but I can stand no more. You are banished.
+
+@74.0
+Wh-what?
+
+@75.0
+(The crime of rebellion is mine as well...)
+
+@76.0
+Though you hold the post of senior retainer, you have done nothing of note lately. I pardon you this once, but reflect.
+
+@77.0
+Yes, my lord!
+
+@78.0
+Next, Sakuma Nobumori.
+
+@78.1
+(This one serves no better than Hidesada. Now, what shall I do with him?)
+
+@79
+Banish Sakuma Nobumori\nDo not banish him
+
+@80.0
+You do nothing but stingily hoard money and do no useful service.
+
+@80.1
+Keeping a retainer as useless as you costs me my honour before the realm.
+
+@80.2
+Therefore you too are banished. Shave your head and become a monk.
+
+@81.0
+Th-this is outrageous!
+
+@82.0
+(A tool that cannot be used is thrown away, is that it? But this way...)
+
+@83.0
+Like Hidesada, you hold a high post, yet you only care about stingily hoarding money and do no useful service.
+
+@83.1
+I will pardon you this once, but use the money you have hoarded to hire soldiers, arm them and prepare for war.
+
+@84.0
+Yes, my lord!
+
+@85.0
+Anyone with a complaint may raise an army and challenge me.
+
+@85.1
+If you believe you have the ability and resolve to defeat me, I will face you at any time.
+
+@85.2
+Well, Mitsuhide, would you like to try?
+
+@86.0
+You jest, my lord...
+
+@87.0
+The rest of you will receive rewards. Await word.
+
+@88.0
+I feel unwell. I am going to Chikubushima. Ranmaru, prepare a boat.
+
+@90
+Himeji Castle - Council Hall
+
+@91.0
+With Lord Ukita of Bizen and Mimasaka on our side, Inaba must be attacked next.
+
+@91.1
+Tottori Castle is a famous fortress of the realm. It cannot be taken by force.
+
+@91.2
+Indeed. So, Kanbei, have you any good plan?
+
+@91.3
+Yes. First, spread a rumour that Wakasa has had a poor harvest, and buy up rice and barley in Tottori Castle's town at high prices.
+
+@91.4
+Then march on Tottori Castle, and when the enemy reinforcements rush into the castle, starve them out with a siege.
+
+@91.5
+I see, as expected of Kanbei. Your wits are frightening. Ha ha ha.
+
+@92
+When Kikkawa Tsuneie, a reinforcement from the Mori side, entered Tottori Castle, Hideyoshi at once surrounded the castle with fences.
+
+@93
+Kikkawa Tsuneie resolved to open the castle, and despite Hashiba Hideyoshi's attempts to stop him, wrote a final testament and committed seppuku.\n\nHideyoshi praised Kikkawa Tsuneie's nobility and fed gruel to the hungry garrison.\n\nThis is one of Hideyoshi's two great starvation sieges, "the starving out of Tottori".
+
+@94
+Hashiba Camp
+
+@95
+When Kikkawa Tsuneie, a reinforcement from the Mori side, entered Tottori Castle, Hideyoshi at once surrounded the castle with fences.
+
+@96.0
+Four months since we surrounded Tottori Castle... and not a single man will turn traitor.
+
+@96.1
+And the spies report that people have already starved to death.
+
+@96.2
+The Mori clan's unity has been very strong since the time of Lord Mori Motonari. However, my lord,
+
+@96.3
+if you say you will spare the lives of everyone, Kikkawa Tsuneie included, they will surely give up the castle.
+
+@96.4
+Hm. Somebody!
+
+@97.1
+Shoot an arrow-letter into the castle: surrender the castle and everyone's lives will be spared.
+
+@98
+Kikkawa Tsuneie resolved to open the castle, and despite Hashiba Hideyoshi's attempts to stop him, wrote a final testament and committed seppuku.\n\nHideyoshi praised Kikkawa Tsuneie's nobility and fed gruel to the hungry garrison.\n\nThis is one of Hideyoshi's two great starvation sieges, "the starving out of Tottori".
+
+@100
+In the 9th month of the 9th year of Tensho (1581), Nobunaga suddenly resolved to pacify Iga.
+
+@101.0
+We invade Iga! Kazumasu, Ujisato and Nagahide attack from the Koga side, and Junkei from the Yamato side.
+
+@104.0
+Father, have you strengthened your weapons and armour enough?
+
+@105.0
+I will crush them in one stroke, you will see.
+
+@106.0
+The merchants have stocked new goods. Have a look, my lord.
+
+@107.0
+Heh heh heh, my arm itches for a fight.
+
+@108.0
+It seems Iga ninja are mixed among the enemy. Take care.
+
+@109.0
+There seem to be no notable commanders among the enemy. We should win this war easily.
+
+@110.0
+If we pacify Iga, the home provinces will be secure.
+
+@111.0
+Iga is surrounded by mountains, so movement there is difficult.
+

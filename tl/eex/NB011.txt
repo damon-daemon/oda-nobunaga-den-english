@@ -1,0 +1,276 @@
+@2
+The 8th month, the 12th year of Eiroku (1569)\nWith an overwhelming army, Nobunaga forced the Kitabatake of Ise to surrender.\nHe was 36 years old.\nSupported by his two allies, the Tokugawa and the Azai, his rule over the realm by force seemed sure to advance smoothly.
+
+@6.0
+The Ise campaign is done. You have all done well.
+
+@6.1
+Following the example of the Mori, I will have Nobukatsu succeed to the Kitabatake house and guard the Oda.
+
+@7.0
+Nobukatsu, govern Ise and support the Oda house.
+
+@8.0
+Yes, Father. I will do all I can to meet your expectations.
+
+@9.0
+Ujisato, come in.
+
+@10.0
+This is Ujisato, son of Gamo Katahide, lord of Hino Castle in Omi.
+
+@10.1
+He came as a hostage, but shows promise. I will give him my youngest daughter in marriage and add him to my army.
+
+@10.2
+Ujisato, greet them all.
+
+@11.0
+Yes, my lord. I am Gamo Ujisato. I hope we shall be acquainted.
+
+@12.0
+Mitsuhide, stay. The rest of you may withdraw.
+
+@14.0
+Mitsuhide, come closer.
+
+@15.0
+Is the written opinion for the shogun finished?
+
+@15.2
+Show me.
+
+@16.0
+What is this! Do you think rules this feeble can bind the shogun? Too soft, Kumquat!
+
+@17.0
+Look at this letter.
+
+@18.0
+Th-this is...!
+
+@19.0
+A secret letter the shogun sent to the Asakura. The fellow means to gather all who defy me.
+
+@19.1
+Add to the written opinion: he must not send letters to the provinces without Nobunaga's permission,
+
+@19.2
+and the government of the realm is entrusted to Nobunaga alone. Understood?
+
+@19.3
+B-but that is far too...
+
+@19.4
+Do you defy me, Mitsuhide?
+
+@19.5
+N-no. I understand.
+
+@21.0
+Call the monkey.
+
+@22.0
+My lord, you summoned me?
+
+@23.0
+Take the written pledge to the shogun together with Mitsuhide and make him approve it.
+
+@24.0
+I am not versed in the shogun's household customs, and I fear the task is too heavy for me.
+
+@25.0
+What did you say!
+
+@26.0
+Y-yes, my lord. I, Hideyoshi, will stake my life to obtain Lord Yoshiaki's approval.
+
+@27
+Kyoto - Yoshiaki's Residence
+
+@28.0
+Wh-wh-what is this pledge! Is Nobunaga making a fool of me!
+
+@28.1
+My lord Yoshiaki, please calm yourself. Bear with it for now.
+
+@29.0
+Hmm. For Mitsuhide's sake, I shall consider the pledge.
+
+@29.1
+Come again another day. (I will never approve it. I will only consider it.)
+
+@29.2
+Approve it here and now. If you refuse, we have our own ideas.
+
+@29.3
+Hurry me as you like, what cannot be done cannot be done.
+
+@29.4
+If you refuse the demand, my lord will be angry.
+
+@29.5
+No one who has met my lord's anger has lived to tell of it.
+
+@29.6
+Hmm, hmm, hmm. Mitsuhide, does Nobunaga mean to kill me?
+
+@29.7
+If you do not accept the demand, probably so.
+
+@29.8
+...
+
+@30.0
+...It cannot be helped. Go tell Nobunaga that I approve.
+
+@31.0
+You have made... a wise decision.
+
+@32.0
+(Just you wait, Nobunaga.)
+
+@35.0
+The shogun, Lord Ashikaga Yoshiaki, has ordered me to come to Kyoto to repair the Imperial Palace. What should I do?
+
+@35.1
+The shogun's order is only a pretext. It is Nobunaga's scheme. There is no need to go to Kyoto.
+
+@35.2
+But he may use this as an excuse to attack us.
+
+@35.3
+Then we will catch him in a pincer with Lord Azai.
+
+@35.4
+Do not worry. I will go to Lord Azai and secure his promise.
+
+@36.0
+Mm. A fine idea. I leave it to you.
+
+@37.0
+From now on, whatever Nobunaga demands, the Asakura will ignore it entirely.
+
+@39
+Mino - Gifu Castle, Living Quarters
+
+@40.0
+The Asakura of Echizen have ignored every one of my repeated orders to come to Kyoto.
+
+@40.1
+So, using this as a pretext, I will attack the Asakura by way of the Hokkoku Road.
+
+@40.2
+(I cannot kill the shogun, so I will punish those who side with him.)
+
+@40.3
+But my lord, is it wise to invade Echizen without any word to Lord Azai?
+
+@40.4
+I am Ichi's brother. Nagamasa would never turn against me.
+
+@40.5
+Do not worry.
+
+@40.6
+But...
+
+@40.7
+This time I will have Lord Ieyasu march as well. Monkey, send a messenger.
+
+@44.0
+Let us attack at once!
+
+@45.0
+Are the provisions in order?
+
+@46.0
+My ninja say the elder of a certain village knows of a treasure.
+
+@47.0
+I think it would be well to strengthen our weapons and armour thoroughly...
+
+@48.0
+I worry about Lord Azai...
+
+@49.0
+I wonder if Lady Ichi is well...
+
+@50.0
+I will not lose to Tokichiro.
+
+@51.0
+My lord, retreat too is part of strategy.
+
+@52.0
+I will surely prove useful.
+
+@53.0
+I have heard tales of the hidden treasure of pirates and lake bandits.
+
+@55.0
+My lord, this is serious! Nobunaga has invaded the Asakura lands!\n\nThe Asakura have sent a request for reinforcements.
+
+@56.0
+What! The very thing I feared has happened...
+
+@56.1
+There is nothing to think about. The Azai exist today because of the Asakura. To repay that great debt, we will answer.
+
+@57.0
+Father, please wait.
+
+@58.0
+What is it, Nagamasa?
+
+@58.1
+We have an alliance with Lord Nobunaga too.
+
+@58.2
+We agreed that should he ever fight the Asakura, he would obtain our consent first. By breaking it, the Oda alliance is void.
+
+@58.3
+B-but...
+
+@58.4
+Besides, the shogun Lord Yoshiaki has sent a secret letter ordering us to strike Nobunaga together with the Asakura.
+
+@59.0
+There will be no better chance to do away with Nobunaga than now.
+
+@60.0
+Attacked from behind, Nobunaga will be as helpless as a baby.
+
+@60.2
+(Perhaps Lord Nobunaga and I were always fated to be at odds...)
+
+@63.0
+My lord, this is serious! Nobunaga has invaded the Asakura lands! The Asakura have sent a request for reinforcements.
+
+@63.1
+What! The very thing I feared has happened...
+
+@63.2
+Our house and the Asakura are allies.
+
+@63.3
+There is nothing to think about. Are we not allied with the Asakura?
+
+@63.4
+But we are allied with Lord Nobunaga as well.
+
+@63.5
+We agreed that should he ever fight the Asakura, he would obtain our consent first. By breaking it, the Oda alliance is void.
+
+@63.6
+The shogun Lord Yoshiaki has sent a secret letter ordering us to strike Nobunaga together with the Asakura.
+
+@63.7
+There will be no better chance to do away with Nobunaga than now.
+
+@63.8
+Attacked from behind, Nobunaga will be as helpless as a baby.
+
+@63.10
+(Perhaps Nobunaga and I were always fated to be at odds...)
+

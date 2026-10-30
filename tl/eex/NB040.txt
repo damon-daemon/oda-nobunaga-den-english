@@ -1,0 +1,192 @@
+@0
+"Wind, Forest, Fire, Mountain"
+
+@1
+"Wind, Forest, Fire, Mountain"
+
+@4.0
+A secret letter has just arrived from the shogun, Lord Yoshiaki.
+
+@4.1
+From the shogun, my lord?
+
+@4.2
+And what is its purpose?
+
+@4.3
+It tells me to strike down Nobunaga and march on Kyoto...
+
+@4.4
+What, to subdue Nobunaga?
+
+@4.5
+It says that once I have reached Kyoto, I shall be made vice-shogun.
+
+@4.6
+And what is your own mind, my lord?
+
+@4.7
+I believe now is the time to march on Kyoto.
+
+@4.8
+Ohh.
+
+@4.9
+Nobunaga may have entered Kyoto, but many forces around the capital still stubbornly resist him. Fortunately my old rival Kenshin has sent most of his troops to the Kanto against the Hojo. There is no fear of being struck from behind.
+
+@4.11
+But, Brother, there is Tokugawa in Mikawa.
+
+@4.12
+The young upstart of Mikawa is nothing to fear.\n\nWe will go from Shinano into Mino and first take Gifu Castle. From there we advance on Kyoto.
+
+@4.13
+My lord, now is the time to strike down Nobunaga and reach Kyoto!
+
+@5.0
+Yes. As soon as preparations are complete, we march for Kyoto!
+
+@7.0
+(Reach Kyoto, in time become Seii Taishogun and rule the realm... Until then, vice-shogun will do...) Heh heh heh heh.
+
+@8
+Kyoto - Honnoji
+
+@9.0
+Monkey.
+
+@9.2
+The attack on Asakura failed, but we drove the Miyoshi remnants out of the home provinces and pacified Ise.
+
+@9.3
+With respect... The Omi road is an important road that we must secure, if only to travel between Kyoto and Gifu.
+
+@9.4
+Since they have joined with Asakura, there is no choice but to strike Lord Azai...
+
+@9.5
+...Monkey, I had been thinking the same.
+
+@9.6
+But Lord Azai has your sister, Lady Oichi, as his wife...
+
+@9.8
+My lord. When we attack Odani, give the task to this Monkey. I will surely rescue Lady Oichi from the castle.
+
+@9.9
+Monkey...
+
+@11.0
+An urgent messenger from Lord Tokugawa has arrived. Here, this.
+
+@12.0
+Hm.\n\n......\n\n...What!
+
+@12.1
+My lord! What does the letter say!
+
+@12.4
+Gather everyone! Assemble the army and return to Gifu at once!
+
+@12.6
+Shingen... Takeda Shingen has begun to march on this Kyoto.
+
+@12.7
+Shingen!?
+
+@12.8
+He marches on Kyoto!?
+
+@12.9
+Curse you, Shingen. Will he not even give me time to rest!
+
+@13
+Echigo Kasugayama - Bishamon Hall
+
+@14.0
+Yaa!
+
+@15.0
+Yaa!
+
+@16.0
+Yaa!
+
+@17.0
+Yaa!
+
+@19.0
+Kagetsuna? I am in the middle of my prayers. Later.
+
+@19.1
+It is urgent.
+
+@19.2
+......!
+
+@19.3
+Takeda Shingen has begun his march on Kyoto, following the order of the shogun, Lord Yoshiaki.
+
+@20.0
+What, Shingen!\n\nShingen has finally moved to seize the realm!
+
+@20.1
+My lord, what will you do?
+
+@20.2
+......\n\nOur enemy now is Hojo Ujimasa. For the time being, we will watch and wait.
+
+@21.0
+Greedy Shingen. Bishamonten is angry!\n\nIn time, I, Kenshin, the incarnation of Bishamonten, will bring down Heaven's punishment upon him!
+
+@23.0
+My lord.\n\nThe Takeda forces appear to be entering Mino from both the Iwamura and Naegi directions.
+
+@23.1
+Hm.\n\nWe must defend this Mino at all costs. And Lord Tokugawa?
+
+@23.2
+He has already left Okazaki Castle.
+
+@24.0
+Good! We sortie now! We will meet Shingen head on!
+
+@26.0
+So Shingen has moved... It is plain that the shogun is plotting behind the scenes.
+
+@27.0
+The main force of the Takeda army is its cavalry.
+
+@28.0
+I only hope the remnants of the Miyoshi and Rokkaku do not stir up trouble in answer to Shingen's advance west...
+
+@29.0
+We must return to Gifu at once!
+
+@30.0
+Let us ask Lord Ieyasu for aid and strike the enemy in the flank!
+
+@31.0
+The only one who can stop Shingen's advance west is Uesugi Kenshin of Echigo. But he is said to be tied up with the Hojo...
+
+@32.0
+Mino is the land of my forefathers. I will defend it at all costs.
+
+@33.0
+Leave Takeda cavalry to me, Katsuie.
+
+@34.0
+Shingen will probably come with a direct assault.
+
+@35.0
+The Takeda cavalry is terrifying. In particular the one with the white bellflower crest on a black ground...
+
+@35.1
+That is the elite Takeda cavalry led by Yamagata Masakage.
+
+@36.0
+This Monkey thinks that to stop Shingen, successive waves of cavalry and musket attacks would serve...
+
+@37.0
+If only we can strike down Shingen...
+

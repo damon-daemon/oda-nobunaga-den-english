@@ -1,0 +1,81 @@
+@0
+"The Tiger Watches and Waits"
+
+@2
+"The Tiger Watches and Waits"
+
+@3
+"The Tiger Watches and Waits"
+
+@4
+"The Tiger Watches and Waits"
+
+@5
+Skip the interior and go to the sortie destination input screen? (provisional)
+
+@6
+Around the time Nobunaga took Inabayama Castle, Akiyama Nobutomo's army, sent by Shingen, had already entered eastern Mino and was watching for a chance to attack.
+
+@7
+Akiyama Nobutomo's Camp
+
+@8.0
+Report! Nobunaga has taken Inabayama Castle. Saito Tatsuoki is said to have fled.
+
+@8.1
+Heh heh, that Nobunaga. He would never dream that we are in eastern Mino.
+
+@9.0
+Now is the chance to take Mino. We march!
+
+@11.0
+Thanks to the efforts of you all, we were able to take Inabayama Castle. Let us now celebrate our victory.
+
+@11.1
+Prepare a banquet.
+
+@12.1
+Oh, what is it, Tsuneoki? You look pale...
+
+@12.2
+Has Tatsuoki, who fled, come to take back the castle?
+
+@13.0
+With respect... the army of Akiyama Nobutomo, a Takeda retainer, has entered Mino and is marching on this Inabayama!
+
+@14.1
+Takeda, in this Mino!?
+
+@14.3
+Everyone, the banquet waits until we have swept away Shingen's lackeys!
+
+@16.0
+That Takeda should attack us...
+
+@17.0
+We spent too much time taking Inabayama.
+
+@18.0
+The Takeda have powerful cavalry units.
+
+@20.0
+Curse the Takeda. To attack at a time like this...
+
+@21.0
+This Mino we have only just won. We cannot hand it over to the Takeda.
+
+@22.0
+Give the vanguard to me.
+
+@23.0
+Takeda cavalry is nothing to fear. Leave the vanguard to me.
+
+@24.0
+The Takeda cavalry is a formidable foe.
+
+@25.0
+They say Akiyama Nobutomo, who is attacking, is a reckless boar of a warrior.
+
+@27.0
+No word from my men...
+

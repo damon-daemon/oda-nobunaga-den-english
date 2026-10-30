@@ -1,0 +1,567 @@
+@2
+In the 16th year of Tenbun (1547), Nobunaga distinguished himself in his first battle at the tender age of fourteen.\n\n"Perhaps this boy is a genius after all..."\nNobuhide's suspicion turned to certainty at that moment.
+
+@3
+Nobunaga was defeated in his first battle.\n"As expected of the Fool."\nThe Oda retainers looked at Nobunaga with even colder eyes.
+
+@4
+"The Fool Heir"
+
+@5
+"The Fool Heir"
+
+@6
+"The Fool Heir"
+
+@7
+Watch Chapter 1 prologue\nSkip the prologue
+
+@9
+In the year of Nobunaga's first battle, his father Nobuhide invaded Mino.\n\n\nBut he suffered a bitter defeat at the hands of Saito Dosan, nicknamed "the Viper of Mino," and fled back to Owari barely alive.\nLearning of Nobuhide's crushing defeat, Oda Nobutomo of Kiyosu Castle invited the constable Shiba Yoshimune to show that he was the head of the Oda clan.
+
+@10.0
+Have you heard what people are saying about Nobunaga lately?
+
+@10.1
+The rumours of the Fool. I have heard them.
+
+@10.2
+They say he goes hawking and swimming dressed like a vagrant...
+
+@11.0
+I am deeply sorry. This is my failing...
+
+@11.1
+Indeed it is.
+
+@12.0
+His lordship is here.
+
+@13.0
+Sorry to keep you waiting.
+
+@14.0
+You fought well in this campaign. I thank you.
+
+@15.0
+The Viper is strong. Mino will not fall so easily. Is that not so, Nobumori?
+
+@15.1
+Right now the struggle with Mikawa is urgent. Making an enemy of Mino as well would be folly, I believe.
+
+@15.2
+Perhaps you should seek a path to reconciliation.
+
+@15.3
+True. But does Dosan have any reason to agree?
+
+@16.0
+We have Lord Nobunaga, my lord. A marriage between your heir and Dosan's daughter...
+
+@16.1
+With his beloved daughter married into our house, Dosan would find it hard to attack us.
+
+@16.2
+(If he takes a wife, the young lord's foolishness may be cured.)
+
+@17.0
+Heh. An excellent idea. Well thought out.
+
+@18.0
+Masahide, make the arrangements.
+
+@19.1
+That is all for today's council.
+
+@20.0
+Ugh...
+
+@21.0
+...?
+
+@22.0
+My lord!
+
+@23.0
+My lord, what is wrong?
+
+@24.0
+My lord!
+
+@25.0
+...It was only a bit of dizziness.
+
+@25.1
+My lord, lean on me.
+
+@26.0
+F-forgive me...
+
+@27.0
+Gonroku, what do you think?
+
+@27.1
+...?
+
+@27.2
+Do you not think he looks worn?
+
+@27.3
+Yes, indeed...\n\n\nI hear his lordship has been drinking a great deal lately.\n\nThe failure in Mino seems to have hit him hard.
+
+@27.4
+If anything should happen to his lordship, the Oda clan...
+
+@27.5
+You mean the succession...\n\n\n(We cannot leave it to that fool...)
+
+@28
+Inabayama Castle
+
+@29
+Inabayama Castle - Council Chamber
+
+@30.0
+...
+
+@30.1
+My lord, there must be some mistake. A marriage for the princess, with the Oda clan...?
+
+@30.2
+Yes.
+
+@30.3
+Please refuse.
+
+@30.4
+The brat of a lord who rules half of Owari is no match for the daughter of a great lord of Mino.
+
+@30.5
+Besides, the Oda heir is that Fool.
+
+@30.6
+No, I intend to accept this match. I have not ruled Mino for long.
+
+@30.7
+Nor can we afford to keep fighting a warmonger like Oda Nobuhide.
+
+@30.8
+...I have mellowed a little, have I not? Ha ha ha.
+
+@31.0
+Besides, if the Fool inherits, we do him in and let Kicho's child inherit Owari.
+
+@31.1
+Owari will fall into our laps like a windfall.
+
+@32.0
+You sent for me?
+
+@32.1
+Ah, Kicho. Come closer.
+
+@33.0
+I have decided to marry you to the Oda heir.
+
+@33.1
+...!
+
+@33.2
+You have no objection, I trust. Not that I would listen.
+
+@33.3
+I hear the young lord of the Oda is a fool.\n\nYou would marry me to such a fool...\n\nFather, what are you plotting?
+
+@33.4
+Heh heh heh...
+
+@33.5
+Kicho, I give you this.
+
+@34.0
+Oh.
+
+@35.0
+A dagger...
+
+@36.0
+If your husband is the fool the rumours say, stab him with that dagger.
+
+@36.1
+...\n\n\nBut if Lord Nobunaga is not the fool of the rumours,\n\nI may stab you, Father, with this blade.
+
+@36.2
+P-Princess.
+
+@37.0
+Ha ha ha. Well said.\n\nThat is my daughter, Dosan's daughter indeed.
+
+@37.1
+(She is too good a daughter to give to a fool.)
+
+@38
+The wedding was to be held, with each house harbouring its own designs.
+
+@39
+Nagoya Castle - Living Quarters
+
+@40.0
+This is the new home of Lord Nobunaga and Lady Kicho.
+
+@40.1
+Oh.
+
+@40.2
+If you will excuse me, I shall take my leave.
+
+@40.3
+Thank you for your trouble.
+
+@41.0
+You must be tired from the long journey. Let us rest a while.
+
+@41.1
+Yes, my lady.
+
+@41.2
+(Lord Nobunaga did not even come to meet me.)\n\n(What kind of man can he be...?)
+
+@42.0
+Eek!
+
+@42.1
+Heh heh...
+
+@43.0
+...?
+
+@44.0
+An intruder!\n\n\nSomeone! An intruder!
+
+@44.1
+Are you the Viper's daughter?
+
+@44.2
+...?
+
+@45.0
+Where is the intruder!?\n\n\nHm? Y-young lord!
+
+@45.1
+Young lord...?\n\n\nThen this is Lord Nobunaga...
+
+@45.2
+Ha ha ha ha. Well done, old man. You may go.
+
+@46.0
+And in front of your future wife, dressed like that!\n\nPlease make yourself presentable. You are the heir of the Oda clan!
+
+@46.1
+Old man, saying that I cannot dress this way because I am the heir makes no sense.
+
+@46.2
+Dressed like that, you set no example for those beneath you!
+
+@46.3
+Enough, enough. Your sermons wear me out.\n\nI came because I have business with the Viper's daughter.\n\nEveryone, leave us.
+
+@46.4
+Hmm... Very well.
+
+@47.0
+I am Kicho.
+
+@47.1
+Nohime.
+
+@47.2
+Nohime? But I am Kicho.
+
+@47.3
+You came from Mino, so you are Nohime: the lady of Mino.
+
+@48.0
+Oh...
+
+@49.0
+Nohime, lend me your lap.
+
+@50.0
+Nohime, be my ally.
+
+@50.1
+...? What do you mean?
+
+@51.0
+I have many enemies. Many around me want me dead.
+
+@51.1
+Surely not! Who could such people possibly be?
+
+@52.0
+Mother, and my brother Nobuyuki.
+
+@52.1
+Surely not...
+
+@52.2
+My brother is well liked by the retainers. Many will side with him.
+
+@52.3
+My allies are only Father and the old man.
+
+@54.0
+I will kill anyone who opposes me.
+
+@54.1
+Do not become my enemy, Nohime. If you are my ally, I will punish anyone who defies you.
+
+@55
+Nobunaga was taken far from his parents at Furuwatari Castle as soon as he was born and raised at Nagoya Castle.\n\nIn Nobunaga, who had never known parental love, Nohime saw loneliness.
+
+@56.0
+Lord Nobunaga...
+
+@57
+Suemori Castle - Living Quarters
+
+@58
+Stricken with an epidemic illness, Nobuhide worried about the future of the Oda clan after his death and hurriedly gathered his chief retainers.
+
+@59.0
+I do not have long left... I will hand the headship to Nobunaga. None of you objects, I trust.
+
+@59.1
+With respect... I believe the wise Lord Nobuyuki would make the better heir.
+
+@59.2
+I agree.
+
+@60.0
+P-please wait. The head of the house should properly be the eldest son by the legal wife.
+
+@60.1
+What fault do you find in Lord Nobunaga?
+
+@61.0
+Lord Masahide knows that better than I.
+
+@62.0
+...Lord Nobunaga has simply not awakened yet. Surely in time...
+
+@62.1
+In time? How leisurely! The Oda clan will be destroyed!
+
+@62.2
+Silence, all of you. ... Masahide is right.
+
+@62.4
+My lord! Please reconsider.
+
+@62.5
+I told you. He is not a fool.
+
+@62.6
+The headship goes to Nobunaga. This is my last will. Understood...
+
+@63
+Soon afterwards Oda Nobuhide breathed his last, at the age of forty-two. It was the winter of Nobunaga's eighteenth year.
+
+@65.0
+Young lord,
+
+@65.1
+The old lord... Lord Nobuhide has passed away.
+
+@66.0
+What!
+
+@66.1
+I see...
+
+@66.2
+Young lord, the funeral will be held the day after tomorrow.
+
+@66.3
+Do not worry. Old man, I will attend the funeral.
+
+@66.4
+Tomorrow the chief members of the Oda clan will arrive.
+
+@66.5
+You must conduct yourself in a manner fitting an heir.
+
+@66.6
+I know.\n\n\nTell me, old man.
+
+@66.7
+Yes?
+
+@66.8
+No, never mind.\n(Now that Father is dead, what will the clan do...)
+
+@67.0
+Where are you going?
+
+@67.1
+I am off to laugh at my old man's sorry death!\n\nDo not follow me!
+
+@68.0
+Young lord...
+
+@69
+Owari - Banshoji - Funeral of Oda Nobuhide
+
+@70.0
+Where is Nobunaga?
+
+@70.1
+He went hawking early this morning and has not returned.
+
+@70.2
+Without the chief mourner we cannot begin the offering of incense!
+
+@70.3
+Young lord...
+
+@70.4
+We cannot wait any longer. Lord Nobuyuki, please begin the incense.
+
+@71.0
+Ah!
+
+@72.0
+Even to Lord Nobuhide's funeral, in that attire...!
+
+@72.1
+Brother...
+
+@72.2
+Nobuyuki, out of my way.
+
+@73.0
+(Father...)
+
+@74.0
+You died so easily... Far too soon!
+
+@75.0
+Y-young lord!
+
+@75.1
+H-how could he...
+
+@76.0
+Hurling incense at the old lord's memorial tablet... I have never seen such a funeral.
+
+@76.1
+(I cannot forgive such behaviour. We have no choice but to make Lord Nobuyuki the head...)
+
+@76.2
+...\n\n\nIt is my fault. Forgive me, my old lord...
+
+@76.3
+What fearlessness... But that is the mark of a man who holds a domain.
+
+@77
+Because of this incident, the rumour that Nobunaga was a great fool spread even beyond the province.\n\nBut one old monk from distant Tsukushi (northern Kyushu) saw through to his true nature. Soon afterwards, Nobunaga inherited the Oda headship.
+
+@78
+Oda Nobutomo's Seat - Kiyosu Castle
+
+@79.0
+Oh, Lord Nobutomo!
+
+@79.1
+Ho ho, you charming creature.
+
+@80.0
+Pardon the intrusion.
+
+@80.1
+Ah, Daizen. What is it?
+
+@80.2
+I have something to tell you.\n\nPlease clear the room...
+
+@80.3
+Very well. You may leave.
+
+@82.0
+Good news. Oda Nobuhide of Suemori is dead, and his eldest son Nobunaga has inherited the house.
+
+@82.1
+Oh! Nobuhide is dead!\n\nWith him gone, that Fool will never hold the clan together!
+
+@83.0
+My lord, the time is ripe.
+
+@83.1
+Yes. Daizen, invade Nobunaga's lands and bring back the Fool's head!
+
+@83.3
+His inheriting the house as a fool is his undoing. The four lower districts of Owari will be mine.
+
+@84.0
+Ha ha ha ha ha!
+
+@85
+Nagoya Castle
+
+@87.0
+My lord, Oda Nobutomo of Kiyosu has invaded.
+
+@87.1
+Their commander is Sakai Daizen, said to be the finest warrior in Kiyosu.
+
+@88.0
+So he attacked after all.
+
+@89.0
+I will use this chance to crush Kiyosu utterly.
+
+@90.0
+Report. Lord Nobumitsu of Moriyama has arrived with his troops.
+
+@90.1
+Good.
+
+@91.0
+I hear Sakai Daizen of Kiyosu has invaded.\n\nI, Nobumitsu, will lend my strength.
+
+@91.1
+Yes. Uncle, I am grateful.
+
+@92.0
+Now, sally forth!
+
+@94.0
+Equipping a weapon you are skilled with raises your attack power.
+
+@95
+Skip the battle and go to Chapter 2?
+
+@96.0
+Using healing water or healing sake restores skill points.
+
+@97.0
+You may find treasure in castles and villages.
+
+@98.0
+Muskets cannot be used in the rain. Take care.
+
+@99.0
+Do not forget to strengthen your weapons and armour.
+
+@100.0
+The special techniques you learn depend on the weapon you have equipped.
+
+@101.0
+Sakai Daizen is a formidable foe.
+
+@102.0
+If you advance recklessly, the enemy will surround you.
+
+@103.0
+Lord Nobuyuki is sure to come and help.
+

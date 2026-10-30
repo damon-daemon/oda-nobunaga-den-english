@@ -1,0 +1,429 @@
+@0
+"The Father-in-Law's Legacy"
+
+@2.0
+Nohime.
+
+@3.0
+I am back.
+
+@4
+The 3rd year of Eiroku (1560)\nImagawa Yoshimoto, hailed as the foremost bowman of the Tokai, was slain by Oda Nobunaga, a minor daimyo of Owari.\nNobunaga's name spread across the land, and some of the people of Owari even praised him as a living god.\n\nWith this victory, Nobunaga's rule over Owari became absolute. In exchange for Yoshimoto's head...
+
+@5
+"The Father-in-Law's Legacy"
+
+@6
+"The Father-in-Law's Legacy"
+
+@7
+"The Father-in-Law's Legacy"
+
+@10
+After Oda Nobunaga defeated Imagawa Yoshimoto, Saito Yoshitatsu died of illness in Mino and his son Tatsuoki became head of the clan.\n\nMeanwhile, in Mikawa to the east of Owari, Matsudaira Motoyasu, who had been subject to the Imagawa, was freed by Yoshimoto's death and returned to Okazaki Castle. Nobunaga, who had been waiting for a chance to advance into Mino, resolved to ally with the Matsudaira so as to throw everything into conquering Mino.
+
+@11.0
+Ah, Motoyasu. It has been a long time.
+
+@11.1
+Yes. I am glad to see you in good health, Lord Nobunaga.
+
+@11.2
+Since you have come, you will accept the betrothal?
+
+@11.3
+I accept gladly.
+
+@11.4
+Good. With this, the Oda and the Matsudaira are kin by marriage.
+
+@11.5
+Now, will you break with the Imagawa and join me?
+
+@12.0
+That is what I came prepared to do.
+
+@12.1
+From now on I will regard you as my elder brother and devote myself to the prosperity of both houses.
+
+@13.0
+Well said. As expected of Motoyasu. Ha ha ha ha ha.
+
+@14
+Thus, in the 1st month of the 5th year of Eiroku (1562), the Oda and the Matsudaira concluded the Kiyosu Alliance. Nobunaga was 29, Motoyasu 21.\n\nBacked by this alliance, sealed by the marriage of Motoyasu's eldest son and Nobunaga's eldest daughter, Nobunaga at last resolved to conquer Mino in earnest.
+
+@15.0
+(I will take Mino and avenge the Viper.)
+
+@15.1
+(If I conquer Mino, I may be able to march on Kyoto and proclaim my hegemony over the realm.)
+
+@16.0
+Nohime, I want Mino. I want Inabayama Castle.
+
+@16.1
+Please, take it by force. Father surely wished for it too.
+
+@17.0
+Kiyosu is too far to attack Inabayama.
+
+@17.1
+I will move my seat to Komakiyama. All of you, bring your families and move too!
+
+@19.0
+My lord, an uprising has broken out in eastern Mino. What will you do?
+
+@21.0
+We will put it down at once. A spark must be put out while it is still small.
+
+@22.0
+Even so, an uprising at this time... Someone must be pulling the strings behind it.
+
+@23.0
+No doubt it is that priest Shingen, hindering my conquest of Mino.
+
+@24.0
+Gonroku, gather the chief men.
+
+@26.0
+Leave it. For now, taking Inabayama Castle takes priority over the uprising.
+
+@27
+Ichijodani
+
+@28
+Ichijodani - Audience Hall
+
+@29
+Akechi Mitsuhide, wandering in search of a lord to serve, had come to the lands of the Asakura, a noted house of Echizen.\n\nMitsuhide, skilled in every martial art, soon came to the notice of the head of the house, Asakura Yoshikage, and was granted an audience.
+
+@30.0
+So you are this Akechi Mitsuhide. Your skill with the musket is splendid.
+
+@32.0
+I will grant you land. From now on, serve me as instructor in musketry.
+
+@33.0
+I am deeply grateful.
+
+@34
+After Saito Dosan's death, Akechi Mitsuhide fled Mino and relied on Asakura Yoshikage, and in time he would become deeply bound up with Oda Nobunaga. It was as if the late Saito Dosan were drawing in the threads of fate.
+
+@36
+Residence of Ashikaga Yoshiteru
+
+@37
+Meanwhile, in Kyoto...\n\n\n\nThe forces of the Miyoshi Triumvirate and Matsunaga Hisahide attacked Ashikaga Yoshiteru, the 13th shogun of the Muromachi shogunate.
+
+@38.0
+Let whoever wishes to die come at me first. I, Yoshiteru, will face you!
+
+@39.0
+Too slow!
+
+@40.0
+Aaagh!
+
+@41.0
+Too weak!
+
+@42.0
+Gwaah!
+
+@43.0
+I hold a full licence from Tsukahara Bokuden. Taste my swordsmanship well, as a keepsake for the underworld.
+
+@44.0
+Gweh.
+
+@45.0
+Ugh.
+
+@46.0
+Lord Yoshiteru!
+
+@47.0
+One at a time we are no match. Attack together.
+
+@48.0
+Ugh! Curse you, Matsunaga Hisahide! I will wait for you in hell!
+
+@49.0
+Ugh!
+
+@49.1
+Lord Yoshiteru...
+
+@50
+Yoshiteru departed this world at the young age of 30.
+
+@51
+Nara - Ichijoin, Kofukuji
+
+@52
+The Miyoshi Triumvirate and Matsunaga Hisahide also sought the life of Yoshiteru's younger brother Kakukei, who had entered the priesthood.
+
+@53.0
+Why must I, the main heir of the Ashikaga, train to be a mere priest?
+
+@54.0
+Lord Kakukei, flee from here at once!
+
+@55.0
+Wh-What is this, what is this?
+
+@55.1
+I am Hosokawa Fujitaka, who served Lord Yoshiteru. Please calm yourself and hear me.
+
+@55.2
+Lord Yoshiteru has been killed by the Miyoshi Triumvirate and Matsunaga Hisahide.
+
+@55.3
+What, my brother?!
+
+@55.4
+Men who would seize the next shogunate now seek your life.
+
+@56.0
+What am I to do?
+
+@57.0
+Help me.
+
+@57.1
+For now, please flee with me.
+
+@57.2
+Very well. I will go and change.
+
+@58.0
+My, what a fine disguise.
+
+@58.1
+Come, let us go.
+
+@59.0
+Ah, please wait.
+
+@60.0
+Tch, a step too late.
+
+@61.0
+Right, after them.
+
+@62
+Thus Kakukei slipped out of Ichijoin and returned to lay life, taking the name Yoshiaki, later written with a different character.
+
+@63
+Komakiyama Castle - Audience Hall
+
+@64
+Meanwhile Nobunaga, pressing on with the conquest of Mino, sent Shibata Katsuie to Sunomata to build a castle as a bridgehead for the attack on Inabayama. But Katsuie's brute-force construction was repeatedly obstructed by the troops of Mino and ended in failure.
+
+@65.0
+I am ashamed.
+
+@65.1
+First Sakuma, and now you have failed too.
+
+@66.0
+Not even able to build one castle. What a pitiful lot.
+
+@66.1
+With respect, that ground is poor footing...
+
+@66.2
+Enough! Is there no one who thinks himself equal to it?
+
+@67.0
+With respect, I will do it.
+
+@68.0
+Leave it to me, Tokichiro.
+
+@68.1
+Oh, the Monkey.
+
+@68.2
+I will surely meet your expectations.
+
+@68.3
+You know what happens if you fail?
+
+@68.4
+I am prepared for that. This Monkey's life is yours to do with as you wish...
+
+@68.5
+Mind your tongue! If you fail, your head and body will part!
+
+@69.0
+Interesting, Monkey. Try it.
+
+@69.1
+Yes, my lord. Await good news.
+
+@69.2
+(Hmph! What can a mere monkey do?)
+
+@70
+Kinoshita Tokichiro felled and worked cypress from Kiso, floated the timber down the Nagara River to Sunomata, and had only to assemble it on the spot. The castle, finished in a mere 47 days, was called by later generations the One-Night Castle of Sunomata.
+
+@71
+Ichijodani
+
+@72
+Ichijodani - Audience Hall
+
+@73
+Kakukei, who had changed his name to Ashikaga Yoshiaki, had come to Asakura Yoshikage in Echizen.
+
+@74.0
+That you should honour so remote a country is the height of distinction for us.
+
+@74.1
+Please make yourself at ease.
+
+@74.2
+Hm, I am pleased. Yet I cannot linger so long.
+
+@74.3
+I need only march on Kyoto to become shogun at once.
+
+@74.4
+But the Miyoshi and Matsunaga in Kyoto hinder my march and mean to keep me from the shogunate.
+
+@74.5
+If I hurry not, my cousin Yoshihide, whom they have raised up, will take the shogun's seat from me.
+
+@74.6
+Will you lend your strength to drive out those who defy the shogunal house, and march on Kyoto with me?
+
+@74.7
+Well, you see, winter comes early here, so let us speak of it next year when the snow melts...
+
+@75.0
+(If I could be the one to set him on the shogun's seat, then perhaps...)
+
+@76
+A flame of ambition rose in Akechi Mitsuhide's heart.\n\n\nIt was a dangerous flame, one that would burn up even himself...
+
+@77
+Komakiyama Castle - Audience Hall
+
+@78.0
+As you have all heard, an uprising has broken out in eastern Mino.
+
+@78.1
+We will put it down at once and show my authority to the people of my domain.
+
+@80.0
+(If Takeda or Azai and the rest come to Saito Tatsuoki's aid while I conquer Mino, it will be troublesome.)
+
+@80.1
+Call Oichi.
+
+@81.0
+Brother, you called for me?
+
+@81.1
+Oichi. How old are you now?
+
+@81.2
+I am seventeen this year.
+
+@82.0
+Will you marry Azai Nagamasa in Omi? It is for the sake of the Oda.
+
+@82.1
+...I understand. I will obey your wishes, Brother.
+
+@83
+Oichi, Nobunaga's sister, famed as a "beauty without peer," married Azai Nagamasa, and the Oda-Azai alliance was formed.
+
+@84.0
+A messenger has come from Lord Kinoshita Tokichiro at Sunomata.
+
+@84.1
+From the Monkey? Show him in.
+
+@85.0
+Thanks to Takenaka Hanbee, we have secured promises of defection from Inaba Ittetsu, Ando Morinari and Ujiie Bokuzen.
+
+@86.0
+The time is ripe. Now is the moment to take Inabayama Castle.
+
+@87.0
+Prepare to march!
+
+@89.0
+The time has finally come to take Mino.
+
+@90.0
+Let us scatter these rebels.
+
+@91.0
+Do not let your guard down.
+
+@92.0
+Those lacking experience should be sent into battle.
+
+@93.0
+I will not lose either.
+
+@94.0
+Asking around in villages may turn up unexpected information.
+
+@95.0
+I will not fall behind.
+
+@96.0
+Even support skills give experience when used.
+
+@97.0
+I will fight with all my strength.
+
+@98.0
+Leave fighting on grassland to me.
+
+@99.0
+At last, the dream comes true.
+
+@100.0
+I cannot help feeling that Takeda is behind this.
+
+@101.0
+In mountain strongholds like Inabayama Castle, cavalry move slowly. Take care.
+
+@102.0
+Mino is my homeland. I cannot let it be.
+
+@103.0
+Force is the only way.
+
+@104.0
+I will crush them for you to see.
+
+@105.0
+One more step to unifying Mino...
+
+@106.0
+Whether to take the weapon with higher attack or higher accuracy, that is the question.
+
+@107.0
+Let us take Mino.
+
+@108.0
+I hear Sanada is skilled at stratagems.
+
+@109.0
+I, the Monkey, will work with all my might to repay my lord's kindness.
+
+@110.0
+Hmm, something smells fishy here...
+
+@111.0
+Leave the muskets to me.
+
+@112.0
+I am also versed in the arts of the ninja, so I may be of use in more than musketry.
+

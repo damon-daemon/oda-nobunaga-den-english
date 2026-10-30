@@ -1,0 +1,147 @@
+@0.0
+Now that the Three Men of Mino are on my side, this is the chance to take Inabayama.
+
+@0.1
+I will defeat Tatsuoki and take Mino.
+
+@0.2
+Advance!
+
+@0.3
+N-Nobunaga! Nobunaga is attacking!
+
+@0.4
+Damn it, where are Ittetsu and Bokuzen and the rest at a time like this?
+
+@0.5
+Useless, the lot of them!
+
+@1
+Siege of Inabayama Castle\nVictory: 1. Take Inabayama Castle.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Siege of Inabayama Castle\n\nVictory: 1. Take Inabayama Castle.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3
+The Three Men of Mino have arrived.
+
+@4.0
+So Ittetsu and the others have finally shown up. What a disgrace!
+
+@4.1
+Lord Nobunaga, forgive our delay. The Three Men of Mino lend you our aid.
+
+@4.2
+Good. Ittetsu, Bokuzen, Morinari, I am counting on you.
+
+@4.3
+Yes, my lord. Leave it to us.
+
+@4.4
+Traitors! You repay kindness with betrayal!
+
+@4.5
+What are you saying?
+
+@4.6
+We recall suffering your spite, but no kindness from you at all.
+
+@4.7
+Grrr... Damn you!!
+
+@6.0
+We have no intention of resisting. Please spare us.
+
+@6.1
+Please, take this.
+
+@7
+Gained 1000 gold.
+
+@10.0
+You traitor!
+
+@10.1
+The people's hearts have already left you.
+
+@10.2
+Stop this pointless fighting and surrender.
+
+@10.3
+Bah! I will not listen to a traitor's words!
+
+@11.0
+Bokuzen, you betrayed me! I will not forgive this!
+
+@11.1
+You never change.
+
+@11.2
+I will not take your life. Flee wherever you like.
+
+@11.3
+Grr...
+
+@12.0
+Ittetsu, how dare you betray...
+
+@12.1
+Prepare yourself, Lord Tatsuoki!
+
+@12.2
+Eek!
+
+@13.0
+Damn you, damn you Nobunaga! What am I to do?
+
+@13.1
+You hardly look like the master of a province.
+
+@13.2
+Pitiful wretch.
+
+@13.3
+Curse it, you dare mock me!
+
+@14.0
+I-if this goes on, I will be killed.
+
+@14.1
+I must flee quickly...
+
+@15.0
+We have taken Sunomata Castle!
+
+@16
+Sunomata Castle was taken by the enemy
+
+@18.0
+Good, the enemy is wiped out.
+
+@18.1
+Now we take Inabayama Castle in one stroke.
+
+@19.0
+Well done, everyone.
+
+@20
+The Oda army defeated the army of Saito Tatsuoki.
+
+@21
+Gained 1000 gold.
+
+@22
+Inabayama Castle taken
+
+@23
+Oda Nobunaga was defeated by Saito Tatsuoki.
+
+@24
+The Oda army took Inabayama Castle.
+
+@25
+Gained 1000 gold.
+
+@26
+Inabayama Castle taken
+

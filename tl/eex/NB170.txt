@@ -1,0 +1,159 @@
+@0.0
+Ujimasa has gathered a fine host, I will grant him that.
+
+@0.1
+But a rabble against my elite? The outcome was decided before the first arrow flew!
+
+@0.2
+This is the last battle. All armies, advance!
+
+@0.3
+That Nobunaga, unifying the realm and leaving me aside? Don't make me laugh!
+
+@0.4
+The glory of unifying the realm belongs to the Hojo house, and no other.
+
+@0.5
+In the end he has only been working for me.
+
+@0.6
+Now is the time to cut Nobunaga down and take the realm myself!
+
+@1
+Hojo morale rose!
+
+@2
+Battle of the Kanto Pacification\nVictory: 1. Force Hojo Ujimasa to retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@3
+Pacification of Kanto\n\nVictory: 1. Force Hojo Ujimasa to retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@4
+Hojo endurance and skill points recovered.
+
+@5
+Hojo endurance and skill points recovered.
+
+@6
+Hojo endurance and skill points recovered.
+
+@7
+Hojo endurance and skill points recovered.
+
+@8
+Hojo endurance and skill points recovered.
+
+@9
+Hojo endurance and skill points recovered.
+
+@10
+Hojo endurance and skill points recovered.
+
+@11
+Hojo endurance and skill points recovered.
+
+@12
+Hojo endurance and skill points recovered.
+
+@13
+Hojo endurance and skill points recovered.
+
+@14
+Hojo endurance and skill points recovered.
+
+@15
+Hojo endurance and skill points recovered.
+
+@16
+Hojo endurance and skill points recovered.
+
+@17
+Hojo endurance and skill points recovered.
+
+@18
+Hojo endurance and skill points recovered.
+
+@19
+Hojo endurance and skill points recovered.
+
+@20
+Hojo endurance and skill points recovered.
+
+@21
+Hojo endurance and skill points recovered.
+
+@22
+Hojo endurance and skill points recovered.
+
+@23
+Hojo endurance and skill points recovered.
+
+@24
+Hojo endurance and skill points recovered.
+
+@25
+Hojo endurance and skill points recovered.
+
+@26
+Hojo endurance and skill points recovered.
+
+@27
+Hojo endurance and skill points recovered.
+
+@28
+Hojo endurance and skill points recovered.
+
+@29.0
+Hm, you are a Fuma ninja!
+
+@29.1
+Heh heh heh... prepare yourself, Nobunaga.
+
+@30.0
+Choose, Ujimasa: surrender or death.
+
+@30.1
+Ha, what nonsense! It is you who will choose death. Come at me!
+
+@31.0
+If only we had surrendered at the start, it would not have come to this...
+
+@32.0
+If only we had surrendered at the start, it would not have come to this...
+
+@33.0
+It cannot be helped now... I will surrender...
+
+@34.0
+It cannot be helped now... I will surrender...
+
+@35.0
+Curse you, Nobunaga...
+
+@36.0
+Curse you, Nobunaga...
+
+@37.0
+Damn, I have blundered...
+
+@38.0
+Ugh... so he was no opponent we could ever match after all...
+
+@40
+The Oda main camp was taken by the enemy
+
+@41.0
+Damn, Fuchu Castle...
+
+@42
+After a fierce struggle, Oda Nobunaga defeated the last remaining power, the Hojo, and unified Japan.\n\nOut of the long wars, a new age is born.\n\nNobunaga's dream has become reality, and the days of battle and destruction are at an end.
+
+@43
+Hojo Ujimasa defeated; Japan unified
+
+@44
+Oda Nobunaga was defeated by Hojo Ujimasa.
+
+@45.0
+So I lacked the capacity to rule the realm... How bitter...
+

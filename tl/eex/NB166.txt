@@ -1,0 +1,111 @@
+@0.0
+Hm? That is... our lord!
+
+@0.1
+What! Koroku, where? Where is our lord!
+
+@0.2
+Over there. Our lord is between Mitsuhide's main camp and Shoryuji Castle...
+
+@0.3
+Oh, that is certainly our lord! He is alive!
+
+@0.4
+My lord, please wait for me. This Monkey will be with you at once!
+
+@0.5
+That is Nobunaga... He was alive...
+
+@0.6
+Damn you, Nobunaga... This time I will not let you live! The whole army, charge!
+
+@0.7
+It is Lord Nobunaga... We will all be killed! Run!
+
+@0.8
+What foolishness is this... What...
+
+@1
+The soldiers who saw Nobunaga were seized with terror, and Mitsuhide's main camp fell into great confusion.
+
+@2.0
+I cannot believe it... That Nobunaga alone could throw my camp into disorder...
+
+@3
+Battle of Yamazaki\nVictory: 1. Make Akechi Mitsuhide retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@4
+Battle of Yamazaki\n\nVictory: 1. Make Akechi Mitsuhide retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@5.0
+Fujitaka, it seems we made it in time.
+
+@5.1
+Yes. Hm, that is my lord!
+
+@5.2
+What! Oh, that is certainly Father.
+
+@5.3
+Father, you are safe!
+
+@5.4
+Nobutada, you are unharmed too! ...Good, general attack. The whole army, advance!
+
+@6.0
+My lord, reinforcements have arrived.
+
+@6.1
+Oh, Junkei!
+
+@6.2
+Junkei, you traitor...
+
+@7.0
+Lord Hideyoshi, reinforcements have arrived.
+
+@7.1
+Lord Nagahide, look, our lord is safe!
+
+@7.2
+What, our lord!
+
+@7.3
+...My lord...
+
+@8
+Hayashi Hidesada has sortied.
+
+@9
+Sakuma Nobumori has sortied.
+
+@11.0
+So you were alive after all, Nobunaga!
+
+@11.1
+Did you think you could kill me, Mitsuhide?
+
+@11.2
+Heh heh, I will repay you for Honnoji.
+
+@11.3
+Grr...
+
+@12.0
+Ugh... Damn...
+
+@16
+Oda Nobunaga struck from behind at Mitsuhide, who faced Hideyoshi at Yamazaki.\n\n\nMitsuhide's main camp fell into great confusion and was crushed by the Oda army.
+
+@17
+Gained 5000 gold
+
+@18
+Defeats Akechi Mitsuhide at Yamazaki
+
+@19
+Oda Nobunaga tried to catch Mitsuhide in a pincer with Hideyoshi, but lacked the strength and was defeated.
+
+@20.0
+Ugh... Retreat! Retreat!
+

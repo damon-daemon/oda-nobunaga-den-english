@@ -1,0 +1,420 @@
+@0
+"The Unification of Owari"
+
+@1
+"Wise Brother, Foolish Brother"
+
+@2
+The 8th month, the 2nd year of Koji (1556)\nNobunaga won the struggle against his kin and secured his position as clan head.\nHe was only 23.
+
+@3
+"The Unification of Owari"
+
+@4
+"The Unification of Owari"
+
+@5
+"The Unification of Owari"
+
+@6
+Kiyosu Castle - Audience Hall
+
+@7.0
+Mother.
+
+@7.1
+You will not... kill Nobuyuki, will you?
+
+@7.2
+What are you saying?
+
+@8.0
+I beg you. You are brothers, of one blood. Do not fight each other...
+
+@8.1
+...Very well.
+
+@9.0
+And please do not punish Shibata and Hayashi.
+
+@9.1
+They are senior retainers who served your father Nobuhide before you. So please...
+
+@9.2
+Mother, do not trouble yourself. That was my intention from the start.
+
+@9.3
+Is that so... I am relieved to hear it. Then I am counting on you.
+
+@10.0
+Bring Nobuyuki to me.
+
+@11.0
+Nobuyuki, as you commanded.
+
+@11.1
+I have nothing to say about this affair. I leave my life or death to my brother's judgement alone.
+
+@11.2
+What is past is forgiven. Return to Suemori Castle at once.
+
+@12.0
+B-Brother... You forgive me?
+
+@13.0
+If you understand, withdraw.
+
+@14.0
+Summon Shibata and Hayashi.
+
+@15.0
+We are here, my lord.
+
+@16.0
+We are prepared to take our own lives. Boil us or roast us, do with us as you will.
+
+@17.0
+I forbid you to commit seppuku. Atone for this fault by winning glory in battle later.
+
+@17.1
+Understood?
+
+@18.0
+Yes, my lord.\n(This man and I are cast in different moulds altogether...)
+
+@19.0
+Yes, and I am grateful. From now on I intend to serve you with all my heart.
+
+@19.1
+Enough. Withdraw.
+
+@20
+Suemori Castle - Audience Hall
+
+@21.0
+My brother said it is forgiven. But...
+
+@21.1
+Knowing his nature, he will surely not let it rest here. Is that not so, Hidesada?
+
+@21.2
+......
+
+@21.3
+Rather than sit idle, it would be better to challenge my brother. Do you not agree, Katsuie?
+
+@21.4
+Please, stop this. Lord Nobunaga is no fool. This battle has shown me that well.
+
+@21.5
+Katsuie, you...
+
+@21.6
+However often you challenge him, you cannot defeat Lord Nobunaga. That man is...
+
+@22.0
+You have a point. Go and tell my brother that Nobuyuki harbours no treachery.
+
+@22.1
+Yes, my lord...
+
+@23.0
+Now then, let us resume our discussion.
+
+@23.1
+......
+
+@24.0
+You there.
+
+@25.0
+Yes, my lord.
+
+@26.0
+Go to Oda Nobuyasu of Iwakura Castle and ask for his cooperation.
+
+@27.0
+At once, my lord.
+
+@28.0
+You there.
+
+@29.0
+Yes, my lord.
+
+@30.0
+Go to Saito Yoshitatsu in Mino and ask him to send reinforcements should the worst happen.
+
+@30.1
+They say the enemy of my enemy is my friend. This time I will do away with my brother...
+
+@31.0
+At once, my lord.
+
+@32.0
+(Has Lord Nobuyuki been seized by ambition? Or has fear of Lord Nobunaga driven him out of his mind?)
+
+@33
+Kiyosu Castle
+
+@34
+Kiyosu Castle - Audience Hall
+
+@35.0
+Gonroku, what is it?
+
+@36.0
+...I beg your pardon, my lord. Lord Nobuyuki is plotting rebellion.
+
+@36.1
+I, Gonroku, can no longer serve Lord Nobuyuki.
+
+@36.2
+I see. You must have suffered greatly before coming here.
+
+@36.3
+From now on, serve me.
+
+@36.5
+(Now, what to do about Nobuyuki...)
+
+@37
+Kill Oda Nobuyuki\nSpare him
+
+@38.0
+Gonroku, I need you to do something for me.
+
+@39.0
+Return to Suemori Castle as you are and tell him that I lie sick in bed.
+
+@39.1
+Mark me, you must make sure Nobuyuki comes to visit me.
+
+@39.2
+But, my lord...
+
+@39.3
+Do you not hear my order, Gonroku?
+
+@39.4
+Not at all, my lord. I will surely bring Lord Nobuyuki to you.
+
+@39.5
+You will not go wrong if you do as I say. Understood?
+
+@40.0
+Yes, my lord.
+
+@41.0
+Is anyone there?
+
+@42.0
+You called, my lord?
+
+@42.1
+Come closer.
+
+@42.2
+Yes, my lord.
+
+@43.0
+Nobuyuki will soon come to this castle. I have a task for you.
+
+@43.1
+......
+
+@43.2
+Lend me your ear.
+
+@44.0
+The truth is...
+
+@45.0
+(W-What!)
+
+@46.0
+Gonroku, you may withdraw.
+
+@47.0
+Yes, my lord.
+
+@48
+Suemori Castle - Audience Hall
+
+@49.0
+Lord Nobunaga has been confined to bed by a sudden illness.
+
+@49.1
+Is that true?
+
+@49.2
+Yes, without doubt.
+
+@49.3
+Lord Nobunaga wishes to see you.
+
+@49.4
+But to face my brother now...
+
+@49.5
+If you refuse, there is no telling what accusations he will make.
+
+@49.6
+Now is not the time to provoke Lord Nobunaga. I, Katsuie, will accompany you.
+
+@49.7
+Very well. In case the worst should happen, let us ask Mother to come with us.
+
+@49.8
+Even my brother would not think of punishing his brother in front of Mother.
+
+@49.9
+(Is Lord Nobuyuki so afraid of Lord Nobunaga?)
+
+@50
+Kiyosu Castle
+
+@51.0
+Is my brother's condition really so bad?
+
+@51.1
+Yes, my lord.
+
+@52.0
+This way, please.
+
+@52.1
+Very well. My thanks.
+
+@52.2
+......
+
+@53.0
+...Hm? There is no one here.
+
+@54.0
+Aah!
+
+@54.1
+Lord Nobuyuki, prepare to die!
+
+@55.0
+Gah!\n\n\nBrother... You tricked me...
+
+@56.0
+Oh, Nobuyuki!
+
+@57.0
+Ah... Nobuyuki, Nobuyuki...
+
+@58.0
+It is done. Report to his lordship.
+
+@58.1
+Yes, well done.
+
+@59
+The 3rd year of Koji (1557)\nOda Nobunaga killed his brother Nobuyuki.\nTo unify Owari, he judged the sacrifice unavoidable.
+
+@60
+Killed his brother Oda Nobuyuki
+
+@61
+This event has been cut from the PS version.
+
+@62
+Owari - Iwakura Castle
+
+@63
+This is Iwakura Castle, seat of Oda Nobuyasu, deputy constable of the four upper districts of Owari. Nobuyasu had an heir, Nobukata, but...
+
+@64.0
+My lord! Terrible news!
+
+@65.0
+Fool! A samurai must never panic, whatever the hour.
+
+@65.1
+Now, what is so terrible? Speak.
+
+@65.2
+Lord Nobukata has rebelled.
+
+@66.0
+Wh-What?!
+
+@67.0
+Pursuers are closing in. Please flee at once.
+
+@68.0
+Damn, he got away.
+
+@69
+Kiyosu Castle
+
+@70
+Around the time Nobunaga put down Nobuyuki's rebellion, a revolt broke out at Iwakura Castle, the seat of Oda Nobuyasu.\n\nNobuyasu was the deputy constable who held the four upper districts of Owari, but it was his own heir, Nobukata, who rebelled.\n\nA golden chance to unify Owari had come to Nobunaga.
+
+@71.0
+Report! At Iwakura Castle, Lord Nobukata has rebelled. The castle's lord, Lord Nobuyasu, has fled.
+
+@71.1
+How pitiful. Still, this is a rare chance to take Iwakura Castle.
+
+@72.0
+To battle!
+
+@73
+Move the cursor to select the person you wish to speak to.
+
+@74.0
+Watch my loyalty well.
+
+@75.0
+I only hope Lord Nobuyuki does not act rashly...
+
+@76
+Skip the battle? (Debug)
+
+@77.0
+Beware of reinforcements from Yoshitatsu.
+
+@78.0
+I am glad to fight alongside you, Lord Katsuie.
+
+@79.0
+My arm itches for battle.
+
+@80.0
+Please do not overextend yourself.
+
+@81.0
+Do not let your guard down...
+
+@82.0
+I will win merit.
+
+@83.0
+At last, the unification of Owari.
+
+@84.0
+Leave the vanguard to me.
+
+@85.0
+Since you killed your brother, this is Battle of Ukino 1. (Temp.)
+
+@86.0
+We will unify Owari. All of you, to battle!
+
+@87.0
+Since you and your brother got along, this is Battle of Ukino 2. (Temp.)
+
+@88.0
+Since you killed your brother, this is Battle of Ukino 1. (Temp.)
+
+@89.0
+We will unify Owari. All of you, to battle!
+
+@90.0
+Since you and your brother got along, this is Battle of Ukino 2. (Temp.)
+

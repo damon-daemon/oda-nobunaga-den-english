@@ -1,0 +1,195 @@
+@0.0
+After them! Take Nobunaga and Ieyasu!
+
+@0.1
+This is the time to make a name! Do not let Nobunaga slip away!
+
+@0.2
+To suffer such a defeat and be pursued like this...
+
+@0.3
+Then I shall trade blows with Katsuyori and die with him.
+
+@0.4
+Lord Nobunaga, that would be rash. The battle is not yet decided.
+
+@0.5
+Having pursued us, the Takeda army's provisions cannot last long.
+
+@0.6
+If we shut ourselves in Hamamatsu Castle and drag the war out, the Takeda will withdraw.
+
+@0.7
+Hm! What is that!?
+
+@1
+A detached force under Oyamada Nobushige appears!
+
+@2.0
+Our target is Hamamatsu Castle! Get ahead of them, take the castle and cut off Nobunaga's retreat!
+
+@2.1
+Damn, they had a detached force posted!
+
+@2.2
+We will hold them here, so my lord, go to Hamamatsu Castle!
+
+@2.3
+Tadakatsu...
+
+@2.4
+Quickly, my lord, please hurry!
+
+@2.5
+Very well, I leave it to you, Tadakatsu!
+
+@2.6
+Lord Nobunaga, please withdraw quickly from here.
+
+@2.7
+Until our lord returns, I will defend this castle to the death.
+
+@3
+Defence of Hamamatsu\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 99 turns pass.
+
+@4
+Defence of Hamamatsu\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 99 turns pass.
+
+@5.0
+Hm, we cannot fight any further. Prepare to withdraw! Retreat!
+
+@6
+The Takeda army begins to retreat
+
+@7
+The Takeda main force has arrived!
+
+@8.0
+Now is the time to fulfil the Takeda clan's long-cherished wish!
+
+@8.1
+Nobunaga! I will lay your head before my father's grave!
+
+@8.2
+So their main force has come at last!
+
+@9
+Nobutada's unit has arrived!
+
+@10.0
+Oh, that is Father's army!
+
+@10.1
+Men, follow me! Do not fear an enemy like this!
+
+@11
+An enemy detached force appears!
+
+@12.0
+Hamamatsu is just ahead! Follow Nobushige!
+
+@12.1
+Hm, fresh troops!
+
+@13
+Town
+
+@14.0
+Please, do not drag this town into the war.
+
+@14.1
+Please take this. I beg you...
+
+@16.0
+There is some armour in this village, but no one uses it.
+
+@16.1
+Please, take it.
+
+@18.0
+In the middle of a war I am too scared not to drink.
+
+@18.1
+*hic* Oh, samurai sir, have a drink too. *hic*
+
+@20.0
+Samurai sir, I hate war.
+
+@20.1
+This has been handed down in our village for generations.
+
+@20.2
+Use it and end the war quickly.
+
+@22.0
+I will give you the rice harvested this year, so please do not ruin our fields.
+
+@22.1
+I beg you.
+
+@24.0
+Samurai sir, are you hurt?
+
+@24.1
+Use this, and you should feel a little better.
+
+@25.0
+Phew, I somehow made it back to the castle.
+
+@26
+The Takeda main force has arrived!
+
+@27.0
+Now is the time to fulfil the Takeda clan's long-cherished wish!
+
+@27.1
+Nobunaga! I will lay your head before my father's grave!
+
+@27.2
+So their main force has come at last!
+
+@28
+Nobutada's unit has arrived!
+
+@29.0
+Oh, that is Father's army!
+
+@29.1
+Men, follow me! Do not fear an enemy like this!
+
+@30.0
+Kosaka! You are too valuable a man to kill.
+
+@30.1
+Submit to my banner!
+
+@30.2
+Nobunaga, before you spout nonsense, taste Masanobu's spear!
+
+@31.0
+Nobunaga! Today I will take your head!
+
+@31.1
+Be silent, Katsuyori! I will teach you that crossing blades with me is ten years too early!
+
+@32.0
+What a disgrace! Prepare to withdraw at once!
+
+@33
+The Takeda army begins to retreat
+
+@34.0
+We have taken Hamamatsu Castle!
+
+@35
+Hamamatsu Castle was taken by the enemy
+
+@37
+Oda Nobunaga defeated Takeda Katsuyori.
+
+@39
+Defeats the Takeda at Hamamatsu
+
+@40
+Oda Nobunaga was defeated by Takeda Katsuyori.
+

@@ -1,0 +1,159 @@
+@0.0
+What is Nobunaga up to...
+
+@0.1
+He has dug in on ground that favours our cavalry...
+
+@0.2
+He seems to mean to build horse-stopping fences and shoot at us from behind them.
+
+@0.3
+Close the distance in one rush and bring it to close combat, and the muskets lose their power.
+
+@0.4
+What is he thinking...
+
+@0.5
+Very well. All units hold position until we see what Oda does!
+
+@1.0
+If Nagachika and the others can attack the Nagashino garrison cleverly,
+
+@1.1
+Katsuyori will have his retreat cut off and come straight at us.
+
+@1.2
+Then Katsuyori will fall into my trap.
+
+@1.3
+I will wipe out the Takeda cavalry, said to be the strongest, and make them the foundation of my dream.
+
+@1.4
+All units hold until the enemy moves!
+
+@2.0
+Nagachika, our task is a weighty one.
+
+@2.1
+Indeed, Tadatsugu.
+
+@3
+Battle of Nagashino\nVictory: 1. Make Takeda Katsuyori retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@4
+Battle of Nagashino\n\nVictory: 1. Make Takeda Katsuyori retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@5.0
+Lord Ieyasu, Nagashino Castle has fallen to the Takeda attack.
+
+@5.1
+Hmm, Katsuyori has got the better of us...
+
+@6
+Found treasure.
+
+@7.0
+Lord Katsuyori, this is terrible!
+
+@7.1
+An Oda detached force has appeared at Nagashino Castle.
+
+@7.2
+Damn! Our retreat is cut off...
+
+@7.4
+Strike Nobunaga down in one blow. All units, advance!
+
+@8.0
+Lord Katsuyori, this is terrible! An Oda detached force is heading for Nagashino Castle.
+
+@8.1
+What! Nobunaga means to cut off our retreat...
+
+@8.2
+Very well, we will crush the Oda detached force and take Nagashino Castle! All units, fall back!
+
+@9.0
+Lord Nobunaga, the Takeda army is moving strangely.
+
+@9.2
+It seems Nagachika and his men have been discovered...
+
+@9.3
+Lord Nobunaga, we will go to relieve Nagashino Castle.
+
+@9.5
+(Now, how shall we move...)
+
+@10.0
+Lord Katsuyori, this is terrible! An Oda detached force is heading for Nagashino Castle.
+
+@10.1
+What! Nobunaga means to cut off our retreat...
+
+@10.2
+Very well, we will crush the Oda detached force and take Nagashino Castle! All units, fall back!
+
+@11.0
+Lord Nobunaga, the Takeda army is moving strangely.
+
+@11.2
+It seems Nagachika and his men have been discovered...
+
+@11.3
+Lord Nobunaga, we will go to relieve Nagashino Castle.
+
+@11.5
+(Now, how shall we move...)
+
+@12.0
+My lord, at this rate we will be wiped out. Please withdraw the troops.
+
+@12.1
+Tch, there is no help for it... All units, retreat!
+
+@13
+Battle of Nagashino\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@14
+Battle of Nagashino (victory condition changed)\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@15.0
+Nobunaga, I will defeat you and take the realm!
+
+@15.1
+Heh.
+
+@15.2
+Shingen, perhaps. But Nobunaga is not a man to be beaten by the likes of you!
+
+@16.0
+Curse you, Nobunaga! Remember this!
+
+@17
+Oda Nobunaga destroyed the Takeda cavalry at Nagashino.
+
+@19
+Destroyed the Takeda cavalry at Nagashino
+
+@22.0
+Hmph, my plan fails... There is no help for it. All units, retreat!
+
+@23
+Oda Nobunaga was defeated by the Takeda cavalry.
+
+@24
+Defeated by the Takeda cavalry at Nagashino
+
+@25
+Oda Nobunaga destroyed the Takeda cavalry at Nagashino.
+
+@27
+Destroyed the Takeda cavalry at Nagashino
+
+@28
+Oda Nobunaga was defeated by the Takeda cavalry.
+
+@29
+Defeated by the Takeda cavalry at Nagashino
+

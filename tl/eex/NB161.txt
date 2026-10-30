@@ -1,0 +1,108 @@
+@0.0
+That young pup of Mikawa is set on holding the castle. Admirable, though he is my enemy.
+
+@0.1
+But even if Nobunaga comes to relieve him, he will not break through us!
+
+@0.2
+My lord, Lord Nobunaga has arrived!
+
+@0.4
+We made it in time... Crush the Takeda army and save Lord Tokugawa!
+
+@1
+Battle of Mikatagahara\nVictory: 1. Make Takeda Shingen retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Battle of Mikatagahara\n\nVictory: 1. Make Takeda Shingen retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3.0
+Does the Oda army mean to avoid battle with us?
+
+@3.1
+Has Nobunaga lost his nerve...?
+
+@3.2
+Advance! Take Nobunaga's head!
+
+@4.0
+Tell Nobutoyo! Take Hamamatsu Castle in one stroke!
+
+@4.1
+The Lord's order has come down. March on the enemy castle!
+
+@4.2
+My lord! Takeda Nobutoyo's troops are closing on the castle!
+
+@4.3
+Hmm, then we die fighting with the castle at our backs! Hear me, not one step back!
+
+@6.0
+Samurai sir, please take this.
+
+@7.0
+Advance! Our target is Nobunaga's head!
+
+@7.1
+Once Nobunaga is slain, their whole army will collapse!
+
+@9.0
+I am afraid of war.
+
+@9.1
+I will give you this horse, so please end the war quickly.
+
+@10.0
+Nobunaga! Face me, Katsuyori!
+
+@10.1
+Katsuyori. Only your courage seems to match your father's.
+
+@10.2
+But Nobunaga is not to be felled by a greenhorn like you!
+
+@10.3
+Damn you! Before you spout nonsense, taste this spear!
+
+@11.0
+It has been since Mino, Lord Shingen.
+
+@11.1
+This time it will not go as it did before. Come, let us fight.
+
+@12.0
+You must be Lord Takeda Shingen.
+
+@12.1
+I am. And you are of the Oda...
+
+@12.2
+Indeed. I am Nobunaga.
+
+@12.3
+To think you have pressed us this hard...
+
+@12.4
+The Oda army is as formidable as rumour has it. I, Shingen, am impressed.
+
+@12.5
+Yet no man can defeat me! Lord Nobunaga, to battle!
+
+@16
+Oda Nobunaga defeated the army of Takeda Shingen.
+
+@18
+Defeats the Takeda at Mikatagahara
+
+@19
+Oda Nobunaga was defeated by the army of Takeda Shingen.
+
+@20.0
+Argh... as expected of Nobunaga.
+
+@20.1
+For now, we must pull back the troops... guh!
+
+@20.2
+At a time like this... my illness...
+

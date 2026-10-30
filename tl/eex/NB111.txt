@@ -1,0 +1,276 @@
+@0.0
+Hmm... To think Nobunaga would attack...
+
+@0.1
+I should never have ignored the order to come to Kyoto...
+
+@0.2
+Heh heh heh. Even Yoshikage's indecision proves useful at times.
+
+@0.3
+Thanks to it, I now have a just cause to attack him.
+
+@0.4
+Lord Nobunaga, one thing worries me...
+
+@0.5
+What worries you, Lord Ieyasu?
+
+@0.6
+It is about Lord Azai.
+
+@0.7
+The Azai have long been allied with the Asakura, and are on close terms with them.
+
+@0.8
+If the Azai move, we will be in danger.
+
+@0.9
+Ha ha ha, do not worry, Lord Ieyasu.
+
+@0.10
+Nagamasa is my sister's husband. He will never move.
+
+@0.11
+Very well, we take Tezutsuyama and Kanegasaki, and then Ichijodani Castle in one stroke! Everyone, follow me!
+
+@1
+Retreat from Kanegasaki\nVictory: 1. Make Asakura Yoshikage retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@2
+Retreat from Kanegasaki\n\nVictory: 1. Make Asakura Yoshikage retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@4.0
+Lord Yoshikage! We three have come to aid you on Lord Nagamasa's orders!
+
+@4.1
+Just like Nagamasa! You have stood by me well.
+
+@4.2
+Do not miss this chance. Send out the whole army!
+
+@4.4
+(Nagamasa, why did you side with Yoshikage and not with me?)
+
+@4.5
+All forces, begin retreating at once!
+
+@5
+The Rokkaku army has appeared
+
+@6.0
+Ha ha ha, the chance has finally come.
+
+@6.1
+Take your fill of what I owe you from Kannonji!
+
+@7
+Retreat from Kanegasaki\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the mountain pass\n     at the lower left of the battlefield.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@8
+Retreat from Kanegasaki (victory condition changed)\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the mountain pass\n     at the lower left of the battlefield.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@9.0
+My lord, this has arrived from Lady Oichi.
+
+@9.1
+Hm...
+
+@9.2
+What is this?
+
+@9.3
+Sir, she says it contains red beans, your favourite.
+
+@9.4
+?
+
+@9.5
+(My favourite...)
+
+@9.6
+(The bag is tied at the top and at the bottom... ...)
+
+@9.7
+(...! A rat in a bag, is that what you are telling me, Oichi?)
+
+@9.8
+(Then we must withdraw at once...)
+
+@11.0
+Welcome to this village deep in the mountains.
+
+@11.1
+We have nothing, but please take this.
+
+@12.0
+?! Ugh!
+
+@13
+Trap
+
+@14.0
+?! Ugh!
+
+@15
+Trap
+
+@18
+Pirate treasure found
+
+@19
+Lake pirate treasure found.
+
+@20.0
+Oh, samurai. Do you have business in this village?
+
+@20.1
+No, I was only passing by.
+
+@20.2
+More to the point, this area may become a battlefield at any moment.
+
+@20.3
+You had better take shelter somewhere safe.
+
+@21.0
+Thank you for your concern. In return, let me tell you a rumour about treasure.
+
+@21.1
+One is that lake pirate treasure lies buried east of this village...
+
+@21.2
+The other is that pirates hid treasure on the peninsula ringed by cliffs north of Kanegasaki Castle.
+
+@22
+Everyone has fled; nobody is here
+
+@23.0
+My lord, this has arrived from Lady Oichi.
+
+@23.1
+Hm... What is this?
+
+@23.2
+Sir, she says it contains red beans, your favourite.
+
+@23.3
+? (My favourite...)
+
+@23.4
+(The bag is tied at the top and at the bottom... ...)
+
+@23.5
+(...! A rat in a bag, is that what you are telling me, Oichi?)
+
+@23.6
+(Then we must withdraw at once...)
+
+@25.0
+Lord Yoshikage! We three have come to aid you on Lord Nagamasa's orders!
+
+@25.1
+Just like Nagamasa! You have stood by me well.
+
+@25.2
+Do not miss this chance. Send out the whole army!
+
+@25.3
+...(Nagamasa, why did you side with Yoshikage and not with me?)
+
+@25.4
+All forces, begin retreating at once!
+
+@26
+The Rokkaku army has appeared
+
+@27.0
+Ha ha ha, the chance has finally come.
+
+@27.1
+Take your fill of what I owe you from Kannonji!
+
+@28
+Retreat from Kanegasaki\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the area around\n     the village at the lower left.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@29
+Retreat from Kanegasaki (victory condition changed)\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the area around\n     the village at the lower left.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@30.0
+Nobunaga, this is the end. Die!
+
+@30.1
+A Nobunaga who falls to the likes of you? Come on, then!
+
+@31.0
+Lord Nobunaga, these are my lord's orders. Prepare yourself.
+
+@31.1
+I still have things I must do.
+
+@31.2
+I will not give you my head!
+
+@32.0
+(To come all the way here... what a reckless fellow...)
+
+@32.1
+Nobunaga, surrender and I will spare your life. Surrender!
+
+@32.2
+What foolishness!
+
+@32.3
+(If only Nagamasa had not sided with this man...)
+
+@33.0
+Nobunaga has bested me again...
+
+@34.0
+So this is Nobunaga's strength...
+
+@34.1
+Why is my lord making an enemy of such a man...
+
+@35.0
+Damn, I have blundered!
+
+@36.0
+As expected of Nobunaga. He is to be feared...
+
+@37.0
+Curses, I failed to finish Nobunaga off.
+
+@38.0
+There is no help for it. Retreat.
+
+@39.0
+Hmm, no help for it... I leave the rest to you.
+
+@40.0
+Had it not been for Oichi's message, I would have been in grave danger.
+
+@40.1
+But Nagamasa defecting...
+
+@41
+At Kanegasaki, Nobunaga was caught in a pincer attack by the Asakura, Azai and Rokkaku armies, but he withdrew safely to Gifu by way of Kutsuki Pass.
+
+@43
+Withdraws safely from Kanegasaki
+
+@44.0
+Good, let us withdraw while we can.
+
+@45.0
+That was close...
+
+@46
+At Kanegasaki, Nobunaga was caught in a pincer attack by the Asakura, Azai and Rokkaku armies, but he beat them back and withdrew safely to Gifu.
+
+@48
+Defeats the Asakura and Azai at Kanegasaki
+
+@49
+Oda Nobunaga was caught in a pincer attack by the Asakura and Azai armies and defeated.
+

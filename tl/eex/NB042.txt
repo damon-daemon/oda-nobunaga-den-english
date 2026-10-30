@@ -1,0 +1,129 @@
+@0
+"Dragon and Tiger Clash"
+
+@1
+"Wind, Forest, Fire, Mountain"
+
+@2
+"Dragon and Tiger Clash"
+
+@3
+"Dragon and Tiger Clash"
+
+@4
+"Dragon and Tiger Clash"
+
+@6
+Takeda Shingen, having scattered the Oda army in Mino, entered Gifu Castle.
+
+@8.0
+It seems Nobunaga has pulled his troops back as far as Kyoto.
+
+@8.1
+Father, let us enter Kyoto before Nobunaga can regroup.
+
+@10.0
+My lord. A messenger from the Miyoshi has arrived.
+
+@10.1
+From the Miyoshi...?
+
+@10.2
+...Hm, I see... Very well, show him in.
+
+@11.0
+Father, what business can the Miyoshi have with our house?
+
+@11.1
+Heh heh. Katsuyori, we have won this war.
+
+@12.0
+Nobunaga's fate is sealed. Ha ha ha ha.
+
+@15.0
+You say Nobunaga returned to Kyoto because he lost to Shingen in Mino?
+
+@15.1
+Yes, my lord. Lord Shingen has already entered Gifu Castle.
+
+@15.2
+Before long he will march on this Kyoto.
+
+@15.3
+What!
+
+@15.4
+Heh... Ha ha ha ha ha!
+
+@16.0
+Hee hee hee...
+
+@16.1
+L-Lord Yoshiaki...
+
+@16.2
+Now, now even that Nobunaga...
+
+@17.0
+Ha ha ha! Now I can wield power to my heart's content!
+
+@19.0
+Report! Shingen has entered Gifu Castle and is waiting for a chance to invade Omi.
+
+@19.1
+A blunder. To have Mino taken by Shingen.
+
+@20.0
+We must prevent Shingen from entering Kyoto at all costs. If we are driven from Kyoto, only ruin awaits us.
+
+@20.1
+My lord. This Monkey has a good idea.
+
+@20.2
+What is it? Speak.
+
+@20.3
+Move the Uesugi of Echigo.
+
+@20.4
+Uesugi Kenshin, is it...\n\nI see. If Kenshin invades Shinano, Shingen will have no choice but to pull back his army.
+
+@20.5
+Good, Monkey. Send a messenger to Echigo.
+
+@20.7
+We will stop Shingen's advance at all costs.
+
+@21.0
+Men, prepare to sortie.
+
+@23.0
+Grr, Shingen... This time I will make him the rust on my sword!
+
+@24.0
+Do you have a plan?
+
+@25.0
+We have no choice but to counter with muskets.
+
+@26.0
+This will be a fierce battle. I think we should prepare plenty of healing medicine...
+
+@27.0
+I believe luring them onto the grassland and attacking with fire would be best.
+
+@28.0
+The Miyoshi Triumvirate are making restless moves. Be careful!
+
+@29.0
+If we prepare plenty of weapons that strike a wide area, perhaps we can repel them...
+
+@30.0
+Leave the rear guard to me.
+
+@31.0
+To think the Takeda would actually attack us...
+
+@32.0
+If we meet them head on, the damage will be enormous. I think we should strike Shingen by surprise.
+

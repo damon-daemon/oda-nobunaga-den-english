@@ -1,0 +1,48 @@
+@0.0
+It still looks small. Good, we put it down now!
+
+@0.1
+Damn, they have already caught on...
+
+@0.2
+!? Isn't that the Fool? Cut him down where he stands!
+
+@1
+The Ama Uprising\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+The Ama Uprising\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3.0
+We have nothing to do with the uprising. Here, take this.
+
+@4.0
+They seem to have fled... Hm, what is this?
+
+@5.0
+We have nothing to do with the uprising. Take this and spare us, please.
+
+@6.0
+Yes! We have taken their camp!
+
+@6.1
+Damn, our camp... It cannot be helped, retreat!
+
+@8
+Defeated by the Ama rebels
+
+@9.0
+It seems we have put it down. Pull out.
+
+@10
+Oda Nobunaga put down the uprising.
+
+@11
+Ama uprising put down
+
+@12
+Oda Nobunaga was defeated by the rebels.
+
+@13
+Defeated by the Ama rebels
+

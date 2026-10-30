@@ -1,0 +1,105 @@
+@0.0
+Quite a few ronin are mixed in with them.
+
+@0.1
+They do not look like local landed samurai. Be careful, my lord.
+
+@0.2
+Just as planned. Everyone, no mistakes!
+
+@1
+Dark Clouds over Mino\nVictory: 1. Wipe out the enemy.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.\n  2. More than 40 turns pass.
+
+@2
+Dark Clouds over Mino\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.\n  2. More than 40 turns pass.
+
+@3.0
+Damn, where are the Takeda reinforcements? Are we just expendable pawns...?
+
+@4.0
+Thank you, sir. You saved us.
+
+@4.1
+Lord Nobunaga, I saw it! They were meeting a samurai from Shinano.
+
+@4.2
+Petty schemes... I'll teach them a lesson. Let's go!
+
+@4.3
+Wait, Lord Nobunaga. Please make use of this.
+
+@6.0
+Waaah, help us! We did nothing. Those men ain't from our village.
+
+@6.1
+I see... Then they are no ordinary rebels.
+
+@6.2
+Please take this. Drive them off.
+
+@7.0
+Oh, thank you for saving the village.
+
+@7.1
+We cannot offer much, but please take this.
+
+@8.0
+Damn, if only the Takeda reinforcements had come...
+
+@9.0
+Yes! We have taken their camp!
+
+@9.1
+Damn, our camp... It cannot be helped, retreat!
+
+@11
+Defeated by the rebels
+
+@12.0
+So it was only an uprising after all...
+
+@13
+Oda Nobunaga put down the uprising.
+
+@14
+Mino uprising put down
+
+@16.0
+To think they would use an uprising... This is probably Sanada's scheme.
+
+@17
+Oda Nobunaga thwarted the Takeda plot.
+
+@18
+Mino uprising put down;
+
+@19
+Takeda scheme thwarted
+
+@21
+Oda Nobunaga was defeated by the Takeda trap.
+
+@22
+Fell into the Takeda scheme;
+
+@23
+defeated by Mino rebels
+
+@24
+Oda Nobunaga was defeated by the rebels.
+
+@25
+Defeated by the Mino rebels
+
+@26
+Oda Nobunaga was defeated by the Takeda trap.
+
+@27
+Defeated by the Takeda scheme
+
+@28
+Oda Nobunaga was defeated by the rebels.
+
+@29
+Defeated by the rebels
+

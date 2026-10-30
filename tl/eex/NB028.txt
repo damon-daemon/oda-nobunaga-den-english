@@ -1,0 +1,33 @@
+@1
+"Securing the Home Provinces"
+
+@2
+In the 12th year of Eiroku (1569), Nobunaga drove the resisting Miyoshi Triumvirate into Awa.\n\nThe former shogun Ashikaga Yoshihide, his backers lost, also fled to Awa and soon died of illness. Nobunaga established his rule over Kyoto and proclaimed his supremacy.
+
+@6
+Settsu Akutagawa Castle - Council Hall
+
+@16
+Saito Tatsuoki and the Miyoshi Triumvirate raised an army and attacked Kyoto.
+
+@57.0
+I would like to hold the home front.
+
+@61.0
+Behold the strength of my clan.
+
+@63.0
+If we gain Ise's troops, it will help us greatly.
+
+@64.0
+Leave the rear guard to me.
+
+@66.0
+Leave it to me.
+
+@67.0
+I will fight with all my strength.
+
+@68.0
+I shall follow you.
+

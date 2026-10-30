@@ -1,0 +1,444 @@
+@0
+"The Pacification of Ise"
+
+@2
+The 11th year of Eiroku (1568)\nNobunaga drove the resisting Miyoshi Triumvirate out to Awa.\n\nThe shogun Ashikaga Yoshihide, his backing lost, fled to Awa too and soon died of illness.\nNobunaga took Kyoto, claiming hegemony.
+
+@3
+"The Pacification of Ise"
+
+@4
+"The Pacification of Ise"
+
+@5
+"The Pacification of Ise"
+
+@6
+Kyoto - Ashikaga Yoshiaki's Residence
+
+@7
+Nobunaga showed the Court overwhelming military might while offering enormous tribute, and had Ashikaga Yoshiaki appointed shogun.
+
+@8.0
+I offer my heartfelt congratulations on your appointment as shogun.
+
+@9.0
+Mm. Raise your head.
+
+@10.0
+Nobunaga, it is thanks to you that I have become shogun. I think of you as my own father.
+
+@10.1
+I am honoured to have been of service.
+
+@10.2
+I would have you become vice-shogun and assist me. What say you? Will you accept?
+
+@10.3
+With respect, I must decline.
+
+@10.4
+I see... Then I shall allow you to succeed the Shiba house and become kanrei.
+
+@10.5
+That too I must decline.
+
+@10.6
+How unambitious! Is there nothing you desire?
+
+@10.7
+Then, if you will indulge me, I ask leave to place magistrates at Sakai, Otsu and Kusatsu.
+
+@10.8
+That is easily done. Do as you wish.
+
+@10.10
+By the way, Nobunaga, I have one favour to ask. Would you let Mitsuhide be Kyoto magistrate?
+
+@10.11
+It is only that Mitsuhide is a man I know well, and I would feel more at ease with him keeping order in Kyoto.
+
+@11.0
+That I cannot agree to.
+
+@12.0
+As Kyoto magistrate...
+
+@12.1
+I appoint Kinoshita Tokichiro Hideyoshi.
+
+@12.2
+(Wh-what?)
+
+@12.3
+I-I see. Very well.
+
+@13.0
+(What a perverse man. He is hard to deal with.)
+
+@14.0
+(Good grief. Me, Tokichiro, set to guard the court nobles?)
+
+@15.0
+What has become of the levies I imposed on the various places?
+
+@15.1
+Horyuji of Yamato and Ishiyama Honganji have complied, but only Sakai refuses the demand.
+
+@15.2
+Among the Sakai council of merchants, Imai Sokyu is on our side,
+
+@15.3
+but the others seem unwilling to obey you, my lord.
+
+@15.4
+Is that so? Then I have my own ideas.
+
+@15.5
+Monkey, abolish the toll barriers throughout the Kinai except Kyoto and let merchants travel freely. I will abolish most guilds too.
+
+@15.6
+I will punish those who profit wrongly from outdated privileges.
+
+@16.0
+My lord, I had my men investigate, and
+
+@16.1
+some of the Sakai council are in league with the Miyoshi faction and plotting mischief. Is that not dangerous?
+
+@16.2
+No matter. This is the chance to flush out those who defy me and sweep them up in one net!
+
+@16.3
+I shall leave Kyoto for a while. Monkey, if the Miyoshi remnants attack, deal with them without fail.
+
+@17.1
+Mitsuhide, I order you to guard the shogun.
+
+@19.0
+Let him suffer for all he is worth.
+
+@20.0
+Lord Akechi knows Kyoto's customs well. If there is something you do not understand, rely on him.
+
+@20.1
+Lord Niwa, I am obliged to you.
+
+@21.0
+Lord Maeda, could you carry a gift to Nene for me?
+
+@21.1
+Understood.
+
+@22.0
+Do not do anything in the capital that would make Nene sad.
+
+@24.0
+Lord Akechi, I look to your guidance.
+
+@25
+Gifu
+
+@27.0
+Nohime, I am back.
+
+@28.0
+How was Kyoto?
+
+@28.1
+A nest of arrogant men clinging to outdated authority. I will smash it to pieces soon enough.
+
+@28.2
+Nohime, watch. I will build a new world.
+
+@28.3
+My lord, I look forward to it as well.
+
+@29
+Awa - Castle of the Miyoshi Triumvirate
+
+@30.0
+I hear Nobunaga has gone back to Mino.
+
+@30.1
+A perfect chance to strike down Ashikaga Yoshiaki and win back Kyoto.
+
+@30.2
+He took my province, and I bear him a grudge. Let me join you as well.
+
+@30.3
+I understand how you feel. Fight to your heart's content.
+
+@30.4
+The Sakai council also resent Nobunaga's levy and have promised to cooperate with us.
+
+@30.5
+It is winter, so reinforcements from Mino cannot arrive quickly.
+
+@30.6
+Then first we do away with Ashikaga Yoshiaki, and after that occupy Kyoto. Agreed?
+
+@32
+Kyoto - Ashikaga Yoshiaki's Residence
+
+@33.0
+My lord Yoshiaki, the Miyoshi Triumvirate is heading this way.
+
+@34.0
+Wh-wh-what are we to do? Mitsuhide, do something!
+
+@34.1
+Heh heh heh.
+
+@34.2
+Mitsuhide, what is so funny?
+
+@34.3
+I am happy, my lord. At last I can put my talents to use for the shogun.
+
+@34.4
+Do not worry. All we need do is hold out until reinforcements arrive.
+
+@34.5
+Watch well and see my skill with the musket.
+
+@35
+Meanwhile, learning of the Miyoshi attack, Nobunaga raced through the snow from Gifu to Kyoto in only three days.
+
+@36
+This event was cut from the PS version.
+
+@37
+Gifu Castle
+
+@39.0
+My lord, this is serious!
+
+@39.1
+What is it?
+
+@39.2
+The Miyoshi Triumvirate has made a surprise attack on Lord Yoshiaki's residence.
+
+@40.0
+So they have come. Prepare to march at once.
+
+@41.0
+But the road to Kyoto is blocked by snow. We cannot advance as we wish.
+
+@41.1
+Stop your grumbling and follow.
+
+@42
+Nobunaga raced through the snow from Gifu to Kyoto in only three days.\n\nThanks to Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate had not taken Yoshiaki's residence, and fled without a fight at news of Nobunaga.
+
+@44
+Thanks to Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate had not taken Yoshiaki's residence, and fled without a fight at news of Nobunaga.
+
+@45
+Kyoto - Nobunaga's Quarters
+
+@46.0
+In this affair, Mitsuhide's service was foremost.
+
+@48.0
+Monkey, by contrast, you did nothing of note. What were you doing?
+
+@49.0
+My lord. I have no excuse.
+
+@49.1
+By the time I came running, the enemy was already in flight, so I had no chance to distinguish myself.
+
+@50.0
+Never mind.
+
+@50.1
+Katsuie, Yoshinari, take the castles of those who sided with the Miyoshi Triumvirate.
+
+@52.0
+Yoritaka, lead troops to Sakai. Expel those of the council who were in league with the Miyoshi Triumvirate.
+
+@52.1
+Also demand a levy of 20,000 kan as punishment.
+
+@52.2
+This is my chance to break Sakai's self-rule and govern it directly. Understood, Yoritaka?
+
+@54.0
+My lord, Kuki Yoshitaka of Shima, whom I have been winning over, requests an audience.
+
+@54.1
+Oh, so he has come at last. Call him in at once.
+
+@56.0
+I am Kuki Yoshitaka.
+
+@56.1
+Mm, well come. What is your business?
+
+@56.2
+My lord, I have come to offer my clan and the pirate bands I command to serve you, Lord Nobunaga.
+
+@56.3
+Oh? I believed Lord Kuki was a vassal of Kitabatake Tomonori of Ise?
+
+@56.4
+That was until yesterday. From today I wish to serve Lord Nobunaga.
+
+@56.5
+To defy Lord Nobunaga, whose might is at its height, would end the fortunes of the Kuki clan.
+
+@56.6
+A commendable attitude. Your former lands are confirmed.
+
+@56.7
+My lord, I am grateful for your words.
+
+@57.0
+Now, I have a favour to ask.
+
+@57.1
+To prepare for the coming invasion of Ise, write a secret letter to someone among the Kitabatake likely to turn to our side.
+
+@58.0
+Yes, my lord. Kozukuri Tomomasa is on bad terms with his brother Tomonori. He will surely respond.
+
+@58.1
+Then I am counting on you.
+
+@59
+This event was cut from the PS version.
+
+@60
+Kyoto - Nobunaga's Quarters
+
+@61.0
+My lord, a padre requests an audience.
+
+@61.1
+Let him in.
+
+@63.0
+Thank you for permitting the spread of Christianity.
+
+@63.1
+Mm. No thanks are needed.
+
+@63.2
+I have brought a gift to thank you, my lord.
+
+@63.3
+Peacock feathers, a mirror, and a velvet hat.
+
+@64.0
+Hm. A hat made of unusual cloth. I like it.
+
+@64.1
+Father Frois, how long have you been in Japan?
+
+@64.2
+One year now.
+
+@64.3
+If the teaching of Deus does not spread in our country, will you return to India?
+
+@64.4
+No. Even if there is only one believer left, I intend to stay in this land for his sake.
+
+@64.5
+Why did you come to such a distant foreign land?
+
+@64.6
+All is by the guidance of Lord Deus. To spread his teaching, we shrink from no hardship or danger.
+
+@64.7
+Admirable. The monks of this country are mired in greed, and use the Buddha's name to make the people suffer.
+
+@64.8
+I will spare no help in spreading the padres' teaching. Tell me if you need anything.
+
+@65.0
+Thank you.
+
+@66
+A new year, in spring...
+
+@68.0
+Thank you for permitting the spread of Christianity.
+
+@68.1
+Mm. No thanks are needed.
+
+@68.2
+I have brought a gift to thank you, my lord.
+
+@68.3
+Peacock feathers, a mirror, and a velvet hat.
+
+@69.0
+Hm. A hat made of unusual cloth. I like it.
+
+@69.1
+Father Frois, how long have you been in Japan?
+
+@69.2
+One year now.
+
+@69.3
+If the teaching of Deus does not spread in our country, will you return to India?
+
+@69.4
+No. Even if there is only one believer left, I intend to stay in this land for his sake.
+
+@69.5
+Why did you come to such a distant foreign land?
+
+@69.6
+All is by the guidance of Lord Deus. To spread his teaching, we shrink from no hardship or danger.
+
+@69.7
+Admirable. The monks of this country are mired in greed, and use the Buddha's name to make the people suffer.
+
+@69.8
+I will spare no help in spreading the padres' teaching. Tell me if you need anything.
+
+@70.0
+Thank you.\n\n\nThen, with your leave.
+
+@71.0
+My lord, good news. Lord Kuki has secured a promise of collusion from Kozukuri Tomomasa.
+
+@71.1
+I see. Then we use this chance to pacify Ise.
+
+@74.0
+Leave the vanguard to me, Katsuie.
+
+@75.0
+The Kitabatake are nothing to fear. Let us crush them.
+
+@76.0
+Let us take Ise in one stroke.
+
+@77.0
+It often rains in Ise at this time of year. Muskets and cannon alone will make for a hard fight.
+
+@78.0
+I would like to guard the castle.
+
+@79.0
+Okawachi Castle is the Kitabatake's proud stronghold. If the enemy holds out in a siege, it will be troublesome.
+
+@80.0
+For castle assaults, do use me.
+
+@81.0
+The Kitabatake are a noble house that has held the post of Ise governor for generations.
+
+@82.0
+Leave the rear guard to me.
+
+@83.0
+I have word that the Iga ninja have sided with the enemy. Do not be careless...
+

@@ -1,0 +1,27 @@
+@0.0
+It is foolish to pick a fight with so great a force.
+
+@0.1
+(But if they should break into the fort after all, peace may be unavoidable...)
+
+@0.2
+Hmm, while I was fighting Katsuyori, they have grown this powerful...
+
+@0.3
+Now that the encirclement has failed, a long war is to our disadvantage... It cannot be helped. Let us settle this in one stroke.
+
+@1
+Siege of Honganji\nVictory: 1. Make Kennyo retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Siege of Honganji\n\nVictory: 1. Make Kennyo retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@16
+Ikko forces defeated at Ishiyama Honganji
+
+@17.0
+Urgh, a blunder... It cannot be helped... Send an envoy to Nobunaga to sue for peace!
+
+@17.5
+(That way we will suffer considerable losses ourselves.)
+

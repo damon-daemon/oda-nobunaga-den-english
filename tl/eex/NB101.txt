@@ -1,0 +1,105 @@
+@0.0
+Nobutomo... Did he think Father's death was his chance?
+
+@0.1
+Young lord, you must not let your blood run hot.
+
+@0.2
+I know, old man.
+
+@0.3
+There are too few troops. There must be a good many in the castle...
+
+@0.4
+Now, how shall we attack?
+
+@1
+Battle of Kayazu\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Battle of Kayazu\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3.0
+Heh heh heh, that saves us the trouble. If we kill the Fool here, Owari belongs to Lord Nobutomo.
+
+@3.1
+Hold steady, all of you! Draw them in close.
+
+@4.0
+Brother, I have come to help you!
+
+@4.1
+Ah, Nobuyuki and Gonroku. We take down Sakai. Follow me!
+
+@5.0
+Good, now! Send out every soldier in the castle!
+
+@6
+Enemy reinforcements have appeared!
+
+@7
+You found a treasure.
+
+@8
+Fukata Castle was taken.
+
+@9
+Matsuba Castle was taken.
+
+@10
+Gained 200 gold
+
+@11.0
+We fled from the next village.
+
+@11.1
+Please, drive those soldiers away.
+
+@11.2
+It is not much, but it is money gathered from the villagers. Please use it.
+
+@12
+Gained 100 gold
+
+@13
+The villagers have fled. No one is here.
+
+@14.0
+Eek, it's terrible. The fighting started all of a sudden.
+
+@14.1
+It's awful in the next village. Please help them.
+
+@15.0
+Sakai, I will let you go if you leave now. Get out!
+
+@15.1
+Hmph! Cheeky words from a Fool...
+
+@16
+The Oda main camp was taken by the enemy
+
+@17.0
+Damn, the main camp... There is no choice. All units, retreat!
+
+@18
+Defeated in the Battle of Kayazu
+
+@19
+Oda Nobunaga defeated Sakai Daizen's army.
+
+@20
+Defeated Sakai Daizen at the Battle of Kayazu
+
+@21
+Gained 500 gold
+
+@22
+Oda Nobunaga was defeated by Sakai Daizen's army.
+
+@23
+Defeated in the Battle of Kayazu
+
+@24.0
+What! Beaten by the Fool, me?!
+

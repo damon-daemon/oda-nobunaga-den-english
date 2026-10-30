@@ -1,0 +1,240 @@
+@0.0
+My lord, we will soon reach Shizugatake, where Lord Katsuie and Lord Hideyoshi face each other.
+
+@0.1
+Hm. That Monkey is good. This battle is the Monkey's.
+
+@0.2
+I must let them know I am safe and end this war quickly...
+
+@0.3
+Morimasa ignored my order to withdraw, and this is the result!
+
+@0.4
+Damn, this plays right into that monkey-face's hands!
+
+@0.5
+Ha ha ha, Morimasa! Hot blood made him lose sight of the battle.
+
+@0.6
+This battle is mine! The whole army, general attack!
+
+@1
+Battle of Shizugatake\nVictory: 1. Make Shibata Katsuie retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.
+
+@2
+Battle of Shizugatake\n\nVictory: 1. Make Shibata Katsuie retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.
+
+@3.0
+Damn Hideyoshi... It cannot be helped. Order all units to retreat!
+
+@4.0
+Damn you! Then it is a full charge! Men, attack!
+
+@5.0
+Oh, Lord Nobunaga! You are safe!
+
+@5.1
+Yes. You are Hideyoshi's younger brother, if I recall. Tell the Monkey of this.
+
+@5.3
+Brother! Lord Nobunaga is safe!
+
+@5.4
+Wh-what! My lord is alive!? I cannot believe it...
+
+@5.5
+Monkey! Can you still not believe it!
+
+@5.6
+Ahh... My lord, you are alive. Your Monkey is overjoyed, truly overjoyed.
+
+@5.7
+In all my life, your Monkey has never been so happy.
+
+@5.8
+I could almost throw my arms around you, my lord.
+
+@5.9
+You fool! You never change.
+
+@5.10
+Yes, I never change... my lord...
+
+@6.0
+M-my lord! You are safe!
+
+@6.1
+Nagayoshi, I am not so easily killed. Tell everyone of this.
+
+@6.3
+Lord Hideyoshi! Our lord is safe!
+
+@7.0
+L-Lord Nobunaga! You are safe!
+
+@7.1
+Heh heh, even a pirate is startled, it seems, Yoshitaka.
+
+@7.2
+I would gladly be surprised like this any number of times. Let us spread this good news.
+
+@7.3
+Lord Hideyoshi! Our lord is safe!
+
+@8.0
+My lord, I am glad to see you safe.
+
+@8.1
+Yoritaka, as calm as ever.
+
+@8.2
+Yes, I am honoured by your praise. Then I will go and tell everyone.
+
+@8.3
+Lord Hideyoshi. Our lord is safe.
+
+@9.0
+This is... My lord, is it really you...
+
+@9.1
+Chusaburo, what nonsense are you saying? Do you not recognise me?
+
+@9.2
+Not at all. I was so astonished I lost myself. I will go and tell everyone at once.
+
+@9.3
+Lord Hideyoshi! Our lord is safe!
+
+@10.0
+Oh, L-Lord Nobunaga! You are safe!
+
+@10.1
+Heh, as you see. Koroku, tell everyone at once.
+
+@10.3
+Lord Hideyoshi! Our lord is safe!
+
+@11.0
+My lord! Is this true...
+
+@11.1
+Heh, Junkei. Why are you so surprised?
+
+@11.2
+Who would not be astonished to see you safe? I must tell everyone at once...
+
+@11.3
+Lord Hideyoshi! Our lord is safe!
+
+@12.0
+My lord... I am glad you are safe...
+
+@12.1
+Yes. Shozaburo, I have made you worry.
+
+@12.2
+Truly, truly I am glad... I will tell everyone at once...
+
+@12.3
+Lord Hideyoshi! Our lord is safe!
+
+@13.0
+My lord! I knew you were safe.
+
+@13.1
+Yes, Goroza. As if I would die.
+
+@13.2
+Indeed... I will tell everyone at once.
+
+@13.3
+Lord Hideyoshi! Our lord is safe!
+
+@14.0
+No, this cannot be... I am seeing a vision of my lord... What is happening...
+
+@14.1
+Monkey! Do I look like a vision to you!
+
+@14.2
+!! My lord, you are alive. Your Monkey is overjoyed, truly overjoyed.
+
+@14.3
+In all my life, your Monkey has never been so happy.
+
+@14.4
+I could almost throw my arms around you, my lord.
+
+@14.5
+You fool! You never change.
+
+@14.6
+Yes, I never change.
+
+@14.7
+Tell everyone at once.
+
+@15.0
+Can it be... My lord, thank heavens you are safe...
+
+@15.1
+Mataza, did you think I would die? Pull back your troops.
+
+@15.2
+Yes...
+
+@16.0
+M-my lord! You are safe!
+
+@16.1
+Heh, I am not so easily killed. Goroha, withdraw your troops at once.
+
+@17.0
+My lord! Is this a dream!?
+
+@17.1
+Gonroku, I am alive, as you see. Withdraw your troops at once.
+
+@17.2
+Y-yes, my lord.
+
+@18
+The Shibata army has retreated.
+
+@19.0
+Hm? Who is that over there...
+
+@19.1
+No, this cannot be... I am seeing a vision of my lord... What is happening...
+
+@19.2
+Monkey! Do I look like a vision to you!
+
+@19.3
+!! My lord, you are alive. Your Monkey is overjoyed, truly overjoyed.
+
+@19.4
+In all my life, your Monkey has never been so happy.
+
+@19.5
+I could almost throw my arms around you, my lord.
+
+@19.6
+You fool! You never change.
+
+@19.7
+Yes, I never change.
+
+@20
+Oda Nobunaga safely joined Hideyoshi at Shizugatake.\n\n\nWith Nobunaga's return the Oda army was united, and set out once more on the road to unifying the realm.
+
+@22
+Joins Hideyoshi at Shizugatake
+
+@23
+Oda Nobunaga tried to join Hideyoshi but failed.\nThe war between Hideyoshi and Katsuie went on, and the Oda army collapsed.
+
+@24
+Nobunaga joined Hideyoshi safely, but could not stop the war between Hideyoshi and Katsuie, and the Oda army collapsed.
+

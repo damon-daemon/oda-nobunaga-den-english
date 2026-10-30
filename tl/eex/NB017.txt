@@ -1,0 +1,513 @@
+@0
+"The Takeda Advance"
+
+@1
+"The Mass Slaughter"
+
+@2.0
+My lord, what shall we do with the Ikko followers who have surrendered?
+
+@2.1
+Execute every one of them.
+
+@3.0
+Yes... yes, my lord.
+
+@4
+The 9th month, the 2nd year of Tensho (1574)\nOda Nobunaga crushed the Ikko uprising at Nagashima in Ise. He had every surrendering follower shot down with muskets. At the forts of Nakae and Yanagashima, some 20,000 men and women who had holed up were burned to death, forts and all.
+
+@5
+"The Takeda Advance"
+
+@6
+"The Takeda Advance"
+
+@7
+"The Takeda Advance"
+
+@8
+Kai - Tsutsujigasaki Mansion
+
+@9
+Tsutsujigasaki Mansion - Council Hall
+
+@10.0
+I will carry on my father's will and march on Kyoto.
+
+@10.1
+Please wait, my lord. It has been only two years since the late lord died,
+
+@10.2
+He told us to hide his death for three years. Did he not mean that we should build up our strength in that time?
+
+@11.0
+Masakage. Do you value my dead father's words above your lord's command?
+
+@12.0
+Enough. I will go, even alone.
+
+@13.0
+What a troublesome man.
+
+@13.1
+Now, now, Lord Masakage. Lord Katsuyori suffers for having so great a father before him.
+
+@13.2
+Try to understand him.
+
+@13.3
+Still, a clash with the Oda is now unavoidable. Nobunaga is a formidable foe.
+
+@13.4
+If we fight Nobunaga, we shall not come out of it unscathed.
+
+@13.5
+Whether we win or lose, we must be resolved.
+
+@14.0
+Resolved to die.
+
+@16
+The 4th month, 3rd year of Tensho (1575)\nTakeda Katsuyori invaded eastern Mikawa and sent 15,000 men against Nagashino.
+
+@18.0
+A request for reinforcements has come from Mikawa.
+
+@18.1
+Monkey, how goes the musket production at Nagahama and Kunitomo village that I ordered?
+
+@18.2
+My lord, about 2,000 have been completed so far.
+
+@19
+Carrying the guns to the warehouse.
+
+@20.0
+Good. Take those together with what we have, 3,000 in all, to Nagashino. And materials for horse-stopping fences as well.
+
+@20.1
+Eh? Fences, my lord?
+
+@20.2
+Never mind, just carry them.
+
+@21.0
+Yes, my lord. At once.
+
+@22
+Nagashino Castle, on the Shinano border
+
+@23
+Nagashino Castle
+
+@24.0
+We may be able to hold out against the Takeda's fierce assault for only a few more days.
+
+@24.1
+My lord, do not lose heart. Let us fight to the last and show the stubbornness of the men of Mikawa.
+
+@24.2
+If we ask Okazaki for reinforcements, we can still fight.
+
+@24.3
+But the castle is so tightly surrounded that not even an ant could slip through. Who could possibly reach Okazaki?
+
+@25.0
+If I may, leave it to me.
+
+@26.0
+Oh, you will do it? What is your name?
+
+@27.0
+Torii Suneemon, my lord.
+
+@27.1
+Are you sure? Ropes are strung all around the castle, and if you touch one, a rattle sounds.
+
+@27.2
+It is as good as going to your death.
+
+@27.3
+True. But if we stay as we are, we will all be slaughtered in the end.
+
+@27.4
+Then a man should stake everything on that one slim hope.
+
+@27.5
+I see. Then I am counting on you, Suneemon.
+
+@28
+Nagashino Castle
+
+@29.0
+Did you hear something?
+
+@30.0
+No, nothing.
+
+@32
+Mikawa - Okazaki Castle
+
+@33
+To prepare against the Takeda army, Nobunaga entered Okazaki Castle and met Tokugawa Ieyasu.
+
+@34
+Okazaki Castle
+
+@35.0
+Sorry to keep you waiting, Lord Ieyasu.
+
+@35.1
+Lord Nobunaga, I have been waiting for you.
+
+@35.2
+I hear Takeda Katsuyori is on the move again.
+
+@35.3
+Yes. This is his first attack since he took Takatenjin Castle in Totomi last year.
+
+@35.4
+Why did you not help me then?
+
+@35.5
+Forgive me. To make Katsuyori overconfident, I had to let him win a little.
+
+@35.6
+To lull him and lure him to a decisive battlefield, I had to hand that castle over to him.
+
+@35.7
+I understand. But when Nagashino Castle is attacked, I ask for your reinforcements.
+
+@35.8
+Do not worry. I will not let Katsuyori have his way any longer.
+
+@36.0
+A messenger has come from Nagashino Castle.
+
+@37.0
+What, from Nagashino? Show him in at once.
+
+@39.0
+What is it?
+
+@40.0
+Nagashino Castle is under fierce attack from the Takeda. Please send reinforcements as soon as you can...!
+
+@40.1
+What, Nagashino!?
+
+@41
+Send reinforcements\nDo not send
+
+@42.0
+We will send reinforcements at once.
+
+@42.1
+You, Torii, withdraw and rest. Leave the rest to us.
+
+@42.2
+I am deeply grateful. But,
+
+@42.3
+When I think of the garrison waiting for my return, I cannot rest alone.
+
+@42.4
+Then join our army and march with us.
+
+@42.5
+No, I wish to carry the news that reinforcements are coming back to Nagashino at once.
+
+@42.6
+Wounded as you are, you still worry about the garrison. Admirable.
+
+@42.7
+Do as you wish. But do not rush to your death.
+
+@43
+Nagashino Castle
+
+@44.0
+Haa, haa, haa. Just a little more...
+
+@44.1
+Hm!
+
+@45.0
+An intruder! To arms, to arms!
+
+@46.0
+Damn!
+
+@48.0
+Caught him!
+
+@48.1
+A blunder...
+
+@49
+Takeda Camp
+
+@50.0
+Tell the men in the castle that no reinforcements are coming, and I will spare your life. What say you?
+
+@50.2
+Take this man where the castle can see him.
+
+@52
+Outside Nagashino Castle
+
+@53.0
+Tell the men in the castle that no reinforcements are coming and they should give up and open the gates!
+
+@53.1
+Hear me, men inside the castle.
+
+@54.0
+Good, keep going.
+
+@55.0
+Reinforcements are almost here! Hold out just a little longer!
+
+@56.0
+What! Cut him down! Cut that man down!
+
+@57.0
+Gwaah. Curse you, Katsuyori, I will wait for you in the next world!
+
+@58
+Learning that reinforcements were coming, the garrison of Nagashino Castle regained its spirit and held out until the Oda-Tokugawa allied army arrived.
+
+@59.0
+Even without sending reinforcements, Katsuyori will soon withdraw to Kai.
+
+@59.1
+His father Shingen also came as far as Mikawa and then pulled back, did he not?
+
+@60.0
+Shingen and Katsuyori are different. I do not think a hot-blooded young warrior will back down.
+
+@60.1
+Do not worry. Nagashino will not fall. You, Torii, withdraw and rest.
+
+@61.0
+...Then I will return at once and die fighting with the castle as my pillow. Excuse me!
+
+@62
+Ieyasu then went alone to relieve Nagashino Castle, clashed with the Takeda army and was defeated. Nagashino Castle was to fall.
+
+@63
+Takeda Camp
+
+@64
+While the Takeda army was besieging Nagashino Castle, word came that the Oda-Tokugawa allied army was approaching.
+
+@65.0
+It has already been a month since we left Kai, and our provisions are running low.
+
+@65.1
+I suggest we return to Kai.
+
+@66.0
+What are you saying! We came all the way to Mikawa and could not take even one castle. Can we go home empty-handed!
+
+@66.1
+If we have no provisions, I will settle it with Nobunaga in a field battle.
+
+@67.0
+Lord Katsuyori. If we fight a reckless battle, all will die, and the House will be destroyed later.
+
+@68.0
+...The time has come to render our last service to the late lord.
+
+@68.1
+Perhaps we have lived too long.
+
+@68.2
+I will lead the vanguard and stop the enemy's bullets with my own body.
+
+@68.3
+Together, let us show Nobunaga the terror of the Takeda cavalry.
+
+@69
+The Takeda army, having driven off the Tokugawa and taken Nagashino Castle, received word that the Oda army was coming.
+
+@70.0
+Whether it is Ieyasu or Nobunaga, to challenge us alone shows no talent.
+
+@70.1
+Indeed.
+
+@71.0
+Lord Katsuyori, we shall make them taste the terror of the Takeda cavalry.
+
+@72.0
+Good, we march!
+
+@73
+Shidarahara
+
+@74.0
+Lord Nobunaga, Katsuyori seems to want a decisive battle here on the plain of Shidarahara.
+
+@74.1
+How do you mean to face him?
+
+@75
+Lure them out\nAttack normally
+
+@76.0
+Will the enemy charge the horse-stopping fences we have set up, as we intend?
+
+@76.1
+Simply spread a rumour. Say that Nobunaga fears the fierce Takeda cavalry will break his fences.
+
+@76.2
+I see.
+
+@76.3
+Kazumasu, are the musketeers ready?
+
+@76.4
+Yes, they are.
+
+@76.5
+Then draw them up in three ranks.
+
+@76.6
+When the enemy cavalry charges, have the ranks fire one after another in turn, without a pause.
+
+@78.0
+So you challenge them head on. Understood.
+
+@79
+Mikawa
+
+@80.0
+Lord Nobunaga, I am grateful for your help.
+
+@80.1
+Because of our recent defeat, my army can hardly...
+
+@80.2
+Lord Tokugawa, it is enough that you wait on the right of the horse-stopping fences.
+
+@80.3
+Leave the rest to me.
+
+@82.0
+As expected of you, my lord. A splendid plan!
+
+@83.0
+Ha, a head-on battle with the Takeda. I look forward to it.
+
+@84.0
+Grant this Katsuie the vanguard, my lord!
+
+@85.0
+Let us give the Takeda a fright.
+
+@86.0
+Challenging them head on is dangerous!
+
+@87.0
+Can we win with our forces alone...
+
+@88.0
+I never imagined there could be such a plan...
+
+@89.0
+Why are you trembling, Toshiie?
+
+@89.1
+Eh! This... this is the trembling of a warrior before battle.
+
+@90.0
+Hmm, this situation is disadvantageous...
+
+@91.0
+The horse-stopping fences are perfectly prepared. You can equip muskets by calling a merchant or the warehouse keeper.
+
+@92.0
+Hmm, the Takeda army is elite. Can we win without a plan...
+
+@93.0
+This Monkey will protect you, my lord, even at the cost of my life!
+
+@94.0
+Stop the cavalry with the fences and cut the enemy down with a volley of muskets. There is no better plan.
+
+@95.0
+We have no chance unless we make a wall in front of the enemy with our cavalry and fire muskets from behind!
+
+@96.0
+Now that Lord Ieyasu has been defeated, we cannot stand against them on our own!
+
+@97.0
+Kazumasu, are the musketeers ready?
+
+@97.1
+Yes, they are.
+
+@97.2
+Then divide them into three ranks and draw them up.
+
+@97.3
+When the enemy cavalry charges, have the ranks swap places and fire in turn.
+
+@98.0
+The Takeda cavalry is formidable.
+
+@99.0
+Perhaps we should have fought together with Lord Tokugawa after all...
+
+@101.0
+I will take the rear guard.
+
+@102.0
+I am prepared.
+
+@103.0
+Will the enemy charge the horse-stopping fences we set up on Shidarahara, as we intend?
+
+@103.1
+Simply spread a rumour. Say that Nobunaga fears the fierce Takeda cavalry will break his fences.
+
+@103.2
+Lord Nobunaga, your cunning impresses me as always.
+
+@104.0
+Can we win against the Takeda cavalry in a head-on fight?
+
+@104.1
+Hmph. We shall see when the time comes.
+
+@104.2
+It is a gamble...
+
+@105.0
+I leave the rest to you.
+
+@107
+The Oda-Tokugawa allied army built horse-stopping fences along the Rengo River and met the Takeda cavalry, reputed the strongest of the Sengoku age.
+
+@108
+The Oda-Tokugawa allied army marched to Nagashino Castle in Mikawa. Nobunaga challenged the Takeda cavalry, reputed the strongest of the Sengoku age, to battle.
+
+@109.0
+The Takeda cavalry has struck the right side of the horse-stopping fences! Our army is collapsing.
+
+@111.0
+Damn, it cannot be helped. Order a retreat of the whole army.
+
+@112
+The Oda army challenged the Takeda to a decisive battle at Shidarahara but was badly beaten, and began to retreat to Hamamatsu Castle to regroup.
+
+@113
+The Oda-Tokugawa allied army built horse-stopping fences along the Rengo River and met the Takeda cavalry, reputed the strongest of the Sengoku age.
+
+@114
+The Oda-Tokugawa allied army marched to Nagashino Castle in Mikawa. Nobunaga challenged the Takeda cavalry, reputed the strongest of the Sengoku age, to battle.
+
+@115
+The Oda army challenged the Takeda army to a decisive battle alone.
+

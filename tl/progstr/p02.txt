@@ -1,0 +1,391 @@
+PROG:80124974	Mori Terumoto, at the request,\nsends a provisions convoy to\nrelieve Ishiyama Honganji.
+PROG:801249c0	Matsunaga Hisahide, resenting that\nrule over all Yamato went to\nTsutsui Junkei, secretly allies with\nthe Honganji and holes up in\nShigisan Castle in Yamato.
+PROG:80124a30	Hearing the news, Nobunaga marches\nhis army to Shigisan Castle, where\nHisahide has barricaded himself.
+PROG:80124a70	Arriving at Shigisan, Nobunaga sends\na messenger to Hisahide, offering\nto forgive him if he surrenders\nthe famed Hiragumo kettle.
+PROG:80124ad4	But Matsunaga Hisahide refuses.\nNobunaga resolves to subdue him\nand begins the assault on\nShigisan Castle.
+PROG:80124b2c	Araki Murashige, who had been given\nall of Settsu by Nobunaga, allies\nwith the Honganji, the Mori and\nAshikaga Yoshiaki and rebels.
+PROG:80124b88	Murashige has shut himself up in\nItami Castle. Nobunaga sends\nHideyoshi and Mitsuhide to\ntry to persuade him.
+PROG:80124bd4	Murashige yields to Mitsuhide's\npersuasion and resolves to beg\nforgiveness, but misled by his\nretainers' slander, he revokes\nhis promise to Mitsuhide.
+PROG:80124c34	Judging that Murashige has no\nintention of surrendering, Nobunaga\nresolves to subdue him and\nsorties from Kyoto.
+PROG:80124c80	Iga lies near the home provinces\nand Nobunaga has not yet\nintervened there. Inside, the\nHattori, Kawai and Tsuge clans\nform the Northern Iga bandits.
+PROG:80124cf8	Resolved to pacify Iga, Nobunaga\nsets out from Azuchi Castle\nand faces the Northern Iga\nbandits in the mountains of Iga.
+PROG:80124d4c	Taking advantage of Oda Nobuhide's\ndeath, Oda Nobutomo has his man\nSakai Daizen seize the castles\nof Matsuda and Fukada.
+PROG:80124da0	Nobutomo's Kiyosu forces, victors\nover Nobunaga at Kayazu, steadily\nbuild up their strength for the\ncoming decisive battle.
+PROG:80124dfc	Nobutomo also schemes to win over\nNobunaga's uncle, Nobumitsu.
+PROG:80124e34	Yoshikane, whose father Shiba\nYoshimune was killed, begged\nNobunaga at Nagoya Castle for help.
+PROG:80124e70	But Nobutomo has also joined with\nthe Iwakura Oda, who rule the\nupper four districts, and waits\nimpatiently for Nobunaga at Kiyosu.
+PROG:80124ed0	Oda Nobuyasu, lord of Iwakura Castle\nand shugodai of the upper four\ndistricts of Owari, meant to pass\nthe headship to his second son Nobuie.
+PROG:80124f20	And a man watched the back of\nNobunaga as he marched out...
+PROG:80124f50	It was his brother Nobuyuki, whom Nobunaga had forgiven.
+PROG:80124f74	After entering Kyoto, Nobunaga sent\nthe daimyo a summons ordering them\nto come to Kyoto and pay their\nrespects to the Court and shogunate.
+PROG:80124fcc	But Asakura Yoshikage of Echizen,\nheeding his senior retainers'\nremonstrance, ignores the summons.
+PROG:80125010	Learning that Yoshikage has no\nintention of coming to Kyoto,\nNobunaga resolves to subdue the\nAsakura and marches from Kyoto to Echizen.
+PROG:80125068	Shogun Yoshiaki, seeing Takeda\nShingen's march on Kyoto as his\nchance, raises troops at Nijo Castle\nto overthrow Nobunaga, but\n
+PROG:801250b8	is quickly defeated by Nobunaga's\nsiege and makes peace with him\nthrough the Court's mediation.
+PROG:80125100	Nobunaga at once crosses Lake Biwa,\nenters Kyoto and advances his\ntroops on Makishima Castle.
+PROG:80125138	Nobunaga accepts the request and at\nonce sends reinforcements. On the way\nhe joins the Tokugawa army and\nadvances to Shidarahara, west of\nNagashino Castle, deploying along\nthe Rengo River.
+PROG:801251ac	As the war with the Takeda dragged on,\nthe Honganji was reinforced with\nSaiga musketeers, and the Mori also\nbrought in provisions.
+PROG:80125214	Nobunaga tries to surround and\nattack the Honganji, but the plan\nfails against the reinforced\nIkko forces.
+PROG:80125268	Unable to settle into a war of\nattrition, the Oda army was forced\nto fight a short, decisive battle.
+PROG:801252b0	Before the Imagawa advance, the forts\nof Washizu and Marune fall, and\nYoshimoto enters Odaka Castle.
+PROG:801252f8	The vanguard of Asahina and Matsudaira,\nmeeting at Narumi Castle, ravage\nNobunaga's domain.
+PROG:80125338	Oda castles such as Suemori, Nagoya\nand Furuwatari fall or surrender one\nafter another, and Kiyosu is left\nalmost defenceless.
+PROG:80125390	Yoshimoto, having entered Narumi\nCastle, keeps the Matsudaira army\nat Nagoya and orders the Asahina\nto attack Kiyosu.
+PROG:801253e0	Takeda Shingen, bent on expanding\nhis domain, was struggling in his\nlong war against Uesugi Kenshin.
+PROG:8012542c	The Hojo to the east and the Imagawa\nto the south of the Takeda were\nbound to them by the Three-Way\nAlliance,
+PROG:80125468	so Shingen had to set his next\ntarget to the west.
+PROG:80125498	To the west, Saito Tatsuoki held Mino\nfrom Inabayama Castle, but he was\nlocked in rivalry with Oda Nobunaga\nof Owari.
+PROG:801254f8	Shingen sends Akiyama Nobutomo to\nthe border to watch for a chance\nto invade Mino.
+PROG:80125530	Ashikaga Yoshiaki had restored the\nshogunate, but only thanks to\nNobunaga's great military power.
+PROG:80125584	Coming to resent Nobunaga, Yoshiaki\nsecretly urges Takeda Shingen to\nmarch on Kyoto.
+PROG:801255c0	With the Hojo alliance securing his\nrear, Shingen at once resolves to\nmarch on Kyoto and decides to\ninvade Mino.
+PROG:80125620	Learning of Shingen's advance,\nNobunaga hurries back to Gifu\nand asks Ieyasu for reinforcements.
+PROG:80125668	Shingen attacks from two directions,\nIwamura and Naeki. Can Nobunaga hold him?
+PROG:801256b4	Defeated in the fighting in Mino,\nNobunaga withdraws to Kyoto.
+PROG:801256e0	After occupying Gifu, Shingen begins\nto push west towards Omi and\nreaches Kannonji Castle.
+PROG:80125724	In response to Shingen's entry into\nOmi, the Miyoshi Triumvirate raise\ntroops again in Settsu and march\non Kyoto.
+PROG:80125770	The Oda army had camped on Mt.\nToragozen, south of the castle, to\ntake Odani Castle, but
+PROG:801257b0	the Azai forces kept to the castle,\nawaiting Asakura reinforcements.
+PROG:801257e0	Nobunaga decides to attack the\nimpregnable Odani Castle.
+PROG:80125810	But the Asakura forces, coming to\nsupport them, had already reached\nnorthern Omi and
+PROG:80125850	were closing on the Oda army's rear...
+PROG:80125870	Beaten by the Azai-Asakura allies,\nNobunaga flees to southern Omi\nand Ieyasu to Mino.
+PROG:801258b4	Pursuing Nobunaga, the Azai-Asakura\nallied army begins to advance\ninto southern Omi.
+PROG:801258f4	His mind made up, Nobunaga deploys\nnear Koga to meet the allied army.\n
+PROG:80125938	But in Iga, south of Nobunaga's army,\nRokkaku Yoshikata, once beaten by\nNobunaga, has raised troops.
+PROG:8012597c	He was waiting impatiently for Nobunaga...
+PROG:801259a4	Nobunaga had marched into Settsu\nto subdue the Miyoshi Triumvirate,\nbut
+PROG:801259d8	the Honganji and Ikko followers,\nthe Azai and the Asakura, allied\nwith the Miyoshi, rise everywhere.
+PROG:80125a20	Surrounded by the anti-Nobunaga\nalliance, Nobunaga falls into a\ncrisis, enemies on all four sides.
+PROG:80125a5c	To make matters worse, the Azai-Asakura\nallied army has occupied Kyoto\nwhile Nobunaga was away.
+PROG:80125ab4	The Tiger of Kai finally rises!\nTakeda Shingen sets out westward\nto march on Kyoto.
+PROG:80125af8	With overwhelming destructive power,\nthe Takeda army ravages Tokugawa\nTotomi and closes on Ieyasu's seat,\nHamamatsu Castle.
+PROG:80125b48	Ieyasu asks Nobunaga in Kyoto for\nreinforcements. Nobunaga leads the\nmain Oda force into Totomi.
+PROG:80125b94	Meanwhile Shingen leaves part of his\nforce besieging Hamamatsu Castle and\ndeploys at Mikatagahara, north of it,\nready to meet the relief army.
+PROG:80125bfc	Nobunaga, child of revolution; Shingen, giant of the age.\nThe two heroes clash at last!
+PROG:80125c40	Defeated at Nagashino, the Oda-Tokugawa\nallied army flees towards Hamamatsu Castle.
+PROG:80125c80	Seeing this, Katsuyori splits his\nforce in two and gives chase,\ncatching the allies north of\nHamamatsu Castle.
+PROG:80125cd4	Did the spirit of the late Shingen\nguide Katsuyori, Nobunaga and Ieyasu\nto settle his regrets?!
+PROG:80125d1c	The place was Mikatagahara, where\nthey once fought Shingen.
+PROG:80125d4c	Uesugi Kenshin, victorious in the\nBattle of Tedori River, pushes\nfurther south along the Hokkoku Road.
+PROG:80125d8c	Meanwhile, Katsuie and the defeated\nretreat to Daishoji Castle near the\nKaga border to hold it, and ask\nNobunaga at Azuchi to send\nreinforcements.
+PROG:80125dfc	By the time Nobunaga entered Echizen,\nDaishoji Castle was already\nsurrounded by Uesugi forces, and\nKenshin deployed south of the castle\nto meet Nobunaga.
+PROG:80125e68	Here, the battle between Nobunaga,\nchild of revolution, and Uesugi\nKenshin, the Dragon of Echigo,\nbegins.
+PROG:80125eb4	In the home provinces, Ishiyama\nHonganji still resisted Nobunaga.
+PROG:80125ee8	Mori Terumoto gathers the two Mori\nrivers at Koriyama Castle and decides\nto begin an eastward campaign.
+PROG:80125f30	Terumoto devises the Three-Road\nAdvance, moving at once along the\nSanyo and San'in roads and the\nInland Sea.
+PROG:80125f80	Terumoto and Kobayakawa Takakage,\nescorting Yoshiaki, go by the Sanyo\nRoad through Bingo and Harima,
+PROG:80125fc0	while Kikkawa Motoharu goes by the San'in Road through\nTajima and Tanba, each aiming for Kyoto.
+PROG:80126004	The Mori navy on the Inland Sea also\nbegins to advance on Settsu.\n"When the Mori move, the realm moves."\nThe Mori, power of the west, have moved!
+PROG:8012607c	Nobunaga, who left Azuchi Castle to\nrelieve Hashiba Hideyoshi, lodged\nat Honnoji Temple in Kyoto.
+PROG:801260c0	Akechi Mitsuhide, plotting treason,\nleaves Kameyama Castle and marches\non Kyoto.
+PROG:801260f8	Before dawn on the second of the sixth\nmonth, Tensho 10, the Akechi army\nbegins its attack on Honnoji.
+PROG:80126134	Hideyoshi, campaigning in Bitchu,\nlearns of Nobunaga's sudden death,\nmakes hasty peace with the Mori and\nbegins a retreat toward the capital.
+PROG:80126184	Mitsuhide, who had pacified Omi and\nreturned to Kyoto, sorties to\nShimotoba to meet Hideyoshi's army.
+PROG:801261d4	Nobunaga, who escaped Kyoto and was\nhidden at Hino Castle, learns of the\nmoves of Mitsuhide and Hideyoshi and\nplans a pincer attack on Mitsuhide's\nrear with Hideyoshi from Kyoto.
+PROG:8012624c	Against Hideyoshi's army, arrived at\nTomita, Mitsuhide camps at Gobozuka,\nand the two armies face each other\nat Yamazaki.
+PROG:8012629c	Then, behind Mitsuhide, Nobunaga,\nwho should have been dead,\nappeared with Ujisato.
+PROG:801262d8	Morimasa, who took Oiwayama Fort,\nstays on despite Katsuie's repeated\norders to withdraw.
+PROG:80126324	Hearing this, Hideyoshi hurries back\nfrom Ogaki Castle to Kinomoto with\nlightning speed and begins the assault\non Oiwayama Fort.
+PROG:80126374	Learning of this, Nobunaga and his\nparty are sure of Hideyoshi's victory\nand head south along the Tsuruga Road\nto join him.
+PROG:801263cc	Nobunaga, informed by Soga Masayasu\nof the Chosokabe invasion, sets out\nfrom Azuchi Castle for Shikoku.
+PROG:8012641c	The Chosokabe army that invaded Awa,\nusing Ushiki Castle as a base,\nbegins to advance on Shozui Castle\nfurther north.
+PROG:80126474	Battle is joined between the\nChosokabe vanguard and the Soga army.\nThe Oda army arrives and begins\nto advance to pacify Shikoku.
+PROG:801264e4	Chosokabe Motochika, having taken Awa,\nbegins his conquest of Sanuki to\nunify Shikoku.
+PROG:8012652c	Battle is joined between the Chosokabe\nvanguard under Nobuchika and the Soga\narmy. The Oda army arrives and begins\nto advance to pacify Shikoku.
+PROG:801265a0	To conquer the Kanto, Oda Nobunaga\nbegins to advance by three roads:\nHokuriku, Tokaido and Koshin.
+PROG:801265e4	Katsuie and others from Hokuriku,
+PROG:801265f8	Ieyasu's army from the Tokaido,
+PROG:80126610	and from Koshin, the main force\nunder Nobunaga advances.
+PROG:80126640	Ujimasa, waiting to meet them, holds\nthe three castles Nirayama, Hachioji\nand Hachigata with Ujinori, Ujiteru\nand Ujikuni.
+PROG:80126694	The battle for the unification begins...
+PROG:801266b8	Allied with Nobukatsu, Ieyasu gained\nstanding and legitimacy as Nobunaga's\nsuccessor, and resolves to confront\nHideyoshi.
+PROG:80126714	Nobukatsu kills Hideyoshi's senior\nretainers and breaks with Hideyoshi.\nIeyasu joins Nobukatsu at Kiyosu\nand faces Hideyoshi's army in Mino-Owari.
+PROG:8012677c	Hideyoshi sends Ikeda Tsuneoki to\nbegin the attack on Nobukatsu's\nInuyama Castle.
+PROG:801267b4	Ieyasu moves his main camp to\nKomakiyama Castle; Hideyoshi leaves\nOsaka and sets up at Gakuden Castle\nto face him.
+PROG:8012680c	As the stand-off continued,\nMori Nagayoshi urged Hideyoshi to invade\nMikawa. Hideyoshi accepts and sends\nTsuneoki and Nagayoshi into Mikawa.
+PROG:8012687c	Though defeated at Komaki-Nagakute,\nIeyasu still kept great power.
+PROG:801268c8	He was also strengthening the bonds\nof the forces around the Oda, slowly\ntightening the encirclement to draw\nout unrest within the Oda.
+PROG:8012692c	Perceiving that Ieyasu's strategy is\na war of attrition, Nobunaga\nmarches into Mikawa himself.
+PROG:80126970	To force a short, decisive battle,\nhe will attack Okazaki Castle and\nlure out Ieyasu's main force\nat Hamamatsu Castle.
+PROG:801269cc	Nobunaga makes peace with Chosokabe\nof Shikoku and allies with the Mori\nof Chugoku and Uesugi of Echigo,\nbringing them effectively under him.
+PROG:80126a30	Free to throw all his strength against\nthe Tokugawa and Hojo, Nobunaga\nadvances from two directions:\nthe Tokaido and Koshin.
+PROG:80126a84	To pacify the Kanto at last, Nobunaga\nstarts for Sunpu and Hideyoshi\nfor Odawara.
+PROG:80126ad4	Defeated at Okehazama, Nobunaga\nwithdraws to Kiyosu, and\nYoshimoto enters Odaka Castle.
+PROG:80126b18	The vanguard of Asahina and Matsudaira,\nmeeting at Narumi Castle, ravage\nNobunaga's domain.
+PROG:80126b58	Oda castles such as Suemori, Nagoya\nand Furuwatari fall or surrender one\nafter another, and Kiyosu is left\nalmost defenceless.
+PROG:80126bb0	Yoshimoto, having entered Narumi\nCastle, keeps the Matsudaira at Nagoya\nand orders the Asahina to launch\na general attack on Kiyosu.
+PROG:80126c00	Owari is in turmoil over the\nsuccession dispute. As if exploiting\nit, an uprising breaks out in\nAma District.
+PROG:80126c50	Nobunaga sorties to put down the\nuprising before it spreads.
+PROG:80126c84	Hearing that an uprising has broken\nout in Mino, Nobunaga sorties\nto put it down.
+PROG:80126cc8	It is said that not only peasants\nbut many ronin have joined the\nuprising. Is this really just an\nordinary uprising...?
+PROG:80126d34	Hearing rumours of pirates\nravaging the fishing villages of\nIse, Nobunaga, fearing another\nprovince's scheming, sorties himself.
+PROG:80126d88	What awaited Nobunaga on arrival\nwas a band of pirates about to\nfall upon the villages.
+PROG:80126dd8	Nobunaga sorties to destroy\nthe lake pirates raging\nacross Biwa.
+PROG:80126e0c	But the fearless lake pirates, with\nthe Oda army before their eyes,\nare about to raid the village.
+PROG:80126e54	Can Nobunaga protect the village\nand drive off the lake pirates?
+PROG:80126e84	Hearing a rumour of a mountain god\nappearing in a village in the Suzuka\nmountains, Nobunaga, greatly intrigued,\nheads for that village.
+PROG:80126ee4	To confirm the rumour and find the\ntruth, Nobunaga pitches camp near\nthe village and waits.
+PROG:80126f2c	In the moonlight, one by one,\nfigures appear from the\nmountain.
+PROG:80126f60	To destroy bandits raiding the\nstreets of Kyoto, Nobunaga\nheads for Arashiyama.
+PROG:80126fa4	The scout's report on reaching\nArashiyama was startling.
+PROG:80126fe4	The bandits were in fact so great a\nhost that they formed a village.
+PROG:8012701c	The warrior monks who escaped\nthe burning of Mt. Hiei were\nquietly waiting.
+PROG:80127054	They spread a rumour, waiting for\nthe moment it would reach Nobunaga...
+PROG:80127080	Hearing this, Nobunaga\nsorties, leading the charge\nto rout the monks.
+PROG:801270c4	Nobunaga sorties to rescue a village\ntargeted by a band of fallen\nAsakura warriors.
+PROG:8012710c	On arrival, Nobunaga meets\nvillagers fleeing in panic.
+PROG:80127138	The village had already been\ntaken by a band of fallen\nwarriors.
+PROG:8012716c	A mysterious band is growing by\nhunting fallen warriors.\nHere too are men who dream of\noverthrowing their betters.
+PROG:801271c0	Concerned by their growing\narrogance, Nobunaga resolves\nto sortie.
+PROG:801271ec	Receiving word that Ikko followers\nin the mountains of Iga are waiting\nfor a chance to rise,\nNobunaga
+PROG:8012723c	sorties at once to nip the\nuprising in the bud.
+
+PROG:80128108	End commands for all units?
+PROG:8012812c	<< Full Retreat >>\n\nA full retreat returns you to the\nstart of the battle.
+PROG:80128164	No units can act.
+PROG:80128190	%s %2d/%2d Turns
+PROG:801281a4	Your Phase
+PROG:801281b4	Enemy Phase
+PROG:801281c4	The battle dragged on. Retreating.\n
+PROG:801281e8	Turn %w
+PROG:80128250	ERR Unit Attr
+PROG:8012833c	Night has fallen.
+PROG:8012834c	Day has broken.
+PROG:8012835c	Weapons
+PROG:80128368	Support
+PROG:80128374	Healing
+PROG:80128380	Price
+PROG:8012838c	Wares                         Price
+PROG:801283a4	Storehouse                Qty
+PROG:801283bc	Not enough gold
+PROG:801283d0	Can't buy more
+PROG:801283e4	Equippable
+PROG:801283f4	In stock
+PROG:80128400	Can buy
+PROG:8012840c	How many would you like?
+PROG:80128424	Is that all right?
+PROG:80128438	Can sell
+PROG:80128444	How many will\nyou sell me?
+PROG:80128464	Buy/Sell
+PROG:80128470	Item Info
+PROG:8012847c	Thank you very much.
+PROG:80128498	Father, will you not call a merchant?
+PROG:801284bc	Hm, someone\nsummon a merchant.
+PROG:801284dc	Lord Nobuhide,\nthank you for your custom.
+PROG:80128500	Call merchant.
+PROG:80128510	Lord Nobunaga,\nthank you for your custom.
+PROG:80128534	Thank you for your custom.
+PROG:80128674	No entry
+PROG:80128760	Items
+PROG:8012876c	Materials
+PROG:80128778	Transfer
+PROG:80128784	End Phase
+PROG:80128794	Victory
+PROG:801287a0	Full Map
+PROG:8012880c	Sortie?
+PROG:8012881c	Some officers have no weapon\nequipped. Is that all right?
+PROG:80128850	Sortie cancelled
+PROG:8012886c	Turn %u
+PROG:80128878	End commands for all units?
+PROG:801288d8	Needs Skill %3u
+PROG:801288e8	Weapon
+PROG:801288f4	Who Can Equip
+PROG:80128908	Item Info
+PROG:80128914	Skill Info
+PROG:80128920	Item Info
+PROG:80128930	Skill Info
+PROG:80128940	Trait Info
+PROG:80128950	-
+PROG:80128980	None
+PROG:80128a40	-
+PROG:80128a4c	-
+PROG:80128a58	-
+PROG:80128a64	-
+PROG:80128a74	Move Cursor
+PROG:80128a84	Select/Clear
+PROG:80128a90	Details
+PROG:80128a9c	Select All
+PROG:80128aa8	Clear All
+PROG:80128ab4	Equipment
+PROG:80128acc	No units can rally
+PROG:80128ae8	Choose a rally point
+PROG:80128b00	Can't move there
+PROG:80128b18	Rally at the cursor
+PROG:8012a068	Sword
+PROG:8012a06c	Spear
+PROG:8012a070	Bow
+PROG:8012a074	Gun
+PROG:8012a07c	Cannon
+PROG:8012a084	Ninja tool
+PROG:8012a08c	War fan
+PROG:8012a0b8	Yes
+PROG:8012a0c0	No
+PROG:8012a108	Tree
+PROG:8012a110	-
+PROG:8012a114	Sword
+PROG:8012a118	Spear
+PROG:8012a11c	Bow
+PROG:8012a120	Gun
+PROG:8012a128	Cannon
+PROG:8012a130	Ninja tool
+PROG:8012a138	War fan
+PROG:8012a140	Armour
+PROG:8012a148	There!
+PROG:8012a168	BGM
+PROG:8012a170	SFX
+PROG:8012a1c4	Put in
+PROG:8012a1cc	Take
+PROG:8012a1dc	Stop
+PROG:8012a3a4	Sd
+PROG:8012a3a8	Sp
+PROG:8012a3ac	Bo
+PROG:8012a3b0	Gun
+PROG:8012a3b8	Cnn
+PROG:8012a3c0	Thr
+PROG:8012a3c8	Fan
+PROG:8012a3d0	Aid
+PROG:8012a3d8	Heal
+PROG:8012a3e0	Oda
+PROG:8012a3e8	Tok
+PROG:8012a3f0	Ima
+PROG:8012a3f8	Saito
+PROG:8012a400	Azai
+PROG:8012a408	Asa
+PROG:8012a410	Miy
+PROG:8012a418	Tak
+PROG:8012a420	Rok
+PROG:8012a428	Ash
+PROG:8012a430	Kit
+PROG:8012a438	Hon
+PROG:8012a440	Mori
+PROG:8012a448	Saiga
+PROG:8012a450	Ikko
+PROG:8012a458	Enr
+PROG:8012a460	Ues
+PROG:8012a468	Mat
+PROG:8012a470	Ara
+PROG:8012a478	Ake
+PROG:8012a480	Has
+PROG:8012a488	Shi
+PROG:8012a490	Hojo
+PROG:8012a498	None
+PROG:8012a4a0	Atk
+PROG:8012a4a8	Def
+PROG:8012a4b0	Int
+PROG:8012a4b8	Luck
+PROG:8012a4c0	End
+PROG:8012a4c8	Skl
+PROG:8012a4d0	Hit
+PROG:8012a4d8	Spd
+PROG:8012a4e0	Lv
+PROG:8012a4e8	Exp
+PROG:8012a4f0	Plains
+PROG:8012a4f8	Meadow
+PROG:8012a500	Road
+PROG:8012a508	Bridge
+PROG:8012a50c	Field
+PROG:8012a510	Woods
+PROG:8012a514	Wastes
+PROG:8012a51c	Hills
+PROG:8012a524	Crags
+PROG:8012a52c	Cliff
+PROG:8012a530	Sea
+PROG:8012a534	River
+PROG:8012a538	Lake
+PROG:8012a53c	Shoals
+PROG:8012a544	Beach
+PROG:8012a54c	Castle
+PROG:8012a550	Town
+PROG:8012a558	Village
+PROG:8012a55c	Fort
+PROG:8012a560	Granary
+PROG:8012a568	Store
+PROG:8012a56c	Manor
+PROG:8012a570	House
+PROG:8012a578	Gate
+PROG:8012a580	Fence
+PROG:8012a584	Keep
+PROG:8012a58c	Wall
+PROG:8012a594	Rampart
+PROG:8012a59c	Mound
+PROG:8012a5a4	Tower
+PROG:8012a5a8	Moat
+PROG:8012a5ac	Camp
+PROG:8012a5b4	Mine
+PROG:8012a5bc	Shrine
+PROG:8012a5c4	Interior
+PROG:8012a5cc	Fire
+PROG:8012a5d0	Water
+PROG:8012a61c	Plan
+PROG:8012a624	SFX
+PROG:8012a62c	PR
+PROG:8012a634	Sale
+PROG:8012a640	Yes
+PROG:8012a648	No
+PROG:8012a660	"
+PROG:8012a66c	-
+PROG:8012a670	"
+PROG:8012a674	Lv
+PROG:8012a67c	 Turn
+PROG:8012a684	0
+PROG:8012a688	1
+PROG:8012a68c	2
+PROG:8012a690	3
+PROG:8012a694	4
+PROG:8012a698	5
+PROG:8012a69c	6
+PROG:8012a6a0	7
+PROG:8012a6a4	8
+PROG:8012a6a8	9
+PROG:8012a6b0	Yes
+PROG:8012a6b8	No
+PROG:8012a6dc	Attack
+PROG:8012a6e4	Defence
+PROG:8012a6fc	Intellect
+PROG:8012a70c	Our army's
+PROG:8012a714	The enemy's
+PROG:8012a71c	Both armies'
+PROG:8012a72c	rainy
+PROG:8012a730	snowy
+PROG:8012a734	Equip
+PROG:8012a73c	Use
+PROG:8012a744	Give
+PROG:8012a74c	Drop
+PROG:8012a7c8	Use
+PROG:8012a7d0	Give
+PROG:8012a7d8	Drop
+PROG:8012a848	%s
+PROG:8012a87c	=
+PROG:8012a8a4	Heals
+PROG:8012a8b4	Sortie
+PROG:8012a8bc	Facilities
+PROG:8012a8c4	Officers
+PROG:8012a8cc	System
+PROG:8012a8d8	Save
+PROG:8012a8e0	Load
+PROG:8012a8e8	Options
+PROG:8012a8f0	Storehouse
+PROG:8012a8f8	Blacksmith
+PROG:8012a900	Merchant
+PROG:8012a908	Rally
+PROG:8012a910	Info
+PROG:8012a918	Unit List
+PROG:8012a920	Ongoing
+PROG:8012a928	Once
+PROG:8012a930	Skill
+PROG:8012a938	Item
+PROG:8012a940	Attack
+PROG:8012a948	Wait
+PROG:8012a950	Withdraw
+PROG:8012a958	Units
+PROG:8012a970	Sd
+PROG:8012a974	Sp
+PROG:8012a978	Bo
+PROG:8012a97c	Gun
+PROG:8012a984	Cnn
+PROG:8012a98c	Ninja
+PROG:8012a994	Fan
+PROG:8012a9a8	-
+PROG:8012a9ac	Foe
+PROG:8012a9b4	Ally

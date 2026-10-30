@@ -1,0 +1,291 @@
+@2
+Kiyosu Castle - Living Quarters
+
+@3.0
+Nohime. Are you grieving?
+
+@3.1
+There is no one who does not grieve when their father dies.
+
+@4.0
+I see. ...Nohime.
+
+@4.1
+Do not die.
+
+@4.2
+...
+
+@5
+In the 4th month of the 2nd year of Koji (1556), Saito Dosan, who rose from oil seller to lord of Mino and was feared as the Viper, died a demon at sixty-three.\n\n\nNobunaga had lost his father-in-law and patron, and now even his kin were about to turn on him.
+
+@9
+Mino - Akechi Castle
+
+@10
+This is Akechi Castle in Mino, seat of Akechi Mitsuyasu, a general of the late Dosan. Mitsuyasu was the elder brother of Lady Omi, Dosan's legal wife. Yoshitatsu, who overthrew his father Dosan and became head of the Saito clan, sent Mitsuyasu a letter urging him to surrender.
+
+@11.0
+Uncle, what does Yoshitatsu say?
+
+@11.1
+He says that if we do not surrender, he will send an army and take this castle.
+
+@11.3
+But I have no intention of submitting to Yoshitatsu.\n\nI will fight to the end.
+
+@11.4
+Uncle! I will fight beside you!
+
+@11.5
+...\n\n\n...Mitsuhide. Leave this castle before Yoshitatsu's army arrives.
+
+@11.6
+W-why?
+
+@11.7
+I intend to die in this battle with the castle as my pillow.
+
+@11.8
+You must escape and raise the name of Akechi.
+
+@11.9
+...Uncle.
+
+@11.10
+Is that understood?
+
+@12.0
+Raise the family name, he says...
+
+@13
+Mino Province - Highway
+
+@14
+A few days later, Mitsuhide left Akechi Castle.
+
+@15.0
+Now, what shall I do...
+
+@16.0
+First I must decide where to go...
+
+@17.0
+I will think a while in the shade of that tree...
+
+@18.0
+Phew. ...Hm?
+
+@18.1
+Waah! Ow ow ow ow ow!
+
+@19.0
+That hurts, damn it!
+
+@19.1
+F-forgive me. I did not notice anyone was there...
+
+@20.0
+I was having such a nice sleep!
+
+@20.1
+Pardon me. By way of apology, though it is little, will you join me?
+
+@21.0
+Gulp. R-rice balls!\n\nLet us let bygones be bygones!
+
+@22.0
+Here.
+
+@22.1
+My thanks.
+
+@23.0
+D-delicious.
+
+@23.1
+Heh heh, is that so...\n\n\nAre you on your way somewhere?
+
+@24.0
+Munch munch... I should have introduced myself. I am Tokichiro, a needle seller. I am heading to Owari to do some trade.
+
+@24.1
+Owari...
+
+@24.2
+Owari draws crowds and is lively, so it is easy to do business. What about you, samurai?
+
+@24.3
+Me? I am a masterless ronin. I mean to wander the provinces for a while and broaden my experience.
+
+@24.4
+Hmm.
+
+@25.0
+Well, thank you for the meal.\n\n\nI must reach Owari before dark. Please excuse me.
+
+@25.1
+Take care on the road.
+
+@25.2
+And you, samurai.
+
+@25.4
+Farewell.
+
+@26.0
+I should be going too.
+
+@27.0
+...\nFirst, the capital, Kyoto.
+
+@29
+Kiyosu Castle - Castle Town
+
+@30.0
+Phew. I have finally arrived.
+
+@31.0
+Kiyosu gets livelier every time I come.
+
+@32.0
+Yes! I am going to open a new shop!
+
+@33.0
+A young fellow like you can open a shop freely... What a blessed age we live in.
+
+@34.0
+Well then, time for me to start trading too.\n\n\nNow, where is a good spot...
+
+@35.0
+Oh, that one is good!
+
+@36.0
+Why, Lord Nobunaga.
+
+@36.1
+Hm? Lord Nobunaga...?
+
+@36.2
+How is business?
+
+@36.3
+Thanks to you, we are making a profit.
+
+@36.4
+The town prospers as you see because you abolished the guilds, my lord.
+
+@37.0
+Good to hear.
+
+@38.0
+Excuse me, samurai. Would you not buy a needle?
+
+@39.0
+Are you speaking to me?
+
+@39.1
+Yes, I am.
+
+@40.0
+Suspicious fellow. What samurai buys needles?
+
+@40.1
+I beg your pardon. I sensed something extraordinary in your face, samurai, and spoke without thinking...
+
+@40.2
+In my face?
+
+@40.3
+Yes. It is the face of one who will rule the realm.
+
+@41.0
+Are you saying that I can take the realm?
+
+@41.1
+Yes, you can. If you will give me a post.
+
+@42.0
+Ha ha ha. You know that I am Nobunaga, do you not.
+
+@43.0
+What have you been doing until now?
+
+@43.1
+I have been wandering through Mino, Suruga and Mikawa, selling needles.
+
+@44.0
+An interesting fellow. Very well, I will employ you as my sandal bearer.
+
+@44.1
+In return, if you work poorly, expect your head to part from your body.
+
+@45.0
+Yes, my lord, I am most grateful. My name is...
+
+@46.0
+Your name does not matter. You are Monkey. You look just like a monkey.
+
+@47.0
+Yes, my lord. I gratefully accept the nickname. I am Monkey, for I look just like one.
+
+@48.0
+An interesting fellow. Ha ha ha.
+
+@50.0
+Lord Nobuyuki, I can no longer bear Lord Nobunaga's wild conduct...
+
+@50.1
+There is nothing left but to rise for the sake of the Oda clan.
+
+@50.2
+Do not speak rashly. I do not wish to fight my brother.
+
+@50.3
+Lord Nobunaga kills anyone who opposes him. That includes his own brother...
+
+@50.4
+Strike before you are struck, such is the way of the Sengoku. If you do not take the headship, the Oda clan will perish.
+
+@50.5
+Please make your decision.
+
+@50.6
+Is this the fate of a man born a daimyo's son...
+
+@51.0
+I will rise! For the sake of the Oda clan!!\nWeeping, I will... cut down my brother!!!
+
+@54.0
+My lord, I hear your brother has raised troops!
+
+@54.2
+My lord? Lord Nobuyuki has rebelled!
+
+@54.4
+Sakuma. Do not lecture me. Answer only what I ask.
+
+@58.0
+Splitting our troops in two is one option.
+
+@59.0
+A fight between kin is painful.
+
+@60.0
+Inou is grassland. Fire attacks will work well.
+
+@61.0
+To think that Lord Nobuyuki...
+
+@62
+Skip the battle and go to Chapter 5?
+
+@63.0
+Do not overexert yourself.
+
+@64.0
+If we make Lord Nobuyuki retreat, the victory will be ours.
+
+@65.0
+I wonder how he must feel...
+

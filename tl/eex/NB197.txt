@@ -1,0 +1,84 @@
+@0.0
+Heh heh, so you finally came...
+
+@0.1
+Good, as planned, we meet them here!
+
+@0.2
+Yeah!
+
+@0.3
+Yeah!
+
+@0.4
+Yeah!
+
+@1
+Fallen Warriors and Villagers\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\nDefeat (all units retreat):\n  1. The Oda main camp is taken.\n  2. More than 30 turns pass.
+
+@2
+Fallen Warriors and Villagers\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n\nDefeat (all units retreat):\n  1. The Oda main camp is taken.\n  2. More than 30 turns pass.
+
+@3.0
+!?\nWhoa.
+
+@4
+Pitfall
+
+@5.0
+!?\nWhoa.
+
+@6
+Pitfall
+
+@7.0
+Ha ha, you fell for it, Nobunaga!
+
+@8
+The villagers were in league with them!
+
+@9.0
+Damn, a trap!
+
+@10.0
+Tch, well done, Nobunaga!
+
+@10.1
+Come out, everyone!
+
+@11
+The villagers were in league with them!
+
+@12.0
+Damn, a trap!
+
+@14.0
+My lord, forgive me...
+
+@15.0
+Ha ha ha.\nYour main camp is ours, Nobunaga!
+
+@15.1
+Damn, beaten by mere Asakura remnants... There is no choice, retreat!
+
+@17
+Defeated by Asakura remnants
+
+@18.0
+Loyalty to the fallen Asakura clan, was it... They could not see the new age coming.
+
+@19
+Oda Nobunaga wiped out the Asakura remnants.
+
+@20
+Wipe out the Asakura remnants
+
+@22
+Oda Nobunaga was defeated by the Asakura remnants.
+
+@23
+Defeated by Asakura remnants
+
+@24
+Oda Nobunaga was defeated by the Asakura remnants.
+

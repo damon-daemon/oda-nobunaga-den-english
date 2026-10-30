@@ -1,0 +1,168 @@
+@0.0
+Buddha's enemy, Nobunaga...
+
+@0.1
+Death is the Pure Land...
+
+@0.2
+The root of this evil must be cut out.
+
+@0.3
+Is a general massacre unavoidable...
+
+@1
+Suppression of the Nagashima Ikko Uprising\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Suppression of the Nagashima Ikko Uprising\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3.0
+Namu Amida Butsu. Strike down Nobunaga, enemy of the Buddha!
+
+@4
+Otorii Fort's Ikko forces sallied out!
+
+@5
+Took Nakae Fort.
+
+@6
+Took Yanagashima Fort.
+
+@7
+Took Otorii Fort.
+
+@8
+Took Nagashima Castle.
+
+@9
+Took Shinohashi Fort.
+
+@10.0
+To those in the forts: surrender and you will be spared. Surrender quietly!
+
+@11.0
+What, spare us if we surrender? How can we believe that? We will never surrender!
+
+@11.1
+That's right! We will fight to the last man!
+
+@11.3
+There is no help for it. Set fire to the forts and burn them all down!
+
+@11.4
+...
+
+@12.0
+Aaah!
+
+@12.1
+Uuugh...
+
+@12.2
+Kyaaa!
+
+@12.3
+Aaaah...
+
+@13.0
+To those in the forts: surrender and you will be spared. Surrender quietly!
+
+@14.0
+What, spare us if we surrender? How can we believe that? We will never surrender!
+
+@14.2
+There is no help for it. Set fire to the forts and burn them all down!
+
+@14.3
+...
+
+@15.0
+Aaah!
+
+@15.1
+Uuugh...
+
+@15.2
+Kyaaa!
+
+@15.3
+Aaaah...
+
+@16.0
+To those in the forts: surrender and you will be spared. Surrender quietly!
+
+@17.0
+What, spare us if we surrender? How can we believe that? We will never surrender!
+
+@17.2
+There is no help for it. Set fire to the forts and burn them all down!
+
+@17.3
+...
+
+@18.0
+Aaah!
+
+@18.1
+Uuugh...
+
+@18.2
+Kyaaa!
+
+@18.3
+Aaaah...
+
+@19.0
+Shinohashi Fort has fallen and we have no food... At this rate we will all starve.
+
+@19.1
+Is surrender the only way...
+
+@20
+Nagashima's Ikko forces surrendered.
+
+@21
+The Ikko forces appeared
+
+@22
+The Ikko forces appeared
+
+@23
+The Ikko forces appeared
+
+@24
+The Ikko forces appeared
+
+@25.0
+N-namu Amida Butsu...
+
+@26.0
+N-namu Amida Butsu...
+
+@27.0
+N-namu Amida Butsu...
+
+@28.0
+N-namu Amida Butsu...
+
+@29.0
+N-namu Amida Butsu...
+
+@31
+The Ikko forces took the Oda camp.
+
+@32.0
+That I, Nobunaga, should lose to mere Ikko rabble...
+
+@33
+Oda Nobunaga was defeated by the Nagashima Ikko forces.
+
+@34
+Oda Nobunaga annihilated the Nagashima Ikko forces.
+
+@36
+Annihilated the Nagashima Ikko forces
+
+@37
+Oda Nobunaga was defeated by the Ikko forces.
+

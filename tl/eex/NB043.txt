@@ -1,0 +1,24 @@
+@1
+Takeda Shingen's Camp
+
+@2.0
+Report! Uesugi Kenshin appears to have advanced to the Shinano border.
+
+@2.1
+That Kenshin, on the move again.
+
+@2.2
+Father, what will you do?
+
+@2.3
+My lord, our losses in this defeat are severe. With respect, I think we can no longer continue the war in this place.
+
+@2.4
+I think it best to withdraw to Shinano for now.
+
+@2.5
+Yes. Since we could not reach Kyoto, there is no use lingering.
+
+@3.0
+Break camp.
+

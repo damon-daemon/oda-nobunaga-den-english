@@ -1,0 +1,240 @@
+@0.0
+Heh heh heh, Nobunaga. He has blundered out with no idea that we are allied with the Azai, the Asakura and the Honganji.
+
+@0.1
+We and the Honganji will press from the south, the Azai and Asakura from the north.
+
+@0.2
+Today is your end! Ha ha ha ha ha...
+
+@1
+Battle of Noda-Fukushima and Sakamoto in Omi\nVictory: 1. Wipe out the enemy.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+
+@2
+Battle of Noda-Fukushima and Sakamoto in Omi\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n\n  1. The Oda home castle (Kyoto) is taken.
+
+@3
+The Azai-Asakura army has arrived!
+
+@4.0
+That Nagamasa, sending out his troops at the first chance...
+
+@4.1
+Lord Yoshikage, let us take Kyoto in one stroke.
+
+@4.2
+Yes. All forces, advance on Kyoto!
+
+@5
+Battle of Noda-Fukushima and Sakamoto in Omi\nVictory: 1. Make Azai Nagamasa and Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+
+@6
+Battle of Noda-Fukushima and Sakamoto in Omi\nVictory (changed): 1. Make Azai Nagamasa and Asakura Yoshikage retreat.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+
+@7.0
+Lord Nobunaga, terrible news!
+
+@7.1
+Usayama Castle in southern Omi has been attacked by the Azai-Asakura allied army and has fallen.
+
+@7.2
+Its commander, Mori Yoshinari, was killed in action, and the Azai-Asakura army is heading for Kyoto!
+
+@7.3
+We cannot let them seize Kyoto now. I must do something...
+
+@8.0
+Lord Nagayuki, we have come to your aid.
+
+@8.1
+My thanks, Lord Raisho. Oh, who is that unit?
+
+@8.2
+That is the Saiga musketeer band led by Sadayu.
+
+@8.3
+Our muskets will smash Nobunaga's army.
+
+@8.4
+Ha ha ha, reassuring indeed. Very well, general attack!
+
+@9.0
+Lord Nobunaga, terrible news!
+
+@9.1
+Usayama Castle in southern Omi has been attacked by the Azai-Asakura allied army and has fallen.
+
+@9.2
+Its commander, Mori Yoshinari, was killed in action, and the Azai-Asakura army is heading for Kyoto!
+
+@9.3
+We cannot let them seize Kyoto now. I must do something...
+
+@10
+The Azai-Asakura army has arrived!
+
+@11.0
+That Nagamasa, sending out his troops at the first chance...
+
+@11.1
+Lord Yoshikage, let us take Kyoto in one stroke.
+
+@11.2
+Yes. All forces, advance on Kyoto!
+
+@12
+Battle of Noda-Fukushima and Sakamoto in Omi\nVictory: 1. Make Azai Nagamasa retreat.\n  2. Make Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+
+@13
+Battle of Noda-Fukushima and Sakamoto in Omi\nVictory (changed): 1. Make Azai Nagamasa retreat.\n  2. Make Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+
+@14
+Fort
+
+@18.0
+A trap! If I had not spoken to that farmer, I would have been in trouble...
+
+@22.0
+A trap! If I had not spoken to that farmer, I would have been in trouble...
+
+@23.0
+I am a merchant from Sakai. On my way to this village I saw the Saiga musketeer band...
+
+@23.1
+They may be enemy reinforcements. Please be careful.
+
+@23.2
+Oh yes, let me give you this medicine.
+
+@24.0
+I am a merchant from Sakai.
+
+@24.1
+So that musketeer band really was enemy reinforcements.
+
+@24.2
+Oh yes, let me give you this medicine. It is sure to be of some use.
+
+@25.0
+Lord Nagayuki, we have come to your aid.
+
+@25.1
+My thanks, Lord Raisho. Oh, who is that unit?
+
+@25.2
+That is the Saiga musketeer band led by Sadayu.
+
+@25.3
+Our muskets will smash Nobunaga's army.
+
+@25.4
+Ha ha ha, reassuring indeed. Very well, general attack!
+
+@26.0
+They say that when war comes, Enryakuji to the north and the Honganji to the west set terrible traps.
+
+@26.1
+If you fall into one, use this.
+
+@27.0
+Behave like the country samurai you are.
+
+@27.1
+Otherwise you will regret it later!
+
+@27.2
+You seem to be good at talking at least, Yoshikage.
+
+@27.3
+What is the matter? Come on, then!
+
+@27.4
+Damn you, I will not stand for this!
+
+@28.0
+How far will you defy me, Nagamasa?
+
+@28.1
+Nobunaga...
+
+@28.2
+You and I are enemies now...
+
+@28.3
+You are determined to oppose me after all... There is no help for it...
+
+@28.4
+Prepare yourself!
+
+@29.0
+Heh heh heh, you have no chance of winning now.
+
+@29.1
+Why not retreat while you can?
+
+@29.2
+Grr, such impudence...
+
+@30.0
+Grr... Remember this, Nobunaga!
+
+@31.0
+Curse it, if only the Azai-Asakura reinforcements had come...
+
+@32.0
+Curse it, if only the Honganji reinforcements had come...
+
+@33.0
+There is no help for it, pull back the troops!
+
+@34.0
+Good, I have driven off Nagamasa and the rest.
+
+@36
+Caught in a pincer between the Miyoshi-Honganji allies and the Azai-Asakura allies, Oda Nobunaga defeated the Azai-Asakura allies and won.
+
+@37
+Defeats the Azai-Asakura allies at Kyoto
+
+@38.0
+Damn! Again...
+
+@38.1
+Is the gulf between Nobunaga's stature and mine really so great...
+
+@39.0
+Good, I have driven off Nagamasa and the rest.
+
+@41
+Caught in a pincer between the Miyoshi-Honganji allies and the Azai-Asakura allies, Oda Nobunaga defeated the Azai-Asakura allies and won.
+
+@42
+Defeats the Azai-Asakura allies at Kyoto
+
+@43.0
+We have taken their castle!
+
+@45.0
+Damn, Kyoto!
+
+@45.1
+Curse you, Nagayuki... There is no help for it, all forces retreat!
+
+@46
+Oda Nobunaga advanced on Noda-Fukushima, but was caught in a pincer between the Miyoshi allies and the Azai-Asakura allies and forced to withdraw.
+
+@47
+Defeated in a pincer by the Miyoshi allies
+
+@48
+Oda Nobunaga annihilated the Miyoshi-Honganji allies and the Azai-Asakura allies.
+
+@50
+Crushes 4 allied armies in Settsu, Omi
+
+@51
+Caught in a pincer between the Miyoshi-Honganji allies and the Azai-Asakura allies, Oda Nobunaga was defeated.
+
+@52
+Oda Nobunaga was attacked by the Miyoshi-Honganji allies and defeated.
+

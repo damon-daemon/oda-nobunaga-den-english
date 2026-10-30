@@ -1,0 +1,78 @@
+@0.0
+I have waited for you, Nobunaga!
+
+@0.1
+Now I will repay what you did to us that day!
+
+@0.2
+You serve the Buddha and yet live in nothing but wickedness. I merely punished you for it.
+
+@0.3
+Hell should suit rotten wretches like you well enough.
+
+@0.4
+Grrr, how dare you... I'll lay your head before the Buddha!
+
+@1.0
+My lord! Be careful. There seems to be a trap here.
+
+@2
+Men Who Need No Name\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3
+Men Who Need No Name\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n\nDefeat (all units retreat):\n  1. The Oda main camp is taken.\n  2. More than 30 turns pass.
+
+@4
+An ambush appeared.
+
+@5.0
+There seems to be no one here.\n!?
+
+@7.0
+Ugh, damn!
+
+@8.0
+There seems to be no one here.\n!?
+
+@10.0
+Ugh, damn!
+
+@11.0
+There seems to be no one here.\n!?
+
+@13.0
+Ugh, damn!
+
+@14.0
+Ha ha ha, behold the power of the Buddha!
+
+@15.0
+Grr... rotten monks...
+
+@17
+Defeated by the Mt. Hiei warrior monks
+
+@18.0
+Gah!\n\nI will be waiting... for you... in the next world...
+
+@19.0
+No Buddha takes the side of rotten monks!
+
+@21
+Oda Nobunaga wiped out the warrior monks.
+
+@22
+Wipe out the Mt. Hiei warrior monks
+
+@23
+Gained 1000 gold
+
+@24
+Oda Nobunaga was defeated by the warrior monks.
+
+@25
+Defeated by the Mt. Hiei warrior monks
+
+@26
+Oda Nobunaga was defeated by the warrior monks.
+

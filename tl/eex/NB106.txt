@@ -1,0 +1,189 @@
+@0.0
+Lord Nobunaga! The forts at Marune and Washizu have fallen!
+
+@0.1
+Yoshimoto has moved his main camp to Okehazama and is resting his troops.
+
+@0.2
+I see. Understood.
+
+@1.1
+Rain... How convenient.
+
+@1.2
+My target is Yoshimoto's head alone. Sally forth!
+
+@2
+Battle of Okehazama\nVictory: 1. Make Imagawa Yoshimoto retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+
+@3
+Battle of Okehazama\n\nVictory: 1. Make Imagawa Yoshimoto retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+
+@4.0
+Ho ho ho, shall we be on our way?
+
+@5
+The Imagawa army is on the move!
+
+@6.0
+Not good. Have I taken too long?
+
+@7
+Enemy reinforcements have appeared.
+
+@8.0
+If I kill Nobunaga here, Owari will be mine.
+
+@8.1
+And I can earn Yoshimoto's favour besides.
+
+@8.2
+You won't escape, Nobunaga!
+
+@9.0
+It has been a long time, Motoyasu.
+
+@9.1
+Lord Nobunaga...
+
+@9.2
+To think we would meet again like this.
+
+@9.3
+...Such is the fate of the warring age. Have at you!
+
+@10.0
+Yasutomo, I shall teach you that battles are not won by numbers.
+
+@10.1
+What nonsense! Here we come!
+
+@11.0
+To have come this far, you are quite something.
+
+@11.1
+But this is as far as you go.
+
+@11.2
+Grr, insolent!
+
+@12.0
+Damn you, Nobunaga. You are nothing but a country samurai, and yet you dare do this to me!
+
+@12.1
+Ha ha ha! Your mistake was to underestimate me. Your head is mine!
+
+@12.2
+Ugh... a blunder...
+
+@13.0
+It is Nobunaga's main force!
+
+@13.1
+Report to Lord Yoshimoto at once!
+
+@14.1
+My lord Yoshimoto, terrible news! Nobunaga is going after this main camp.
+
+@15.0
+Hoh, going after me, are they? That country samurai is bold.
+
+@15.1
+Order the whole army to advance. I shall go to Odaka Castle.
+
+@16.0
+Now! All forces, charge!
+
+@17.0
+Wh-what is this?!
+
+@18
+The sudden attack threw Imagawa Yoshimoto's main camp into great confusion.
+
+@19.0
+Good, we have taken Zenshoji fort.
+
+@20
+Zenshoji fort has fallen.
+
+@21.0
+Nobunaga's main force is gone!
+
+@21.1
+Could they be going for Lord Yoshimoto's camp?
+
+@21.2
+Report to Lord Yoshimoto at once!
+
+@22.0
+My lord Yoshimoto, terrible news! Nobunaga is going after this main camp.
+
+@22.1
+Hoh, going after me, are they? That country samurai is bold.
+
+@22.2
+Order the whole army to advance. I shall go to Odaka Castle.
+
+@23.0
+Good, we have taken Nakajima fort.
+
+@24
+Nakajima fort has fallen.
+
+@25.0
+Ho ho ho, I am well pleased.
+
+@25.1
+Order Motoyasu to guard Nakajima fort.
+
+@26.0
+Good, we have taken Tange fort.
+
+@27
+Tange fort has fallen.
+
+@28.0
+Ho ho ho, I am well pleased.
+
+@28.1
+Order Yasutomo to guard Tange fort.
+
+@29.0
+Good, we have taken Odaka Castle.
+
+@30
+Narumi Castle has been retaken
+
+@31.0
+Good, we have taken Narumi Castle.
+
+@32.0
+My lord Yoshimoto, Narumi Castle has fallen to Nobunaga.
+
+@32.1
+Hmm, he is not bad. Order the vanguard to retake Narumi Castle.
+
+@33.0
+... I had better withdraw from here.
+
+@34.0
+Ugh... how mortifying...
+
+@35
+Oda Nobunaga defeated Imagawa Yoshimoto at Okehazama.
+
+@36
+Gained 1000 gold
+
+@37
+Defeats Imagawa Yoshimoto at Okehazama
+
+@38
+Oda Nobunaga was defeated by the army of Imagawa Yoshimoto.
+
+@39
+Defeated by Imagawa Yoshimoto at Okehazama
+
+@40.0
+Ugh... my... my realm...
+

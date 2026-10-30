@@ -1,0 +1,96 @@
+@0.0
+Hmm, what a swift advance. So we could not take Shozui Castle and meet them head-on...
+
+@0.1
+Motochika courted my favour, yet all the while aimed to unify Shikoku behind my back.
+
+@0.2
+Before Motochika's power grows, I will pacify Shikoku in one stroke.
+
+@0.3
+All forces, sortie!
+
+@1
+Pacification of Shikoku\nVictory: 1. Make Chosokabe Motochika retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. Shozui Castle is taken.\n  4. More than 40 turns pass.
+
+@2
+Pacification of Shikoku\n\nVictory: 1. Make Chosokabe Motochika retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. Shozui Castle is taken.\n  4. More than 40 turns pass.
+
+@3
+Enemy reinforcements have appeared.
+
+@4
+Oda reinforcements have arrived.
+
+@5.0
+It seems we made it in time. Good, begin the advance on Oko Castle!
+
+@6
+Oko Castle was taken.
+
+@7
+Ushiki Castle was taken.
+
+@8
+Iwakura Castle was taken.
+
+@9
+Found a gold nugget.
+
+@11.0
+Good, send out the reinforcements!
+
+@12.0
+Damn, a detached force... Order the ambush troops to attack!
+
+@13.0
+Hm, it cannot be helped... We will meet Nobunaga at Oko Castle. Withdraw the main force!
+
+@14.0
+Motochika, surrender quietly.
+
+@14.1
+Say that after you have defeated me.
+
+@14.2
+Then I shall do so...
+
+@15.0
+Grr, as expected of the Oda army. Fearsome strength.
+
+@16.0
+The advance force has been beaten!
+
+@16.1
+Hm, it cannot be helped... We will meet Nobunaga at Oko Castle. Withdraw the main force!
+
+@17.0
+Damn, we could not take Shozui Castle...
+
+@19.0
+Damn, retreat!
+
+@20.0
+Damn, I let my guard down...
+
+@24.0
+We have taken Shozui Castle!
+
+@25
+Shozui Castle was taken by the enemy.
+
+@26.0
+Damn, Shozui Castle has...
+
+@27.0
+Now there is nothing for it. Send an envoy to Lord Nobunaga to sue for peace.
+
+@28
+Chosokabe Motochika surrendered to Nobunaga, and Shikoku was pacified.
+
+@30
+Defeats the Chosokabe, pacifies Shikoku
+
+@31
+Oda Nobunaga was defeated by Chosokabe Motochika.
+

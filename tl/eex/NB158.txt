@@ -1,0 +1,147 @@
+@0.0
+Ichi... forgive me.
+
+@0.1
+I must fight your brother...
+
+@0.2
+There is no hope of victory. But...
+
+@0.3
+I must defend the Azai house, and this Odani Castle, to the death...
+
+@0.4
+My lord, the army of Asakura Kagetake has made camp in Ika District!
+
+@0.5
+...Mm.
+
+@0.6
+(Nagamasa... why did you betray me?)
+
+@0.8
+...My lord, is something the matter?
+
+@0.9
+...Hm? It is nothing!
+
+@0.10
+My lord, the Azai forces are holed up in three enclosures.
+
+@0.11
+The topmost is Iwaya Enclosure, where Lord Nagamasa is,
+
+@0.12
+to its left is Yamazaki Enclosure, and further below is the outer enclosure.
+
+@0.13
+I will not be satisfied until I take Nagamasa's head with my own hand!
+
+@0.14
+I cannot wait for Lord Tokugawa to arrive! Monkey!
+
+@0.15
+M-My lord! Please wait.
+
+@0.16
+The Asakura army is already on the Hokkoku Road...
+
+@0.18
+Eeek.
+
+@0.19
+The spineless Asakura are nothing to fear!
+
+@0.20
+I will send them all to the next world together!
+
+@1
+Siege of Odani Castle\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@2
+Siege of Odani Castle\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3
+The Tokugawa army arrived!
+
+@4.0
+Well, so eager...
+
+@4.1
+Lord Nobunaga has already begun the siege. Tadakatsu! Go to Lord Nobunaga's aid!
+
+@4.3
+Ah, Lord Ieyasu!
+
+@5
+Asakura Kagetake's army arrived!
+
+@6.0
+We have got behind the Oda forces!
+
+@6.1
+The Asakura have arrived! Now we leave the enclosures and go on the offensive!
+
+@7
+Asakura Kagetake's army arrived!
+
+@8.0
+We have got behind the Oda forces!
+
+@8.1
+The Asakura have arrived! Now we leave the enclosures and go on the offensive!
+
+@9
+Asakura Kagetake's army arrived!
+
+@10.0
+We have got behind the Oda forces!
+
+@10.1
+The Asakura have arrived! Now we leave the enclosures and go on the offensive!
+
+@14
+Took the outer enclosure fort.
+
+@15
+Took Yamazaki Enclosure fort.
+
+@16.0
+L-Lord Nobunaga.
+
+@16.1
+Nagamasa, wasting lives out of petty stubbornness cannot be the true aim of a warrior.
+
+@16.2
+Sheathe your sword now and hand over your father Hisamasa, and I will withdraw my troops at once.
+
+@16.4
+Lord Nobunaga, I cannot accept a truce. We will fight to the last man.
+
+@16.5
+Prepare yourself!
+
+@16.6
+Nagamasa!
+
+@21
+Defeated by the Azai army at Odani Castle
+
+@22
+Oda Nobunaga defeated Azai Nagamasa.
+
+@24
+Azai Nagamasa defeated at Odani Castle
+
+@25.0
+Did I underestimate the Azai and Asakura!\n\nRetreat!\nIt cannot be helped,\nfall back to Kannonji!
+
+@26
+Oda Nobunaga was defeated by Azai Nagamasa.
+
+@27
+Defeated by the Azai army at Odani Castle
+
+@28.0
+As expected of Lord Nobunaga... So I am no match for him after all... Withdraw the troops and enter the main enclosure!
+

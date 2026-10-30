@@ -1,0 +1,147 @@
+@0.0
+As I thought, Nobunaga is not going to let us through so easily.
+
+@0.1
+Is that not so, Masakage?
+
+@0.3
+Our vanguard will cut a path to Kyoto for you. Please watch.
+
+@0.5
+Katsuyori's detachment will arrive shortly as well.
+
+@0.6
+Before that, win some glory for yourselves.
+
+@0.8
+So you have come... Shingen...
+
+@0.9
+Ieyasu's reinforcements did not arrive in time, but I cannot let you pass here in silence.
+
+@0.10
+Let me see just what this cavalry you boast of is made of.
+
+@0.11
+Vanguard, advance!
+
+@1
+Interception in Mino\nVictory: 1. Make Takeda Shingen retreat.\n  2. Reach turn 30.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.
+
+@2
+Interception in Mino\n\nVictory: 1. Make Takeda Shingen retreat.\n  2. Reach turn 30.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.
+
+@3
+Ieyasu's reinforcements arrived!
+
+@4.0
+We strike the Takeda flank!
+
+@4.1
+Let us go! Charge!
+
+@5
+A Takeda detachment arrived!
+
+@6.0
+Hmm, has the battle already begun?
+
+@6.1
+We are late, but there should still be glory left for us.
+
+@6.2
+The whole army, advance!
+
+@8.0
+Please, stop the fighting.
+
+@8.1
+Have this, so please, I beg you.
+
+@10.0
+War is terrible.
+
+@10.1
+Take this too, my lord, and flee quickly.
+
+@11.0
+Lord Nobunaga, will you not kindly open the road to Kyoto for me?
+
+@11.1
+Lord Shingen, I wondered what you would say, and it is a whimper.
+
+@11.2
+Ha ha ha...
+
+@11.3
+Then it cannot be helped. Stop me if you can, Lord Nobunaga.
+
+@11.4
+Here I come.
+
+@12.0
+Guh!
+
+@13.0
+We have taken Gifu Castle!
+
+@15.0
+Damn, Gifu Castle...
+
+@15.1
+As expected of Shingen, a magnificent way of fighting.
+
+@15.2
+It seems best to withdraw for now.
+
+@15.3
+The whole army falls back to Kyoto. Prepare for Shingen's entry into the capital!
+
+@16
+Takeda Shingen allowed to enter Mino
+
+@17
+Having suffered worse losses than expected, the Takeda army\nretreated to Kai to regroup.\n\nThus Nobunaga\nblocked Takeda Shingen's\nentry into Mino.
+
+@19
+Takeda Shingen's entry into Mino blocked
+
+@20
+Oda Nobunaga allowed\nTakeda Shingen to enter Mino.
+
+@21.0
+Gh, as expected of Shingen, a magnificent way of fighting.
+
+@21.1
+It seems best to withdraw for now.
+
+@21.2
+The whole army falls back to Kyoto. Prepare for Shingen's entry into the capital!
+
+@22
+Takeda Shingen allowed to enter Mino
+
+@23.0
+Ugh, to think Nobunaga had such strength...
+
+@23.1
+It cannot be helped...
+
+@23.2
+Everyone, fall back!
+
+@24.0
+That Nobunaga, I underestimated him...
+
+@24.1
+It is unwise to lose any more of my troops.
+
+@24.2
+It cannot be helped... retreat.
+
+@25
+Shingen judged that it would become\na war of attrition and resolved to retreat.\n\n\nHaving suffered worse losses than expected,\nthe Takeda army was forced\nto withdraw to Kai.\n\nThus Nobunaga\nblocked Takeda Shingen's\nentry into Mino.
+
+@27
+Takeda Shingen's entry into Mino blocked
+

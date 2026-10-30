@@ -1,0 +1,90 @@
+@0.0
+Nobunaga, how dare you attack the Yamato-no-kami house, your own superior!
+
+@0.1
+How shameless.
+
+@0.2
+Was it not you who did away with Lord Yoshimune?
+
+@0.3
+I, Nobunaga, shall punish you!
+
+@0.4
+Insolent! Sakai, this time bring me his head. Understood?
+
+@0.5
+Yes, my lord. Leave it to me...
+
+@1
+Siege of Kiyosu Castle\nVictory: 1. Make Oda Nobutomo retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Siege of Kiyosu Castle\n\nVictory: 1. Make Oda Nobutomo retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3
+Provision Store
+
+@4
+Storehouse
+
+@5
+Provision Store
+
+@6
+Provision Store
+
+@7.0
+You honour even this shabby village with a visit. We are grateful.
+
+@7.1
+We have nothing to offer, but please take this.
+
+@8.0
+Life has been hard since Lord Nobutomo became our master.
+
+@8.1
+We gladly side with Lord Nobunaga. Take this, and do your best!
+
+@9.0
+Hm, Nobumitsu! Traitor!
+
+@9.1
+What are you saying! I never once agreed to be one of you!
+
+@10.0
+Nobutomo, prepare yourself!
+
+@10.1
+How can I lose to a fool like him!
+
+@11.0
+Unbelievable... Beaten not once, but twice...
+
+@12
+The Oda main camp was taken by the enemy
+
+@13.0
+What, when did that happen!
+
+@14
+Driven back after the main camp fell to Nobutomo's army
+
+@15
+Oda Nobunaga defeated Oda Nobutomo and took Kiyosu Castle.
+
+@16
+Gained 600 gold
+
+@17
+Defeated Oda Nobutomo and took Kiyosu Castle
+
+@18
+Oda Nobunaga was defeated by Oda Nobutomo.
+
+@19
+Defeated by Oda Nobutomo
+
+@20.0
+So this is the Fool's true nature...
+

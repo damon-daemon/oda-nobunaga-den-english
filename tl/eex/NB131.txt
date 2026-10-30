@@ -1,0 +1,36 @@
+@0.0
+Nobunaga, what do you mean by attacking the Yamato-no-kami house, your own superior line?
+
+@0.1
+How brazen. Was it not you who did away with Lord Yoshimune!
+
+@0.3
+Let him talk! Enough!
+
+@0.4
+We will catch them between ourselves and the Iwakura forces!
+
+@4.0
+Ohh, the Iwakura forces have arrived!
+
+@4.1
+Tch! Reinforcements!
+
+@9.0
+How kind of you to come to such a filthy village.
+
+@10.0
+Life has been harder since Lord Nobutomo became our lord.
+
+@10.1
+I gladly side with Lord Nobunaga. Please take this and do your best.
+
+@13.0
+I cannot believe it... Retreat!
+
+@22.0
+Ugh! So this is the end of the Kiyosu Oda...
+
+@22.1
+Gah!
+

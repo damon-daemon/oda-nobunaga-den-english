@@ -1,0 +1,126 @@
+@0.0
+The troops' morale will not rise... If only my lord had taken the field himself...
+
+@0.1
+(If we win this war, the realm will tilt towards us. And at such a chance, Lord Yoshikage does not march in person...)
+
+@0.2
+(Did I choose wrongly? Did I not know it from the very start...?)
+
+@0.3
+It is too late for complaints now. We will defeat Nobunaga with our own forces alone. Let us go!
+
+@1.0
+(Nagamasa... Why did you betray me? Nagamasa...)
+
+@1.1
+Lord Ieyasu, my army will take on the Azai. I leave the Asakura to you.
+
+@1.2
+Leave it to me, Lord Nobunaga. I will surely crush Kagetake's forces.
+
+@1.3
+Very well, all forces, attack!
+
+@2
+Battle of Anegawa\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@3
+Battle of Anegawa\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+
+@4.0
+Now!
+
+@5.0
+Yaaah!
+
+@6
+Sakakibara struck Kagetake's flank.
+
+@7.0
+What?! When did they...
+
+@8
+The Asakura army is in chaos
+
+@9.0
+All forces, attack at full strength!
+
+@9.1
+Damn, what is this?! Kagetake's army is in complete rout!
+
+@10
+Trap
+
+@11.0
+Damn, a trap!
+
+@12.0
+Aaah, the Oda army is attacking! Everyone, run!
+
+@13
+Retreated to Odani Castle.
+
+@14.0
+Nagamasa, why did you betray me? It is not too late even now. Join my side!
+
+@14.1
+Lord Nobunaga... I...
+
+@14.2
+I could not betray Lord Yoshikage.
+
+@14.3
+And I will not be able to betray him from here on... It is too late now.
+
+@14.4
+Nagamasa... I will not forgive you... I will never forgive you! You betrayed me!
+
+@14.5
+You will learn the price of that crime with your life!
+
+@15.0
+Forgive me, Lord Nagamasa...
+
+@16.0
+If it has come to this, there is no help for it. Retreat!
+
+@17.0
+At this rate we will be wiped out. All forces, retreat to Odani Castle!
+
+@18
+The Azai army collapsed
+
+@21.0
+Damn, the main camp! Grr, Nagamasa has outdone me...
+
+@21.1
+All forces, retreat!
+
+@22
+Oda Nobunaga was defeated at Anegawa by the Azai and Asakura forces.
+
+@23
+Defeated by the Azai-Asakura allies at Anegawa
+
+@24.0
+As expected of Lord Nobunaga... I could not match him after all...
+
+@25
+Azai Nagamasa was defeated by the Oda-Tokugawa allied army and retreated to Odani Castle.
+
+@27
+Defeats the Azai-Asakura allies at Anegawa
+
+@28
+With Azai Nagamasa's retreat, the Azai-Asakura allied army collapsed.
+
+@30
+Crushes the Azai-Asakura allies at Anegawa
+
+@32
+Defeated by the Azai-Asakura allies at Anegawa
+
+@33.0
+As expected of Lord Nobunaga... I could not match him after all...
+

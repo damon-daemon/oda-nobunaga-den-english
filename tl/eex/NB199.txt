@@ -1,0 +1,60 @@
+@0.0
+What a rugged place. Are there really Ikko followers in a place like this?
+
+@0.1
+Lord Nobunaga.
+
+@0.2
+What is it?
+
+@0.3
+Beyond the pass ahead, a group of Ikko followers lies in hiding.
+
+@0.4
+I see. So the information was sound. Very well, we wipe them out.
+
+@1
+Those Who Stir in the Dark\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@2
+Those Who Stir in the Dark\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@3.0
+I have waited for this moment, Nobunaga!
+
+@4.0
+Survivors of the Iga villages. This is bad...
+
+@4.1
+Heh heh, rot here together with your ambitions!
+
+@5.0
+Ugh... how bitter...
+
+@6.0
+Fearsome men...
+
+@6.1
+But I cannot die yet. Even if I must become a demon king!
+
+@7
+Oda Nobunaga wiped out the remnants of the Iga ninja.
+
+@8
+Wipe out the Iga ninja corps
+
+@9
+Gained 2000 gold
+
+@10
+Oda Nobunaga was defeated by the remnants of the Iga ninja.
+
+@11
+Defeated by the Iga ninja corps
+
+@12
+Oda Nobunaga was defeated by the remnants of the Iga ninja.
+
+@13
+Defeated by the Iga ninja corps
+

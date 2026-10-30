@@ -1,0 +1,189 @@
+@0
+"The Overlord Does Not Die"
+
+@2
+"The Overlord Does Not Die"
+
+@3
+"The Overlord Does Not Die"
+
+@4
+"The Overlord Does Not Die"
+
+@5
+Border of Yamashiro and Omi
+
+@6
+Having shaken off Akechi's men and escaped Kyoto, Nobunaga and Ranmaru reached the border of Yamashiro and Omi.
+
+@7.1
+Damn, a blunder. Attacked by Mitsuhide, brought to such misery! Ranmaru! We go to Azuchi now!\n\nI shall return to Azuchi, gather an army and strike down Mitsuhide! I will not be satisfied until I cut off his head with my own hand!
+
+@7.2
+My lord, Azuchi may already have fallen into Akechi hands. Might it not be better to flee to Lord Gamo's Hino Castle?
+
+@7.3
+...Hm. Knowing Mitsuhide, he will have left nothing to chance.\n\nVery well, we go to Hino.
+
+@8
+Inside Azuchi Castle
+
+@9.0
+His lordship must be about to leave Kyoto for Harima.
+
+@10.0
+Yaaawn.
+
+@10.1
+Duty is duty, but keeping the castle is a dull business.
+
+@11.0
+No enemy would march on Azuchi now, my lord.
+
+@11.1
+Indeed.\n\nI miss the days of the Azai and Asakura.
+
+@11.2
+Quite so! Ha ha ha ha.
+
+@11.3
+Ha ha ha ha.
+
+@11.4
+Ha ha ha.
+
+@12.0
+Ujisato!
+
+@13.0
+Hm! Father...
+
+@14.0
+Ujisato!
+
+@14.1
+Father, why such haste?
+
+@14.2
+A g-grave matter! Something terrible has happened in the capital!
+
+@14.3
+In the capital!\n\nHas something happened to his lordship?!
+
+@14.4
+M-Mitsuhide has attacked Honnoji!
+
+@14.5
+What! Akechi in revolt?!\n\nSurely there is some mistake?
+
+@14.6
+A courier from Kyoto has just brought word. They say Mitsuhide's troops fill every corner of the city.
+
+@14.7
+And his lordship?
+
+@14.8
+Whether he took his own life or fled somewhere, no one knows.
+
+@14.9
+...\n\nFather, if this is true, we cannot stay here. Akechi's army will surely come to Azuchi sooner or later.
+
+@14.10
+Yes.\n\n\nI shall break down the great bridge at Seta to Azuchi and hold the Akechi back. Ujisato, pack our baggage and withdraw to Hino.
+
+@14.11
+Yes, understood.
+
+@15.0
+We withdraw to Hino Castle now. Begin the preparations at once.
+
+@16.0
+My lord, I pray you are safe...
+
+@29
+Having bridged the Seta again, Mitsuhide entered Azuchi Castle.
+
+@31.0
+So Nobunaga was never found after all...
+
+@31.1
+I am deeply ashamed.
+
+@31.2
+Well, no matter.\n\nProclaim to all provinces that Nobunaga met a violent death at Honnoji in Kyoto!
+
+@32.1
+Hearing of Nobunaga's death, Hideyoshi in Bitchu and Katsuie in Etchu will march on Kyoto. Rouse the Mori and Uesugi!
+
+@32.2
+Yes, my lord! At once.
+
+@33
+Meanwhile, Hideyoshi was besieging Takamatsu Castle in Bitchu, held by Shimizu Muneharu of the Mori. He built embankments around it and diverted the nearby Ashimori River into them, and the castle soon became a floating island. At news of its peril, Mori Terumoto himself took the field and faced Hideyoshi across the castle.
+
+@40.6
+Kanbei, Masakatsu, come and look at this.
+
+@49
+Unaware of the incident in Kyoto, the Mori made peace on the terms Hideyoshi's side had offered: cession of territory and the seppuku of the castle lord, Shimizu Muneharu. As soon as they had witnessed Muneharu's seppuku, the Hashiba forces left Takamatsu in Bitchu.
+
+@55.0
+Wait, Brother!\n\nBreaking the treaty before the ink of the pledge is dry would be a disgrace to the warrior houses.
+
+@55.4
+Our house holds that knowing one's station comes first, and we must not aspire to the realm... Would you break Father's word?
+
+@56.0
+...\n\nVery well, Takakage. I understand.
+
+@62.4
+My lord, there is no time. Enter Kyoto at once and meet Hideyoshi's army!
+
+@64
+Hino Castle
+
+@65.0
+Hm?
+
+@66.0
+Who goes there! Give your name!
+
+@67.0
+I am Oda Nobunaga!
+
+@67.1
+Oda... Nobu... naga?
+
+@68.0
+Whoa! L-Lord Nobunaga!
+
+@69.0
+F-forgive our rudeness, p-please pardon us.
+
+@69.1
+P-please, go right through.
+
+@69.2
+Ranmaru, let us go.
+
+@70
+Hino Castle
+
+@71.0
+My lord! Thank heaven you are alive!
+
+@71.1
+Ujisato. We strike down Mitsuhide now! Prepare to march!
+
+@71.2
+Yes, my lord! Lord Hashiba is also advancing to punish the traitor Mitsuhide, and the Akechi army has left Kyoto to meet him.\n\nLet us strike the Akechi from behind and take the traitor's head!
+
+@72.0
+If you appear behind them, my lord, the Akechi army will fall into chaos.\n\nCaught between you and Lord Hideyoshi, victory is as good as ours.
+
+@73.0
+I, Nobumori, will protect you, my lord, with my life!
+
+@74.0
+Lords Hashiba, Niwa and Ikeda are advancing on the home provinces.
+

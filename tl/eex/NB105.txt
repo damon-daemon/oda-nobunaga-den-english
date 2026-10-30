@@ -1,0 +1,114 @@
+@0.0
+So Nobunaga has shown himself.
+
+@0.1
+Lord Yoshitatsu will arrive soon. This battle is ours.
+
+@0.2
+Yoshitatsu's reinforcements do not seem to have arrived yet.
+
+@0.3
+Good, we attack in one stroke.
+
+@1
+Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n  2. Take Iwakura Castle.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@2
+Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n  2. Take Iwakura Castle.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+
+@3
+Enemy reinforcements have appeared!
+
+@4.0
+Lord Nobukata, I have come to help you.
+
+@4.2
+Heh heh heh, this is the end for Nobunaga!
+
+@5
+You found a treasure
+
+@6.0
+If Lord Nobunaga wins this battle, Owari will have peace.
+
+@6.1
+Please take this and do your best.
+
+@7.0
+I am an apothecary from Mino.
+
+@7.1
+I once enjoyed Lord Dosan's patronage.
+
+@7.2
+I cannot serve Lord Yoshitatsu. Please accept this medicine.
+
+@8.0
+No one seems to be here.\n\n\nThis horse...?!
+
+@9.0
+Good, Iwakura Castle is near!
+
+@9.1
+Grr, there is no choice. All forces, charge!
+
+@10
+Enemy reinforcements have appeared!
+
+@11.0
+Lord Nobukata, I have come to help you.
+
+@11.2
+Heh heh heh, this is the end for Nobunaga!
+
+@12.0
+We meet again, Yoshitatsu. Is Owari your aim this time?
+
+@12.1
+Hmph, I merely answered Lord Nobukata's request.
+
+@13.0
+Nobukata, hand over the castle quietly, and I will spare your life.
+
+@13.1
+What nonsense! You are a scoundrel trying to seize my domain.
+
+@14.0
+Curse you, Nobunaga, remember this!
+
+@15
+Oda home castle is under attack
+
+@16.0
+Damn, Kiyosu Castle... All forces, withdraw!
+
+@17
+Defeated by Oda Nobukata at the Battle of Ukino
+
+@18
+The Oda army took Iwakura Castle.
+
+@19.0
+Damn, the castle...
+
+@20
+Oda Nobunaga took Iwakura Castle and unified Owari.
+
+@22
+Took Iwakura Castle at the Battle of Ukino
+
+@23
+Oda Nobunaga defeated Oda Nobukata's army and unified Owari.
+
+@25
+Defeated Oda Nobukata at the Battle of Ukino
+
+@26
+Oda Nobunaga was defeated by Oda Nobukata's army.
+
+@27
+Defeated by Oda Nobukata at the Battle of Ukino
+
+@28.0
+Damn... To lose with this many troops...
+

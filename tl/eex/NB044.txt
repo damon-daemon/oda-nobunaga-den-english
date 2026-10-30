@@ -1,0 +1,81 @@
+@0
+"Nobunaga's Rout"
+
+@2
+In the 6th month of the 1st year of Genki (1570), the combined Oda and Tokugawa army was defeated in battle by the combined Azai and Asakura army.
+
+@3
+"Nobunaga's Rout"
+
+@4
+"Nobunaga's Rout"
+
+@5
+"Nobunaga's Rout"
+
+@6
+Azai Nagamasa's Camp
+
+@7.0
+The Oda army has fled in rout into southern Omi.
+
+@7.1
+My lord, now is the chance to strike the Oda.
+
+@7.2
+Order the pursuit.
+
+@8.0
+We now pursue the Oda army!
+
+@10
+Iga
+
+@11.0
+Is it t-true? That Nobunaga was beaten by the Azai and Asakura?
+
+@11.1
+It is true.
+
+@11.2
+And Nobunaga?
+
+@11.3
+Nobunaga has fled in rout to southern Omi, and the Azai and Asakura forces are in pursuit.
+
+@11.4
+My lord! Now is the chance to strike down our old enemy Nobunaga!
+
+@12.0
+Yes. Gather everyone and prepare to sortie!
+
+@14.0
+My lord!\n\nThe scouts report that the Azai and Asakura forces are closing in on this place.
+
+@14.1
+I think it best to pull back from here for now.
+
+@15.0
+Fool! If we withdraw we only embolden the enemy.\n\nWe meet the Azai and Asakura here. All forces, sortie!
+
+@18.0
+Leave the vanguard to me, Katsuie. This time I will crush them.
+
+@19.0
+If we do not stop the enemy here, there is nothing left behind us.
+
+@20.0
+A fierce battle is expected. Bring plenty of healing medicine.
+
+@21.0
+If we strike down Nagamasa alone, the enemy will retreat. Let us split our troops in two and meet them.
+
+@22.0
+We have no choice but to hold them off with cavalry and attack from behind with muskets and fire.
+
+@23.0
+My lord, my ninja report that Rokkaku Yoshikata is gathering troops.
+
+@24.0
+Hmm... Is there any good plan...
+

@@ -1,0 +1,378 @@
+PROG:8011f1a0	Obtained %s.
+PROG:8011f1b8	Your pack is full.\nPut %s in storage?
+PROG:8011f1e8	Sent %s to storage.
+PROG:8011f200	Pack and storage are full.\nGave up %s.
+PROG:8011f234	Give up %s?
+PROG:8011f24c	Gave up %s.
+PROG:8011f264	%s reached level %u!\n\n
+PROG:8011f280	%s up by %2u\n
+PROG:8011f294	Learned trait "%s"!
+PROG:8011f2ac	can now be equipped!
+PROG:8011f2c4	%s learned "%s"!
+PROG:8011f2dc	%s gained trait "%s"!
+PROG:8011f2f8	%s lost trait "%s"!
+PROG:8011f5f4	Lord Nobunaga, leave
+PROG:8011f60c	arms upgrades
+PROG:8011f61c	to me.
+PROG:8011f630	Pick the
+PROG:8011f63c	arms/armour
+PROG:8011f64c	from the list,
+PROG:8011f65c	then press
+PROG:8011f668	the Upgrade
+PROG:8011f678	button, boss.
+PROG:8011f690	It costs money and
+PROG:8011f6a8	my skill, so
+PROG:8011f6bc	mind that, boss.
+PROG:8011f6d0	The number under
+PROG:8011f6e4	[Skill] on the
+PROG:8011f6f4	right is my skill.
+PROG:8011f70c	With low skill
+PROG:8011f71c	I can't make
+PROG:8011f728	fine goods.
+PROG:8011f73c	To raise it, let
+PROG:8011f750	me upgrade a few
+PROG:8011f768	of the same type.
+PROG:8011f780	So then,
+PROG:8011f78c	tell me what
+PROG:8011f79c	to upgrade.
+PROG:8011f7b0	Smith Skill
+PROG:8011f7bc	Skill Points
+PROG:8011f7c8	Item Side
+PROG:8011f7d4	Officer Side
+PROG:8011f7e0	Is %s all right?
+PROG:8011f7f8	Not owned.
+PROG:8011f80c	Cost
+PROG:8011f818	Item Info
+PROG:8011f824	No more %s
+PROG:8011f834	upgrades are
+PROG:8011f844	possible, boss.
+PROG:8011f854	That's beyond
+PROG:8011f868	low skill,
+PROG:8011f874	Can't make it.
+PROG:8011f884	To forge that, boss,
+PROG:8011f89c	you lack the gold.
+PROG:8011f8b0	As I am now,
+PROG:8011f8c4	I'd collapse before
+PROG:8011f8dc	I finished it.
+PROG:8011f914	%s forging skill is now %u.
+PROG:8011f930	Wait a
+PROG:8011f944	moment...
+PROG:8011f954	All done, boss!
+PROG:8011f964	Others
+PROG:8011f970	Tachi
+PROG:8011f97c	Spear
+PROG:8011f988	Bow
+PROG:8011f994	Gun
+PROG:8011f9a0	Cannon
+PROG:8011f9ac	Ninja
+PROG:8011f9b8	Fan
+PROG:8011f9c4	Armour
+PROG:8011f9d0	??????
+PROG:8011f9e0	Father, summon the blacksmith.
+PROG:8011fa00	Very well.\nSomeone fetch the blacksmith.
+PROG:8011fa24	Lord Nobuhide,\nyou called for me?
+PROG:8011fa44	Fetch the smith.
+PROG:8011fa54	Lord Nobunaga,\nyou called for me?
+PROG:8011fa74	Thank you for your custom.
+PROG:8011fb90	Is that all right?
+PROG:80120248	Save here?
+PROG:80120260	Quit without saving?
+PROG:80120280	Weapons
+PROG:8012028c	Support
+PROG:80120298	Healing
+PROG:801202b0	Storehouse           Qty
+PROG:801202c4	Can't equip this weapon.
+PROG:801202dc	Unequip
+PROG:801202e8	Store
+PROG:801202f4	Equip
+PROG:80120300	Equip it?
+PROG:80120310	Item Info
+PROG:8012031c	Officer Side
+PROG:80120328	Store Side
+PROG:80120334	-
+PROG:80120368	Father, summon the storekeeper.
+PROG:80120388	Very well.\nSomeone fetch the keeper.
+PROG:801203ac	Lord Nobuhide, you called for me?
+PROG:801203cc	Call the storekeeper.
+PROG:801203e4	Lord Nobunaga, you called for me?
+PROG:80120404	Pardon me.
+PROG:80120ad4	Chosokabe
+PROG:80120ae0	Attack
+PROG:80120aec	Defence
+PROG:80120af8	Intelligence
+PROG:80120b04	Luck
+PROG:80120b10	Max Endurance
+PROG:80120b1c	Max Skill
+PROG:80120b28	Accuracy
+PROG:80120b34	Speed
+PROG:80120b40	Level
+PROG:80120b4c	Exp
+PROG:80120b58	Plains
+PROG:80120b64	Mountain
+PROG:80120b70	Forest
+PROG:80120b7c	Naval
+PROG:80120b88	River
+PROG:80120b94	Fortress
+PROG:80120ba0	Urban
+PROG:80120bac	Iron Wall
+PROG:80120bb8	Support
+PROG:80120bc4	Tutoring
+PROG:80120bd0	Spirit
+PROG:80120bdc	Rest
+PROG:80120be8	Focus
+PROG:80120bf4	Training
+PROG:80120c00	Full Heal
+PROG:80120c0c	Unseal
+PROG:80120c18	Calm
+PROG:80120c24	Recovery
+PROG:80120c30	Fulfil
+PROG:80120c3c	Parry
+PROG:80120c48	Farsight
+PROG:80120c54	Gunnery
+PROG:80120c60	Evasion
+PROG:80120c6c	Repel
+PROG:80120c78	Gunsight
+PROG:80120c84	Smoke
+PROG:80120c90	Fortune
+PROG:80120c9c	Storms
+PROG:80120ca8	Stamina
+PROG:80120cb4	Struggle
+PROG:80120cc0	Agile
+PROG:80120ccc	Reserve
+PROG:80120ce8	Oda Nobunaga Den Staff
+PROG:80120d00	Producer
+PROG:80120d10	Tadashi Kato
+PROG:80120d1c	Director
+PROG:80120d2c	Norihiro Nagae
+PROG:80120d38	CG Director
+PROG:80120d4c	Haruhiko Yoshikawa
+PROG:80120d58	BGM Director
+PROG:80120d6c	Chinatsu Okayasu
+PROG:80120d78	Program
+PROG:80120d84	Motohiro Nojiri
+PROG:80120d90	Kazuhiro Shimazu
+PROG:80120d9c	Technical Support
+PROG:80120db0	Yasuaki Taga
+PROG:80120dbc	Takashi Kunitomi
+PROG:80120dc8	Akitsugu Komiyama
+PROG:80120dd4	CG Production
+PROG:80120de4	Studio Offside Co., Ltd.
+PROG:80120e00	Sound Programmer
+PROG:80120e14	Sparks Ltd.
+PROG:80120e28	Kenji Nakajo
+PROG:80120e34	Recording Operator
+PROG:80120e50	Keiji Yamagishi
+PROG:80120e5c	Kaori Nakarai
+PROG:80120e68	Software Manual
+PROG:80120e80	Hiroshi Nakanishi
+PROG:80120e8c	Kaori Niitsu
+PROG:80120e98	Hitomi Yazawa
+PROG:80120ea8	QA
+PROG:80120eb4	Monitor Team
+PROG:80120ec4	Michiya Wada
+PROG:80120ed0	General Producer
+PROG:80120ee8	Eiji Fukuzawa
+PROG:80120fbc	Is that OK?
+PROG:80121078	Slot 1
+PROG:80121084	Slot 2
+PROG:80121090	The memory card in slot {82}%c\nis not formatted.
+PROG:801210c8	The memory card in slot {82}%c\nis damaged.
+PROG:801210f8	There is no memory card\nin slot {82}%c.
+PROG:80121128	Not enough free blocks
+PROG:80121144	New Data
+PROG:80121150	-
+PROG:8012115c	 Data
+PROG:80121168	This data cannot be used
+PROG:80121180	Saving needs a memory card with\n5 or more free blocks.
+PROG:801211d8	Load from which slot?
+PROG:801211f4	Save to which slot?
+PROG:80121210	There is no memory card.\nInsert a memory card into slot {82}%c.
+PROG:80121248	into the slot.
+PROG:8012125c	Memory card access failed.\nPlease insert another memory card.
+PROG:801212b0	The memory card is not formatted.\nPlease insert another memory card.
+PROG:80121300	The memory card is not formatted.\nFormat it?
+PROG:80121344	Formatting the memory card failed.
+PROG:8012136c	No Oda Nobunaga Den data found.\nPlease insert a card with data\ninto slot {82}%c.
+PROG:801213d0	Load which data?
+PROG:801213f0	Saving needs 5 blocks.\nSave where?
+PROG:80121424	Not enough free blocks.\nPlease insert a card with 5 or more\nfree blocks into slot {82}%c.
+PROG:80121488	Load this data?
+PROG:801214b4	A file already exists on the card.\nOverwrite it?
+PROG:80121500	Save to temporary memory?\nIt is lost on power off or reset!
+PROG:80121548	Load failed.\nTry loading again?
+PROG:80121578	Save failed.\nTry saving again?
+PROG:801215a8	Save complete.
+PROG:801215c0	This data is corrupted.\nPlease load other data.
+PROG:80121600	Loading.\nDo not remove or insert the card.
+PROG:8012163c	Saving.\nDo not remove or insert the card.
+PROG:80121678	Formatting the memory card.\nDo not remove or insert the card.
+PROG:801216c4	Checking the memory card.\nDo not remove or insert the card.
+PROG:80121710	The memory card was removed.\nCancelling the process.
+PROG:80121744	Preparing to save data.\n
+PROG:80122304	This unit's attack cannot rise further
+PROG:8012232c	This unit's defence cannot rise further
+PROG:80122354	That unit needs no confusion recovery
+PROG:8012237c	That unit needs no Seal recovery
+PROG:801223a4	That unit needs no Immobile recovery
+PROG:801223cc	That unit needs no wound recovery
+PROG:801223f4	Cannot advance class
+PROG:8012240c	Cannot advance class further
+PROG:8012242c	Level must be %w or higher to advance class
+PROG:8012245c	This item cannot be used
+PROG:801224ac	%s is already immobile
+PROG:801224c0	%s is already sealed
+PROG:801224d8	%s is already confused
+PROG:801224f4	This skill cannot target a commander
+PROG:80122518	No target unit in the area
+PROG:80122544	No enemy unit in the area
+PROG:80122570	Cannot be used here
+PROG:80122588	Enemy is not on a mountain
+PROG:801225ac	The skill failed
+PROG:801225c0	Only usable on cavalry
+PROG:801225e0	Only usable if enemy is at sea
+PROG:80122608	Cannot target ninja units
+PROG:8012262c	This unit's defence cannot be lowered further
+PROG:80122660	This unit is already sealed
+PROG:80122680	This unit is already immobile
+PROG:801226a0	That unit needs no healing
+PROG:801226c8	That unit cannot rise further
+PROG:801226ec	Cannot use on own unit
+PROG:80122708	That unit has not yet acted
+PROG:80122734	It began to snow
+PROG:80122748	It began to rain
+PROG:8012275c	The weather cleared
+PROG:80122770	Out of movement range
+PROG:80122788	Not enough skill points
+PROG:8012279c	%s used %s
+PROG:801228c0	-
+PROG:801228fc	-
+PROG:80122954	faded
+PROG:80122960	ended
+PROG:8012296c	%s %s drop effect %s
+PROG:80122980	%s %s rose
+PROG:80122994	%s %s boost effect %s
+PROG:801229a8	%s %s fell
+PROG:801229bc	%s took %w damage
+PROG:801229d4	%s is no longer immobile
+PROG:801229f0	%s is immobile
+PROG:80122a04	%s is no longer sealed
+PROG:80122a20	%s was sealed
+PROG:80122a38	%s is no longer confused
+PROG:80122a54	%s is confused
+PROG:80122a64	%s is no longer wounded
+PROG:80122a80	%s was badly wounded
+PROG:80122a98	-
+PROG:80122ae8	%s retreated!
+PROG:80122af8	Oda's dream ends here...
+PROG:80122b18	Fall back!
+PROG:80122b28	Cannot attack in %s weather
+PROG:80122b48	Reloading: no attack until next turn
+PROG:80122b74	Cannot attack in shallows
+PROG:80122bec	This unit needs no healing
+PROG:80122c14	Required weapon not equipped
+PROG:80122c44	Cannot act while reloading
+PROG:80122c64	Usable only in rain
+PROG:80122c88	Own unit's endurance too low
+PROG:80122ca4	Cannot use in rain
+PROG:80122cc4	Cannot use when badly wounded
+PROG:80122ce4	Cannot act while immobile
+PROG:80122d00	Usable only at sea
+PROG:80122d24	Cannot use at sea or in shallows
+PROG:80122d48	Usable only in hills or forest
+PROG:80122d84	You have no items!
+PROG:80122da0	Can't unequip in battle
+PROG:80122dbc	Gave %s to %s
+PROG:80122dd0	That unit cannot carry more items
+PROG:80122df4	Cannot give to own unit
+PROG:80122e0c	Discard %s?
+PROG:80122e20	Discarded %s
+PROG:80122e34	No skill can be used!
+PROG:80122e54	Cannot attack without a weapon
+PROG:80122e7c	No enemy unit in range
+PROG:80122e98	Skills are sealed
+PROG:8012300c	%s took no counterattack!
+PROG:80123024	The skill failed
+PROG:80123038	%s dodged the attack
+PROG:80123050	%s landed a critical blow!
+PROG:801231b4	No friendly unit in range
+PROG:801231d0	No enemy unit in range for this skill
+PROG:801231fc	No enemy unit in attack range
+PROG:8012321c	An enemy unit
+PROG:8012322c	Cannot select that unit
+PROG:80123248	Cannot attack own unit
+PROG:80123264	Out of range
+PROG:8012327c	Out of attack range
+PROG:801232c8	A unit is there
+PROG:801232dc	Out of movement range
+PROG:801232f4	Main Camp is empty
+PROG:8012330c	No unit on Main Camp
+PROG:80123324	Nobunaga can't retreat
+PROG:8012333c	Cancel consecutive unit rally?
+PROG:80123658	Ordered by his father Nobuhide to\nattack the Imagawa as his first\nbattle, Nobunaga sortied from\nNagoya Castle for Kira-Ohama\nin western Mikawa.
+PROG:801236c8	Tenbun 16: Nobunaga is 14 years old.
+PROG:801236ec	Taking advantage of Oda Nobuhide's\ndeath, Oda Nobutomo had Sakai Daizen\ntake Matsuda and Fukada Castles.
+PROG:80123740	On hearing this, Nobunaga at once\nsortied from Nagoya Castle.
+PROG:80123778	Joining his uncle Nobumitsu's\nreinforcements, he marched to\nKayazu to retake the two castles.
+PROG:801237b8	Defeated at Kayazu, Nobutomo\nplotted to win over Nobunaga's\nuncle Nobumitsu.
+PROG:801237fc	Yoshiganei, whose father Shiba Yoshimune\nwas slain, seeks help from Nobunaga\nat Nagoya Castle.
+PROG:80123838	Given grounds to take Kiyosu,\nNobunaga schemes with his uncle\nNobumitsu and sorties for Kiyosu Castle.
+PROG:80123878	Yoshitatsu, long shunned by his\nfather Dosan, was seized by suspicion\nand raised troops to overthrow him.
+PROG:801238c4	Learning of Yoshitatsu's revolt,\nDosan shut himself in Sagiyama\nCastle and asked Nobunaga for aid.
+PROG:80123908	Nobunaga sortied from Kiyosu\nfor Mino, but is blocked\nby a swollen river.
+PROG:8012394c	Resolved to die, Dosan\nsortied from Sagiyama Castle\nand faced Yoshitatsu at the Nagara.
+PROG:8012398c	Hayashi Hidesada and Shibata\nKatsuie, hereditary Oda retainers,\nplotted to disinherit Nobunaga\nand back his brother Nobuyuki.
+PROG:801239d4	They seized Nobunaga's\ndirect lands and revolted.
+PROG:801239fc	Nobunaga sorties from Kiyosu\nto oppose them, but his force is\nonly a third of Nobuyuki's.
+PROG:80123a50	Nobuyuki marches on Kiyosu\nand Nobunaga meets him.\nThe armies face off at Inou in Owari.
+PROG:80123a98	Oda Nobuyasu, lord of Iwakura and\nprotector of the four northern\ncounties of Owari, meant to pass the\nclan to his second son Nobuie.
+PROG:80123ae8	But his eldest son Nobukata saw\nthrough it, struck first\nand drove him out.
+PROG:80123b2c	Bent on uniting Owari, Nobunaga\nuses this chance to take Iwakura\nCastle and sorties for Ukino.
+PROG:80123b74	To meet Nobunaga, Nobukata\nallied with Saito Yoshitatsu\nof Mino and sought reinforcements.
+PROG:80123bc0	Imagawa Yoshimoto, having entered\nOwari, set up camp at Kutsukake,
+PROG:80123bec	ordering Matsudaira Motoyasu and Asahina\nYasutomo to lead and attack the\nforts of Marune and Washizu.
+PROG:80123c2c	Hearing that fighting had begun at\nboth forts, Nobunaga rushed to\nZenshoji Fort.
+PROG:80123c68	To conquer Mino, Nobunaga\norders a castle built at Sunomata.
+PROG:80123c94	Building in enemy land is\nextremely hard. Sakuma Nobumori and\nShibata Katsuie fail at it,
+PROG:80123cdc	but Hideyoshi, taking over,\nbuilds Sunomata in a month\nand a half by a clever ruse.
+PROG:80123d18	Just then, the Three Men of Mino,\nwho gave up on Tatsuoki, answer\nthe call to defect.
+PROG:80123d50	Seeing his chance to take Mino,\nNobunaga advanced to Sunomata\nto attack Inabayama Castle.
+PROG:80123d94	Nobunaga accepted the request to\nmarch on Kyoto from Yoshiaki,\nthe former shogun's brother, invited\nhim to Gifu, and began the campaign.
+PROG:80123dec	To secure the road to Kyoto, he\nfirst asked the Rokkaku of\nMt. Kannonji for support.
+PROG:80123e2c	But the Rokkaku, siding with the\nMiyoshi Triumvirate, refused.
+PROG:80123e60	Resolved to crush the Rokkaku,\nNobunaga left Gifu Castle,\nleading Ieyasu of Mikawa and others.
+PROG:80123ea8	Camped near the Echi River,\nNobunaga, claiming to attack Kannonji\nCastle, swept into Minotsukuri Castle.
+PROG:80123ef4	Driven from Kyoto by Nobunaga's march,\nthe 14th shogun Yoshihide fled to\nthe Miyoshi's Tomita Castle in Settsu.
+PROG:80123f48	The Miyoshi Triumvirate, backing\nShogun Yoshihide, refuse to\nrecognise Shogun Yoshiaki,
+PROG:80123f80	resisting Nobunaga at Shoryuji in\nYamashiro, Akutagawa in Settsu and\nTakaya in Kawachi.
+PROG:80123fc0	Nobunaga left Kyoto to crush\nthe Miyoshi Triumvirate and began\nhis attack on Shoryuji Castle.
+PROG:80124010	Kozo Tomomasa, lord of Kozo Castle\nin Ise, turns on his lord Kitabatake\nTomonori and secretly joins Nobunaga.
+PROG:80124054	Seizing this chance, Nobunaga resolved\nto crush the Kitabatake and sortied\nwith 70,000 men.
+PROG:80124094	After entering Kyoto, Nobunaga sent\nthe daimyo a summons ordering\nthem to pay respects to Court and Shogunate.
+PROG:801240e4	But Asakura Yoshikage of Echizen,\nheeding his senior retainers,\nignores the summons.
+PROG:8012412c	Learning that Yoshikage had no\nintention of coming to Kyoto, Nobunaga\nresolved to crush the Asakura and\nsortied from Kyoto for Echizen.
+PROG:80124180	Resolved to punish the traitor\nAzai Nagamasa, Nobunaga\nleft Gifu Castle for Omi.
+PROG:801241c4	To lure out the Azai, Nobunaga\nburned villages in Azai lands\nand marched on Odani Castle.
+PROG:80124214	Afterwards, reinforcements led by\nTokugawa Ieyasu joined the Oda.
+PROG:80124244	Meanwhile, Asakura reinforcements\nled by Kagetake reached the Azai.
+PROG:80124270	The Azai-Asakura force moved to\nmeet the Oda-Tokugawa army\nand they faced off on the Ane River.
+PROG:801242c4	The Miyoshi Triumvirate, who had fled\nto Awa, saw Nobunaga return to Gifu,\nmarched to Nakajima in Settsu, built\nforts at Noda and Fukushima and rose.
+PROG:80124334	To crush the Miyoshi, Nobunaga left\nGifu and camped at Honnoji in Kyoto,\nthen began advancing on the forts\nat Noda and Fukushima.
+PROG:8012438c	Shogun Yoshiaki, using Takeda\nShingen's march on Kyoto, rose\nat Nijo Castle to topple Nobunaga, but
+PROG:801243d4	was quickly beaten by Nobunaga's\nsiege. Through the Court's mediation,\nhe makes peace with Nobunaga.
+PROG:8012441c	But Yoshiaki broke his oath to\nNobunaga and again raised troops\nagainst him at Makishima Castle in Uji.
+PROG:80124468	Nobunaga at once crossed Lake Biwa\nand sent troops to Makishima Castle.
+PROG:8012449c	With Takeda Shingen dead and Ashikaga\nYoshiaki expelled, Nobunaga's next\nenemies are the Azai and Asakura.
+PROG:801244e4	Learning that a senior Azai retainer\nhad defected, Nobunaga resolved to\nsubdue the Azai and sortied to Odani Castle.
+PROG:80124538	Meanwhile Asakura Yoshikage marched\nto Odani Castle, Azai Nagamasa's\nseat, to rescue the Azai.
+PROG:80124584	Takeda Katsuyori of Kai\nbegins preparing to march west.
+PROG:801245ac	To meet him, the Ikko followers\nof Nagashima, who threaten the rear,\nmust be wiped out completely.
+PROG:80124604	Nobunaga resolved to crush the Ikko\nfollowers of Nagashima and marched\nto Tsushima.
+PROG:80124640	To retake Nagashino Castle, seized by\nTokugawa Ieyasu, Takeda Katsuyori\ninvades Mikawa with 15,000 men.
+PROG:801246a0	Katsuyori set his camp on Mt. Io,\nnorth of the castle, surrounded\nNagashino and attacked fiercely daily.
+PROG:801246f4	Receiving the urgent word from\nNagashino Castle, Tokugawa Ieyasu\nasks Nobunaga for reinforcements.
+PROG:80124730	Nobunaga at once sent reinforcements.\nJoining the Tokugawa on the way, he\nmarched to Shidarahara, west of Nagashino,\nand set up horse-stopping fences along the Rengo.
+PROG:801247b0	Hearing this, Takeda Katsuyori also\nmoves to Shidarahara for the decisive battle.
+PROG:801247ec	Heeding Ieyasu's retainer Sakai\nTadatsugu, Nobunaga formed a separate\nforce to attack the Nagashino besiegers.
+PROG:80124854	The Honganji rose in answer to the\nformer shogun Yoshiaki and Mori Terumoto,\nand even won over Uesugi Kenshin\nof Echigo, forming the Nobunaga Encirclement.
+PROG:801248c0	In response, Nobunaga besieged Ishiyama\nHonganji and crushed the Ikko forces,\nbut they fled into Ishiyama Honganji\nand held the castle.
+PROG:80124928	Nobunaga settled into a long siege\nto starve them out, but Kennyo\nasked the Mori to ship provisions.

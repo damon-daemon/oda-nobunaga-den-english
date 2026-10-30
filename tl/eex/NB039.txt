@@ -1,0 +1,90 @@
+@4
+Day after day, merchants and eminent monks of Kyoto came to greet Nobunaga, who had entered the capital.
+
+@5.0
+Lord Nobunaga, it has been a long time. Today I have come to present these two fans.
+
+@6.0
+How kind of you. Then a verse.
+
+@6.1
+Two fans in hand - Nihon is mine too! What joy today.
+
+@7.0
+Ho ho, splendid, my lord.
+
+@9.0
+My lord. Matsunaga Hisahide, lord of Shigisan Castle, has arrived.
+
+@9.1
+Matsunaga Hisahide, is it... Very well, I will see him. Show him in.
+
+@10.0
+In that case, I shall take my leave.
+
+@11.0
+I am Matsunaga Hisahide.
+
+@11.1
+Ah, I am Nobunaga. Come closer.
+
+@12.0
+I, Hisahide, have come to offer you all my domains and to swear my allegiance, my lord.
+
+@12.1
+As proof of my loyalty, please accept this Tsukumo Eggplant.
+
+@12.2
+The famous tea caddy said to be "peerless in this land." Truly magnificent.
+
+@12.3
+There is a persistent rumour that it was you who killed the late shogun, Lord Yoshiteru.
+
+@12.4
+Ha ha ha. I know nothing of such a rumour.
+
+@12.5
+I, Matsunaga Danjo Hisahide, had no part whatever in the assassination of Lord Yoshiteru.
+
+@12.6
+Is that so. (He feigns innocence. Well, no matter.)
+
+@12.7
+Send your son as a hostage. Then, in honour of this tea caddy, I will grant you the whole of Yamato Province.
+
+@13.0
+Is that wise? It is plain that he pulled the strings in Lord Yoshiteru's assassination.
+
+@13.1
+The past matters not at all. I am not fool enough to cut down a man who submits to me.
+
+@14.0
+Mitsuhide.
+
+@14.2
+You and the Monkey are ordered to guard the city of Kyoto. Show them how strict the Oda army's discipline is.
+
+@14.3
+Needless to say, anyone who abuses women or children, and anyone who steals, even a single sen, is to be cut down on the spot.
+
+@16
+Because of the strict military discipline of Nobunaga's army, known as "cutting down for one sen," trust in Nobunaga rose greatly.
+
+@17.0
+My lord.\n\nThe Miyoshi Triumvirate, who back Yoshihide, still resist us in the home provinces. What will you do?
+
+@18
+Prepare to subdue the Miyoshi\nMake Yoshiaki shogun
+
+@19.0
+Heh, it is obvious. Prepare to subdue the Miyoshi.
+
+@20.0
+Subduing the Miyoshi can wait.
+
+@20.1
+Th-then...
+
+@20.2
+First, Lord Yoshiaki must take the post of shogun.\n\nOnly after that will we sweep away the fools who defy us.
+

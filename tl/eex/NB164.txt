@@ -1,0 +1,138 @@
+@0.0
+With the Mori and the Two Kawa advancing along three roads, the Oda forces are nothing to fear.
+
+@0.1
+Lord Motoharu's army and the Seto Inland Sea navy will join us shortly.
+
+@0.2
+First, give the Hashiba forces at Himeji Castle a taste of blood!
+
+@0.4
+The time has finally come to avenge my years of resentment.
+
+@0.5
+Kanbei! We must stop the Mori advance here at all costs!
+
+@0.7
+No matter how many arrows the Mori bundle together, I will snap them!
+
+@1
+Interception of the Mori\nVictory: 1. Make Mori Terumoto retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@2
+Interception of the Mori\n\nVictory: 1. Make Mori Terumoto retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+
+@3.0
+Good, we too begin our advance!
+
+@4
+Kikkawa Motoharu's army appears!
+
+@5.0
+Advance! Our goal is the capital, Kyoto!
+
+@5.1
+Oh! So Uncle in San'in has also marched on Kyoto!
+
+@6
+The Mori navy appears!
+
+@7.0
+Now we sail for Kyoto! Head east across the Inland Sea and land in Settsu!
+
+@7.1
+Advance!
+
+@7.2
+Heh heh, it looks like I can run wild again for the first time in a while!
+
+@9.0
+Some samurai dropped this here the other day.
+
+@9.1
+We have no idea how to use it, so we will give it to you.
+
+@11.0
+When will this town finally know peace...
+
+@11.1
+Oh, please take this.
+
+@13.0
+War, war! Please help us!
+
+@13.1
+This is a statue of our village's guardian deity. Please use it to calm the war.
+
+@14.0
+Nobunaga! Taste the sword of vengeance for my clan, killed by you!
+
+@15.0
+Yoshiaki. It has been a long time.
+
+@15.1
+Eek! N-Nobunaga!
+
+@15.2
+R-retreat! I do not want to die!
+
+@16.0
+I am the Demon Kikkawa, known throughout the land!
+
+@16.1
+Taste this spear of Motoharu!
+
+@16.2
+Hm!
+
+@17.0
+Motonari's third son, Kobayakawa Takakage!
+
+@17.1
+Lord Nobunaga, prepare yourself.
+
+@18.0
+Terumoto! Defying me is the height of folly.
+
+@18.1
+The Mori's wretched end is decided!
+
+@18.2
+What nonsense, Nobunaga!
+
+@19
+Araki Murashige has raised an army!
+
+@20.0
+Now is the opportunity heaven has given me!
+
+@20.1
+I will strike down Nobunaga and avenge those who were killed!
+
+@20.2
+M-Murashige! Damn you!
+
+@21.0
+That I should lose!
+
+@22.0
+It cannot be helped. Withdraw.
+
+@23.0
+Damn, to retreat here is the height of regret!
+
+@24.0
+Is my head still on my shoulders?
+
+@28
+Oda Nobunaga defeated the Mori army.
+
+@30
+Defeats the Mori in Harima
+
+@31
+Oda Nobunaga was defeated by the Mori army.
+
+@32.0
+W-why? Why did I...
+

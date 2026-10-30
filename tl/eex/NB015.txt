@@ -1,0 +1,234 @@
+@2
+The 7th month, the 1st year of Tensho (1573)\nNobunaga expelled Ashikaga Yoshiaki and brought down the Muromachi shogunate.\n\nBy force he buried the outworn order in history and opened a new age. Nobunaga was 40 years old.
+
+@6.0
+My lord, I hear a band of warrior monks who fled Mt. Hiei has risen in revolt.
+
+@6.1
+My lord, what will you do?
+
+@8.0
+Naturally, we must go and put it down.
+
+@8.1
+But first, Mitsuhide. You seem to have something to say. Say it.
+
+@8.2
+The warrior monks must hold a grudge against you for burning Mt. Hiei. Please refrain from taking the field yourself.
+
+@9.0
+Worry is unnecessary. I will settle this matter with my own hands.
+
+@10.0
+Mitsuhide, you seem to understand nothing.
+
+@11.0
+(What on earth is he telling me to understand?)
+
+@12.0
+Leave them be. What can warrior monks who fled Mt. Hiei do?
+
+@15.0
+Warrior monks who fled Mt. Hiei are ravaging my lands. I will suppress them at once.
+
+@16.0
+Monkey, you did not let any of the monks escape during the burning, did you?
+
+@17.0
+Never, my lord. This Monkey would never dare disobey your orders.
+
+@17.1
+Very well. Then Monkey, clear your name with your work this time.
+
+@18.0
+I should have burned them out back then after all...
+
+@18.1
+Very well. This time I will wipe out the sins of these wicked monks with my own hands.
+
+@22
+The 7th month, 1573 (the 4th year of Genki)\nAfter expelling the shogun Ashikaga Yoshiaki from Kyoto, Nobunaga petitioned the court, and the era was changed to Tensho 1.
+
+@23.0
+Thinking back, it has been one calamity after another from the 1st year of Genki until today.
+
+@23.1
+Now that the era name has changed to Tensho, let us set the realm right.
+
+@23.2
+As expected of you, my lord. You will now fight toward the realm under military rule.
+
+@23.3
+Just so, Monkey. First I will destroy the Azai and Asakura.
+
+@24.0
+Mitsuhide. You once served Asakura Yoshikage, did you not?
+
+@25.0
+Yes, I drew a stipend as a musket instructor, but that was long ago.
+
+@26.0
+The Asakura treat a man of your calibre so poorly. That is why they walk the road to ruin.
+
+@26.1
+You jest.
+
+@26.2
+Do you hate them, Mitsuhide? Do you hate the Asakura for not raising you up?
+
+@26.3
+You must. I will give you the vanguard against the Asakura, so go and destroy your old master.
+
+@27.0
+We attack Odani Castle in Omi and draw out Asakura Yoshikage.
+
+@27.1
+In this battle I will destroy the Azai and Asakura and settle the long feud.
+
+@30.0
+Perhaps someone let them escape.
+
+@31.0
+At last the time has come to destroy the Azai and Asakura.
+
+@32.0
+They must be the warrior monks we failed to kill.
+
+@33.0
+A merchant has come recommending Major Remedy and Pine Sake.
+
+@34.0
+It looks like a hard fight. The merchant has stocked new medicines. Please buy some.
+
+@35.0
+Those versed in the ninja arts can walk freely even in the mountains.
+
+@36.0
+Reports from my men say the troops at Odani Castle have been reinforced.
+
+@37.0
+I had my men look into it, and the troops at Odani Castle do not seem to have been reinforced yet.
+
+@38.0
+They surely have some plan. Please be careful.
+
+@39.0
+The Asakura were my old masters but are now the enemy... I will follow your orders.
+
+@40.0
+Hm, I am poor at fighting in the mountains.
+
+@41.0
+To think I would end up fighting Lord Nagamasa like this...
+
+@42.0
+The warrior monks cannot move freely in the mountains either. The situation is even.
+
+@43.0
+If we defeat the Azai and Asakura, we will have nearly the whole Kinai in hand.
+
+@44.0
+I hear that Tatsuoki is with the Asakura. Who knows what he will do.
+
+@45.0
+In the mountains, the rockfall stratagem is effective.
+
+@46.0
+I am poor at siege warfare, so put me in the rear guard.
+
+@47.0
+They should have fled quietly. How foolish, to defy us.
+
+@48.0
+No matter how many men Yoshikage sends as reinforcements, there is nothing to fear.
+
+@49.0
+If we only keep the Azai sealed in, that will be enough.
+
+@50.0
+You could have left the warrior monks alone...
+
+@51.0
+The Azai army will have strengthened its defences for the time we spent taking Makishima Castle.\n\nPlease send reinforcements so that the siege of Odani Castle is not lifted.
+
+@52.0
+While we besiege Odani Castle, please drive back the Asakura forces, my lord.
+
+@53.0
+Leave the warrior monks to me, Tsuneoki.
+
+@54.0
+I cannot forgive the Azai for betraying us.
+
+@57.0
+Nobunaga is attacking?!
+
+@58.0
+Go to Lord Asakura at once and ask for reinforcements.
+
+@59.0
+(With Lord Takeda gone, we have no hope of winning. I must steel myself...)
+
+@60.0
+Oichi. In this war the Azai will be destroyed by your brother.
+
+@60.1
+I have already resolved myself. I do not begrudge my life; I only wish to guard my name.
+
+@60.2
+But Oichi, you must live.
+
+@61.0
+What are you saying? I want to die with you.
+
+@62.0
+No! If you die, what will become of the children?
+
+@62.1
+Who will protect them?
+
+@62.2
+It is Nagamasa's last wish... Hear it, Oichi.
+
+@63.0
+Ah... why has it come to this?
+
+@66.0
+Nobunaga is attacking?!
+
+@67.0
+Go to Lord Asakura at once and ask for reinforcements.
+
+@68.0
+(With Lord Takeda gone, we have no hope of winning. I must steel myself...)
+
+@69.0
+Ah, Father.
+
+@70.0
+I have something to say to Oichi. Go to another room, all of you.
+
+@72.0
+Oichi. In this war the Azai will be destroyed by your brother.
+
+@72.1
+I have already resolved myself. I do not begrudge my life; I only wish to guard my name.
+
+@72.2
+But Oichi, you must live.
+
+@73.0
+What are you saying? I want to die with you.
+
+@74.0
+No! If you die, what will become of the girls?
+
+@74.1
+Who will protect the girls?
+
+@74.2
+It is Nagamasa's last wish... Hear it, Oichi.
+
+@75.0
+Ah... why has it come to this?
+

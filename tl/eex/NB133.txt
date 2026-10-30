@@ -1,0 +1,147 @@
+@0.0
+Hmm... I never thought Nobunaga would attack... I should not have ignored the order to come to Kyoto after all...
+
+@0.1
+Heh heh, Yoshikage's indecision is useful at times. Thanks to him, I have a just cause to attack him.
+
+@0.2
+Lord Nobunaga, one thing worries me...
+
+@0.4
+It concerns Lord Azai. He has long been allied and on close terms with the Asakura. If Lord Azai moves, we are in danger.
+
+@0.5
+Ha ha ha, do not worry, Lord Ieyasu. Nagamasa is my sister's husband. He will never move. Rest easy. Now, we take Tezutsuyama and Kanegasaki, and then Ichijodani Castle in one stroke! Everyone, follow me!
+
+@4.0
+Lord Yoshikage, we three have come to assist you on Lord Nagamasa's orders.
+
+@4.1
+As expected of Lord Nagamasa. You have stood by this Yoshikage well.
+
+@4.4
+(Nagamasa, why did you side with Yoshikage and not with me?)
+
+@9.0
+My lord, this has arrived from Lady Oichi.
+
+@9.2
+What is this?
+
+@9.6
+Hm... (The bag is tied at the top and at the bottom... ...)
+
+@9.7
+(I see. A rat in a sack, you mean to say, Oichi.)
+
+@9.8
+(It seems best to withdraw at once...)
+
+@12.0
+?! Ugh!
+
+@14.0
+?! Ugh!
+
+@19
+Found the lake pirates' treasure
+
+@20.0
+Well, samurai, do you have some business in this village?
+
+@20.2
+More to the point, this area could become a battlefield at any moment.
+
+@20.3
+You had better take refuge somewhere safe.
+
+@21.0
+Thank you very much. In return, let me tell you rumours of treasure.
+
+@21.1
+First, there is a rumour that the lake pirates' treasure lies buried east of this village.
+
+@21.2
+Second, they say pirates hid treasure on the peninsula ringed by cliffs north of Kanegasaki Castle.
+
+@23
+The Miyoshi army appeared
+
+@24.0
+Nobunaga!
+
+@24.1
+Prepare yourself!
+
+@25.0
+Lord Yoshikata, we have come to help you.
+
+@25.1
+Oh, Masayasu, Tomomichi! I am grateful for your aid.
+
+@26.0
+My lord, this has arrived from Lady Oichi.
+
+@26.2
+What is this?
+
+@26.6
+Hm... (The bag is tied at the top and at the bottom... ...)
+
+@26.7
+(I see. A rat in a sack, you mean to say, Oichi.)
+
+@26.8
+(It seems best to withdraw at once...)
+
+@28.0
+Lord Yoshikage, we three have come to assist you on Lord Nagamasa's orders.
+
+@28.1
+As expected of Lord Nagamasa. You have stood by this Yoshikage well.
+
+@28.4
+(Nagamasa, why did you side with Yoshikage and not with me?)
+
+@31
+Kanegasaki Retreat\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the village\n     at the lower left of the map.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+
+@33.1
+Nobunaga is not a man to be beaten by the likes of you.
+
+@33.2
+Come on, then!
+
+@35.0
+To come this far... what a reckless fellow...
+
+@35.2
+What foolishness! (If only Nagamasa had not joined this man...)
+
+@36.0
+There is no help for it, retreat!
+
+@38.0
+Curse you, Nobunaga... remember this!
+
+@41.0
+Damn, we could not finish off Nobunaga.
+
+@42.0
+There is no help for it, retreat!
+
+@43.0
+Hmm, there is no help for it... I leave the rest to you.
+
+@44.1
+Still, that Nagamasa should turn against me...
+
+@45
+At Kanegasaki, Nobunaga is caught in a pincer between the Asakura, Azai, Rokkaku and Miyoshi armies, but passes through Kutsuki Pass and withdraws safely to Gifu.
+
+@50
+At Kanegasaki, Nobunaga is caught in a pincer between the Asakura, Azai, Rokkaku and Miyoshi armies, but beats them off and withdraws safely to Gifu.
+
+@53
+Oda Nobunaga was caught in a pincer by the Azai and Asakura armies and defeated.
+

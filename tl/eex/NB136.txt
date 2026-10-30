@@ -1,0 +1,30 @@
+@0.0
+Lord Yoshiaki, stop this useless resistance. Will you not surrender?
+
+@0.1
+Nobunaga, I am the shogun! Defy me any further and I shall not forgive you!
+
+@0.2
+He does not even understand his own position. What a troublesome shogun.
+
+@5.1
+Silence, Nobunaga!
+
+@5.2
+I am the shogun. There is no way I could lose to the likes of you.
+
+@8.0
+Ho ho ho, Nobunaga, now do you see?
+
+@8.1
+I, beaten by that Yoshiaki? Impossible...
+
+@9
+Oda Nobunaga was defeated by\nthe shogun Yoshiaki at Makishima Castle.
+
+@14
+Oda Nobunaga was defeated by\nthe shogun Yoshiaki at Makishima Castle.
+
+@15.0
+I am the shogun...
+
