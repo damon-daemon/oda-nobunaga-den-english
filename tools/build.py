@@ -56,6 +56,13 @@ def patch_exe(exe):
     poke(exe, PRICE_COL_AT, [0x24050010])  # addiu a1, zero, 16
     # storehouse list 0x80028cc8: item name at x 200, quantity "%2u" at x 280 -> 284
     # (item names <= 84 px, datae4.ITEM_PX)
+    # staff credits 0x80039990: the cards at x 190/230 clip long English names at the screen edge
+    for va, x in CREDIT_X.items():
+        assert peek(exe, va, 1)[0] & 0xffff == x + CREDIT_DX, 'unexpected code at %#x' % va
+        poke(exe, va, [0x24050000 | x])
+    # 'Technical Support' took its y from x (move a2, a1): keep y 190
+    assert peek(exe, 0x80039b20, 1) == [0x00a03021], 'unexpected code at 0x80039b20'
+    poke(exe, 0x80039b20, [0x240600be])
     assert peek(exe, QTY_X_AT, 1) == [0x24050118], 'unexpected code at %#x' % QTY_X_AT
     poke(exe, QTY_X_AT, [0x2405011c])      # addiu a1, zero, 0x11c
     # storehouse officer panel 0x800284e0: name (given names, names.GIVEN_SITES) at x 24, class
@@ -72,6 +79,9 @@ IMSG_CUT_AT = 0x80029804
 LIST_SEP = 0x8012a098
 PRICE_COL_AT = 0x80067588
 QTY_X_AT = 0x80028dc4
+CREDIT_DX = 24
+CREDIT_X = {0x80039a64: 166, 0x80039a7c: 206, 0x80039a94: 166, 0x80039aac: 206, 0x80039ad4: 166,
+            0x80039aec: 206, 0x80039b04: 206, 0x80039b1c: 166, 0x80039b34: 206}
 SAVE_SEP = 0x8012a664
 SAVE_SPLIT_AT = 0x8003df50
 CLASS_X = [(0x8002855c, 0x24060068, 0x24060052),     # addiu a2, zero, icon x

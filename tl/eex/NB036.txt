@@ -236,13 +236,13 @@ I want the world!
 Monkey!
 
 @42.1
-Can I take the world!
+Can I take the world?
 
 @42.2
 Who but you, my lord, could do it!
 
 @42.3
-Monkey! Will you follow me!
+Monkey! Will you follow me?
 
 @42.4
 This Monkey will go anywhere with you, my lord, through fire and through water!
@@ -263,7 +263,7 @@ What do you mean, my lord?
 Hm.\n\nI became master of the realm because I cast off old ways of thinking and always took in what was new.
 
 @44.3
-As you know, foreign lands are full of new things and new ways of thinking. And so.
+As you know, foreign lands are full of new things and new ways of thinking. And so...
 
 @45.0
 To gain all of them, I will cross the sea and conquer the world!

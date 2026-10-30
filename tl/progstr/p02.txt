@@ -20,8 +20,8 @@ PROG:80124f50	It is his brother Nobuyuki, whom Nobunaga had forgiven.
 PROG:80124f74	After entering Kyoto, Nobunaga sends the daimyo a summons ordering them\nto come to Kyoto and pay their\nrespects to the Court and shogunate.
 PROG:80124fcc	But Asakura Yoshikage of Echizen,\nheeding his senior retainers'\nremonstrance, ignores the summons.
 PROG:80125010	Learning that Yoshikage has no\nintention of coming to Kyoto,\nNobunaga resolves to subdue the\nAsakura and marches from Kyoto to Echizen.
-PROG:80125068	Shogun Yoshiaki, seeing Takeda\nShingen's march on Kyoto as his\nchance, raises troops at Nijo Castle\nto overthrow Nobunaga, but\n
-PROG:801250b8	is quickly defeated by Nobunaga's\nsiege and makes peace with him\nthrough the Court's mediation.
+PROG:80125068	Shogun Yoshiaki, seeing Takeda\nShingen's march on Kyoto as his\nchance, raises troops at Nijo Castle\nto overthrow Nobunaga.
+PROG:801250b8	But he is quickly beaten by\nNobunaga's siege and makes peace\nthrough the Court's mediation.
 PROG:80125100	Nobunaga at once crosses Lake Biwa,\nenters Kyoto and advances his\ntroops on Makishima Castle.
 PROG:80125138	Nobunaga sends reinforcements at once. Joining the Tokugawa on the way, he advances to Shidarahara, west of Nagashino, and deploys along the Rengo River.
 PROG:801251ac	As the war with the Takeda drags on,\nthe Honganji is reinforced with\nSaiga musketeers, and the Mori also bring in provisions.
@@ -32,8 +32,8 @@ PROG:801252f8	The vanguard of Asahina and Matsudaira,\nmeeting at Narumi Castle,
 PROG:80125338	Oda castles such as Suemori, Nagoya\nand Furuwatari fall or surrender one\nafter another, and Kiyosu is left\nalmost defenceless.
 PROG:80125390	Yoshimoto, having entered Narumi\nCastle, keeps the Matsudaira army\nat Nagoya and orders the Asahina\nto attack Kiyosu.
 PROG:801253e0	Takeda Shingen, bent on expanding\nhis domain, is struggling in his\nlong war against Uesugi Kenshin.
-PROG:8012542c	The Hojo to the east and the Imagawa\nto the south of the Takeda are bound to them by the Three-Way\nAlliance,
-PROG:80125468	so Shingen has to set his next\ntarget to the west.
+PROG:8012542c	The Hojo to the east and the Imagawa\nto the south of the Takeda are bound to them by the Three-Way\nAlliance.
+PROG:80125468	So Shingen must set his next\ntarget to the west.
 PROG:80125498	To the west, Saito Tatsuoki holds Mino\nfrom Inabayama Castle, but he is locked in rivalry with Oda Nobunaga\nof Owari.
 PROG:801254f8	Shingen sends Akiyama Nobutomo to\nthe border to watch for a chance\nto invade Mino.
 PROG:80125530	Ashikaga Yoshiaki had restored the\nshogunate, but only thanks to\nNobunaga's great military power.
@@ -44,18 +44,18 @@ PROG:80125668	Shingen attacks from two directions,\nIwamura and Naeki. Can Nobun
 PROG:801256b4	Defeated in the fighting in Mino,\nNobunaga withdraws to Kyoto.
 PROG:801256e0	After occupying Gifu, Shingen begins\nto push west towards Omi and\nreaches Kannonji Castle.
 PROG:80125724	In response to Shingen's entry into\nOmi, the Miyoshi Triumvirate raise\ntroops again in Settsu and march\non Kyoto.
-PROG:80125770	The Oda army camps on Mt.\nToragozen, south of the castle, to\ntake Odani Castle, but
-PROG:801257b0	the Azai forces keep to the castle,\nawaiting Asakura reinforcements.
+PROG:80125770	The Oda army camps on Mt.\nToragozen, south of the castle, to\ntake Odani Castle.
+PROG:801257b0	But the Azai forces keep to the castle,\nawaiting Asakura reinforcements.
 PROG:801257e0	Nobunaga decides to attack the\nimpregnable Odani Castle.
-PROG:80125810	But the Asakura forces, coming to\nsupport them, have already reached\nnorthern Omi and
-PROG:80125850	are closing on the Oda army's rear...
+PROG:80125810	The Asakura forces, coming to\nsupport them, have already reached\nnorthern Omi.
+PROG:80125850	They are closing on the Oda army's rear...
 PROG:80125870	Beaten by the Azai-Asakura army,\nNobunaga flees to southern Omi\nand Ieyasu to Mino.
 PROG:801258b4	Pursuing Nobunaga, the Azai-Asakura\nallied army begins to advance\ninto southern Omi.
-PROG:801258f4	His mind made up, Nobunaga deploys\nnear Koga to meet the allied army.\n
+PROG:801258f4	His mind made up, Nobunaga deploys\nnear Koga to meet the allied army.
 PROG:80125938	But in Iga, south of Nobunaga's army,\nRokkaku Yoshikata, once beaten by\nNobunaga, has raised troops.
 PROG:8012597c	He waits impatiently for Nobunaga...
-PROG:801259a4	Nobunaga marches into Settsu\nto subdue the Miyoshi Triumvirate,\nbut
-PROG:801259d8	the Honganji and Ikko followers,\nthe Azai and the Asakura, allied\nwith the Miyoshi, rise everywhere.
+PROG:801259a4	Nobunaga marches into Settsu\nto subdue the Miyoshi Triumvirate.
+PROG:801259d8	But the Honganji and Ikko followers,\nthe Azai and the Asakura, allied\nwith the Miyoshi, rise everywhere.
 PROG:80125a20	Surrounded by the anti-Nobunaga\nalliance, Nobunaga falls into a\ncrisis, enemies on all four sides.
 PROG:80125a5c	To make matters worse, the Azai-Asakura\nallied army has occupied Kyoto\nwhile Nobunaga was away.
 PROG:80125ab4	The Tiger of Kai finally rises!\nTakeda Shingen sets out westward\nto march on Kyoto.
@@ -74,8 +74,8 @@ PROG:80125e68	Here, the battle between Nobunaga,\nchild of revolution, and Uesug
 PROG:80125eb4	In the home provinces, Ishiyama\nHonganji still resists Nobunaga.
 PROG:80125ee8	Mori Terumoto gathers the two Mori\nrivers at Koriyama Castle and decides\nto begin an eastward campaign.
 PROG:80125f30	Terumoto devises the Three-Road\nAdvance, moving at once along the\nSanyo and San'in roads and the\nInland Sea.
-PROG:80125f80	Terumoto and Kobayakawa Takakage,\nescorting Yoshiaki, go by the Sanyo\nRoad through Bingo and Harima,
-PROG:80125fc0	while Kikkawa Motoharu goes by the San'in Road through\nTajima and Tanba, each aiming for Kyoto.
+PROG:80125f80	Terumoto and Kobayakawa Takakage,\nescorting Yoshiaki, go by the Sanyo\nRoad through Bingo and Harima.
+PROG:80125fc0	Kikkawa Motoharu goes by the San'in Road through\nTajima and Tanba, each aiming for Kyoto.
 PROG:80126004	The Mori navy on the Inland Sea also\nbegins to advance on Settsu.\n"When the Mori move, the realm moves."\nThe Mori, power of the west, have moved!
 PROG:8012607c	Nobunaga, who left Azuchi Castle to\nrelieve Hashiba Hideyoshi, lodges\nat Honnoji Temple in Kyoto.
 PROG:801260c0	Akechi Mitsuhide, plotting treason,\nleaves Kameyama Castle and marches\non Kyoto.
@@ -94,9 +94,9 @@ PROG:80126474	Battle is joined between the\nChosokabe vanguard and the Soga army
 PROG:801264e4	Chosokabe Motochika, having taken Awa,\nbegins his conquest of Sanuki to\nunify Shikoku.
 PROG:8012652c	Battle is joined between the Chosokabe\nvanguard under Nobuchika and the Soga\narmy. The Oda army arrives and begins\nto advance to pacify Shikoku.
 PROG:801265a0	To conquer the Kanto, Oda Nobunaga\nbegins to advance by three roads:\nHokuriku, Tokaido and Koshin.
-PROG:801265e4	Katsuie and others from Hokuriku,
-PROG:801265f8	Ieyasu's army from the Tokaido,
-PROG:80126610	and from Koshin, the main force\nunder Nobunaga advances.
+PROG:801265e4	Katsuie and others advance from Hokuriku.
+PROG:801265f8	Ieyasu's army advances from the Tokaido.
+PROG:80126610	From Koshin, the main force\nunder Nobunaga advances.
 PROG:80126640	Ujimasa, waiting to meet them, holds\nthe three castles Nirayama, Hachioji\nand Hachigata with Ujinori, Ujiteru\nand Ujikuni.
 PROG:80126694	The battle for the unification begins...
 PROG:801266b8	Allied with Nobukatsu, Ieyasu gains\nstanding and legitimacy as Nobunaga's\nsuccessor, and resolves to confront\nHideyoshi.
@@ -138,8 +138,8 @@ PROG:8012710c	On arrival, Nobunaga meets\nvillagers fleeing in panic.
 PROG:80127138	The village has already been taken\nby a band of fallen warriors.
 PROG:8012716c	A mysterious band is growing by\nhunting fallen warriors.\nHere too are men who dream of\noverthrowing their betters.
 PROG:801271c0	Concerned by their growing\narrogance, Nobunaga resolves\nto march against them.
-PROG:801271ec	Receiving word that Ikko followers\nin the mountains of Iga are waiting\nfor a chance to rise,\nNobunaga
-PROG:8012723c	sorties at once to nip the\nuprising in the bud.
+PROG:801271ec	Word comes that Ikko followers in\nthe mountains of Iga are waiting\nfor a chance to rise.
+PROG:8012723c	Nobunaga sorties at once to nip\nthe uprising in the bud.
 
 PROG:80128108	End commands for all units?
 PROG:8012812c	<< Full Retreat >>\n\nA full retreat returns you to the\nstart of the battle.
@@ -320,7 +320,7 @@ PROG:8012a5d0	Water
 PROG:8012a61c	Plan
 PROG:8012a624	SFX
 PROG:8012a62c	PR
-PROG:8012a634	Sale
+PROG:8012a634	Sales
 PROG:8012a640	Yes
 PROG:8012a648	No
 PROG:8012a660	"

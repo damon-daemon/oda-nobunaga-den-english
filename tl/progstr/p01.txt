@@ -139,6 +139,7 @@ PROG:80120ca8	Stamina
 PROG:80120cb4	Struggle
 PROG:80120cc0	Agile
 PROG:80120ccc	Reserve
+PROG:80120cd8	PlayStation Version
 PROG:80120ce8	Oda Nobunaga Den Staff
 PROG:80120d00	Producer
 PROG:80120d10	Tadashi Kato
@@ -328,12 +329,12 @@ PROG:80123a98	Oda Nobuyasu, lord of Iwakura and\nprotector of the four northern\
 PROG:80123ae8	But his eldest son Nobukata sees through it, strikes first\nand drives him out.
 PROG:80123b2c	Bent on uniting Owari, Nobunaga\nuses this chance to take Iwakura\nCastle and sorties for Ukino.
 PROG:80123b74	To meet Nobunaga, Nobukata\nallies with Saito Yoshitatsu\nof Mino and seeks reinforcements.
-PROG:80123bc0	Imagawa Yoshimoto, having entered\nOwari, sets up camp at Kutsukake,
-PROG:80123bec	ordering Matsudaira Motoyasu and Asahina\nYasutomo to lead and attack the\nforts of Marune and Washizu.
+PROG:80123bc0	Imagawa Yoshimoto, having entered\nOwari, sets up camp at Kutsukake.
+PROG:80123bec	He orders Matsudaira Motoyasu and Asahina\nYasutomo to lead and attack the\nforts of Marune and Washizu.
 PROG:80123c2c	Hearing that fighting had begun at\nboth forts, Nobunaga rushes to\nZenshoji Fort.
 PROG:80123c68	To conquer Mino, Nobunaga\norders a castle built at Sunomata.
-PROG:80123c94	Building in enemy land is\nextremely hard. Sakuma Nobumori and\nShibata Katsuie fail at it,
-PROG:80123cdc	but Hideyoshi, taking over,\nbuilds Sunomata in a month\nand a half by a clever ruse.
+PROG:80123c94	Building in enemy land is\nextremely hard. Sakuma Nobumori and\nShibata Katsuie fail at it.
+PROG:80123cdc	But Hideyoshi, taking over,\nbuilds Sunomata in a month\nand a half by a clever ruse.
 PROG:80123d18	Just then, the Three Men of Mino,\nwho gave up on Tatsuoki, answer\nthe call to defect.
 PROG:80123d50	Seeing his chance to take Mino,\nNobunaga advances to Sunomata\nto attack Inabayama Castle.
 PROG:80123d94	Nobunaga accepts the request to\nmarch on Kyoto from Yoshiaki,\nthe former shogun's brother, invites him to Gifu, and begins the campaign.
@@ -342,8 +343,8 @@ PROG:80123e2c	But the Rokkaku, siding with the\nMiyoshi Triumvirate, refuse.
 PROG:80123e60	Resolved to crush the Rokkaku,\nNobunaga leaves Gifu Castle,\nleading Ieyasu of Mikawa and others.
 PROG:80123ea8	Camped near the Echi River,\nNobunaga, claiming to attack Kannonji\nCastle, sweeps into Minotsukuri Castle.
 PROG:80123ef4	Driven from Kyoto by Nobunaga's march,\nthe 14th shogun Yoshihide flees to\nthe Miyoshi's Tomita Castle in Settsu.
-PROG:80123f48	The Miyoshi Triumvirate, backing\nShogun Yoshihide, refuse to\nrecognise Shogun Yoshiaki,
-PROG:80123f80	resisting Nobunaga at Shoryuji in\nYamashiro, Akutagawa in Settsu and\nTakaya in Kawachi.
+PROG:80123f48	The Miyoshi Triumvirate, backing\nShogun Yoshihide, refuse to\nrecognise Shogun Yoshiaki.
+PROG:80123f80	They resist Nobunaga at Shoryuji in\nYamashiro, Akutagawa in Settsu and\nTakaya in Kawachi.
 PROG:80123fc0	Nobunaga leaves Kyoto to crush\nthe Miyoshi Triumvirate and begins\nhis attack on Shoryuji Castle.
 PROG:80124010	Kozukuri Tomomasa, lord of Kozukuri Castle\nin Ise, turns on his lord Kitabatake\nTomonori and secretly joins Nobunaga.
 PROG:80124054	Seizing this chance, Nobunaga resolves\nto crush the Kitabatake and sorties\nwith 70,000 men.
@@ -357,8 +358,8 @@ PROG:80124244	Meanwhile, Asakura reinforcements\nled by Kagetake reach the Azai.
 PROG:80124270	The Azai-Asakura force moves to\nmeet the Oda-Tokugawa army\nand they face off on the Ane River.
 PROG:801242c4	The Miyoshi Triumvirate, who had fled\nto Awa, see Nobunaga return to Gifu,\nmarch to Nakajima in Settsu, build forts at Noda and Fukushima and rise.
 PROG:80124334	To crush the Miyoshi, Nobunaga leaves Gifu and camps at Honnoji in Kyoto,\nthen begins advancing on the forts\nat Noda and Fukushima.
-PROG:8012438c	Shogun Yoshiaki, using Takeda\nShingen's march on Kyoto, rises at Nijo Castle to topple Nobunaga, but
-PROG:801243d4	is quickly beaten by Nobunaga's\nsiege. Through the Court's mediation,\nhe makes peace with Nobunaga.
+PROG:8012438c	Shogun Yoshiaki, using Takeda\nShingen's march on Kyoto, rises at Nijo Castle to topple Nobunaga.
+PROG:801243d4	But he is quickly beaten by Nobunaga's\nsiege. Through the Court's mediation,\nhe makes peace with Nobunaga.
 PROG:8012441c	But Yoshiaki breaks his oath to\nNobunaga and again raises troops\nagainst him at Makishima Castle in Uji.
 PROG:80124468	Nobunaga at once crosses Lake Biwa\nand sends troops to Makishima Castle.
 PROG:8012449c	With Takeda Shingen dead and Ashikaga\nYoshiaki expelled, Nobunaga's next\nenemies are the Azai and Asakura.
