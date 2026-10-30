@@ -5,16 +5,16 @@ Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n
 Defence of Kiyosu Castle\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @5
-Defence of Kiyosu Castle\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Defence of Kiyosu Castle\nVictory: 1. Crush Imagawa Yoshimoto.\n             2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @6
-Defence of Kiyosu Castle (victory condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Defence of Kiyosu Castle (condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n             2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @10
-Defence of Kiyosu Castle\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Defence of Kiyosu Castle\nVictory: 1. Crush Imagawa Yoshimoto.\n             2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @11
-Defence of Kiyosu Castle (victory condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Defence of Kiyosu Castle (condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n             2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @20.0
 C-curse you... Nobunaga!

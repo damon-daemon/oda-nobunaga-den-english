@@ -11,10 +11,10 @@ Yoshitatsu's reinforcements do not seem to have arrived yet.
 Good, we attack in one stroke.
 
 @1
-Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n  2. Take Iwakura Castle.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n             2. Take Iwakura Castle.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @2
-Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n  2. Take Iwakura Castle.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Battle of Ukino\nVictory: 1. Make Oda Nobukata retreat.\n             2. Take Iwakura Castle.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @3
 Enemy reinforcements have appeared!

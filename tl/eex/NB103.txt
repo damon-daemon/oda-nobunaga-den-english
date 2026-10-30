@@ -86,10 +86,10 @@ You old Viper... Going ahead of me...
 Saito Dosan falls at the Battle of the Nagara River
 
 @16
-Battle of the Nagara River\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the village\n     in the south-east corner.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Battle of the Nagara River\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the south-east village.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @17
-Battle of the Nagara River (victory condition added)\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the village\n     in the south-east corner.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Battle of the Nagara River (condition added)\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the south-east village.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @19.0
 Viper, forgive me...

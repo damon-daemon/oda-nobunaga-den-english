@@ -113,7 +113,7 @@ After this, Akechi Mitsuhide also obtained an imperial edict of mediation from E
 Mino - Gifu Castle - Living Quarters
 
 @23
-The 1st month, the 2nd year of Genki (1571)\nOda Nobunaga, under the pretext of a New Year ceremony, gathered the Oda vassals at Gifu Castle.
+The 1st month, 2nd year of Genki (1571)\nOda Nobunaga, under the pretext of a New Year ceremony, gathered the Oda vassals at Gifu Castle.
 
 @24.0
 Now that you are all gathered, I will say this.
@@ -713,7 +713,7 @@ Understand, Katsuyori. Beware of Nobunaga alone.
 Father...
 
 @157
-The 4th month, the 1st year of Tensho (1573)\nTakeda Shingen died of illness at Ina, aged 53. It was a bitter end.
+The 4th month, 1st year of Tensho (1573)\nTakeda Shingen died of illness at Ina, aged 53. It was a bitter end.
 
 @159.1
 My lord, why are you so pleased?

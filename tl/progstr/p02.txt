@@ -12,29 +12,29 @@ PROG:80124cf8	Resolved to pacify Iga, Nobunaga\nsets out from Azuchi Castle\nand
 PROG:80124d4c	Taking advantage of Oda Nobuhide's\ndeath, Oda Nobutomo has his man\nSakai Daizen seize the castles\nof Matsuda and Fukada.
 PROG:80124da0	Nobutomo's Kiyosu forces, victors\nover Nobunaga at Kayazu, steadily\nbuild up their strength for the\ncoming decisive battle.
 PROG:80124dfc	Nobutomo also schemes to win over\nNobunaga's uncle, Nobumitsu.
-PROG:80124e34	Yoshikane, whose father Shiba\nYoshimune was killed, begged\nNobunaga at Nagoya Castle for help.
+PROG:80124e34	Yoshikane, whose father Shiba\nYoshimune was killed, begs\nNobunaga at Nagoya Castle for help.
 PROG:80124e70	But Nobutomo has also joined with\nthe Iwakura Oda, who rule the\nupper four districts, and waits\nimpatiently for Nobunaga at Kiyosu.
-PROG:80124ed0	Oda Nobuyasu, lord of Iwakura Castle\nand shugodai of the upper four\ndistricts of Owari, meant to pass\nthe headship to his second son Nobuie.
-PROG:80124f20	And a man watched the back of\nNobunaga as he marched out...
-PROG:80124f50	It was his brother Nobuyuki, whom Nobunaga had forgiven.
-PROG:80124f74	After entering Kyoto, Nobunaga sent\nthe daimyo a summons ordering them\nto come to Kyoto and pay their\nrespects to the Court and shogunate.
+PROG:80124ed0	Oda Nobuyasu, lord of Iwakura Castle\nand shugodai of the upper four\ndistricts of Owari, means to pass\nthe headship to his second son Nobuie.
+PROG:80124f20	And a man watches the back of\nNobunaga as he marches out...
+PROG:80124f50	It is his brother Nobuyuki, whom Nobunaga had forgiven.
+PROG:80124f74	After entering Kyoto, Nobunaga sends the daimyo a summons ordering them\nto come to Kyoto and pay their\nrespects to the Court and shogunate.
 PROG:80124fcc	But Asakura Yoshikage of Echizen,\nheeding his senior retainers'\nremonstrance, ignores the summons.
 PROG:80125010	Learning that Yoshikage has no\nintention of coming to Kyoto,\nNobunaga resolves to subdue the\nAsakura and marches from Kyoto to Echizen.
 PROG:80125068	Shogun Yoshiaki, seeing Takeda\nShingen's march on Kyoto as his\nchance, raises troops at Nijo Castle\nto overthrow Nobunaga, but\n
 PROG:801250b8	is quickly defeated by Nobunaga's\nsiege and makes peace with him\nthrough the Court's mediation.
 PROG:80125100	Nobunaga at once crosses Lake Biwa,\nenters Kyoto and advances his\ntroops on Makishima Castle.
 PROG:80125138	Nobunaga accepts the request and at\nonce sends reinforcements. On the way\nhe joins the Tokugawa army and\nadvances to Shidarahara, west of\nNagashino Castle, deploying along\nthe Rengo River.
-PROG:801251ac	As the war with the Takeda dragged on,\nthe Honganji was reinforced with\nSaiga musketeers, and the Mori also\nbrought in provisions.
+PROG:801251ac	As the war with the Takeda drags on,\nthe Honganji is reinforced with\nSaiga musketeers, and the Mori also bring in provisions.
 PROG:80125214	Nobunaga tries to surround and\nattack the Honganji, but the plan\nfails against the reinforced\nIkko forces.
-PROG:80125268	Unable to settle into a war of\nattrition, the Oda army was forced\nto fight a short, decisive battle.
+PROG:80125268	Unable to settle into a war of\nattrition, the Oda army is forced\nto fight a short, decisive battle.
 PROG:801252b0	Before the Imagawa advance, the forts\nof Washizu and Marune fall, and\nYoshimoto enters Odaka Castle.
 PROG:801252f8	The vanguard of Asahina and Matsudaira,\nmeeting at Narumi Castle, ravage\nNobunaga's domain.
 PROG:80125338	Oda castles such as Suemori, Nagoya\nand Furuwatari fall or surrender one\nafter another, and Kiyosu is left\nalmost defenceless.
 PROG:80125390	Yoshimoto, having entered Narumi\nCastle, keeps the Matsudaira army\nat Nagoya and orders the Asahina\nto attack Kiyosu.
-PROG:801253e0	Takeda Shingen, bent on expanding\nhis domain, was struggling in his\nlong war against Uesugi Kenshin.
-PROG:8012542c	The Hojo to the east and the Imagawa\nto the south of the Takeda were\nbound to them by the Three-Way\nAlliance,
-PROG:80125468	so Shingen had to set his next\ntarget to the west.
-PROG:80125498	To the west, Saito Tatsuoki held Mino\nfrom Inabayama Castle, but he was\nlocked in rivalry with Oda Nobunaga\nof Owari.
+PROG:801253e0	Takeda Shingen, bent on expanding\nhis domain, is struggling in his\nlong war against Uesugi Kenshin.
+PROG:8012542c	The Hojo to the east and the Imagawa\nto the south of the Takeda are bound to them by the Three-Way\nAlliance,
+PROG:80125468	so Shingen has to set his next\ntarget to the west.
+PROG:80125498	To the west, Saito Tatsuoki holds Mino\nfrom Inabayama Castle, but he is locked in rivalry with Oda Nobunaga\nof Owari.
 PROG:801254f8	Shingen sends Akiyama Nobutomo to\nthe border to watch for a chance\nto invade Mino.
 PROG:80125530	Ashikaga Yoshiaki had restored the\nshogunate, but only thanks to\nNobunaga's great military power.
 PROG:80125584	Coming to resent Nobunaga, Yoshiaki\nsecretly urges Takeda Shingen to\nmarch on Kyoto.
@@ -44,17 +44,17 @@ PROG:80125668	Shingen attacks from two directions,\nIwamura and Naeki. Can Nobun
 PROG:801256b4	Defeated in the fighting in Mino,\nNobunaga withdraws to Kyoto.
 PROG:801256e0	After occupying Gifu, Shingen begins\nto push west towards Omi and\nreaches Kannonji Castle.
 PROG:80125724	In response to Shingen's entry into\nOmi, the Miyoshi Triumvirate raise\ntroops again in Settsu and march\non Kyoto.
-PROG:80125770	The Oda army had camped on Mt.\nToragozen, south of the castle, to\ntake Odani Castle, but
-PROG:801257b0	the Azai forces kept to the castle,\nawaiting Asakura reinforcements.
+PROG:80125770	The Oda army camps on Mt.\nToragozen, south of the castle, to\ntake Odani Castle, but
+PROG:801257b0	the Azai forces keep to the castle,\nawaiting Asakura reinforcements.
 PROG:801257e0	Nobunaga decides to attack the\nimpregnable Odani Castle.
-PROG:80125810	But the Asakura forces, coming to\nsupport them, had already reached\nnorthern Omi and
-PROG:80125850	were closing on the Oda army's rear...
+PROG:80125810	But the Asakura forces, coming to\nsupport them, have already reached\nnorthern Omi and
+PROG:80125850	are closing on the Oda army's rear...
 PROG:80125870	Beaten by the Azai-Asakura allies,\nNobunaga flees to southern Omi\nand Ieyasu to Mino.
 PROG:801258b4	Pursuing Nobunaga, the Azai-Asakura\nallied army begins to advance\ninto southern Omi.
 PROG:801258f4	His mind made up, Nobunaga deploys\nnear Koga to meet the allied army.\n
 PROG:80125938	But in Iga, south of Nobunaga's army,\nRokkaku Yoshikata, once beaten by\nNobunaga, has raised troops.
-PROG:8012597c	He was waiting impatiently for Nobunaga...
-PROG:801259a4	Nobunaga had marched into Settsu\nto subdue the Miyoshi Triumvirate,\nbut
+PROG:8012597c	He waits impatiently for Nobunaga...
+PROG:801259a4	Nobunaga marches into Settsu\nto subdue the Miyoshi Triumvirate,\nbut
 PROG:801259d8	the Honganji and Ikko followers,\nthe Azai and the Asakura, allied\nwith the Miyoshi, rise everywhere.
 PROG:80125a20	Surrounded by the anti-Nobunaga\nalliance, Nobunaga falls into a\ncrisis, enemies on all four sides.
 PROG:80125a5c	To make matters worse, the Azai-Asakura\nallied army has occupied Kyoto\nwhile Nobunaga was away.
@@ -66,25 +66,25 @@ PROG:80125bfc	Nobunaga, child of revolution; Shingen, giant of the age.\nThe two
 PROG:80125c40	Defeated at Nagashino, the Oda-Tokugawa\nallied army flees towards Hamamatsu Castle.
 PROG:80125c80	Seeing this, Katsuyori splits his\nforce in two and gives chase,\ncatching the allies north of\nHamamatsu Castle.
 PROG:80125cd4	Did the spirit of the late Shingen\nguide Katsuyori, Nobunaga and Ieyasu\nto settle his regrets?!
-PROG:80125d1c	The place was Mikatagahara, where\nthey once fought Shingen.
+PROG:80125d1c	The place is Mikatagahara, where\nthey once fought Shingen.
 PROG:80125d4c	Uesugi Kenshin, victorious in the\nBattle of Tedori River, pushes\nfurther south along the Hokkoku Road.
 PROG:80125d8c	Meanwhile, Katsuie and the defeated\nretreat to Daishoji Castle near the\nKaga border to hold it, and ask\nNobunaga at Azuchi to send\nreinforcements.
-PROG:80125dfc	By the time Nobunaga entered Echizen,\nDaishoji Castle was already\nsurrounded by Uesugi forces, and\nKenshin deployed south of the castle\nto meet Nobunaga.
+PROG:80125dfc	By the time Nobunaga enters Echizen,\nDaishoji Castle is already\nsurrounded by Uesugi forces, and\nKenshin deploys south of the castle\nto meet Nobunaga.
 PROG:80125e68	Here, the battle between Nobunaga,\nchild of revolution, and Uesugi\nKenshin, the Dragon of Echigo,\nbegins.
-PROG:80125eb4	In the home provinces, Ishiyama\nHonganji still resisted Nobunaga.
+PROG:80125eb4	In the home provinces, Ishiyama\nHonganji still resists Nobunaga.
 PROG:80125ee8	Mori Terumoto gathers the two Mori\nrivers at Koriyama Castle and decides\nto begin an eastward campaign.
 PROG:80125f30	Terumoto devises the Three-Road\nAdvance, moving at once along the\nSanyo and San'in roads and the\nInland Sea.
 PROG:80125f80	Terumoto and Kobayakawa Takakage,\nescorting Yoshiaki, go by the Sanyo\nRoad through Bingo and Harima,
 PROG:80125fc0	while Kikkawa Motoharu goes by the San'in Road through\nTajima and Tanba, each aiming for Kyoto.
 PROG:80126004	The Mori navy on the Inland Sea also\nbegins to advance on Settsu.\n"When the Mori move, the realm moves."\nThe Mori, power of the west, have moved!
-PROG:8012607c	Nobunaga, who left Azuchi Castle to\nrelieve Hashiba Hideyoshi, lodged\nat Honnoji Temple in Kyoto.
+PROG:8012607c	Nobunaga, who left Azuchi Castle to\nrelieve Hashiba Hideyoshi, lodges\nat Honnoji Temple in Kyoto.
 PROG:801260c0	Akechi Mitsuhide, plotting treason,\nleaves Kameyama Castle and marches\non Kyoto.
 PROG:801260f8	Before dawn on the second of the sixth\nmonth, Tensho 10, the Akechi army\nbegins its attack on Honnoji.
 PROG:80126134	Hideyoshi, campaigning in Bitchu,\nlearns of Nobunaga's sudden death,\nmakes hasty peace with the Mori and\nbegins a retreat toward the capital.
 PROG:80126184	Mitsuhide, who had pacified Omi and\nreturned to Kyoto, sorties to\nShimotoba to meet Hideyoshi's army.
-PROG:801261d4	Nobunaga, who escaped Kyoto and was\nhidden at Hino Castle, learns of the\nmoves of Mitsuhide and Hideyoshi and\nplans a pincer attack on Mitsuhide's\nrear with Hideyoshi from Kyoto.
+PROG:801261d4	Nobunaga, who had escaped Kyoto and been hidden at Hino Castle, learns of the\nmoves of Mitsuhide and Hideyoshi and\nplans a pincer attack on Mitsuhide's\nrear with Hideyoshi from Kyoto.
 PROG:8012624c	Against Hideyoshi's army, arrived at\nTomita, Mitsuhide camps at Gobozuka,\nand the two armies face each other\nat Yamazaki.
-PROG:8012629c	Then, behind Mitsuhide, Nobunaga,\nwho should have been dead,\nappeared with Ujisato.
+PROG:8012629c	Then, behind Mitsuhide, Nobunaga,\nwho should have been dead,\nappears with Ujisato.
 PROG:801262d8	Morimasa, who took Oiwayama Fort,\nstays on despite Katsuie's repeated\norders to withdraw.
 PROG:80126324	Hearing this, Hideyoshi hurries back\nfrom Ogaki Castle to Kinomoto with\nlightning speed and begins the assault\non Oiwayama Fort.
 PROG:80126374	Learning of this, Nobunaga and his\nparty are sure of Hideyoshi's victory\nand head south along the Tsuruga Road\nto join him.
@@ -99,13 +99,13 @@ PROG:801265f8	Ieyasu's army from the Tokaido,
 PROG:80126610	and from Koshin, the main force\nunder Nobunaga advances.
 PROG:80126640	Ujimasa, waiting to meet them, holds\nthe three castles Nirayama, Hachioji\nand Hachigata with Ujinori, Ujiteru\nand Ujikuni.
 PROG:80126694	The battle for the unification begins...
-PROG:801266b8	Allied with Nobukatsu, Ieyasu gained\nstanding and legitimacy as Nobunaga's\nsuccessor, and resolves to confront\nHideyoshi.
+PROG:801266b8	Allied with Nobukatsu, Ieyasu gains\nstanding and legitimacy as Nobunaga's\nsuccessor, and resolves to confront\nHideyoshi.
 PROG:80126714	Nobukatsu kills Hideyoshi's senior\nretainers and breaks with Hideyoshi.\nIeyasu joins Nobukatsu at Kiyosu\nand faces Hideyoshi's army in Mino-Owari.
 PROG:8012677c	Hideyoshi sends Ikeda Tsuneoki to\nbegin the attack on Nobukatsu's\nInuyama Castle.
 PROG:801267b4	Ieyasu moves his main camp to\nKomakiyama Castle; Hideyoshi leaves\nOsaka and sets up at Gakuden Castle\nto face him.
-PROG:8012680c	As the stand-off continued,\nMori Nagayoshi urged Hideyoshi to invade\nMikawa. Hideyoshi accepts and sends\nTsuneoki and Nagayoshi into Mikawa.
-PROG:8012687c	Though defeated at Komaki-Nagakute,\nIeyasu still kept great power.
-PROG:801268c8	He was also strengthening the bonds\nof the forces around the Oda, slowly\ntightening the encirclement to draw\nout unrest within the Oda.
+PROG:8012680c	As the stand-off continues,\nMori Nagayoshi urges Hideyoshi to invade\nMikawa. Hideyoshi accepts and sends\nTsuneoki and Nagayoshi into Mikawa.
+PROG:8012687c	Though defeated at Komaki-Nagakute,\nIeyasu still keeps great power.
+PROG:801268c8	He is also strengthening the bonds\nof the forces around the Oda, slowly\ntightening the encirclement to draw\nout unrest within the Oda.
 PROG:8012692c	Perceiving that Ieyasu's strategy is\na war of attrition, Nobunaga\nmarches into Mikawa himself.
 PROG:80126970	To force a short, decisive battle,\nhe will attack Okazaki Castle and\nlure out Ieyasu's main force\nat Hamamatsu Castle.
 PROG:801269cc	Nobunaga makes peace with Chosokabe\nof Shikoku and allies with the Mori\nof Chugoku and Uesugi of Echigo,\nbringing them effectively under him.
@@ -120,7 +120,7 @@ PROG:80126c50	Nobunaga sorties to put down the\nuprising before it spreads.
 PROG:80126c84	Hearing that an uprising has broken\nout in Mino, Nobunaga sorties\nto put it down.
 PROG:80126cc8	It is said that not only peasants\nbut many ronin have joined the\nuprising. Is this really just an\nordinary uprising...?
 PROG:80126d34	Hearing rumours of pirates\nravaging the fishing villages of\nIse, Nobunaga, fearing another\nprovince's scheming, sorties himself.
-PROG:80126d88	What awaited Nobunaga on arrival\nwas a band of pirates about to\nfall upon the villages.
+PROG:80126d88	What awaits Nobunaga on arrival is a band of pirates about to\nfall upon the villages.
 PROG:80126dd8	Nobunaga sorties to destroy\nthe lake pirates raging\nacross Biwa.
 PROG:80126e0c	But the fearless lake pirates, with\nthe Oda army before their eyes,\nare about to raid the village.
 PROG:80126e54	Can Nobunaga protect the village\nand drive off the lake pirates?

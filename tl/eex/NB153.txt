@@ -26,10 +26,10 @@ Let me see just what this cavalry you boast of is made of.
 Vanguard, advance!
 
 @1
-Interception in Mino\nVictory: 1. Make Takeda Shingen retreat.\n  2. Reach turn 30.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.
+Interception in Mino\nVictory: 1. Make Takeda Shingen retreat.\n             2. Reach turn 30.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.
 
 @2
-Interception in Mino\n\nVictory: 1. Make Takeda Shingen retreat.\n  2. Reach turn 30.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.
+Interception in Mino\n\nVictory: 1. Make Takeda Shingen retreat.\n             2. Reach turn 30.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.
 
 @3
 Ieyasu's reinforcements arrived!

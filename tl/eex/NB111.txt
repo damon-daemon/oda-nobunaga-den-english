@@ -65,10 +65,10 @@ Ha ha ha, the chance has finally come.
 Take your fill of what I owe you from Kannonji!
 
 @7
-Retreat from Kanegasaki\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the mountain pass\n     at the lower left of the battlefield.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+Retreat from Kanegasaki\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the pass at the lower left.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
 
 @8
-Retreat from Kanegasaki (victory condition changed)\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the mountain pass\n     at the lower left of the battlefield.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+Retreat from Kanegasaki (condition changed)\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the pass at the lower left.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
 
 @9.0
 My lord, this has arrived from Lady Oichi.
@@ -191,10 +191,10 @@ Ha ha ha, the chance has finally come.
 Take your fill of what I owe you from Kannonji!
 
 @28
-Retreat from Kanegasaki\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the area around\n     the village at the lower left.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+Retreat from Kanegasaki\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the lower-left village.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
 
 @29
-Retreat from Kanegasaki (victory condition changed)\nVictory: 1. Wipe out the enemy.\n  2. Nobunaga reaches the area around\n     the village at the lower left.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+Retreat from Kanegasaki (condition changed)\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the lower-left village.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
 
 @30.0
 Nobunaga, this is the end. Die!

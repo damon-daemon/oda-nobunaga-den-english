@@ -2,7 +2,7 @@
 "The Realm Under One Sword"
 
 @2
-The 8th month, the 10th year of Eiroku (1567)\nAt last Nobunaga took Inabayama Castle, the stronghold Saito Dosan had built with all his wisdom.\nHe was 34 years old.\n\nThe conquest of Mino laid the footing for seizing the realm, and it also made Nobunaga a threat to his neighbours.
+The 8th month, 10th year of Eiroku (1567)\nAt last Nobunaga took Inabayama Castle, the stronghold Dosan built with all his wisdom.\nHe was 34 years old.\n\nThe conquest of Mino laid the footing for seizing the realm, and it also made Nobunaga a threat to his neighbours.
 
 @3
 "The Realm Under One Sword"
@@ -41,7 +41,7 @@ Let me introduce someone to you, Ieyasu. This is Azai Nagamasa, husband of my si
 I am Azai Nagamasa.
 
 @14.0
-I am Tokugawa Ieyasu. I hope we shall be acquainted.
+I am Tokugawa Ieyasu. I am glad to make your acquaintance.
 
 @15.0
 Ieyasu, Nagamasa, since you are both here, I will make an announcement to everyone.
@@ -191,7 +191,7 @@ Understood. I will surely bring Lord Yoshiaki to Kyoto.
 Yes, my lord! I am most grateful.\n\nThen, with your leave.
 
 @37
-Thus Oda Nobunaga drew in the next shogun, Ashikaga Yoshiaki, through Akechi Mitsuhide.\nThis was the start of Nobunaga's rule over the realm by force.
+Thus Oda Nobunaga won over the next shogun, Ashikaga Yoshiaki, through Akechi Mitsuhide.\nThis was the start of Nobunaga's rule over the realm by force.
 
 @38.1
 Nohime? What is it?
@@ -218,7 +218,7 @@ Hahaha. He looked quite useful, I tell you.
 Once I served Lord Yoshikage, and thought I might end my days as a gun instructor...
 
 @44
-Mitsuhide idly looked at the sky.\nA single cloud floated in the sky above.
+Mitsuhide idly looked at the sky.\nA single cloud drifted overhead.
 
 @45.0
 I will stake my life solely on restoring the Muromachi shogunate.

@@ -1,5 +1,5 @@
 @2
-The 8th month, the 12th year of Eiroku (1569)\nWith an overwhelming army, Nobunaga forced the Kitabatake of Ise to surrender.\nHe was 36 years old.\nSupported by his two allies, the Tokugawa and the Azai, his rule over the realm by force seemed sure to advance smoothly.
+The 8th month, 12th year of Eiroku (1569)\nWith an overwhelming army, Nobunaga forced the Kitabatake of Ise to surrender.\nHe was 36 years old.\nSupported by his two allies, the Tokugawa and the Azai, his rule over the realm by force seemed sure to advance smoothly.
 
 @6.0
 The Ise campaign is done. You have all done well.
@@ -26,7 +26,7 @@ He came as a hostage, but shows promise. I will give him my youngest daughter in
 Ujisato, greet them all.
 
 @11.0
-Yes, my lord. I am Gamo Ujisato. I hope we shall be acquainted.
+Yes, my lord. I am Gamo Ujisato. I am glad to make your acquaintance.
 
 @12.0
 Mitsuhide, stay. The rest of you may withdraw.

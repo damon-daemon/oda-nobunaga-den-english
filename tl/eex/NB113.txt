@@ -8,10 +8,10 @@ We and the Honganji will press from the south, the Azai and Asakura from the nor
 Today is your end! Ha ha ha ha ha...
 
 @1
-Battle of Noda-Fukushima and Sakamoto in Omi\nVictory: 1. Wipe out the enemy.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Wipe out the enemy.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
 
 @2
-Battle of Noda-Fukushima and Sakamoto in Omi\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n\n  1. The Oda home castle (Kyoto) is taken.
+Battle of Noda-Fukushima and Sakamoto\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n\n  1. The Oda home castle (Kyoto) is taken.
 
 @3
 The Azai-Asakura army has arrived!
@@ -26,10 +26,10 @@ Lord Yoshikage, let us take Kyoto in one stroke.
 Yes. All forces, advance on Kyoto!
 
 @5
-Battle of Noda-Fukushima and Sakamoto in Omi\nVictory: 1. Make Azai Nagamasa and Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Make Azai Nagamasa and Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
 
 @6
-Battle of Noda-Fukushima and Sakamoto in Omi\nVictory (changed): 1. Make Azai Nagamasa and Asakura Yoshikage retreat.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+Noda-Fukushima (condition changed)\nVictory: 1. Make Nagamasa and Yoshikage retreat.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
 
 @7.0
 Lord Nobunaga, terrible news!
@@ -83,10 +83,10 @@ Lord Yoshikage, let us take Kyoto in one stroke.
 Yes. All forces, advance on Kyoto!
 
 @12
-Battle of Noda-Fukushima and Sakamoto in Omi\nVictory: 1. Make Azai Nagamasa retreat.\n  2. Make Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Make Azai Nagamasa retreat.\n             2. Make Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
 
 @13
-Battle of Noda-Fukushima and Sakamoto in Omi\nVictory (changed): 1. Make Azai Nagamasa retreat.\n  2. Make Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
+Noda-Fukushima (condition changed)\nVictory: 1. Make Azai Nagamasa retreat.\n             2. Make Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
 
 @14
 Fort

@@ -19,7 +19,7 @@ def widows():
             pg = text.PAGE.get(op)
             if not pg:
                 continue
-            ls = text.wrap(e, text.WIDTH[op], pg).split('\n')
+            ls = text.wrap(e, text.WIDTH[op], pg, op in text.SENT_PAGE).split('\n')
             pages = [ls[i:i + pg] for i in range(0, len(ls), pg)]
             for i in range(1, len(pages)):
                 body = [x for x in pages[i] if x]

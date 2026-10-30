@@ -23,10 +23,10 @@ Ho ho ho, I shall watch the end of that Oda upstart with my own eyes.
 So that is Yoshimoto's main force!
 
 @5
-Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\n  2. Crush Imagawa Yoshimoto.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\n             2. Crush Imagawa Yoshimoto.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
 
 @6
-Defence of Kiyosu Castle (victory condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+Defence of Kiyosu Castle (condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n             2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
 
 @7
 Enemy reinforcements appeared!
@@ -47,10 +47,10 @@ Ho ho ho, I shall watch the end of that Oda upstart with my own eyes.
 So that is Yoshimoto's main force!
 
 @11
-Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\n  2. Crush Imagawa Yoshimoto.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+Defence of Kiyosu Castle\nVictory: 1. Wipe out the enemy.\n             2. Crush Imagawa Yoshimoto.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
 
 @12
-Defence of Kiyosu Castle (victory condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n  2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
+Defence of Kiyosu Castle (condition added)\nVictory: 1. Crush Imagawa Yoshimoto.\n             2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 45 turns pass.
 
 @13
 Enemy reinforcements appeared!

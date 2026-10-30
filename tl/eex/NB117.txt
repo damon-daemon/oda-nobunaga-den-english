@@ -116,7 +116,7 @@ Tch, there is no help for it... All units, retreat!
 Battle of Nagashino\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
 
 @14
-Battle of Nagashino (victory condition changed)\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+Battle of Nagashino (condition changed)\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
 
 @15.0
 Nobunaga, I will defeat you and take the realm!

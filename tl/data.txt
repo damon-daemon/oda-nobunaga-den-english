@@ -160,9 +160,9 @@ item:158	Blue Okegawa
 item:159	Sujikabuto Mail
 item:160	White Okegawa
 item:161	Chain Mail
-item:162	Navy Domaru
-item:163	Navy Dogusoku
-item:164	Oni Navy Mail
+item:162	Indigo Domaru
+item:163	Indigo Dogusoku
+item:164	Oni Indigo Mail
 item:165	Spare Armour 1
 item:166	Spare Armour 2
 item:167	Spare Armour 3

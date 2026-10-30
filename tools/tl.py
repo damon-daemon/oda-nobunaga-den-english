@@ -56,7 +56,7 @@ class Script:
             keys = sorted((k for k in self.segs if k[0] == n), key=lambda k: k[1] or 0)
             if not any(k in en for k in keys):
                 continue
-            segs = [text.wrap(en[k], text.WIDTH.get(op, 30), text.PAGE.get(op)) if k in en else self.segs[k] for k in keys]
+            segs = [text.wrap(en[k], text.WIDTH.get(op, 30), text.PAGE.get(op), op in text.SENT_PAGE) if k in en else self.segs[k] for k in keys]
             tmpl = self.tmpl[n]
             if tmpl[0] == 'talk':
                 tmpl = ('talk', [officer_names.head(h) for h in tmpl[1]], tmpl[2])

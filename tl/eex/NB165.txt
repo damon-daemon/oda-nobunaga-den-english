@@ -35,10 +35,10 @@ Oda Nobunaga lost the trait "Spirit"
 Oda Nobunaga lost the trait "Full Heal"
 
 @4
-Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n  2. Reach the area around either of the\n     two Storehouses in the northeast.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n             2. Reach either Storehouse in the north-east.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
 
 @5
-Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n  2. Reach the area around either of the\n     two Storehouses in the northeast.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n             2. Reach either Storehouse in the north-east.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
 
 @6.0
 Grr, Mitsuhide...
