@@ -332,7 +332,7 @@ Siege of Noda and Fukushima
 Expulsion of Yoshiaki
 
 @466
-Sieges of Ichijodani and Odani
+Siege of Ichijodani and Odani
 
 @467
 Nagashima Ikko Uprising
@@ -344,10 +344,10 @@ Battle of Nagashino
 Siege of Honganji
 
 @470
-Subjugation of Matsunaga Hisahide
+Subduing Matsunaga Hisahide
 
 @471
-Subjugation of Araki Murashige
+Subduing Araki Murashige
 
 @472
 Campaign against Iga
@@ -431,7 +431,7 @@ Mountain God of Suzuka
 The Bandit Village
 
 @516
-The Nameless Ones
+Men Who Need No Name
 
 @517
 Fallen Warriors and Villagers

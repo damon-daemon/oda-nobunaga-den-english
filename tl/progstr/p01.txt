@@ -345,7 +345,7 @@ PROG:80123ef4	Driven from Kyoto by Nobunaga's march,\nthe 14th shogun Yoshihide 
 PROG:80123f48	The Miyoshi Triumvirate, backing\nShogun Yoshihide, refuse to\nrecognise Shogun Yoshiaki,
 PROG:80123f80	resisting Nobunaga at Shoryuji in\nYamashiro, Akutagawa in Settsu and\nTakaya in Kawachi.
 PROG:80123fc0	Nobunaga leaves Kyoto to crush\nthe Miyoshi Triumvirate and begins\nhis attack on Shoryuji Castle.
-PROG:80124010	Kozo Tomomasa, lord of Kozo Castle\nin Ise, turns on his lord Kitabatake\nTomonori and secretly joins Nobunaga.
+PROG:80124010	Kozukuri Tomomasa, lord of Kozukuri Castle\nin Ise, turns on his lord Kitabatake\nTomonori and secretly joins Nobunaga.
 PROG:80124054	Seizing this chance, Nobunaga resolves\nto crush the Kitabatake and sorties\nwith 70,000 men.
 PROG:80124094	After entering Kyoto, Nobunaga sends the daimyo a summons ordering\nthem to pay respects to Court and Shogunate.
 PROG:801240e4	But Asakura Yoshikage of Echizen,\nheeding his senior retainers,\nignores the summons.
@@ -362,7 +362,7 @@ PROG:801243d4	is quickly beaten by Nobunaga's\nsiege. Through the Court's mediat
 PROG:8012441c	But Yoshiaki breaks his oath to\nNobunaga and again raises troops\nagainst him at Makishima Castle in Uji.
 PROG:80124468	Nobunaga at once crosses Lake Biwa\nand sends troops to Makishima Castle.
 PROG:8012449c	With Takeda Shingen dead and Ashikaga\nYoshiaki expelled, Nobunaga's next\nenemies are the Azai and Asakura.
-PROG:801244e4	Learning that a senior Azai retainer\nhad defected, Nobunaga resolves to\nsubdue the Azai and sorties to Odani Castle.
+PROG:801244e4	Learning that a senior Azai retainer\nhas defected, Nobunaga resolves to\nsubdue the Azai and sorties to Odani Castle.
 PROG:80124538	Meanwhile Asakura Yoshikage marches\nto Odani Castle, Azai Nagamasa's\nseat, to rescue the Azai.
 PROG:80124584	Takeda Katsuyori of Kai\nbegins preparing to march west.
 PROG:801245ac	To meet him, the Ikko followers\nof Nagashima, who threaten the rear,\nmust be wiped out completely.
@@ -370,7 +370,7 @@ PROG:80124604	Nobunaga resolves to crush the Ikko\nfollowers of Nagashima and ma
 PROG:80124640	To retake Nagashino Castle, seized by\nTokugawa Ieyasu, Takeda Katsuyori\ninvades Mikawa with 15,000 men.
 PROG:801246a0	Katsuyori sets his camp on Mt. Io,\nnorth of the castle, surrounds\nNagashino and attacks fiercely daily.
 PROG:801246f4	Receiving the urgent word from\nNagashino Castle, Tokugawa Ieyasu\nasks Nobunaga for reinforcements.
-PROG:80124730	Nobunaga at once sends reinforcements.\nJoining the Tokugawa on the way, he marches to Shidarahara, west of Nagashino,\nand sets up horse-stopping fences along the Rengo.
+PROG:80124730	Nobunaga sends reinforcements at once. Joining the Tokugawa on the way, he marches to Shidarahara, west of Nagashino, and fences off the Rengo River.
 PROG:801247b0	Hearing this, Takeda Katsuyori also\nmoves to Shidarahara for the decisive battle.
 PROG:801247ec	Heeding Ieyasu's retainer Sakai\nTadatsugu, Nobunaga forms a separate\nforce to attack the Nagashino besiegers.
 PROG:80124854	The Honganji rises in answer to the\nformer shogun Yoshiaki and Mori Terumoto,\nand even wins over Uesugi Kenshin\nof Echigo, forming the Nobunaga Encirclement.

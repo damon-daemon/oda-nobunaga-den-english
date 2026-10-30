@@ -35,7 +35,7 @@ Hmm. I have no face to show Kanbei.
 They say Lord Takenaka has secretly been sheltering Kanbei's son.
 
 @9.0
-Oh, is that so.
+I see.
 
 @9.1
 Hanbee defied my wishes, and ordinarily I would not forgive it, but this once I will let it pass.
@@ -107,7 +107,7 @@ Then Lord Nobunaga will not suspect you.
 My lord, it seems my escort has come.
 
 @25.1
-My lord, looking back, how enjoyable it all was, this and that.
+My lord, looking back... it was all such fun, every bit of it.
 
 @25.2
 Hanbee!
@@ -143,10 +143,10 @@ I was told to bring my retainer Saito Toshimitsu with me this time...
 As to that, I hear Toshimitsu once served Ittetsu.
 
 @32.1
-Toshimitsu is called "the Spear God of Akechi". I understand you do not wish to let him go, but
+Toshimitsu is called "the Spear God of Akechi". I understand you do not wish to let him go...
 
 @32.2
-changing one's lord without cause is hardly fitting for a warrior. Return Toshimitsu to Ittetsu.
+...but changing lords without cause is hardly fitting for a warrior. Return Toshimitsu to Ittetsu.
 
 @33.0
 I cannot give up a man who has shared life and death with me through so many years of battle.

@@ -62,13 +62,13 @@ Hm...? No, nothing.
 You regret that you aimed for the realm.
 
 @11.9
-How dare you, Tadatsugu! Rude!
+Tadatsugu, what are you saying? That is insolent!
 
 @11.10
 Even you, Tadatsugu, I will not forgive!
 
 @11.11
-Wait.
+Enough. Wait.
 
 @11.12
 Tadatsugu is right... I was indeed regretting it.

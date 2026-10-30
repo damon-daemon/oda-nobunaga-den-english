@@ -11,7 +11,7 @@ The Oda army, having crushed the combined forces of Tokugawa and Hojo, returned 
 Having defeated the Hojo and pacified the Kanto, Nobunaga returned in triumph to Gifu.\n\nNobunaga's power now reached from the Kanto to Chugoku and Shikoku, and even the lords of the far frontiers swore allegiance to him.\n\nThe land of Japan had been unified by Nobunaga.
 
 @6.0
-My lord, our heartfelt congratulations on unifying the realm. All your retainers rejoice with all their hearts.
+My lord, our heartfelt congratulations on unifying the realm. All your retainers share in the joy.
 
 @7.0
 My lord, now the realm is truly at peace.
@@ -77,7 +77,7 @@ Hah... I am tired.
 Ranmaru, what comes next?
 
 @17.2
-My lord. Next Lord Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
+My lord. Next Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
 
 @18.0
 Enough! That will do!
@@ -89,7 +89,7 @@ I am going to rest a while.
 M-my lord! Please wait.
 
 @20.0
-Hehehe, you are as you always were, my lord.
+Hehehe. You never change, my lord.
 
 @20.1
 What! Who are you?
@@ -101,7 +101,7 @@ Have you forgotten me, my lord?
 ......?! Nohime... Nohime, is it you!
 
 @20.4
-You lived, Nohime!
+You are alive, then, Nohime!
 
 @20.5
 ...Yes. Sen no Rikyu saved me when I was in grave danger, and I have been recovering ever since.
@@ -137,7 +137,7 @@ Hah... I am tired.
 Ranmaru, what comes next?
 
 @25.2
-My lord. Next Lord Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
+My lord. Next Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
 
 @26.0
 Enough! That will do!
@@ -161,7 +161,7 @@ What is wrong with being angry?
 What I am asking is whom you are angry at.
 
 @28.6
-Isn't it obvious? They all fawn on people, every last one of them. It makes me sick.
+It is obvious. They all fawn on people, every last one of them. It makes me sick.
 
 @28.7
 No. That is not it.
@@ -183,6 +183,9 @@ You want the world, do you not?
 
 @31.1
 I am going out to take the night air.
+
+@34.0
+My lord.
 
 @35.0
 Moon-viewing at such a late hour, my lord?
@@ -260,7 +263,7 @@ What do you mean, my lord?
 Hm.\n\nI became master of the realm because I cast off old ways of thinking and always took in what was new.
 
 @44.3
-As you know, foreign lands are full of new things and new ways of thinking. Therefore.
+As you know, foreign lands are full of new things and new ways of thinking. And so.
 
 @45.0
 To gain all of them, I will cross the sea and conquer the world!

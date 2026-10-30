@@ -29,10 +29,10 @@ and mean to launch surprise attacks as the battle develops.
 I see. So the key is how we attack...
 
 @3
-Attack on the Miyoshi\nVictory: 1. Take the three Miyoshi castles.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Campaign against the Miyoshi\nVictory: 1. Take the three Miyoshi castles.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @4
-Attack on the Miyoshi\n\nVictory: 1. Take the three Miyoshi castles.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Campaign against the Miyoshi\n\nVictory: 1. Take the three Miyoshi castles.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @5
 Takaya Castle has been taken

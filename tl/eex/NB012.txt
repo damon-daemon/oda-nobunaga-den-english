@@ -269,7 +269,7 @@ Heh. Most reassuring.
 Charge Odani Castle.
 
 @72
-The 6th month, the 1st year of Genki (1570)\nThe Oda-Tokugawa allied army pressed an assault on Odani Castle.
+The 6th month, 1st year of Genki (1570)\nThe Oda-Tokugawa allied army pressed an assault on Odani Castle.
 
 @76.3
 This is a matter for our house. If the Azai are destroyed, the Asakura will be next.
@@ -326,7 +326,7 @@ If you lend me a thousand, I will scatter the Asakura and show you.
 Ha ha ha! Most reassuring. Then I shall give you a thousand, the unit of Inaba Ittetsu.
 
 @82
-The 6th month, the 1st year of Genki (1570)\nThe Oda-Tokugawa allied army deployed south of the Anegawa and faced the Azai-Asakura allied army.
+The 6th month, 1st year of Genki (1570)\nThe Oda-Tokugawa allied army deployed south of the Anegawa and faced the Azai-Asakura allied army.
 
 @83
 Odani Castle
@@ -341,13 +341,13 @@ At once, ask the Asakura for reinforcements!
 Ah, Oichi.
 
 @87.1
-Is it true that Brother's army is marching on Omi?
+Is it true that my brother's army is marching on Omi?
 
 @87.2
 Yes... \n\n\nI knew it would come to this sooner or later...
 
 @88.0
-Ichi... I am sorry to make you suffer so.\n\nBut this is the age of war.
+Oichi... I am sorry to make you suffer so.\n\nBut this is the age of war.
 
 @88.1
 My lord...
@@ -371,5 +371,5 @@ With 10,000 reinforcements under Asakura Kagetake in support, Azai Nagamasa held
 I will not rest until I have taken the traitor Azai Nagamasa's head with my own hands!
 
 @107
-The 6th month, the 1st year of Genki (1570)\nThe Oda army pressed an assault on Odani Castle.
+The 6th month, 1st year of Genki (1570)\nThe Oda army pressed an assault on Odani Castle.
 

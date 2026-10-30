@@ -101,7 +101,7 @@ All forces, retreat!
 Oda Nobunaga was defeated at Anegawa by the Azai and Asakura forces.
 
 @23
-Defeated by the Azai-Asakura allies at Anegawa
+Defeated by the Azai-Asakura army at Anegawa
 
 @24.0
 As expected of Lord Nobunaga... I could not match him after all...
@@ -110,16 +110,16 @@ As expected of Lord Nobunaga... I could not match him after all...
 Azai Nagamasa was defeated by the Oda-Tokugawa allied army and retreated to Odani Castle.
 
 @27
-Defeats the Azai-Asakura allies at Anegawa
+Defeats the Azai-Asakura army at Anegawa
 
 @28
 With Azai Nagamasa's retreat, the Azai-Asakura allied army collapsed.
 
 @30
-Crushes the Azai-Asakura allies at Anegawa
+Crushes the Azai-Asakura army at Anegawa
 
 @32
-Defeated by the Azai-Asakura allies at Anegawa
+Defeated by the Azai-Asakura army at Anegawa
 
 @33.0
 As expected of Lord Nobunaga... I could not match him after all...

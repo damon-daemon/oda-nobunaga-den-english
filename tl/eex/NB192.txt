@@ -8,10 +8,10 @@ Boss, there's a strange-looking fellow over there. What do we do?
 Bother. Kill him along with the rest.
 
 @1
-Sea Raiders\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Plunderers of the Sea\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-Sea Raiders\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Plunderers of the Sea\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @3.0
 All right, time to go!

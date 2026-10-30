@@ -2,7 +2,10 @@
 (GDB stub), so a save state made with an older build can be tested without a fresh boot.
 The redrawn UI sheet (gfx, VRAM) needs a cold boot or tools/emu/vram.py put into the state.
 Only RAM-resident parts: program words that differ from the original, and the blob at
-build.BLOB and the ANK1 font (vwf). Script files (EEX) are read from the disc image when the game loads them.
+build.BLOB and the ANK1 font (vwf). Script files (EEX) are read from the disc image when the game loads them:
+the file table (FAT_DATA.BIN, loaded once at boot to FAT_RAM) is refreshed from the built image, else a
+state from an older build reads moved files from their old sectors (the scene change after the next
+load hangs).
 
 usage: .venv/bin/python tools/emu/inject.py      (headless emulator running, build done)
 """
@@ -11,6 +14,8 @@ import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build, gfx, iso, setup, vwf
+
+FAT_RAM = 0x8009e8c8                 # FAT_DATA.BIN in RAM (24-B records)
 from gdbmem import G
 
 
@@ -41,8 +46,12 @@ def main():
     g.cmd('M%x,%x:%s' % (gfx.TABLE, 12 * gfx.SPRITES, new[o:o + 12 * gfx.SPRITES].hex()))
     font = files[vwf.ANK1]
     g.cmd('M%x,%x:%s' % (vwf.ANK1_RAM, len(font), font.hex()))
+    out = iso.Disc(build.OUT)
+    fat = out.file('FAT_DATA.BIN', out.records())
+    for i in range(0, len(fat), 0x200):
+        g.cmd('M%x,%x:%s' % (FAT_RAM + i, len(fat[i:i + 0x200]), fat[i:i + 0x200].hex()))
     g.resume()
-    print('injected %d program words, blob %d bytes' % (n, len(blob)))
+    print('injected %d program words, blob %d bytes, file table' % (n, len(blob)))
 
 
 if __name__ == '__main__':

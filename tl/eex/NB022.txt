@@ -8,7 +8,7 @@
 "Devil King of the Sixth Heaven"
 
 @3
-In the 8th year of Tensho (1580), Ishiyama Honganji, the head temple of the Ikko sect that had troubled Nobunaga for so many years, was set on fire by an unknown hand and burned to the ground. Nobunaga was 47. To everyone it seemed that his dream of the realm under one sword was close at hand.
+In the 8th year of Tensho (1580), Ishiyama Honganji, head temple of the Ikko sect that had long troubled Nobunaga, was burned to the ground by an unknown hand. Nobunaga was 47. To everyone it seemed that his dream of the realm under one sword was close at hand.
 
 @4
 "Single-Minded Advance"
@@ -53,13 +53,13 @@ Hmm... I have no face to show Kanbei.
 They say Lord Takenaka has secretly been sheltering Kanbei's son.
 
 @14.0
-Oh, is that so.
+I see.
 
 @14.1
 Normally I would not forgive Hanbee for defying me, but this time I will let it pass.
 
 @15
-A year and a half had passed since Akechi Mitsuhide besieged Yakami Castle in Tanba. Mitsuhide called on the castle's lord, Hatano Hideharu, to surrender. Hideharu agreed, leaving Mitsuhide's mother in Yakami Castle as a hostage, and travelled to Azuchi to make peace.
+A year and a half had passed since Akechi Mitsuhide laid siege to Yakami Castle in Tanba. Mitsuhide called on the castellan, Hatano Hideharu, to surrender. Hideharu agreed on condition that Mitsuhide's mother be left in Yakami Castle as a hostage, and went to Azuchi to make peace.
 
 @16.0
 Hatano Hideharu, lord of Yakami Castle in Tanba, and Hatano Hidehisa have agreed to surrender.
@@ -116,7 +116,7 @@ Then Lord Nobunaga will not suspect you, my lord.
 My lord, it seems my escort has come for me.
 
 @27.1
-My lord, looking back, how enjoyable it all was, this and that.
+My lord, looking back... it was all such fun, every bit of it.
 
 @27.2
 Hanbee!
@@ -152,16 +152,16 @@ I received your summons ordering me to bring my retainer Saito Toshimitsu...
 It concerns that very matter. I hear Toshimitsu once served Ittetsu.
 
 @34.1
-Toshimitsu is called the "Spear God of Akechi". I understand your reluctance to let him go, but
+Toshimitsu is called the "Spear God of Akechi". I understand your reluctance to let him go...
 
 @34.2
-changing one's lord without cause is hardly proper for a samurai. Return Toshimitsu to Ittetsu.
+...but changing lords without cause is hardly proper for a samurai. Return Toshimitsu to Ittetsu.
 
 @35.0
 I cannot let go of a man who has shared life and death with me through so many battles over the years.
 
 @35.1
-I beg you, spare me only Toshimitsu.
+I beg you, in this one matter, let me keep Toshimitsu.
 
 @36.0
 What? Do you say you will not heed my command?

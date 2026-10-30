@@ -2,10 +2,10 @@
 Heh, not much of a force. Very well, we finish this in one stroke. All units, charge!
 
 @1
-Iga Campaign\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Campaign against Iga\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-Iga Campaign\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Campaign against Iga\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @3
 Took an enemy castle.

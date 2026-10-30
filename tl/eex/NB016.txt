@@ -80,7 +80,7 @@ Oichi. I made you suffer. Forgive me.
 No... In the next life too, I wish to be your wife, my lord.
 
 @20.1
-Yes. Then we shall live happily. Now go, quickly. The flames will soon reach this place.
+Yes. In that life we shall be happy together. Now go, quickly. The flames will soon reach this place.
 
 @21.0
 My lord... my lord...
@@ -116,10 +116,10 @@ Such a reward is far too generous for a monkey like me. I thank you from my hear
 That reminds me, you have taken the name Hashiba, have you not?
 
 @31.1
-Yes, my lord. I wished to share in the fortunes of Lord Shibata and Lord Niwa, so I took one character from each.
+Yes, my lord. I wished to share in the good fortune of Lord Shibata and Lord Niwa, so I took a character from each of their names.
 
 @31.2
-Ha ha ha. I do not mind at all.
+Ha ha ha. I cannot say I mind.
 
 @31.3
 Now, Hideyoshi, you are lord of a province and a castle. I expect even greater service from you.
@@ -176,7 +176,7 @@ My health has at last recovered, so I have come.
 I beg your forgiveness...
 
 @39.5
-With Takeda Shingen dead and the Azai and Asakura destroyed, you would indeed have to get well.
+With Takeda Shingen dead and the Azai and Asakura destroyed, I suppose you had little choice but to recover.
 
 @39.6
 Very well. I forgive you.
@@ -224,7 +224,7 @@ I grant you all a cup. These cups were made from the skulls of the Asakura and t
 Katsuie, drink your New Year sake from Azai Nagamasa's cup!
 
 @49.0
-Katsuie, tell me how your first drink tastes.
+Katsuie, tell me how the first sake of the year tastes.
 
 @49.1
 Ha ha ha, my lord is truly bold. It tastes excellent indeed.
@@ -233,13 +233,13 @@ Ha ha ha, my lord is truly bold. It tastes excellent indeed.
 Monkey, it is the New Year. I will not hear that you cannot drink! Drink from this cup of Azai Hisamasa.
 
 @51.0
-Monkey, how does the New Year taste?
+Monkey, how does the New Year sake taste?
 
 @51.1
 Ugh... It is... excellent...
 
 @51.2
-Mitsuhide, celebrate the New Year with Asakura Yoshikage's skull.
+Mitsuhide, you will toast the New Year from the skull of Asakura Yoshikage.
 
 @52.0
 Mitsuhide, take the cup.
@@ -248,7 +248,7 @@ Mitsuhide, take the cup.
 Forgive me, my lord. This cup belonged to my former lord...
 
 @54.0
-What? You Kumquat head. Do you refuse my order?
+What? You Kumquat-head. Do you refuse my order?
 
 @54.1
 So that cup matters more to you than I, Nobunaga.
@@ -257,13 +257,13 @@ So that cup matters more to you than I, Nobunaga.
 I am sorry.
 
 @56
-Hold my temper\nHow dare you! Kick him
+Swallow my anger for now\nUnforgivable! Kick him
 
 @57.0
-You have spoiled the mood, Kumquat head.
+You have spoiled the mood, Kumquat-head.
 
 @59.0
-Kumquat head, you have sobered me up.
+Kumquat-head, you have sobered me up.
 
 @61.0
 (Damn you...)

@@ -8,10 +8,10 @@ Damn, they have already caught on...
 !? Isn't that the Fool? Cut him down where he stands!
 
 @1
-The Ama Uprising\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Ama Uprising\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @2
-The Ama Uprising\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Ama Uprising\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @3.0
 We have nothing to do with the uprising. Here, take this.

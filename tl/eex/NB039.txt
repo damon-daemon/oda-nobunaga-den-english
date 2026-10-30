@@ -50,13 +50,13 @@ I, Matsunaga Danjo Hisahide, had no part whatever in the assassination of Lord Y
 Is that so. (He feigns innocence. Well, no matter.)
 
 @12.7
-Send your son as a hostage. Then, in honour of this tea caddy, I will grant you the whole of Yamato Province.
+Send your son as a hostage. Then, for the sake of this tea caddy, I will grant you the whole of Yamato Province.
 
 @13.0
 Is that wise? It is plain that he pulled the strings in Lord Yoshiteru's assassination.
 
 @13.1
-The past matters not at all. I am not fool enough to cut down a man who submits to me.
+The past does not matter. I am not fool enough to cut down a man who submits to me.
 
 @14.0
 Mitsuhide.

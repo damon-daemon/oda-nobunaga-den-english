@@ -20,10 +20,10 @@ Here.
 Take Ittetsu and the others and win yourself glory.
 
 @4
-Battle for Ichijodani and Odani\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Siege of Ichijodani and Odani\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @5
-Battle for Ichijodani and Odani\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Siege of Ichijodani and Odani\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @6
 Sawayama

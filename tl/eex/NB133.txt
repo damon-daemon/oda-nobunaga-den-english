@@ -104,7 +104,7 @@ As expected of Lord Nagamasa. You have stood by this Yoshikage well.
 (Nagamasa, why did you side with Yoshikage and not with me?)
 
 @31
-Kanegasaki Retreat\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the village at the lower left of the map.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+Retreat from Kanegasaki\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the village at the lower left of the map.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
 
 @33.1
 Nobunaga is not a man to be beaten by the likes of you.

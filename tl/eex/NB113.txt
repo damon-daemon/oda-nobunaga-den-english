@@ -11,7 +11,7 @@ Today is your end! Ha ha ha ha ha...
 Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Wipe out the enemy.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
 
 @2
-Battle of Noda-Fukushima and Sakamoto\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n\n  1. The Oda home castle (Kyoto) is taken.
+Battle of Noda-Fukushima and Sakamoto\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda home castle (Kyoto) is taken.
 
 @3
 The Azai-Asakura army has arrived!
@@ -191,10 +191,10 @@ There is no help for it, pull back the troops!
 Good, I have driven off Nagamasa and the rest.
 
 @36
-Caught in a pincer between the Miyoshi-Honganji allies and the Azai-Asakura allies, Oda Nobunaga defeated the Azai-Asakura allies and won.
+Caught in a pincer between the Miyoshi-Honganji forces and the Azai-Asakura army, Oda Nobunaga defeated the Azai-Asakura army and won.
 
 @37
-Defeats the Azai-Asakura allies at Kyoto
+Defeats the Azai-Asakura army at Kyoto
 
 @38.0
 Damn! Again...
@@ -206,10 +206,10 @@ Is the gulf between Nobunaga's stature and mine really so great...
 Good, I have driven off Nagamasa and the rest.
 
 @41
-Caught in a pincer between the Miyoshi-Honganji allies and the Azai-Asakura allies, Oda Nobunaga defeated the Azai-Asakura allies and won.
+Caught in a pincer between the Miyoshi-Honganji forces and the Azai-Asakura army, Oda Nobunaga defeated the Azai-Asakura army and won.
 
 @42
-Defeats the Azai-Asakura allies at Kyoto
+Defeats the Azai-Asakura army at Kyoto
 
 @43.0
 We have taken their castle!
@@ -221,20 +221,20 @@ Damn, Kyoto!
 Curse you, Nagayuki... There is no help for it, all forces retreat!
 
 @46
-Oda Nobunaga advanced on Noda-Fukushima, but was caught in a pincer between the Miyoshi allies and the Azai-Asakura allies and forced to withdraw.
+Oda Nobunaga advanced on Noda-Fukushima, but was caught in a pincer between the Miyoshi forces and the Azai-Asakura army and forced to withdraw.
 
 @47
-Defeated in a pincer by the Miyoshi allies
+Defeated in a pincer by the Miyoshi forces
 
 @48
-Oda Nobunaga annihilated the Miyoshi-Honganji allies and the Azai-Asakura allies.
+Oda Nobunaga crushed both the Miyoshi-Honganji forces and the Azai-Asakura army.
 
 @50
 Crushes 4 allied armies in Settsu, Omi
 
 @51
-Caught in a pincer between the Miyoshi-Honganji allies and the Azai-Asakura allies, Oda Nobunaga was defeated.
+Caught in a pincer between the Miyoshi-Honganji forces and the Azai-Asakura army, Oda Nobunaga was defeated.
 
 @52
-Oda Nobunaga was attacked by the Miyoshi-Honganji allies and defeated.
+Oda Nobunaga was attacked by the Miyoshi-Honganji forces and defeated.
 

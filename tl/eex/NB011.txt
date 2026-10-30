@@ -35,13 +35,13 @@ Mitsuhide, stay. The rest of you may withdraw.
 Mitsuhide, come closer.
 
 @15.0
-Is the written opinion for the shogun finished?
+Are the articles for the shogun drawn up?
 
 @15.2
 Show me.
 
 @16.0
-What is this! Do you think rules this feeble can bind the shogun? Too soft, Kumquat!
+What is this! Do you think rules this feeble can bind the shogun? Too soft, Kumquat-head!
 
 @17.0
 Look at this letter.
@@ -53,7 +53,7 @@ Th-this is...!
 A secret letter the shogun sent to the Asakura. The fellow means to gather all who defy me.
 
 @19.1
-Add to the written opinion: he must not send letters to the provinces without Nobunaga's permission,
+Add to the articles: he must not send letters to the provinces without Nobunaga's permission,
 
 @19.2
 and the government of the realm is entrusted to Nobunaga alone. Understood?
@@ -68,13 +68,13 @@ Do you defy me, Mitsuhide?
 N-no. I understand.
 
 @21.0
-Call the monkey.
+Send for Monkey.
 
 @22.0
 My lord, you summoned me?
 
 @23.0
-Take the written pledge to the shogun together with Mitsuhide and make him approve it.
+Take the articles to the shogun with Mitsuhide and make him swear to them.
 
 @24.0
 I am not versed in the shogun's household customs, and I fear the task is too heavy for me.
@@ -167,7 +167,7 @@ So, using this as a pretext, I will attack the Asakura by way of the Hokkoku Roa
 But my lord, is it wise to invade Echizen without any word to Lord Azai?
 
 @40.4
-I am Ichi's brother. Nagamasa would never turn against me.
+I am Oichi's brother. Nagamasa would never turn against me.
 
 @40.5
 Do not worry.
@@ -194,7 +194,7 @@ I think it would be well to strengthen our weapons and armour thoroughly...
 I worry about Lord Azai...
 
 @49.0
-I wonder if Lady Ichi is well...
+I wonder if Lady Oichi is well...
 
 @50.0
 I will not lose to Tokichiro.

@@ -92,10 +92,10 @@ But with this snow, breaking through the Oda encirclement to carry them would be
 If they do not make peace now, both the Azai and the Asakura will be destroyed.
 
 @17.4
-Now that you say it, so it is.
+Now that you mention it, that is true.
 
 @18.0
-My liege, make Lord Nobunaga indebted to you here.
+My liege, this is a chance to put Lord Nobunaga in your debt.
 
 @19.0
 Hm. Mitsuhide is right.
@@ -104,7 +104,7 @@ Hm. Mitsuhide is right.
 I will write a letter at once. Wait here.
 
 @20.0
-At once. I am most grateful.
+Yes, my lord. I am most grateful.
 
 @21
 After this, Akechi Mitsuhide also obtained an imperial edict of mediation from Emperor Ogimachi.\n\nThus peace was reached between the Azai and Asakura and the Oda, and Nobunaga escaped his worst crisis since Okehazama.
@@ -131,7 +131,7 @@ I will start by dealing with the Ikko followers. Prepare yourselves.
 Monkey, seal off every road leading into Azai territory. And the boats on the lake as well.
 
 @25.1
-Then work on Isono Kazumasa, lord of Sawayama Castle, and bring about his defection.
+Then sound out Isono Kazumasa, lord of Sawayama Castle, and win him over to our side.
 
 @25.2
 Understood. Please watch the Monkey's skill at winning men over.
@@ -149,7 +149,7 @@ Before long, Isono Kazumasa, lord of Sawayama Castle, submitted to the Oda. Nobu
 Mino - Gifu Castle - Living Quarters
 
 @30
-After that, Nobunaga had Hideyoshi seal off every road into Azai territory and work on Isono Kazumasa, lord of Sawayama Castle. Before long Isono Kazumasa submitted to the Oda. Nobunaga now fully controlled the road between Kyoto and Gifu. With his defences against the Azai and Asakura secured, he began the campaign against the Ikko followers of Nagashima in Ise. However...
+After that, Nobunaga had Hideyoshi seal off every road into Azai territory and sound out Isono Kazumasa, lord of Sawayama Castle. Before long Isono Kazumasa submitted to the Oda. Nobunaga now fully controlled the road between Kyoto and Gifu. With his defences against the Azai and Asakura secured, he began the campaign against the Ikko followers of Nagashima in Ise. However...
 
 @31
 In the campaign against the Ikko followers of Nagashima in Ise, the followers' counterattack inflicted a crushing defeat on the Oda army.
@@ -344,7 +344,7 @@ Hm. I fully understand Lord Takeda's request.
 Tell him I think of Lord Takeda as my true father.
 
 @76.2
-At once. I am most grateful.
+Yes, my lord. I am most grateful.
 
 @76.3
 Then, if you will excuse me.
@@ -371,7 +371,7 @@ Hoho, hohohohoho.
 Kennyo of Honganji, answering Yoshiaki's request, used the Ikko forces of Kaga to hold Uesugi Kenshin of Echigo in check.\n\nTaking this chance, Takeda Shingen began his march on Kyoto and invaded Ieyasu's Totomi.
 
 @82
-Thus the Nobunaga Encirclement was complete, and Nobunaga was to settle matters with Takeda Shingen, said to be the strongest warlord of the Sengoku era.
+Thus the Nobunaga Encirclement was complete, and Nobunaga now had to face Takeda Shingen, said to be the strongest warlord of the Sengoku era.
 
 @85.0
 The reason I have gathered you all today is simple.
@@ -407,10 +407,10 @@ Next, Monkey, build a fort on Mt. Toragozen and guard against the Azai and Asaku
 Mitsuhide, build a castle at Sakamoto, hold the former Enryakuji lands, and watch Kyoto. Report the shogun's every move.
 
 @93.0
-What will you do about Matsunaga Hisahide, who has shut himself in Shigisan Castle and refuses to attend you?
+What will you do about Matsunaga Hisahide, who has shut himself up in Shigisan Castle and refuses to attend you?
 
 @93.1
-Hm. He may betray us. That villain Danjo would.
+Hm. He may well turn on us. That villain Danjo is capable of it.
 
 @93.2
 Does anyone know of someone with a grudge against Hisahide? They say the enemy of my enemy is my friend.
@@ -434,7 +434,7 @@ This is Lord Tsutsui Junkei, former lord of Tsutsui Castle, driven out of Yamato
 I am Tsutsui Junkei.
 
 @96.1
-Well met. Lord Junkei, Matsunaga Hisahide has shut himself in Shigisan.
+Welcome.\n\nLord Junkei, Matsunaga Hisahide has shut himself up in Shigisan.
 
 @96.2
 I will watch him for a while, but sooner or later he will have to be put down.
@@ -449,10 +449,10 @@ I am most grateful. I, Junkei, shall work for Lord Nobunaga's sake.
 (That settles the check on Hisahide. That leaves the scheming shogun.)
 
 @99.0
-Mitsuhide, take this written opinion to the shogun.
+Mitsuhide, take these articles of remonstrance to the shogun.
 
 @100.0
-Th-this text...!
+Th-the wording of this...!
 
 @100.1
 Do you tell Lord Yoshiaki to retire, my lord? If he sees this, he will rise in arms.
@@ -473,7 +473,7 @@ Forgive me, my lord, but please wait.
 Hm?
 
 @102.2
-What will you do about Matsunaga Hisahide, who has shut himself in Shigisan Castle and refuses to attend you?
+What will you do about Matsunaga Hisahide, who has shut himself up in Shigisan Castle and refuses to attend you?
 
 @102.8
 Never mind. Let him in.
@@ -488,7 +488,7 @@ This is Lord Tsutsui Junkei, former lord of Tsutsui Castle, driven out of Yamato
 I am Tsutsui Junkei.
 
 @105.1
-Well met. Lord Junkei, Matsunaga Hisahide has shut himself in Shigisan.
+Welcome.\n\nLord Junkei, Matsunaga Hisahide has shut himself up in Shigisan.
 
 @105.2
 I will watch him for a while, but sooner or later he will have to be put down.
@@ -515,7 +515,7 @@ It cannot be helped. We shall leave the check on Shingen to Lord Ieyasu.
 Next, Monkey, build a fort on Mt. Toragozen and guard against the Azai and Asakura.
 
 @117.0
-My lord, what will you do about Matsunaga Hisahide, who has shut himself in Shigisan Castle and refuses to attend you?
+My lord, what will you do about Matsunaga Hisahide, who has shut himself up in Shigisan Castle and refuses to attend you?
 
 @117.6
 Never mind. Let him in.
@@ -530,7 +530,7 @@ This is Lord Tsutsui Junkei, former lord of Tsutsui Castle, driven out of Yamato
 I am Tsutsui Junkei.
 
 @120.1
-Well met. Lord Junkei, Matsunaga Hisahide has shut himself in Shigisan.
+Welcome.\n\nLord Junkei, Matsunaga Hisahide has shut himself up in Shigisan.
 
 @120.2
 I will watch him for a while, but sooner or later he will have to be put down.
@@ -545,10 +545,10 @@ I am most grateful. I, Junkei, shall work for Lord Nobunaga's sake.
 (That settles the check on Hisahide. That leaves the scheming shogun.)
 
 @123.0
-Mitsuhide, take this written opinion to the shogun.
+Mitsuhide, take these articles of remonstrance to the shogun.
 
 @124.0
-Th-this text...!
+Th-the wording of this...!
 
 @124.1
 Do you tell Lord Yoshiaki to retire, my lord? If he sees this, he will rise in arms.
@@ -680,7 +680,7 @@ Please stop provoking Lord Nobunaga. It will become beyond repair.
 Be quiet! Since when have you been Nobunaga's retainer?
 
 @152.1
-So you were given something! Just like Mitsuhide. Begone from my sight!
+So Nobunaga has bought you too! Just like Mitsuhide. Begone from my sight!
 
 @153.0
 What a man. Ah... what have I been doing all this time?
@@ -713,7 +713,7 @@ Understand, Katsuyori. Beware of Nobunaga alone.
 Father...
 
 @157
-The 4th month, 1st year of Tensho (1573)\nTakeda Shingen died of illness at Ina, aged 53. It was a bitter end.
+The 4th month, 1st year of Tensho (1573)\nTakeda Shingen died of illness at Ina, aged 53. He died with his ambition unfulfilled.
 
 @159.1
 My lord, why are you so pleased?

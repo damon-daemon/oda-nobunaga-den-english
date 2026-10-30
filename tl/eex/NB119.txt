@@ -11,10 +11,10 @@ Hisahide chose his tea utensils over his own life. I cannot understand it.
 Attack Shigisan Castle with everything!
 
 @1
-Subjugation of Matsunaga Hisahide\nVictory: 1. Make Matsunaga Hisahide retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Subduing Matsunaga Hisahide\nVictory: 1. Make Matsunaga Hisahide retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-Subjugation of Matsunaga Hisahide\n\nVictory: 1. Make Matsunaga Hisahide retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Subduing Matsunaga Hisahide\n\nVictory: 1. Make Matsunaga Hisahide retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @3
 Ambushers appeared

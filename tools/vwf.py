@@ -15,6 +15,7 @@ Measuring sites (blob functions pixw = width of a line, maxw = widest line of a 
 - place caption 0x8003b5a0 (op 0x29): box strlen * 6 + 32 wide, centred -> pixw.
 - message window 0x8003c654 (modes other than 3): box (widest line in bytes) * 6 + 2 * single
   bytes + 32 wide, centred -> maxw.
+- menu box 0x8003befc (choices): item width (singles + strlen * 3) * 2 -> pixw.
 - strlen * 6 (TIMES6: centred print 0x800169cc, menu and box widths) and strlen * 8 (council
   room name label) -> pixw.
 
@@ -243,6 +244,13 @@ def _sites(lab):
             ('nop',),
             ('nop',),
             ('subu', 's7', 't1', 'v1')]),
+        (0x8003bf90, [0x0c00eb90, 0x00000000, 0x00402821, 0x8e020000,       # menu (choice) box 0x8003befc:
+                      0x00000000], [                                        # item width = (singles +
+            ('jal', pixw),                                            # strlen * 3) * 2 -> pixw
+            ('nop',),
+            ('lbu', 'a0', 0x58, 'sp'),
+            ('j', 0x8003c008),
+            ('nop',)]),                                               # (load delay before sltu)
         (0x8005f778, [0x0c0247a6, 0x02202021, 0x000210c0], [           # council room label:
             ('jal', pixw), None, ('nop',)]),                          # x = (0x128 - strlen*8)/2
         (SHADOW, [0x0c00599a], [('jal', lab['shcol'])]),

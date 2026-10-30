@@ -23,10 +23,10 @@ Yes, my lord. Understood.
 Very well, all units, sortie!
 
 @1
-Battle to Subdue Araki Murashige\nVictory: 1. Make Araki Murashige retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Subduing Araki Murashige\nVictory: 1. Make Araki Murashige retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-Battle to Subdue Araki Murashige\n\nVictory: 1. Make Araki Murashige retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Subduing Araki Murashige\n\nVictory: 1. Make Araki Murashige retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @3.0
 According to that farmer there should be horses around here... Ah, there!

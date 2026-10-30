@@ -1,4 +1,4 @@
-PROG:80124974	Mori Terumoto, at the request,\nsends a provisions convoy to\nrelieve Ishiyama Honganji.
+PROG:80124974	Answering the call, Mori Terumoto\nsends a provisions convoy to\nrelieve Ishiyama Honganji.
 PROG:801249c0	Matsunaga Hisahide, resenting that\nrule over all Yamato went to\nTsutsui Junkei, secretly allies with\nthe Honganji and holes up in\nShigisan Castle in Yamato.
 PROG:80124a30	Hearing the news, Nobunaga marches\nhis army to Shigisan Castle, where\nHisahide has barricaded himself.
 PROG:80124a70	Arriving at Shigisan, Nobunaga sends\na messenger to Hisahide, offering\nto forgive him if he surrenders\nthe famed Hiragumo kettle.
@@ -23,7 +23,7 @@ PROG:80125010	Learning that Yoshikage has no\nintention of coming to Kyoto,\nNob
 PROG:80125068	Shogun Yoshiaki, seeing Takeda\nShingen's march on Kyoto as his\nchance, raises troops at Nijo Castle\nto overthrow Nobunaga, but\n
 PROG:801250b8	is quickly defeated by Nobunaga's\nsiege and makes peace with him\nthrough the Court's mediation.
 PROG:80125100	Nobunaga at once crosses Lake Biwa,\nenters Kyoto and advances his\ntroops on Makishima Castle.
-PROG:80125138	Nobunaga accepts the request and at\nonce sends reinforcements. On the way\nhe joins the Tokugawa army and\nadvances to Shidarahara, west of\nNagashino Castle, deploying along\nthe Rengo River.
+PROG:80125138	Nobunaga sends reinforcements at once. Joining the Tokugawa on the way, he advances to Shidarahara, west of Nagashino, and deploys along the Rengo River.
 PROG:801251ac	As the war with the Takeda drags on,\nthe Honganji is reinforced with\nSaiga musketeers, and the Mori also bring in provisions.
 PROG:80125214	Nobunaga tries to surround and\nattack the Honganji, but the plan\nfails against the reinforced\nIkko forces.
 PROG:80125268	Unable to settle into a war of\nattrition, the Oda army is forced\nto fight a short, decisive battle.
@@ -49,7 +49,7 @@ PROG:801257b0	the Azai forces keep to the castle,\nawaiting Asakura reinforcemen
 PROG:801257e0	Nobunaga decides to attack the\nimpregnable Odani Castle.
 PROG:80125810	But the Asakura forces, coming to\nsupport them, have already reached\nnorthern Omi and
 PROG:80125850	are closing on the Oda army's rear...
-PROG:80125870	Beaten by the Azai-Asakura allies,\nNobunaga flees to southern Omi\nand Ieyasu to Mino.
+PROG:80125870	Beaten by the Azai-Asakura army,\nNobunaga flees to southern Omi\nand Ieyasu to Mino.
 PROG:801258b4	Pursuing Nobunaga, the Azai-Asakura\nallied army begins to advance\ninto southern Omi.
 PROG:801258f4	His mind made up, Nobunaga deploys\nnear Koga to meet the allied army.\n
 PROG:80125938	But in Iga, south of Nobunaga's army,\nRokkaku Yoshikata, once beaten by\nNobunaga, has raised troops.
@@ -82,7 +82,7 @@ PROG:801260c0	Akechi Mitsuhide, plotting treason,\nleaves Kameyama Castle and ma
 PROG:801260f8	Before dawn on the second of the sixth\nmonth, Tensho 10, the Akechi army\nbegins its attack on Honnoji.
 PROG:80126134	Hideyoshi, campaigning in Bitchu,\nlearns of Nobunaga's sudden death,\nmakes hasty peace with the Mori and\nbegins a retreat toward the capital.
 PROG:80126184	Mitsuhide, who had pacified Omi and\nreturned to Kyoto, sorties to\nShimotoba to meet Hideyoshi's army.
-PROG:801261d4	Nobunaga, who had escaped Kyoto and been hidden at Hino Castle, learns of the\nmoves of Mitsuhide and Hideyoshi and\nplans a pincer attack on Mitsuhide's\nrear with Hideyoshi from Kyoto.
+PROG:801261d4	Nobunaga, hidden at Hino Castle since\nescaping Kyoto, learns of Mitsuhide's and\nHideyoshi's moves and plans to catch\nMitsuhide between himself and Hideyoshi.
 PROG:8012624c	Against Hideyoshi's army, arrived at\nTomita, Mitsuhide camps at Gobozuka,\nand the two armies face each other\nat Yamazaki.
 PROG:8012629c	Then, behind Mitsuhide, Nobunaga,\nwho should have been dead,\nappears with Ujisato.
 PROG:801262d8	Morimasa, who took Oiwayama Fort,\nstays on despite Katsuie's repeated\norders to withdraw.
@@ -119,10 +119,10 @@ PROG:80126c00	Owari is in turmoil over the\nsuccession dispute. As if exploiting
 PROG:80126c50	Nobunaga sorties to put down the\nuprising before it spreads.
 PROG:80126c84	Hearing that an uprising has broken\nout in Mino, Nobunaga sorties\nto put it down.
 PROG:80126cc8	It is said that not only peasants\nbut many ronin have joined the\nuprising. Is this really just an\nordinary uprising...?
-PROG:80126d34	Hearing rumours of pirates\nravaging the fishing villages of\nIse, Nobunaga, fearing another\nprovince's scheming, sorties himself.
+PROG:80126d34	Hearing rumours of pirates ravaging\nthe fishing villages of Ise, and\nsuspecting another lord's plot,\nNobunaga sets out in person.
 PROG:80126d88	What awaits Nobunaga on arrival is a band of pirates about to\nfall upon the villages.
-PROG:80126dd8	Nobunaga sorties to destroy\nthe lake pirates raging\nacross Biwa.
-PROG:80126e0c	But the fearless lake pirates, with\nthe Oda army before their eyes,\nare about to raid the village.
+PROG:80126dd8	Nobunaga sorties to destroy the\npirates running riot on Lake Biwa.
+PROG:80126e0c	But the fearless lake pirates move\nto raid a village before the very\neyes of the Oda army.
 PROG:80126e54	Can Nobunaga protect the village\nand drive off the lake pirates?
 PROG:80126e84	Hearing a rumour of a mountain god\nappearing in a village in the Suzuka\nmountains, Nobunaga, greatly intrigued,\nheads for that village.
 PROG:80126ee4	To confirm the rumour and find the\ntruth, Nobunaga pitches camp near\nthe village and waits.
@@ -130,14 +130,14 @@ PROG:80126f2c	In the moonlight, one by one,\nfigures appear from the\nmountain.
 PROG:80126f60	To destroy bandits raiding the\nstreets of Kyoto, Nobunaga\nheads for Arashiyama.
 PROG:80126fa4	The scout's report on reaching\nArashiyama was startling.
 PROG:80126fe4	The bandits were in fact so great a\nhost that they formed a village.
-PROG:8012701c	The warrior monks who escaped\nthe burning of Mt. Hiei were\nquietly waiting.
-PROG:80127054	They spread a rumour, waiting for\nthe moment it would reach Nobunaga...
+PROG:8012701c	The warrior monks who escaped\nthe burning of Mt. Hiei lie in wait.
+PROG:80127054	They spread a rumour and wait for\nit to reach Nobunaga...
 PROG:80127080	Hearing this, Nobunaga\nsorties, leading the charge\nto rout the monks.
 PROG:801270c4	Nobunaga sorties to rescue a village\ntargeted by a band of fallen\nAsakura warriors.
 PROG:8012710c	On arrival, Nobunaga meets\nvillagers fleeing in panic.
-PROG:80127138	The village had already been\ntaken by a band of fallen\nwarriors.
+PROG:80127138	The village has already been taken\nby a band of fallen warriors.
 PROG:8012716c	A mysterious band is growing by\nhunting fallen warriors.\nHere too are men who dream of\noverthrowing their betters.
-PROG:801271c0	Concerned by their growing\narrogance, Nobunaga resolves\nto sortie.
+PROG:801271c0	Concerned by their growing\narrogance, Nobunaga resolves\nto march against them.
 PROG:801271ec	Receiving word that Ikko followers\nin the mountains of Iga are waiting\nfor a chance to rise,\nNobunaga
 PROG:8012723c	sorties at once to nip the\nuprising in the bud.
 

@@ -17,7 +17,7 @@ Nobunaga and Ranmaru, having fled Kyoto, were in the mountains of northern Omi.
 My lord, it is dangerous to go any further.
 
 @7.1
-Even so, we must. Ranmaru, we go to Hida. I shall hide there for a time.
+Even so, we must. Ranmaru, we go to Hida.
 
 @7.2
 To Hida, my lord?
@@ -63,6 +63,9 @@ A month since I left Hamamatsu. I am beginning to miss it.
 
 @15.0
 Hm!
+
+@15.1
+My lord.
 
 @15.2
 Hanzo.
@@ -422,7 +425,7 @@ Send Takigawa a letter pledging friendship! Lull him completely!
 Akechi's rebellion has spared our house from danger.
 
 @78.2
-Listen, all of you. By last year I had taken most of Awa, but Sanuki and Shozui Castle in northern Awa remain under our old enemy Sogo. He was allied with the Oda, and with Akechi's rebellion the Oda are as good as finished. Now we conquer Awa.
+Listen, all of you. I took most of Awa by last year, but Sanuki and Shozui Castle in northern Awa remain under our old enemy Sogo. He was allied with the Oda, but Akechi's rebellion has all but finished them. Now is the time to conquer Awa.
 
 @78.3
 You are quite right, my lord. Let us take Awa and Sanuki and achieve our long-held wish of unifying Shikoku!
@@ -455,7 +458,7 @@ Katsuie was pushed around by Hideyoshi throughout. The council ended with Nagahi
 Oda Nobutaka's Seat - Gifu Castle
 
 @87
-Enraged by the outcome of the Kiyosu Council, Katsuie plotted with Nobutaka in Gifu and Kazumasu in Nagashima in Ise, also unhappy with their treatment, to attack Hideyoshi from three sides. But snow kept Katsuie in Echizen over winter, so he planned the war for spring. With Nobunaga dead, the Oda retinue began to split.
+Enraged by the outcome of the Kiyosu Council, Katsuie plotted to attack Hideyoshi from three sides. His allies were Nobutaka in Gifu and Kazumasu in Nagashima in Ise, also unhappy with their treatment. But snow kept Katsuie in Echizen over winter, so he planned the war for spring. With Nobunaga dead, the Oda retinue began to split.
 
 @90
 A calm eye watched the Oda split from Hamamatsu: Tokugawa Ieyasu, the man who tests a stone bridge before crossing. On learning of Hideyoshi's victory at Yamazaki, Ieyasu judged he must secure the east. He marched into Kai and Shinano, left vacant after Honnoji, won the struggle against the Hojo and took most of the old Takeda lands. In the west, Hideyoshi was clashing with Katsuie and Nobutaka, and Nobukatsu, unhappy with Hideyoshi's treatment of him, approached Ieyasu. Visiting Hamamatsu, Nobukatsu urged Ieyasu to make peace with the Hojo in order to oppose Hideyoshi, and Ieyasu resolved on it.
@@ -470,7 +473,7 @@ Echizen - Kitanosho Castle
 Hideyoshi moved in winter, when Shibata's forces could not. First Shibata Katsutoyo went over to him, then Nobutaka in Gifu surrendered, and Kazumasu in Ise was pinned down by his great army. As the net against Hideyoshi fell apart, Katsuie could wait no longer and marched into northern Omi without waiting for spring.
 
 @96
-Learning that Katsuie had left Echizen, Hideyoshi led his main force into Omi. The two armies faced each other around Shizugatake in northern Omi. Hideyoshi set Shibata Katsutoyo and Niwa Nagahide against Katsuie and Gamo Ujisato against Kazumasu, and himself went to Ogaki Castle to put down Nobutaka's renewed rising.
+Learning that Katsuie had left Echizen, Hideyoshi led his main force into Omi. The two armies faced each other around Shizugatake in northern Omi. Hideyoshi set Shibata Katsutoyo and Niwa Nagahide against Katsuie and Gamo Ujisato against Kazumasu. He himself went to Ogaki Castle to put down Nobutaka's renewed rising.
 
 @97
 In the Shibata main camp, on news of Hideyoshi's arrival at Ogaki...
@@ -641,7 +644,7 @@ My lord, Oda Nobukatsu has taken three castles: Matsugashima in Ise, and Misaki 
 Hmm.
 
 @120.2
-Decide to fight the Ieyasu and Nobukatsu camp.
+My lord, please resolve to fight the camp of Ieyasu and Nobukatsu.
 
 @120.3
 But Ieyasu has allied with Sassa, the Hojo and the Saiga and means to encircle us. We cannot move rashly.
@@ -668,7 +671,7 @@ Oda Nobukatsu's Seat - Kiyosu Castle
 So Hideyoshi has finally moved...
 
 @123.1
-Ikeda of Ogaki and Mori of Kanayama are also advancing on Inuyama Castle. My lord, why not move to Komakiyama to meet them?
+Ikeda of Ogaki and Mori of Kanayama are also advancing on Inuyama Castle. My lord, why not move your main camp to Komakiyama and prepare for the Hashiba advance?
 
 @123.2
 Yes, you are right. Tadatsugu, set up camp at Haguro, south of Inuyama, and stop the Ikeda and Mori forces!
@@ -686,7 +689,7 @@ Inuyama Castle fell, but Sakai Tadatsugu's Tokugawa force beat the Mori army, an
 It seems Ieyasu means to fight a war of attrition.
 
 @126.1
-He will tighten the net little by little and wear us out. Drawing us out seems to be Ieyasu's idea.
+He will tighten the net little by little and wear us out. I suspect Ieyasu means to draw us out.
 
 @126.2
 Is there no plan to break this somehow?

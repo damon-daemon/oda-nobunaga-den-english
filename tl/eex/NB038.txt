@@ -13,6 +13,9 @@ Shingen's Mansion
 @4.0
 I see... So Akiyama was beaten by Nobunaga.
 
+@4.1
+Yes.
+
 @4.2
 He is better than I thought, that Fool.
 
@@ -39,6 +42,9 @@ Nagara River - Riverbank
 
 @6.0
 (To march on Kyoto from Mino, we must cross Omi. The northern Azai are allies, but... the southern Rokkaku are the problem...)
+
+@7.0
+My lord.
 
 @8.0
 So you are here. A messenger has come from the Takeda.

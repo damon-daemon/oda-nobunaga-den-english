@@ -2,7 +2,7 @@
 My lord!\n\nThank heaven you are safe... The Monkey... the Monkey is so happy.
 
 @11.0
-Mitsuhide caught me off guard, but the Realm Under One Sword is not abandoned. Uesugi, Hojo, Mori, Chosokabe all stir.\n\nI declare the pacification of the provinces resumed! Monkey!
+Mitsuhide caught me off guard, but I have not given up the realm under one sword.\n\nUesugi, Hojo, Mori and Chosokabe are recovering. I declare the pacification of the provinces resumed! Monkey!
 
 @13.0
 Return to Etchu and resume the campaign against the Uesugi with Toshiie, Narimasa, Nagachika and Mitsuharu!
@@ -62,7 +62,7 @@ Worse, the Tokugawa are massing troops in Mikawa. Their break with the Oda allia
 Hm... So Ieyasu has begun to move for the realm... But as long as the Tokugawa defy me, we must fight.\n\nHideyoshi and Narimasa both struggle. The longer this drags on, the worse for us. Surround Okazaki and lure Ieyasu out!
 
 @33.0
-Mikawa becomes a battlefield again for the first time since your first battle, my lord.
+Mikawa is a battlefield for the first time since your first battle, my lord.
 
 @34.0
 We must strike down Ieyasu at all costs!

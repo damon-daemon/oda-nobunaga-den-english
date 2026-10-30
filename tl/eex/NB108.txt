@@ -26,10 +26,10 @@ Rest easy, Ieyasu.
 I will not be outdone by the likes of Yoshikata.
 
 @1
-Attack on the Rokkaku\nVictory: 1. Take Kannonji Castle.\n             2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Campaign against the Rokkaku\nVictory: 1. Take Kannonji Castle.\n             2. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @2
-Attack on the Rokkaku\n\nVictory: 1. Take Kannonji Castle.\n             2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Campaign against the Rokkaku\n\nVictory: 1. Take Kannonji Castle.\n             2. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @4.0
 Oh, you are from Owari, are you?

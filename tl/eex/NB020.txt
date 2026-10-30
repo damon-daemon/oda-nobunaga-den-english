@@ -56,13 +56,13 @@ I see. He blew himself up along with the Hiragumo.
 All forces, storm Shigisan Castle and set it ablaze.
 
 @12
-The 5th year of Tensho (1577), 10th month\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
+The 10th month, 5th year of Tensho (1577)\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
 
 @13
 "Hisahide, Villain of the Age"
 
 @14
-The 5th year of Tensho (1577), 10th month\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
+The 10th month, 5th year of Tensho (1577)\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
 
 @15
 "Devil King of the Sixth Heaven"
@@ -131,7 +131,7 @@ Forty-nine years, a dream in one sleep... a lifetime of glory, one cup of sake..
 Tch, Father. And just when things were beginning.
 
 @26
-The 6th year of Tensho (1578), 3rd month\nImmediately after issuing the order to mobilise for a campaign in the Kanto, Uesugi Kenshin collapsed. He died at the age of 49. Like Takeda Shingen, the Dragon of Echigo met a bitter end on the eve of marching on Kyoto.
+The 3rd month, 6th year of Tensho (1578)\nImmediately after issuing the order to mobilise for a campaign in the Kanto, Uesugi Kenshin collapsed. He died at the age of 49. Like Takeda Shingen, the Dragon of Echigo met a bitter end on the eve of marching on Kyoto.
 
 @28.0
 I have news. Word has come that Uesugi Kenshin of Echigo is dead.
@@ -216,6 +216,9 @@ A great enemy is best broken from within. I have already spread a rumour that Ar
 
 @39.11
 Lord Ekei.
+
+@39.12
+Yes.
 
 @39.13
 Would you go to Araki Murashige and persuade him to defect to the Mori?
@@ -377,7 +380,7 @@ See to it that they pledge loyalty to me once more. If they do, I will build a N
 Understood.
 
 @63.0
-Kuki, is the item finished?
+Kuki, is that matter we spoke of ready?
 
 @63.1
 Yes, sir. The armoured Atake ships and the iron-clad ships will both be finished in a few days.
@@ -395,7 +398,7 @@ I will show that Mori strategist that I am one step ahead of him.
 Ranmaru.
 
 @66.0
-Sir, give me any order.
+Yes, my lord. Command me as you will.
 
 @66.1
 It puzzles me that Kuroda Kanbei has not come back from Araki.

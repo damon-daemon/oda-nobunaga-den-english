@@ -8,7 +8,7 @@ Should we use this chance to bear the shogun to Kyoto and seek a decisive battle
 No, we must not confront the Oda directly. For now we should gather as many allies as we can.
 
 @7.3
-Following our late father's will, the Mori must not stand in front and aim for the realm.
+Our late father left word that the Mori must never put themselves forward and reach for the realm.
 
 @7.4
 Ekei, would you take a secret letter from the shogun, Lord Yoshiaki, and go to meet Lord Matsunaga Hisahide in Yamato?
@@ -20,7 +20,7 @@ You mean I am to win Lord Matsunaga over?
 With Lord Matsunaga you need only hand over the secret letter. But I would like you to meet Lord Hashiba Hideyoshi.
 
 @8.2
-My men have investigated, and the one who will bring troops into this Chugoku is,
+According to my men, the one who will lead troops into Chugoku is...
 
 @8.3
 Lord Hashiba Hideyoshi, is it?
@@ -53,7 +53,7 @@ Father... a demon's child is, after all, a demon.
 Nagahama - Hideyoshi's Residence
 
 @13.0
-I am delighted to meet the famed Hashiba Hideyoshi. I am,
+I am delighted to meet the famed Hashiba Hideyoshi. I am...
 
 @13.1
 I know. You are Ekei, the abbot of Ankokuji. I have long heard of you.
@@ -74,10 +74,10 @@ Lord Nobunaga is a man of fierce temper. If the Mori were subdued by force and t
 Lord Terumoto could not escape seppuku. I do not want to see Terumoto cut down.
 
 @14.2
-Whether Lord Terumoto lives or dies depends on you, Ekei. Will you lend your strength to me, Hideyoshi?
+Whether Lord Terumoto lives or dies depends on you, Ekei. Will you lend me your strength?
 
 @15
-Won over by the man-charming Hideyoshi, Ankokuji Ekei from then on secretly cooperated with Hideyoshi while serving the Mori house openly.
+Won over by Hideyoshi, that master at charming people, Ankokuji Ekei from then on secretly cooperated with Hideyoshi while serving the Mori house openly.
 
 @16.0
 Father, this is serious.
@@ -86,7 +86,7 @@ Father, this is serious.
 Matsunaga Hisahide and his son Hisamichi have abandoned the Honganji siege lines and shut themselves in Shigisan Castle.
 
 @16.2
-Damn that villain Danjo. He surrendered twice and still he betrays me. I will have to give him a good scorching.
+Damn that villain Danjo. He surrendered twice and still he betrays me. I shall have to teach him a lesson.
 
 @18.0
 Give me any order you wish.

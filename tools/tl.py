@@ -221,6 +221,8 @@ def check(only=None):
             if k in scripts[n].segs:
                 for w in warn(scripts[n], k, en):
                     print('warning ' + w)
+    for m in text.MIDSENT:
+        print('warning narration page ends mid-sentence (sentence > a page): ...' + m)
     big = sorted(((len(d), n) for n, d in out.items()), reverse=True)[:3]
     if big:
         print('largest: ' + ', '.join('%s %d' % (n, s) for s, n in big))

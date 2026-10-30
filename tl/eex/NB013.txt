@@ -5,7 +5,7 @@
 "Hills of Corpses, Rivers of Blood"
 
 @2
-The 6th month, the 1st year of Genki (1570)\nHaving defeated the Azai-Asakura allied army, Nobunaga pressed on with his momentum and closed in on Odani Castle.
+The 6th month, 1st year of Genki (1570)\nHaving defeated the Azai-Asakura allied army, Nobunaga pressed on with his momentum and closed in on Odani Castle.
 
 @6
 Northern Omi - Nobunaga's Camp
@@ -41,7 +41,7 @@ Lord Maeda...
 Awa - Castle of the Miyoshi Triumvirate
 
 @13
-Odani Castle was an impregnable stronghold, and the Oda troops were worn out by successive battles. Judging that prolonging the attack on the Azai would not pay, Nobunaga posted Kinoshita Hideyoshi in Yokoyama Castle and Niwa Nagahide in Sawayama Castle to watch the Azai, and returned to Gifu.
+Odani Castle was an impregnable stronghold, and the Oda troops were worn out by successive battles. Judging that prolonging the attack on the Azai would not pay, Nobunaga returned to Gifu. He left Kinoshita Hideyoshi in Yokoyama Castle and Niwa Nagahide in Sawayama Castle to watch the Azai.
 
 @14
 After Nobunaga returned to Gifu, Azai Nagamasa proclaimed that the battle had ended in victory for the Azai-Asakura army and that Nobunaga had fled back to Gifu.
@@ -263,10 +263,10 @@ This will be the end of Nobunaga. Serves him right. Ho ho ho ho ho.
 (To think the man I risked my life to rescue from Kofukuji was a man like this...)
 
 @63.2
-(Can he not see that the secret letters were a pretext for attack, not the reason?)
+(Does he not see that his letters only give Nobunaga a pretext, not a reason?)
 
 @63.3
-(It may not be Lord Nobunaga who ends, but the Muromachi shogunate...)
+(It may not be Lord Nobunaga who is finished, but the Muromachi shogunate...)
 
 @64
 Gifu Castle - Council Hall

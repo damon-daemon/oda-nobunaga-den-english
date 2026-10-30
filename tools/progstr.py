@@ -52,6 +52,7 @@ OVL_TABLES = {}
 # narration box 0x8003b694 (4 lines a page) -> English rewrapped by pixels like EEX narration
 NARR_TABLE = (0x80106a00, 0x80106fcc)
 NARR_WIDTH = 220
+NARR_LINES = 4                  # one page: the box pages a longer text mid-sentence
 _NARR = None
 
 
@@ -383,6 +384,8 @@ def apply(files, clean, resident=None, tl=None):
     lims = fmtlimit.limits([i for i in cimgs if i.tag not in NO_STRINGS]) if fmtlimit.SPRINTF else {}
     ctag = {i.tag: i for i in cimgs}
     errors, moving = [], []
+    errors += ['%s: %d lines > %d (narration box page)' % (k, v.count('\n') + 1, NARR_LINES)
+               for k, v in tl.items() if k in narr_keys() and v.count('\n') >= NARR_LINES]
     for key, en in sorted(tl.items()):
         tag, va = parse_key(key)
         jp, room = slot(ctag[tag], va)

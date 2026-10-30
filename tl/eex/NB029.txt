@@ -61,6 +61,9 @@ It has been a month today since we left Hamamatsu. I am beginning to miss it.
 @15.0
 Hm!
 
+@15.1
+My lord.
+
 @15.2
 Hanzo.
 
@@ -197,7 +200,7 @@ Our lord...
 How can this be...
 
 @35.4
-Old man, let us withdraw to Echizen for now, ready our forces, and then give Mitsuhide battle.
+Father, let us withdraw to Echizen for now, ready our forces, and then give Mitsuhide battle.
 
 @35.5
 Indeed, as Toshiie says. My lord, break camp at once!
@@ -215,7 +218,7 @@ Hearing of the upheaval in Kyoto, Katsuie's Hokuriku army was in the midst of be
 Mori Army Main Camp
 
 @38
-Unaware of the incident in Kyoto, the Mori made peace on the terms Hideyoshi's side had offered: cession of territory and the seppuku of the castle lord, Shimizu Muneharu. As soon as they had witnessed Muneharu's seppuku, the Hashiba forces left Takamatsu in Bitchu.
+Unaware of the incident in Kyoto, the Mori made peace on Hideyoshi's terms: cession of territory and the seppuku of the castle lord, Shimizu Muneharu. As soon as they had witnessed Muneharu's seppuku, the Hashiba forces left Takamatsu in Bitchu.
 
 @39.0
 My lord, the Hashiba army has withdrawn.
@@ -421,6 +424,9 @@ Send Takigawa Kazumasu a letter pledging friendship! Lull him thoroughly!
 @78.0
 Thanks to Akechi's rebellion, our house has escaped danger.
 
+@78.1
+Indeed.
+
 @78.2
 Everyone, listen. We took most of Awa last year, but Sanuki and Shozui Castle in northern Awa remain under our old rival Sogo. He was allied with the Oda, but with Akechi's rebellion the Oda are as good as finished. Now is the moment to conquer Awa.
 
@@ -518,10 +524,10 @@ Katsuie was pushed around by Hideyoshi throughout and the council ended. Nagahid
 Oda Nobutaka's Seat - Gifu Castle
 
 @93
-Enraged at the outcome of the Kiyosu Council, Katsuie plotted to attack Hideyoshi from three sides, in concert with Nobutaka in Gifu and Kazumasu in Nagashima in Ise, who were also dissatisfied with their treatment. But snow kept Katsuie from marching out of Echizen in winter, so he planned to open war on Hideyoshi in spring. With Nobunaga's death, the Oda retainer corps began to split apart.
+Enraged at the outcome of the Kiyosu Council, Katsuie plotted to attack Hideyoshi from three sides. His allies were Nobutaka in Gifu and Kazumasu in Nagashima in Ise, also dissatisfied with their treatment. But snow kept Katsuie from marching out of Echizen in winter, so he planned to open war on Hideyoshi in spring. With Nobunaga's death, the Oda retainer corps began to split apart.
 
 @96
-A cool eye was watching the Oda split from Hamamatsu: Tokugawa Ieyasu, the man who tests even a stone bridge before crossing. Learning of Hideyoshi's victory at Yamazaki, Ieyasu judged that he must secure the east. Marching into Kai and Shinano, left a power vacuum after the Honnoji incident, he won the contest with the Hojo forces and took most of the old Takeda lands. In the west, signs appeared that Hideyoshi would clash with Katsuie, Nobutaka and others, and Nobukatsu, discontented with his treatment by Hideyoshi, drew close to Ieyasu. Visiting Hamamatsu, Nobukatsu urged Ieyasu to make peace with the Hojo in order to stand against Hideyoshi, and Ieyasu resolved to do so.
+A cool eye was watching the Oda split from Hamamatsu: Tokugawa Ieyasu, the man who tests even a stone bridge before crossing. Learning of Hideyoshi's victory at Yamazaki, Ieyasu judged that he must secure the east. Marching into Kai and Shinano, left a power vacuum after the Honnoji incident, he won the contest with the Hojo forces and took most of the old Takeda lands. In the west, signs appeared that Hideyoshi would clash with Katsuie, Nobutaka and others. Nobukatsu, discontented with his treatment by Hideyoshi, drew close to Ieyasu. Visiting Hamamatsu, Nobukatsu urged Ieyasu to make peace with the Hojo in order to stand against Hideyoshi, and Ieyasu resolved to do so.
 
 @97.0
 Hashiba Hideyoshi is surely fit to be Nobunaga's successor, but whether he can complete the pacification of the realm is not yet clear. Is now the perfect chance to declare myself a contender for the realm...
@@ -548,7 +554,7 @@ Echizen - Kitanosho Castle
 As Hosokawa Fujitaka predicted, Hashiba Hideyoshi moved during the winter, when the Shibata forces could not.\n\nFirst Shibata Katsutoyo defected to Hideyoshi, then Nobutaka in Gifu surrendered, and Kazumasu in Ise was pinned down by Hideyoshi's great army. Unable to watch the encirclement of Hideyoshi collapse, Katsuie marched south into northern Omi without waiting for spring.
 
 @104
-Learning that Katsuie had left Echizen, Hideyoshi led his main force into Omi. The two armies faced each other around Shizugatake in northern Omi. Hideyoshi set Shibata Katsutoyo and Niwa Nagahide to guard against Katsuie and Gamo Ujisato to hold Kazumasu, while he went to Ogaki Castle to put down the again rebellious Nobutaka.
+Learning that Katsuie had left Echizen, Hideyoshi led his main force into Omi. The two armies faced each other around Shizugatake in northern Omi. Hideyoshi set Shibata Katsutoyo and Niwa Nagahide to guard against Katsuie and Gamo Ujisato to hold Kazumasu. He himself went to Ogaki Castle to put down Nobutaka, who had risen again.
 
 @105
 In the Shibata main camp, having learned that Hideyoshi had entered Ogaki...
@@ -629,5 +635,5 @@ Yes. We march for northern Omi now!
 Only you can stop Lord Shibata and Lord Hashiba, my lord.
 
 @113.0
-Sakuma and I will guard the castle. Return safely.
+Hidesada and I will hold the castle. Return safely.
 

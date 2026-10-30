@@ -16,6 +16,9 @@ Border of Yamashiro and Omi
 @6
 Having shaken off Akechi's men and escaped Kyoto, Nobunaga and Ranmaru reached the border of Yamashiro and Omi.
 
+@7.0
+My lord.
+
 @7.1
 Damn, a blunder. Attacked by Mitsuhide, brought to such misery! Ranmaru! We go to Azuchi now!\n\nI shall return to Azuchi, gather an army and strike down Mitsuhide! I will not be satisfied until I cut off his head with my own hand!
 
@@ -100,8 +103,11 @@ We withdraw to Hino Castle now. Begin the preparations at once.
 @16.0
 My lord, I pray you are safe...
 
+@22.1
+My lord.
+
 @29
-Having bridged the Seta again, Mitsuhide entered Azuchi Castle.
+Mitsuhide had the bridge at Seta rebuilt and entered Azuchi Castle.
 
 @31.0
 So Nobunaga was never found after all...
@@ -113,7 +119,7 @@ I am deeply ashamed.
 Well, no matter.\n\nProclaim to all provinces that Nobunaga met a violent death at Honnoji in Kyoto!
 
 @32.1
-Hearing of Nobunaga's death, Hideyoshi in Bitchu and Katsuie in Etchu will march on Kyoto. Rouse the Mori and Uesugi!
+With Nobunaga dead, Hideyoshi in Bitchu and Katsuie in Etchu will surely march on Kyoto. Send letters to the Mori and the Uesugi!
 
 @32.2
 Yes, my lord! At once.
@@ -125,7 +131,7 @@ Meanwhile, Hideyoshi was besieging Takamatsu Castle in Bitchu, held by Shimizu M
 Kanbei, Masakatsu, come and look at this.
 
 @49
-Unaware of the incident in Kyoto, the Mori made peace on the terms Hideyoshi's side had offered: cession of territory and the seppuku of the castle lord, Shimizu Muneharu. As soon as they had witnessed Muneharu's seppuku, the Hashiba forces left Takamatsu in Bitchu.
+Unaware of the incident in Kyoto, the Mori made peace on Hideyoshi's terms: cession of territory and the seppuku of the castle lord, Shimizu Muneharu. As soon as they had witnessed Muneharu's seppuku, the Hashiba forces left Takamatsu in Bitchu.
 
 @55.0
 Wait, Brother!\n\nBreaking the treaty before the ink of the pledge is dry would be a disgrace to the warrior houses.

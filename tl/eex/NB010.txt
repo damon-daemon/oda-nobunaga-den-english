@@ -116,7 +116,7 @@ I shall leave Kyoto for a while. Monkey, if the Miyoshi remnants attack, deal wi
 Mitsuhide, I order you to guard the shogun.
 
 @19.0
-Let him suffer for all he is worth.
+Well, enjoy all the trouble that comes your way.
 
 @20.0
 Lord Akechi knows Kyoto's customs well. If there is something you do not understand, rely on him.
@@ -230,10 +230,10 @@ But the road to Kyoto is blocked by snow. We cannot advance as we wish.
 Stop your grumbling and follow.
 
 @42
-Nobunaga raced through the snow from Gifu to Kyoto in only three days.\n\nThanks to Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate had not taken Yoshiaki's residence, and fled without a fight at news of Nobunaga.
+Nobunaga raced through the snow from Gifu to Kyoto in only three days.\n\nHeld off by Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate could not even take Yoshiaki's residence. At news of Nobunaga's coming, they fled without a fight.
 
 @44
-Thanks to Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate had not taken Yoshiaki's residence, and fled without a fight at news of Nobunaga.
+Held off by Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate could not even take Yoshiaki's residence. At news of Nobunaga's coming, they fled without a fight.
 
 @45
 Kyoto - Nobunaga's Quarters

@@ -74,13 +74,13 @@ The lord's order is absolute. It cannot be helped. Kill him.
 Aaargh.
 
 @22.0
-They rise with no hope of winning, and so they die.
+They rise up with no hope of winning, and so they end up dead.
 
 @23.0
-(But Jubei, what of you? Do you have any hope of winning...)
+(But what of you, Jubei? If it were you, would you have any hope of winning...?)
 
 @24.0
-Echizen, then...
+Echizen...
 
 @25.0
 (In those days I lived thinking only of restoring the shogunate. But...)
@@ -149,13 +149,13 @@ Yes, my lord. I am most grateful.
 Tanba was once the Hosokawa's domain. Fujitaka, follow Mitsuhide and conquer Tanba.
 
 @41.0
-Yes. Let this be the occasion for the two of you to become kin by marriage.
+Good. Let this be the occasion for your two houses to be joined by marriage.
 
 @41.1
 Mitsuhide, how about marrying your daughter to Fujitaka's heir?
 
 @41.2
-Since I know Lord Hosokawa well, I am at ease.
+I know Lord Hosokawa well, so I could not be more at ease.
 
 @41.3
 As the child of Lord Akechi, she must be both talented and beautiful. Fujitaka gladly accepts.
@@ -242,13 +242,13 @@ Yes, my lord. I am most grateful.
 Tanba was once the Hosokawa's domain. Fujitaka, follow Mitsuhide and conquer Tanba.
 
 @67.0
-Yes. Let this be the occasion for the two of you to become kin by marriage.
+Good. Let this be the occasion for your two houses to be joined by marriage.
 
 @67.1
 Mitsuhide, how about marrying your daughter to Fujitaka's heir?
 
 @67.2
-Since I know Lord Hosokawa well, I am at ease.
+I know Lord Hosokawa well, so I could not be more at ease.
 
 @67.3
 As the child of Lord Akechi, she must be both talented and beautiful. Fujitaka gladly accepts.

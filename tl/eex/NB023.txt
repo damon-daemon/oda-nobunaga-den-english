@@ -89,7 +89,7 @@ When did you ever make an effort in this war?
 I beg your pardon.
 
 @25
-I must give a warning\nUnforgivable, kick him
+Give him a warning\nUnforgivable, kick him
 
 @26.0
 Mitsuhide, watch how you speak.
@@ -116,7 +116,7 @@ The Oda's power now reaches east to Kozuke and west to Harima. With the Takeda g
 So it seems...
 
 @29.4
-With the Kai campaign finished, the eastern provinces have in effect been pacified by the Oda. Would it not be wise to recommend Nobunaga for the post of shogun and win his favour?
+With the Kai campaign finished, the eastern provinces have in effect been pacified by the Oda.\n\nWould it not be wise to recommend Nobunaga for the post of shogun and win his favour?
 
 @29.5
 Yes, I was thinking the same. Once tomorrow's court council decides it, we shall send an imperial envoy down to Azuchi.
@@ -233,7 +233,7 @@ Yes. Moreover, he says he will even return the rank of Minister of the Right...
 Grr... Does Nobunaga mean to ignore this Imperial Court?
 
 @51.3
-Chancellor, it is dangerous to leave Nobunaga alone any longer. Recently he enshrined an incarnation of himself in a temple in his castle and ordered the people to worship it. He surely means to become a god and abolish this Court.
+Chancellor, it is dangerous to leave Nobunaga alone any longer. He has enshrined an image of himself in a temple in his castle and ordered the people to worship it. Surely he means to become a god and abolish this Court.
 
 @52.0
 How dreadful... To seek to abolish this Court is a deed that fears not even Heaven... Is Nobunaga a demon king?
@@ -313,6 +313,9 @@ Mt. Atago
 @64.1
 Lord Mitsuhide, have you not yet composed the opening verse of the renga?
 
+@64.3
+Now then.
+
 @64.4
 The time is now... the rain falls over the fifth month.
 
@@ -359,7 +362,7 @@ You have made your decision, and I thank you...
 My life and death lie with you, my lord.
 
 @72.2
-Mine too, the same.
+And mine likewise.
 
 @72.3
 With you, my lord, I will race as your vanguard to the very ends of the other world.
@@ -370,6 +373,9 @@ Whatever the outcome, in the end we can only die.
 @73.1
 We were prepared to die long ago. Command us as you will.
 
+@73.2
+Very well.
+
 @74.0
 All of you, prepare for battle.
 
@@ -377,7 +383,7 @@ All of you, prepare for battle.
 My enemy is...
 
 @76.0
-At Honnoji!
+...is at Honnoji!
 
 @78
 Honnoji

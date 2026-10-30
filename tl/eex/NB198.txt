@@ -23,7 +23,7 @@ Good, we have taken their main camp!
 Damn, this is no way to fight a battle. Retreat!
 
 @7
-Defeated in the fight with the independent soldiers
+Defeated in the fight with the renegade band
 
 @8.0
 I was no match for him after all...
@@ -35,14 +35,14 @@ What strength...
 As long as men like that exist, my wars will never end...
 
 @11
-Oda Nobunaga wiped out the independent soldiers.
+Oda Nobunaga wiped out the renegade band.
 
 @12
-Win the fight with the independent soldiers
+Win the fight with the renegade band
 
 @14
-Oda Nobunaga was defeated by the independent soldiers.
+Oda Nobunaga was defeated by the renegade band.
 
 @15
-Defeated in the fight with the independent soldiers
+Defeated in the fight with the renegade band
 

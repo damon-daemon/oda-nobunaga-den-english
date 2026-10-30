@@ -17,7 +17,7 @@ M-my lord!
 Q-quickly, fetch a physician!
 
 @6.0
-What~! Shingen has withdrawn to Kai!
+What?! Shingen has withdrawn to Kai?!
 
 @7.0
 Hmph, then I will fight on even without Shingen!

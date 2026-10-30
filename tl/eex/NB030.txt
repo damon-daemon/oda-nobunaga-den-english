@@ -83,7 +83,7 @@ Sogo has shown a submissive stance toward the Oda in the home provinces. If we a
 It was a miscalculation that Nobunaga, whom we thought dead, is alive. But he has enemies on all four sides: the Uesugi and Hojo to the east, the Mori to the west, and ourselves. He cannot spare a great army for Shikoku. Father, let us attack Sanuki.
 
 @18.4
-Yes. I think as Nobuchika does.
+Yes. I am of the same mind as Nobuchika.
 
 @18.5
 Father, please order me to take Sogo Castle.
@@ -100,6 +100,9 @@ Katsuie!
 @22.3
 You, together with Toshiie and Narimasa, resume the attack on the Uesugi of Echigo!
 
+@24.0
+My lord.
+
 @24.1
 Ah, Ranmaru. What is it?
 
@@ -110,7 +113,7 @@ My lord. An urgent messenger has come from Sogo Nagayasu of Sanuki.
 Understood. Show him in.
 
 @25.0
-Yes, what is it?
+Ah. What is it?
 
 @26.0
 Chosokabe Motochika of Tosa is marching on Sanuki.
@@ -200,13 +203,13 @@ Sogo Nagayasu is holed up in Sogo Castle, where we are headed.
 To pacify Shikoku, we have no choice but to crush the Chosokabe utterly.
 
 @57.0
-The Chosokabe in Awa: Motochika, with Nobuchika, Kosokabe Chikayasu, Kira Chikasada and Hisatake Chikanobu.
+The Chosokabe in Awa are led by Motochika, with his heir Nobuchika, Kosokabe Chikayasu, Kira Chikasada and Hisatake Chikanobu.
 
 @59.0
 Kawanoe, Ushiki and Iwakura castles have all fallen, and Sogo Castle is completely isolated.
 
 @62.0
-Some of my men have been killed. This must be the scheme of the Iga shinobi.
+Some of my men have been killed. This must be the scheme of the Iga ninja.
 
 @63.0
 A report says Motochika is waiting at Oko Castle with a great army.

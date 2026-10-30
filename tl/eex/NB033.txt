@@ -14,7 +14,7 @@
 You have served well in my absence.
 
 @9.0
-My lord! Thank God you are safe... The Monkey is overjoyed. I return to you all the lands Hideyoshi held in your stead.
+My lord! How good to see you safe... This Monkey is overjoyed. I return to you all the lands Hideyoshi held in your stead.
 
 @9.1
 Yes. Monkey, you did well to avenge me.
@@ -35,7 +35,7 @@ Yes, my lord! I will bring the Mori under your banner.
 Narimasa!
 
 @14.0
-Return to Etchu and resume the subjugation of Uesugi with Mitsuharu!
+Return to Etchu and resume the subjugation of the Uesugi with Mitsuharu!
 
 @14.2
 Finish what Katsuie left undone!

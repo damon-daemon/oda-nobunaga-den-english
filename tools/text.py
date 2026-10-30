@@ -29,7 +29,8 @@ SENT_PAGE = {0x28}
 SENT_MIN = 2
 # numbered list item ('  2. ', 'Victory: 1. '): wrapped lines hang under the item text
 _ITEM = re.compile(r' *(?:[A-Z][A-Za-z ()]*: )?\d+\. ')
-_SENT_END = re.compile(r'(?<!^)(?<![\d ])[.!?][)"\']*$')       # not a list number '2.'
+MIDSENT = []                # pages that had to end mid-sentence (one sentence > a page): tl.py midsent
+_SENT_END = re.compile(r'^(?!\d\.$).+[.!?][)"\']*$')       # not a list number '2.'
 KIND = {0x12: 'choice', 0x17: 'str17', 0x27: 'talk', 0x28: 'narr', 0x29: 'place', 0x2a: 'title',
         0x2b: 'title2', 0x2c: 'battle', 0x4f: 'history'}
 FOLD = {'‘': "'", '’': "'", '“': '"', '”': '"', '—': '--', '–': '-',
@@ -129,7 +130,7 @@ def _sent_pages(paras, width, page):
             cut = (i, n)
         else:
             cut = None
-            for j in range(page - 1, SENT_MIN - 1, -1):
+            for j in range(page - 1, SENT_MIN - 2, -1):
                 ln = lines[j]
                 k = max((m for m in range(len(ln) - (j == page - 1)) if _SENT_END.search(ln[m])), default=None)
                 if k is not None:
@@ -137,6 +138,7 @@ def _sent_pages(paras, width, page):
                     break
             if cut is None:
                 cut = (i, n)
+                MIDSENT.append(' '.join(last))
         i, n = cut
         for ln, (pi, pn) in zip(lines, src):
             if (pi, pn) > cut and (pi, pn - len(ln)) < cut:

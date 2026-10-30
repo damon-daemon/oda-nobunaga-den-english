@@ -14,7 +14,7 @@ Execute every one of them.
 Yes... yes, my lord.
 
 @4
-The 9th month, 2nd year of Tensho (1574)\nOda Nobunaga crushed the Ikko uprising at Nagashima in Ise. He had every surrendering follower shot down with muskets. At the forts of Nakae and Yanagashima, some 20,000 men and women who had holed up were burned to death, forts and all.
+The 9th month, 2nd year of Tensho (1574)\nOda Nobunaga crushed the Ikko uprising at Nagashima in Ise. He had every surrendering follower shot down with muskets. At the forts of Nakae and Yanagashima, some 20,000 men and women who had holed up inside were burned to death along with the forts.
 
 @5
 "The Takeda Advance"
@@ -35,7 +35,7 @@ Tsutsujigasaki Mansion - Council Hall
 I will carry on my father's will and march on Kyoto.
 
 @10.1
-Please wait, my lord. It has been only two years since the late lord died,
+Please wait, my lord. It has been only two years since the late lord died.
 
 @10.2
 He told us to hide his death for three years. Did he not mean that we should build up our strength in that time?
@@ -62,10 +62,10 @@ Still, a clash with the Oda is now unavoidable. Nobunaga is a formidable foe.
 If we fight Nobunaga, we shall not come out of it unscathed.
 
 @13.5
-Whether we win or lose, we must be resolved.
+Win or lose, we had best make ready.
 
 @14.0
-Resolved to die.
+Make ready to die.
 
 @16
 The 4th month, 3rd year of Tensho (1575)\nTakeda Katsuyori invaded eastern Mikawa and sent 15,000 men against Nagashino.
@@ -125,7 +125,7 @@ Torii Suneemon, my lord.
 Are you sure? Ropes are strung all around the castle, and if you touch one, a rattle sounds.
 
 @27.2
-It is as good as going to your death.
+You would be going to your death.
 
 @27.3
 True. But if we stay as we are, we will all be slaughtered in the end.
@@ -155,7 +155,7 @@ To prepare against the Takeda army, Nobunaga entered Okazaki Castle and met Toku
 Okazaki Castle
 
 @35.0
-Sorry to keep you waiting, Lord Ieyasu.
+I have kept you waiting, Lord Ieyasu.
 
 @35.1
 Lord Nobunaga, I have been waiting for you.
@@ -203,13 +203,13 @@ Send reinforcements\nDo not send
 We will send reinforcements at once.
 
 @42.1
-You, Torii, withdraw and rest. Leave the rest to us.
+Torii, go and rest. Leave the rest to us.
 
 @42.2
-I am deeply grateful. But,
+I am deeply grateful. But...
 
 @42.3
-When I think of the garrison waiting for my return, I cannot rest alone.
+When I think of the garrison awaiting my return, I cannot rest while they fight.
 
 @42.4
 Then join our army and march with us.
@@ -218,7 +218,7 @@ Then join our army and march with us.
 No, I wish to carry the news that reinforcements are coming back to Nagashino at once.
 
 @42.6
-Wounded as you are, you still worry about the garrison. Admirable.
+Wounded as you are, you still think of the garrison. A fine man.
 
 @42.7
 Do as you wish. But do not rush to your death.
@@ -227,7 +227,7 @@ Do as you wish. But do not rush to your death.
 Nagashino Castle
 
 @44.0
-Haa, haa, haa. Just a little more...
+Hah... hah... hah... Just a little further...
 
 @44.1
 Hm!
@@ -242,7 +242,7 @@ Damn!
 Caught him!
 
 @48.1
-A blunder...
+Curses... I was careless...
 
 @49
 Takeda Camp
@@ -314,7 +314,7 @@ What are you saying! We came all the way to Mikawa and could not take even one c
 If we have no provisions, I will settle it with Nobunaga in a field battle.
 
 @67.0
-Lord Katsuyori. If we fight a reckless battle, all will die, and the House will be destroyed later.
+Lord Katsuyori, if we fight a reckless battle, we will all be killed, and in time the House will fall.
 
 @68.0
 ...The time has come to render our last service to the late lord.

@@ -11,10 +11,10 @@ Just some foot soldiers, surely. Let's cut them down.
 Right, boys, let's go!
 
 @1
-The Mountain God of Suzuka\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Mountain God of Suzuka\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-The Mountain God of Suzuka\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Mountain God of Suzuka\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. The Oda army is wiped out.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @3.0
 The mountain god is angry!

@@ -5,10 +5,10 @@ Heh heh heh, that Nobunaga has walked right into it.
 Good, attack the village. Make him see how powerless he is!
 
 @1
-Lake Biwa Pirates\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. A village is attacked.\n  2. The Oda army is wiped out.\n  3. The Oda main camp is taken.\n  4. More than 40 turns pass.
+Pirates of Lake Biwa\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. A village is attacked.\n  2. The Oda army is wiped out.\n  3. The Oda main camp is taken.\n  4. More than 40 turns pass.
 
 @2
-Lake Biwa Pirates\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. A village is attacked.\n  2. The Oda army is wiped out.\n  3. The Oda main camp is taken.\n  4. More than 40 turns pass.
+Pirates of Lake Biwa\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. A village is attacked.\n  2. The Oda army is wiped out.\n  3. The Oda main camp is taken.\n  4. More than 40 turns pass.
 
 @3.0
 Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!

@@ -35,6 +35,7 @@ GETNAME = 0x80012864
 GETNAME_FIRST = 0x00003021              # move a2, zero
 SPRINTF = 0x80092a38
 MAX_NAME = 24                           # longest English name (speaker box, labels: to be measured)
+SPEAKER_PX = 160                        # `&Id&Display` names: speaker box only (216 px wide)
 SHORT_PX = 72                           # SHORT_SITES field (6 kanji)
 GIVEN_PX = 58                           # GIVEN_SITES field (battle unit list: generic units too)
 _HEAD = re.compile(r'&([^&\n]*)&([^\n]*)$')
@@ -94,7 +95,9 @@ def check():
             if not 0 <= i < n:
                 errs.append('%s %d: no such entry' % (kind, i))
             errs += ['%s %d: %s' % (kind, i, e) for e in text.check(en)]
-            if len(en) > MAX_NAME:
+            if kind == 'speakers' and text.pixels(en) > SPEAKER_PX:
+                errs.append('%s %d: %d px > %d' % (kind, i, text.pixels(en), SPEAKER_PX))
+            if kind == 'officers' and len(en) > MAX_NAME:
                 errs.append('%s %d: %d characters > %d' % (kind, i, len(en), MAX_NAME))
     for i, r in _rows('officers', full=True).items():
         if text.pixels(_short(r)) > SHORT_PX:

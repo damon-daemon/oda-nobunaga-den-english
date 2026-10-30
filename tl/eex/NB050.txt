@@ -53,7 +53,7 @@ Oh, is that you, Toshiie?
 What is it? You are out of breath...
 
 @34.3
-O-Old man, I bring good news!
+F-Father, I bring good news!
 
 @34.5
 M-my lord! He is alive!
@@ -115,6 +115,9 @@ Good.\n\nNagahide!
 @45.1
 Send a messenger to Katsuie at Kitanosho and order him to resume the campaign against the Uesugi!
 
+@46.0
+My lord.
+
 @46.2
 My lord.\n\nA courier has come from Lord Sogo Nagayasu in Sanuki.
 
@@ -122,7 +125,7 @@ My lord.\n\nA courier has come from Lord Sogo Nagayasu in Sanuki.
 Chosokabe Motochika of Tosa is marching on our Shozui Castle in Awa.
 
 @49.1
-Our forces are holding Shozui Castle under siege. Please send reinforcements as quickly as you can.
+Our forces are holed up in Shozui Castle. Please send reinforcements as quickly as you can.
 
 @49.2
 Understood.\n\nNobutada!

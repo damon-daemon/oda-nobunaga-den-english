@@ -23,7 +23,7 @@ Now is the time to cut Nobunaga down and take the realm myself!
 Hojo morale rose!
 
 @2
-Battle of the Kanto Pacification\nVictory: 1. Force Hojo Ujimasa to retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+Pacification of Kanto\nVictory: 1. Force Hojo Ujimasa to retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
 
 @3
 Pacification of Kanto\n\nVictory: 1. Force Hojo Ujimasa to retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.

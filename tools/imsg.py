@@ -38,6 +38,7 @@ SECTIONS = [('item', 0, 255), ('skill', 256, 305), ('sortie', 331, 357), ('retre
 WIDTH = {'item': 228, 'skill': 228, 'sortie': 216, 'retreat': 216, 'battle': None, 'trait': 228}
 LINES = {'item': 2, 'skill': 2, 'sortie': 3, 'retreat': 3, 'battle': 1, 'trait': 2}
 FILLER = '終端'
+BATTLE_MAX = 30                 # battle-map title box shows 30 characters (seen: 33 cut to 30)
 
 
 def records(data=None):
@@ -108,6 +109,8 @@ def english():
             errs.append('@%d: %d bytes > %d' % (n, len(b), REC - 1))
         if w.count('\n') + 1 > LINES[s]:
             errs.append('@%d: %d lines > %d' % (n, w.count('\n') + 1, LINES[s]))
+        if s == 'battle' and len(w) > BATTLE_MAX:
+            errs.append('@%d: %d characters > %d (battle-map title box cuts the rest)' % (n, len(w), BATTLE_MAX))
         if WIDTH[s] is None and text.pixels(w) > 200:
             errs.append('@%d: %d px (unwrapped label)' % (n, text.pixels(w)))
         out[n] = w

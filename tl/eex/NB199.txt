@@ -14,10 +14,10 @@ Beyond the pass ahead, a group of Ikko followers lies in hiding.
 I see. So the information was sound. Very well, we wipe them out.
 
 @1
-Those Who Stir in the Dark\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+Those Who Lurk in Darkness\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
 
 @2
-Those Who Stir in the Dark\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
+Those Who Lurk in Darkness\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.
 
 @3.0
 I have waited for this moment, Nobunaga!

@@ -22,6 +22,9 @@ It seems Nobunaga has pulled his troops back as far as Kyoto.
 @8.1
 Father, let us enter Kyoto before Nobunaga can regroup.
 
+@9.0
+My lord.
+
 @10.0
 My lord. A messenger from the Miyoshi has arrived.
 
@@ -83,7 +86,7 @@ My lord. This Monkey has a good idea.
 What is it? Speak.
 
 @20.3
-Move the Uesugi of Echigo.
+We must set the Uesugi of Echigo in motion.
 
 @20.4
 Uesugi Kenshin, is it...\n\nI see. If Kenshin invades Shinano, Shingen will have no choice but to pull back his army.

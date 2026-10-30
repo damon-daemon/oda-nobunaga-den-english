@@ -29,7 +29,7 @@ You fought well against my army.
 I am honoured by your praise.
 
 @7.4
-I shall confirm you in possession of this Tosa.
+I shall let you keep Tosa.
 
 @7.5
 Yes, my lord. I am most grateful.
@@ -42,6 +42,9 @@ The Mori of Chugoku have also ceded two provinces and come to submit. No one in 
 
 @8.2
 Yes.\n\n\nWith no enemy left in the west, what remains is the east.\n\nUesugi Kagekatsu and Hojo Ujimasa...
+
+@9.0
+My lord.
 
 @9.1
 Oh! Well done, Monkey!\n\nThere is no longer any enemy in the west.\n\n\nNow we return to Kyoto in triumph. Next, the Eastern Campaign.
@@ -128,7 +131,7 @@ What reply has come from the Hojo?
 Still none.
 
 @17.2
-My lord, there are signs of unrest among the Hojo. According to the shinobi sent into Sagami, the Hojo are gathering troops and provisions in their castles of Sagami, Izu and Musashi.
+My lord, there are signs of unrest among the Hojo. According to the ninja sent into Sagami, the Hojo are gathering troops and provisions in their castles of Sagami, Izu and Musashi.
 
 @17.3
 Hmm, Ujimasa. He means to fight me to the end.\n\nVery well, we march into the Kanto and subdue the Hojo!\n\nNagahide!
@@ -176,7 +179,7 @@ Hidetaka, Nagayoshi, you have guarded the lands of Kai and Shinano well.
 I am honoured by your praise.
 
 @26.3
-Kazumasu, your fighting against the Hojo in Kozuke was truly a great service.
+Kazumasu, your battles against the Hojo in Kozuke were truly a great service.
 
 @26.4
 Yes, my lord!\n\n\nTo think I would see your face again like this...\n\nFor me, Kazumasu, there is no greater happiness.
