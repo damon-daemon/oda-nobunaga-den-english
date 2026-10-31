@@ -353,7 +353,7 @@ Lord Masahide knows that better than I.
 In time? How leisurely! The Oda clan will be destroyed!
 
 @62.2
-Silence, all of you. ... Masahide is right.
+Silence, all of you... Masahide is right.
 
 @62.4
 My lord! Please reconsider.
@@ -362,7 +362,7 @@ My lord! Please reconsider.
 I told you. He is not a fool.
 
 @62.6
-The headship goes to Nobunaga. This is my last will. Understood...
+The headship goes to Nobunaga. This is my last will. Is that clear...?
 
 @63
 Soon afterwards Oda Nobuhide breathed his last, at the age of forty-two. It was the winter of Nobunaga's eighteenth year.

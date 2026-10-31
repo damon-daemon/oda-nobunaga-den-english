@@ -1,5 +1,5 @@
 @0
-Mass-produced tachi, known as a "numbers sword". Not very powerful.
+A kazuuchimono, or mass-produced tachi. Not very powerful.
 
 @1
 A tachi reforged for a keener edge. A fine blade.
@@ -182,7 +182,7 @@ A Chinese crossbow. A little heavy, but long range and high accuracy.
 A continental crossbow strengthened with Western crossbow technology.
 
 @61
-A Namban crossbow able to fire repeatedly. High in range, power and everything else.
+A Nanban crossbow able to fire repeatedly. High in range, power and everything else.
 
 @62
 Modelled on the bowyer Yoshimitsu's masterpiece. High range and power.
@@ -191,7 +191,7 @@ Modelled on the bowyer Yoshimitsu's masterpiece. High range and power.
 A continental crossbow that fires repeatedly. Powerful, but heavy and awkward.
 
 @64
-A Namban repeating crossbow. Long range and powerful, but heavy and awkward.
+A Nanban repeating crossbow. Long range and powerful, but heavy and awkward.
 
 @65
 A faithful recreation of Nasu no Yoichi's bow. Light and easy to handle.
@@ -206,10 +206,10 @@ A domestic copy of the Tanegashima matchlock. Stronger than the Slim Musket.
 A matchlock with a shortened, lightened barrel so it can be used on horseback.
 
 @69
-A matchlock with a larger bore than the Namban musket. Built for power.
+A matchlock with a larger bore than the Nanban musket. Built for power.
 
 @70
-A Namban musket with a shortened barrel, easier to handle on the battlefield.
+A Nanban musket with a shortened barrel, easier to handle on the battlefield.
 
 @71
 A matchlock with a still shorter, lighter barrel, easy to use on horseback.
@@ -230,10 +230,10 @@ A large-bore horseback gun. Usable mounted, but heavy recoil means low accuracy.
 A matchlock built for ease of use, with a very short barrel. Uses a loading device.
 
 @77
-A large-bore Namban gun. Apparently made to order, with very high accuracy.
+A large-bore Nanban gun. Apparently made to order, with very high accuracy.
 
 @78
-An enlarged Namban 10-momme musket. The finest gun.
+An enlarged Nanban 10-momme musket. The finest gun.
 
 @79
 A repeater with six barrels bundled together. Shortened to save weight, but still heavy.
@@ -395,10 +395,10 @@ Seamless domaru armour made from a single iron plate. Built for defence.
 An improved domaru with reinforced iron plates for extra sturdiness. Kept fairly light.
 
 @149
-A Namban domaru with gauntlets and leg guards. A full set: sturdy but heavy.
+A Nanban domaru with gauntlets and leg guards. A full set: sturdy but heavy.
 
 @150
-A Namban domaru reinforced with red lacing. Somewhat heavy.
+A Nanban domaru reinforced with red lacing. Somewhat heavy.
 
 @151
 An Okegawa domaru with gauntlets and leg guards. A full set, kept fairly light.
@@ -407,16 +407,16 @@ An Okegawa domaru with gauntlets and leg guards. A full set, kept fairly light.
 An Okegawa domaru reinforced with white lacing. Very light and easy to move in.
 
 @153
-A Namban dogusoku with black lacing and a bear-hair helmet. A full set of armour.
+A Nanban dogusoku with black lacing and a bear-hair helmet. A full set of armour.
 
 @154
-A Namban dogusoku reinforced with black lacing. Much more defence, but heavy.
+A Nanban dogusoku reinforced with black lacing. Much more defence, but heavy.
 
 @155
-Red-laced Namban armour with a helmet bearing Fudo Myoo. High defence but heavy.
+Red-laced Nanban armour with a helmet bearing Fudo Myoo. High defence but heavy.
 
 @156
-Red-laced Namban armour with gauntlets and leg guards. Well balanced at a high level.
+Red-laced Nanban armour with gauntlets and leg guards. Well balanced at a high level.
 
 @157
 An Okegawa dogusoku with blue lacing and an antler helmet. A full set of armour.

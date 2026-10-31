@@ -572,8 +572,9 @@ def survey(imgs):
             code, data, block = refs.of(img.tag, va)
             t = jp.decode('cp932', 'backslashreplace')
             gp = any('gp-relative' in x for x in block)
-            if t in officer_names():
+            if t in officer_names() and t != 'なし':     # なし = the empty record slots, but the
                 kind = 'name'                    # officer lookup by Japanese record name: keep
+                                                 # literal is only ever printed ("None")
             elif code or data or gp:
                 kind = 'junk' if _junk(t) else 'ui'
             elif _array(t, va, img.tag):

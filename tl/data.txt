@@ -58,14 +58,14 @@ item:56	Heavy Longbow
 item:57	Four-Side Bow
 item:58	Laminated Bow
 item:59	Chinese Xbow
-item:60	Namban Xbow
-item:61	Namban Multibow
+item:60	Nanban Xbow
+item:61	Nanban Multibow
 item:62	Yoshimitsu Bow
 item:63	Chinese Multibow
-item:64	Namban Bow
+item:64	Nanban Bow
 item:65	Nasu Yoichi Bow
 item:66	Slim Musket
-item:67	Namban Musket
+item:67	Nanban Musket
 item:68	Cavalry Musket
 item:69	10-Momme Gun
 item:70	Medium Musket
@@ -75,11 +75,11 @@ item:73	Sakai 10-Mo
 item:74	Hayago Medium
 item:75	Cav Samurai Gun
 item:76	Hayago Short
-item:77	Namban 10-Mo
-item:78	Namban 12-Mo
-item:79	Namban 6-Shot
+item:77	Nanban 10-Mo
+item:78	Nanban 12-Mo
+item:79	Nanban 6-Shot
 item:80	Cav Repeater
-item:81	Namban Rptr
+item:81	Nanban Rptr
 item:82	Kunitomo Rptr
 item:83	Senshu Repeater
 item:84	Small Folangji
@@ -145,16 +145,16 @@ item:143	Spare Fan 3
 item:144	Spare Fan 4
 item:145	Spare Fan 5
 item:146	Domaru
-item:147	Namban Domaru
+item:147	Nanban Domaru
 item:148	Okegawa Domaru
-item:149	Namban Gusoku
-item:150	Red Namban Do
+item:149	Nanban Gusoku
+item:150	Red Nanban Do
 item:151	Okegawa Gusoku
 item:152	Wht Okegawa Do
 item:153	Bear-Hair Mail
-item:154	Dark Namban Mail
+item:154	Black Nanban
 item:155	Myoo Red Mail
-item:156	Red Namban Mail
+item:156	Red Nanban Mail
 item:157	Antler Blue Mail
 item:158	Blue Okegawa
 item:159	Sujikabuto Mail
@@ -291,7 +291,7 @@ skill:1	Rainshield
 skill:2	Charge
 skill:3	Sacrifice
 skill:4	Smash
-skill:5	Poison Arr
+skill:5	Venom Shot
 skill:6	Fire Arrow
 skill:7	Gun Volley
 skill:8	Dance Cut
@@ -307,14 +307,14 @@ skill:17	Rockfall
 skill:18	Rough Sea
 skill:19	Bear
 skill:20	Skill Jam
-skill:21	Dbl Thrust
-skill:22	Tpl Thrust
+skill:21	Double Jab
+skill:22	Triple Jab
 skill:23	Bow Volley
 skill:24	Halt Horse
 skill:25	Halt Ship
 skill:26	Warn Shot
 skill:27	Home Song
-skill:28	Eerie Dnc
+skill:28	Dark Dance
 skill:29	Bewilder
 skill:30	Seal Art
 skill:31	Caltrops

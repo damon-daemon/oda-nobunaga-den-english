@@ -1,0 +1,25 @@
+# English for the floating battle labels of GRAPHIC/HEX_EFF.E4 (tools/hexeff.py): label index<TAB>text
+# 0-7 stat rose, 12-14 stat fell, 19-23 stat rose (triangle labels, <= 30 px wide);
+# 8-11 status applied, 15-18 status cured (growing labels). 6 CL and 7 L are already Latin.
+0	Exp
+1	Skill
+2	Skill
+3	End
+4	End
+5	Gold
+8	Dazed
+9	Drain
+10	Stuck
+11	Hurt
+12	Atk
+13	Def
+14	Int
+15	Dazed
+16	Drain
+17	Stuck
+18	Hurt
+19	Atk
+20	Def
+21	Int
+22	Act
+23	Acc
