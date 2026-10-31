@@ -13,7 +13,7 @@ the storehouse. The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9.1).** All of the game's text is in English and the main story has
+> **This is a beta (v0.9.2).** All of the game's text is in English and the main story has
 > been played through to the Honnoji ending, but most of the "what if" branch chapters after
 > Honnoji were only checked as text, not in play. Expect some text that is squeezed, cut
 > short or wrapped oddly.
@@ -39,8 +39,8 @@ your own copy of the game.
 - All item descriptions
 - Menus, labels, battle messages, battle introductions, the merchant, blacksmith and
   storehouse screens, the settings menu and the memory card messages
-- Graphics: the labels of the status, list and shop screens, redrawn at build time with an
-  original English font
+- Graphics: the labels of the status, list and shop screens and the floating battle labels
+  (stat changes, status effects), redrawn at build time with an original English font
 - A proportional English font (original drawings) with word wrap and paging
 
 Long names and labels are shortened where the game's boxes are too small.
@@ -92,8 +92,8 @@ cp "/path/to/Oda Nobunaga Den (Japan) (Track 2).bin" oda_nobunaga_den_track2.bin
 Japanese text from your disc for the translation tools. `script/` and `build/` are
 never committed.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.1` after building:
-it writes `release/Oda_Nobunaga_Den_English_v0.9.1.zip` with the versioned xdelta patch,
+To make a release package, run `.venv/bin/python tools/package.py 0.9.2` after building:
+it writes `release/Oda_Nobunaga_Den_English_v0.9.2.zip` with the versioned xdelta patch,
 the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Repository layout
@@ -104,14 +104,14 @@ the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 | `tl/names/` | Officer and speaker names |
 | `tl/data.txt`, `tl/imsg/` | Item, unit type, trait and skill names (`DATA/DATA.E4`); item descriptions (`DATA/IMSG.E4`) |
 | `tl/progstr/` | English for strings in the game program, by address |
-| `tl/gfx.txt` | Text drawn into graphics |
+| `tl/gfx.txt`, `tl/hexeff.txt` | Text drawn into graphics (screen labels; floating battle labels) |
 | `tools/setup.py`, `tools/build.py` | Create `script/`; build the patched disc and the patch |
 | `tools/tl.py`, `tools/text.py` | Validates translations, line wrapping and page layout (`apply`, `show`, `check`, `stats`) |
 | `tools/iso.py`, `eex.py` | Disc image (ISO 9660, EDC/ECC, the game's own file table), event script format |
 | `tools/names.py`, `datae4.py`, `imsg.py` | Names, game data records, item descriptions |
 | `tools/progstr.py`, `fmtlimit.py` | Program strings; format-string buffer limits |
 | `tools/vwf.py`, `pixfont.py`, `asm.py` | Proportional font (original drawings), word wrap and layout patches; small MIPS assembler |
-| `tools/gfx.py`, `tinyfont.py` | Redrawn label graphics |
+| `tools/gfx.py`, `hexeff.py`, `tinyfont.py` | Redrawn label graphics (screen labels, battle labels) |
 | `tools/package.py` | Makes the release zip (patch + .cue + README.txt with checksums) |
 | `tools/dev/`, `tools/emu/` | Development helpers (disassembly, DuckStation automation) |
 | `docs/screenshots/` | README screenshots |

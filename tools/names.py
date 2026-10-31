@@ -197,8 +197,11 @@ def hook(at, base):
 READING_AT, READING_OLD, READING_NEW = 0x8006e900, 0x26860019, 0x26860018   # addiu a2, s4, ...
 # calls of GETNAME that print into a narrow field: they get the short forms
 SHORT_SITES = [
-    0x8006a514,     # battle: unit panel (name, then a level icon at 6 kanji = 72 px)
+    0x8006a34c,     # battle: unit panels (name, then a level icon at 6 kanji = 72 px): three
+    0x8006a514,     # variants of the same layout (issue #2: "Sakuma Nobumori" ran into Lv)
+    0x8006a6c4,
     0x80017b98,     # blacksmith: officer list (name, then the class icon at ~74 px)
+    0x8001851c,     # blacksmith: officer panel header (12-cell box at x 144, Equip label at 232)
 ]
 # calls of GETNAME for fields narrower still (given names)
 GIVEN_SITES = [

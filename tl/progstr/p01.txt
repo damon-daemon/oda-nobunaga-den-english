@@ -247,12 +247,12 @@ PROG:80122788	Not enough skill points
 PROG:8012279c	%s used %s
 PROG:801228c0	-
 PROG:801228fc	-
-PROG:80122954	faded
-PROG:80122960	ended
-PROG:8012296c	%s %s drop effect %s
-PROG:80122980	%s %s rose
-PROG:80122994	%s %s boost effect %s
-PROG:801229a8	%s %s fell
+PROG:80122954	has faded
+PROG:80122960	has ended
+PROG:8012296c	%s: %s drop %s
+PROG:80122980	%s: %s rose
+PROG:80122994	%s: %s boost %s
+PROG:801229a8	%s: %s fell
 PROG:801229bc	%s took %w damage
 PROG:801229d4	%s is no longer immobile
 PROG:801229f0	%s is immobile

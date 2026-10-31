@@ -9,7 +9,7 @@ usage: .venv/bin/python tools/build.py [clean_track1.bin] [out_track1.bin]
 import os, shutil, struct, subprocess, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import asm, datae4, gfx, imsg, iso, names, progstr, setup, tl, vwf
+import asm, datae4, gfx, hexeff, imsg, iso, names, progstr, setup, tl, vwf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'build', 'oda_nobunaga_den_en_track1.bin')
@@ -42,10 +42,18 @@ def patch_exe(exe):
         ('j', 0x80023490),               # copy one byte
         ('nop',)])
     exe[ASCII_AT - EXE_BASE:ASCII_AT - EXE_BASE + len(code)] = code
-    # item info box 0x80029774: IMSG record read to sp+0x20 (101 bytes) and cut at 80 bytes;
-    # English uses the whole record (imsg.py: <= 99 bytes)
-    assert peek(exe, IMSG_CUT_AT, 1) == [0xa3a00070], 'unexpected code at %#x' % IMSG_CUT_AT
-    poke(exe, IMSG_CUT_AT, [0xa3a00084])  # sb zero, 0x84(sp)
+    # item info box 0x80029774 and the officer screen's skill (0x8006d774) and trait (0x8006da2c)
+    # pages: IMSG record read to sp+0x20 (101 bytes, saved registers from sp+0x88) and cut at
+    # 80 bytes; English uses the whole record (imsg.py: <= 99 bytes)
+    for at in IMSG_CUT_AT:
+        assert peek(exe, at, 1) == [0xa3a00070], 'unexpected code at %#x' % at
+        poke(exe, at, [0xa3a00084])  # sb zero, 0x84(sp)
+    # council talk list (Square; 0x8002e77c): box 76 px wide at x 16 / 228 with a 60-px text
+    # clear and the page/L1-R1 hints at x + 72; English names up to 111 px (issue #1) -> 128 px
+    # wide, the right-hand box keeping its right edge (x 176)
+    for at, old, new in LIST_BOX:
+        assert peek(exe, at, 1) == [old], 'unexpected code at %#x' % at
+        poke(exe, at, [new])
     # level-up "%s can now be equipped!" joins weapon types with ",%s": add a space
     o = LIST_SEP - EXE_BASE
     assert exe[o:o + 8] == b',%s\0\0\0\0\0', 'unexpected bytes at %#x' % LIST_SEP
@@ -70,12 +78,25 @@ def patch_exe(exe):
     for va, old, new in CLASS_X:
         assert peek(exe, va, 1) == [old], 'unexpected code at %#x' % va
         poke(exe, va, [new])
+    # blacksmith officer panel 0x800184c0 (issue #1): the equipped weapon's name at x 228 had
+    # 72 px to the frame (item names up to 85 px ran over it and outside the 156-px clear
+    # rect). Class icon dropped (the officer list shows it), class name at x 144, weapon icon
+    # 212 -> 204 and name 228 -> 220 (90 px), clear rect 156 -> 166 wide
+    for va, old, new in SMITH_PANEL:
+        assert peek(exe, va, 1) == [old], 'unexpected code at %#x' % va
+        poke(exe, va, [new])
     # save list line split (see SAVE_SEP): line 1 = prefix + 1 byte of the separator
     assert peek(exe, SAVE_SPLIT_AT, 1) == [0x02028021], 'unexpected code at %#x' % SAVE_SPLIT_AT
     poke(exe, SAVE_SPLIT_AT, [0x26100001])  # addu s0, s0, v0 (strlen) -> addiu s0, s0, 1
 
 
-IMSG_CUT_AT = 0x80029804
+IMSG_CUT_AT = (0x80029804, 0x8006d940, 0x8006dabc)
+LIST_BOX = [(0x8002e7a0, 0x240200e4, 0x240200b0),     # right-hand x 228 -> 176
+            (0x8002e894, 0x2407004c, 0x24070080),     # box width 76 -> 128
+            (0x8002e924, 0x2406003c, 0x24060070),     # text clear width 60 -> 112
+            (0x8002e61c, 0x24060044, 0x24060078),     # box clear width 68 -> 120
+            (0x8002e9a8, 0x24c60048, 0x24c6007c),     # page arrow x + 72 -> + 124
+            (0x8002e9d4, 0x24c60048, 0x24c6007c)]     # R1 hint x + 72 -> + 124
 LIST_SEP = 0x8012a098
 PRICE_COL_AT = 0x80067588
 QTY_X_AT = 0x80028dc4
@@ -86,6 +107,17 @@ SAVE_SEP = 0x8012a664
 SAVE_SPLIT_AT = 0x8003df50
 CLASS_X = [(0x8002855c, 0x24060068, 0x24060052),     # addiu a2, zero, icon x
            (0x8002856c, 0x24050078, 0x24050063)]     # addiu a1, zero, class x
+SMITH_PANEL = [(0x800184e4, 0x2406009c, 0x240600a6),  # clear rect width 156 -> 166
+               (0x80018570, 0x0c009a04, 0x00000000),  # class icon sprite: nop
+               (0x800185a8, 0x240500a0, 0x24050090),  # class name x 160 -> 144
+               (0x80018614, 0x240600d4, 0x240600cc),  # weapon icon x 212 -> 204
+               (0x8001866c, 0x240500e4, 0x240500dc),  # weapon name x 228 -> 220
+               # its item list 0x8001802c: icons at x 144, names at 160, clear rect 158..235,
+               # Smith Skill icons at 240 -> icons 140, names 156, clear 154..240 (names <= 84 px)
+               (0x80018050, 0x2404009e, 0x2404009a),  # clear rect x 158 -> 154
+               (0x80018058, 0x2406004d, 0x24060056),  # clear rect width 77 -> 86
+               (0x80018070, 0x240500a0, 0x2405009c),  # name x 160 -> 156
+               (0x80018124, 0x24060090, 0x2406008c)]  # icon x 144 -> 140
 
 
 # English blob: appended to DATA/KANJITBL.BIN, which the font loader 0x80016090 reads to
@@ -129,6 +161,8 @@ def build_files(disc, recs):
     patch_exe(exe)
     out[gfx.ISO_NAME], n = gfx.build(disc.file(gfx.ISO_NAME, recs), exe, EXE_BASE)
     print('MARK.E4: %d labels' % n)
+    out[hexeff.ISO_NAME], n = hexeff.build(disc.file(hexeff.ISO_NAME, recs))
+    print('HEX_EFF.E4: %d labels' % n)
     blob, patches = make_blob()
     for p in patches:
         p(exe)

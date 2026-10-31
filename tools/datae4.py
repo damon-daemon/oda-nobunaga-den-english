@@ -29,7 +29,7 @@ TABLES = {'item': (0xc201, 51, 255, 16, (17, 21)),
           'skill': (0x101cb, 17, 54, 10, None)}
 # item names: widest field = storehouse list (name x 200, quantity at x 284, build.QTY_X_AT;
 # the merchant price column is at 128 px from the name)
-ITEM_PX = 85
+ITEM_PX = 84     # storehouse/blacksmith lists (blacksmith item list: x 156 to the skill icons at 240)
 CLASS_PX = 55    # officer list: the unit type runs into the 3-digit Atk column
 
 

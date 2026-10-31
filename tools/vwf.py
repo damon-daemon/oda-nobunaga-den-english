@@ -19,6 +19,14 @@ Measuring sites (blob functions pixw = width of a line, maxw = widest line of a 
 - strlen * 6 (TIMES6: centred print 0x800169cc, menu and box widths) and strlen * 8 (council
   room name label) -> pixw.
 
+Outline (issue #2): the ANK glyph routine 0x80015e88 draws every single-byte glyph over a copy
+of itself in colour 8 shifted by 1 px (0x80015d5c mode 1): a one-sided drop shadow, which
+reads badly on the translucent narration/battle-info boxes (white text, colour 8 dark). The
+copy is replaced by an 8-neighbour dilation inside the 8-px cell (`outline`), and the cell blit
+in DRAW (0x80016a84) is followed by `border`, which plots the outline pixels that fall outside
+the cell (column x-1, rows y-1 and y+12) straight into the text bitmap where it is empty.
+Where colour 8 is invisible (dialogue box, blue panels) nothing changes.
+
   font() -> ANK1.BIN bytes; width(text) -> pixels; blob(at) -> (bytes, patch function)
 """
 import os, struct, sys
@@ -54,9 +62,16 @@ SETMODE, SETCOL = 0x800167d4, 0x80016668
 OUTLINED = [(0x80016d50, 0x80016dec), (0x80016f2c, 0x80016fc8), (0x80017108, 0x800171a0)]
 SHADOW = 0x80015ec0               # ANK glyph: jal SETCOL with a1 = 8 (1-px shadow colour)
 GLCOL = 0x80015ef4                # then jal SETCOL with a1 = the text colour
+OUTLINE_AT = 0x80015ee8           # ANK glyph: jal 0x80015d5c (shadow copy, mode 1) -> outline
+BORDER_AT = 0x80016600            # DRAW 0x800164f4: jal CELL_BLIT -> border
+CELL_BLIT = 0x80016a84            # (ctx, x, y, w, [sp+0x10] h, [sp+0x14] cell) -> 0x8003112c
+BITMAP, BM_W, BM_H = 0x8018c388, 320, 240    # 4bpp text bitmap, 160 bytes per row
+OUTLINE_COL = 8
 
 
-def _code(char, widths, flag):
+def _code(char, widths, flag, vars):
+    pend, svra, svx, svy, scr = vars, vars + 4, vars + 8, vars + 12, vars + 16
+    # scr: 16 words = glyph rows -2..13 (rows 0-11 written by `outline`, the rest stay 0)
     return [
         'on:',                                    # outlined print starts: shadow off
         ('lui', 't0', asm.hi(flag)),
@@ -167,7 +182,145 @@ def _code(char, widths, flag):
         ('bnez', 'v1', 'line'),
         ('nop',),
         ('jr', 't4'),
-        ('addu', 'v0', 't5', 'zero')]
+        ('addu', 'v0', 't5', 'zero'),
+
+        'outline:',         # in place of the shadow copy: a0 = ctx, a1 = glyph (12 rows of 4
+        ('lbu', 't5', 0x14c, 'a0'),               # bytes, nibbles = shadow colour or 0),
+        ('lui', 't6', asm.hi(scr)),               # a2 = cell (0x80 bytes). cell[r] = rows
+        ('addiu', 't6', 't6', asm.lo(scr)),       # r-1..r+1 OR-ed, shifted +-1 px (ink is
+        ('addu', 't4', 'zero', 'zero'),           # overlaid afterwards by the caller); the
+        ('addu', 't3', 'zero', 'zero'),           # glyph rows go to scr for `border`; pend =
+        ('addu', 't0', 'zero', 'zero'),           # any ink, unless the cell has a background
+        'orow:',                                  # colour (ctx+0x14c: boxed labels)
+        ('lw', 't1', 0, 'a1'),
+        ('addiu', 't7', 't0', -11),
+        ('beqz', 't7', 'olast'),
+        ('addu', 't2', 'zero', 'zero'),
+        ('lw', 't2', 4, 'a1'),
+        'olast:',
+        ('or', 't7', 't4', 't1'),
+        ('or', 't7', 't7', 't2'),
+        ('sll', 't8', 't7', 4),
+        ('srl', 't9', 't7', 4),
+        ('or', 't8', 't8', 't7'),
+        ('or', 't8', 't8', 't9'),
+        ('sw', 't8', 0, 'a2'),
+        ('sw', 't1', 8, 't6'),
+        ('or', 't3', 't3', 't1'),
+        ('addu', 't4', 't1', 'zero'),
+        ('addiu', 't0', 't0', 1),
+        ('addiu', 'a1', 'a1', 4),
+        ('addiu', 'a2', 'a2', 4),
+        ('sltiu', 't7', 't0', 12),
+        ('bnez', 't7', 'orow'),
+        ('addiu', 't6', 't6', 4),
+        ('addiu', 't0', 'zero', 20),              # cell rows 12-31 = 0 (the original memset)
+        'ozero:',
+        ('sw', 'zero', 0, 'a2'),
+        ('addiu', 't0', 't0', -1),
+        ('bnez', 't0', 'ozero'),
+        ('addiu', 'a2', 'a2', 4),
+        ('bnez', 't5', 'onopend'),
+        ('lui', 't7', asm.hi(pend)),
+        ('sltu', 't3', 'zero', 't3'),
+        ('jr', 'ra'),
+        ('sw', 't3', asm.lo(pend), 't7'),
+        'onopend:',
+        ('jr', 'ra'),
+        ('sw', 'zero', asm.lo(pend), 't7'),
+
+        'border:',          # in place of the cell blit in DRAW (same arguments, passed on)
+        ('lui', 't7', asm.hi(svra)),
+        ('sw', 'ra', asm.lo(svra), 't7'),
+        ('sw', 'a1', asm.lo(svx), 't7'),
+        ('jal', CELL_BLIT),
+        ('sw', 'a2', asm.lo(svy), 't7'),
+        ('lui', 't7', asm.hi(pend)),
+        ('lw', 't0', asm.lo(pend), 't7'),
+        ('lw', 't5', asm.lo(svra), 't7'),
+        ('beqz', 't0', 'bret'),
+        ('sw', 'zero', asm.lo(pend), 't7'),
+        ('lw', 'a1', asm.lo(svx), 't7'),
+        ('lw', 'a2', asm.lo(svy), 't7'),
+        ('addiu', 't0', 'zero', -1),              # row r = -1..12; m = rows r-1..r+1 of the
+        ('lui', 't6', asm.hi(scr)),               # glyph: column x-1 gets a pixel if m has
+        ('addiu', 't6', 't6', asm.lo(scr)),       # one in column 0; rows -1 and 12 get the
+        'brow:',                                  # dilated m over columns 0-7
+        ('lw', 't1', 0, 't6'),
+        ('lw', 't2', 4, 't6'),
+        ('lw', 't3', 8, 't6'),
+        ('addu', 'a3', 'a2', 't0'),
+        ('or', 't1', 't1', 't2'),
+        ('or', 't1', 't1', 't3'),
+        ('andi', 't2', 't1', 0xf),
+        ('beqz', 't2', 'bedge'),
+        ('addiu', 'a0', 'a1', -1),
+        ('jal', 'plot'),
+        ('nop',),
+        'bedge:',
+        ('addiu', 't2', 't0', 1),
+        ('beqz', 't2', 'bfull'),
+        ('addiu', 't2', 't0', -12),
+        ('bnez', 't2', 'bnext'),
+        ('nop',),
+        'bfull:',
+        ('sll', 't2', 't1', 4),
+        ('srl', 't3', 't1', 4),
+        ('or', 't1', 't1', 't2'),
+        ('or', 't1', 't1', 't3'),
+        ('addu', 'a0', 'a1', 'zero'),
+        ('addiu', 't4', 'zero', 8),
+        'bcol:',
+        ('andi', 't2', 't1', 0xf),
+        ('beqz', 't2', 'bskip'),
+        ('nop',),
+        ('jal', 'plot'),
+        ('nop',),
+        'bskip:',
+        ('srl', 't1', 't1', 4),
+        ('addiu', 't4', 't4', -1),
+        ('bnez', 't4', 'bcol'),
+        ('addiu', 'a0', 'a0', 1),
+        'bnext:',
+        ('addiu', 't0', 't0', 1),
+        ('slti', 't2', 't0', 13),
+        ('bnez', 't2', 'brow'),
+        ('addiu', 't6', 't6', 4),
+        'bret:',
+        ('jr', 't5'),
+        ('nop',),
+
+        'plot:',            # pixel (a0, a3) of the text bitmap = OUTLINE_COL if it is empty
+        ('bltz', 'a0', 'pret'),                   # and inside the bitmap; uses v0, v1, t8, t9
+        ('sltiu', 'v0', 'a0', BM_W),
+        ('beqz', 'v0', 'pret'),
+        ('sltiu', 'v0', 'a3', BM_H),
+        ('beqz', 'v0', 'pret'),
+        ('sll', 'v1', 'a3', 5),
+        ('sll', 'v0', 'a3', 7),
+        ('addu', 'v1', 'v1', 'v0'),               # y * 160
+        ('srl', 'v0', 'a0', 1),
+        ('addu', 'v1', 'v1', 'v0'),
+        ('lui', 'v0', asm.hi(BITMAP)),
+        ('addiu', 'v0', 'v0', asm.lo(BITMAP)),
+        ('addu', 'v1', 'v1', 'v0'),
+        ('lbu', 'v0', 0, 'v1'),
+        ('andi', 't8', 'a0', 1),
+        ('bnez', 't8', 'phigh'),
+        ('andi', 't9', 'v0', 0xf),
+        ('bnez', 't9', 'pret'),
+        ('ori', 'v0', 'v0', OUTLINE_COL),
+        ('jr', 'ra'),
+        ('sb', 'v0', 0, 'v1'),
+        'phigh:',
+        ('andi', 't9', 'v0', 0xf0),
+        ('bnez', 't9', 'pret'),
+        ('ori', 'v0', 'v0', OUTLINE_COL << 4),
+        ('jr', 'ra'),
+        ('sb', 'v0', 0, 'v1'),
+        'pret:',
+        ('jr', 'ra'),
+        ('nop',)]
 
 
 STRLEN = 0x80091e98
@@ -255,17 +408,27 @@ def _sites(lab):
             ('jal', pixw), None, ('nop',)]),                          # x = (0x128 - strlen*8)/2
         (SHADOW, [0x0c00599a], [('jal', lab['shcol'])]),
         (GLCOL, [0x0c00599a], [('jal', lab['glcol'])]),
+        (OUTLINE_AT, [0x0c005757], [('jal', lab['outline'])]),
+        (BORDER_AT, [0x0c005aa1], [('jal', lab['border'])]),
     ] + [s for on, off in OUTLINED for s in (
         (on, [0x0c0059f5], [('jal', lab['on'])]), (off, [0x0c0059f5], [('jal', lab['off'])]))]
 
 
+VARS = 80                         # pend, svra, svx, svy, scr[16]
+
+
+def listing(at):
+    """-> (labels, bytes) of the blob at `at`: char, flag, widths, VARS, code."""
+    char, flag, widths = at, at + 4, at + 8
+    vars = widths + len(WIDTHS)
+    code_at = vars + VARS
+    lines = _code(char, widths, flag, vars)
+    return asm.labels(code_at, lines), bytes(8) + WIDTHS + bytes(VARS) + asm.assemble(code_at, lines)
+
+
 def blob(at):
     """Code + data at `at` -> (bytes, patch(exe, exe_base))."""
-    char, flag, widths = at, at + 4, at + 8
-    code_at = widths + len(WIDTHS)
-    lines = _code(char, widths, flag)
-    lab = asm.labels(code_at, lines)
-    data = bytes(8) + WIDTHS + asm.assemble(code_at, lines)
+    lab, data = listing(at)
 
     def patch(exe, exe_base):
         word = lambda va: struct.unpack_from('<I', exe, va - exe_base)[0]

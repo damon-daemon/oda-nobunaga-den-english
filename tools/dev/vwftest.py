@@ -29,8 +29,7 @@ def run(entry, data, s):
 
 
 def main():
-    data, _ = vwf.blob(BASE)
-    lab = asm.labels(BASE + 4 + len(vwf.WIDTHS), vwf._code(BASE, BASE + 4))
+    lab, data = vwf.listing(BASE)
     bad = 0
     tests = ['', 'Owari Province', 'The quick brown fox, jumps!', 'iiii', 'WWW mmm 0123']
     for t in tests:
