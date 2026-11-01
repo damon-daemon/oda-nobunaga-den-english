@@ -104,13 +104,13 @@ Old man...
 My lord...
 
 @30.0
-Old maaan.
+Old man!
 
 @31.0
 ...\nOld man... Why did you die?
 
 @32
-Masahide took his own life in the hope of making Nobunaga aware of his duty as heir.\n\nTo repay Masahide's devotion, Nobunaga built Seishuji temple and prayed for the repose of his soul. Nobunaga was twenty at the time.
+Masahide took his own life in the hope of making Nobunaga aware of his duty as heir.\n\nTo repay Masahide's devotion, Nobunaga built a temple, Seishuji, and prayed for the repose of his soul. Nobunaga was twenty at the time.
 
 @33
 This event was cut from the PS version.
@@ -233,7 +233,7 @@ Lord Nobunaga has arrived.
 W-what?
 
 @58.0
-This is Lord Yamashiro.
+This is Saito Dosan, Governor of Yamashiro.
 
 @58.1
 ...Is that so.

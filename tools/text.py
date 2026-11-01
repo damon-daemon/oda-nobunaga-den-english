@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.dirname(__file__))
 from vwf import width as pixels
 
 # pixels per line, by op; None = no wrapping (short labels). Dialogue box text 216 px (cleared
-# area 0xd8; a line of exactly 216 px pokes its white background out of the box -> 215),
+# area 0xd8; a line of 215 or 216 px pokes its white background out of the box -> 214),
 # narration box 244 px (x 30) with text at x 38.
-WIDTH = {0x27: 215, 0x28: 220, 0x29: None, 0x2a: None, 0x2b: None, 0x2c: 215, 0x12: None, 0x4f: 215,
+WIDTH = {0x27: 214, 0x28: 220, 0x29: None, 0x2a: None, 0x2b: None, 0x2c: 214, 0x12: None, 0x4f: 214,
          0x17: None}
 # lines per page of the auto-paging boxes: the Japanese pads with blank lines to start a new
 # page, so build turns every blank-line paragraph break into padding up to the next page.

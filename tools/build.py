@@ -113,10 +113,14 @@ SMITH_PANEL = [(0x800184e4, 0x2406009c, 0x240600a6),  # clear rect width 156 -> 
                (0x80018614, 0x240600d4, 0x240600cc),  # weapon icon x 212 -> 204
                (0x8001866c, 0x240500e4, 0x240500dc),  # weapon name x 228 -> 220
                # its item list 0x8001802c: icons at x 144, names at 160, clear rect 158..235,
-               # Smith Skill icons at 240 -> icons 140, names 156, clear 154..240 (names <= 84 px)
+               # Smith Skill icons at 240 -> icons 140, names 155, clear 154..240 (names <= 84 px)
+               # text y is the row - 2, so its outline reached above the clear rect (specks on
+               # the next redraw): clear from y 62, not 64
                (0x80018050, 0x2404009e, 0x2404009a),  # clear rect x 158 -> 154
+               (0x80018054, 0x24050040, 0x2405003e),  # clear rect y 64 -> 62
+               (0x80018060, 0x24070082, 0x24070084),  # clear rect height 130 -> 132
                (0x80018058, 0x2406004d, 0x24060056),  # clear rect width 77 -> 86
-               (0x80018070, 0x240500a0, 0x2405009c),  # name x 160 -> 156
+               (0x80018070, 0x240500a0, 0x2405009b),  # name x 160 -> 155 (84-px name: outline ends at 239)
                (0x80018124, 0x24060090, 0x2406008c)]  # icon x 144 -> 140
 
 

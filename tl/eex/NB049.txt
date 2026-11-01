@@ -20,7 +20,7 @@ Having shaken off Akechi's men and escaped Kyoto, Nobunaga and Ranmaru reached t
 My lord.
 
 @7.1
-Damn, a blunder. Attacked by Mitsuhide, brought to such misery! Ranmaru! We go to Azuchi now!\n\nI shall return to Azuchi, gather an army and strike down Mitsuhide! I will not be satisfied until I cut off his head with my own hand!
+Damn, a blunder. Attacked by Mitsuhide, brought to such misery! Ranmaru! We go to Azuchi now!\n\nI shall return to Azuchi, gather an army and strike down Mitsuhide! I will not rest until I cut off his head with my own hand!
 
 @7.2
 My lord, Azuchi may already have fallen into Akechi hands. Might it not be better to flee to Lord Gamo's Hino Castle?

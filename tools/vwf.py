@@ -67,12 +67,43 @@ BORDER_AT = 0x80016600            # DRAW 0x800164f4: jal CELL_BLIT -> border
 CELL_BLIT = 0x80016a84            # (ctx, x, y, w, [sp+0x10] h, [sp+0x14] cell) -> 0x8003112c
 BITMAP, BM_W, BM_H = 0x8018c388, 320, 240    # 4bpp text bitmap, 160 bytes per row
 OUTLINE_COL = 8
+TEXT_CTX = 0x800c9814
+LIST_START = 0x80017da4           # item list printer: jal 0x80016634 before the rows
+LIST_START_FN = 0x80016634
+LIST_END = 0x80017e7c             # its epilogue: lw ra / lw s5
 
 
 def _code(char, widths, flag, vars):
     pend, svra, svx, svy, scr = vars, vars + 4, vars + 8, vars + 12, vars + 16
+    lmode, lra = vars + 80, vars + 84
     # scr: 16 words = glyph rows -2..13 (rows 0-11 written by `outline`, the rest stay 0)
     return [
+        'lstart:',          # item list printer 0x80017cb4: transparent cells (the list is
+        ('lui', 't0', asm.hi(lmode)),             # cleared before it prints). Opaque ones wiped
+        ('sw', 'ra', asm.lo(lra), 't0'),          # the Smith Skill label after an 84-px name
+        ('lbu', 'a1', 0, 'a0'),
+        ('nop',),
+        ('sw', 'a1', asm.lo(lmode), 't0'),
+        ('andi', 'a1', 'a1', 0xf0),
+        ('jal', SETMODE),
+        ('ori', 'a1', 'a1', 4),
+        ('lui', 't0', asm.hi(lmode)),
+        ('lw', 'ra', asm.lo(lra), 't0'),
+        ('lui', 'a0', asm.hi(TEXT_CTX)),
+        ('addiu', 'a0', 'a0', asm.lo(TEXT_CTX)),
+        ('j', LIST_START_FN),
+        ('addu', 'a1', 'zero', 'zero'),
+        'lend:',            # its epilogue: mode back
+        ('lui', 'a0', asm.hi(TEXT_CTX)),
+        ('addiu', 'a0', 'a0', asm.lo(TEXT_CTX)),
+        ('lui', 't0', asm.hi(lmode)),
+        ('lw', 'a1', asm.lo(lmode), 't0'),
+        ('jal', SETMODE),
+        ('nop',),
+        ('lw', 'ra', 0x30, 'sp'),
+        ('j', LIST_END + 8),
+        ('nop',),
+
         'on:',                                    # outlined print starts: shadow off
         ('lui', 't0', asm.hi(flag)),
         ('addiu', 't1', 'zero', 1),
@@ -410,11 +441,13 @@ def _sites(lab):
         (GLCOL, [0x0c00599a], [('jal', lab['glcol'])]),
         (OUTLINE_AT, [0x0c005757], [('jal', lab['outline'])]),
         (BORDER_AT, [0x0c005aa1], [('jal', lab['border'])]),
+        (LIST_START, [0x0c00598d], [('jal', lab['lstart'])]),
+        (LIST_END, [0x8fbf0030], [('j', lab['lend'])]),
     ] + [s for on, off in OUTLINED for s in (
         (on, [0x0c0059f5], [('jal', lab['on'])]), (off, [0x0c0059f5], [('jal', lab['off'])]))]
 
 
-VARS = 80                         # pend, svra, svx, svy, scr[16]
+VARS = 88                         # pend, svra, svx, svy, scr[16], lmode, lra
 
 
 def listing(at):

@@ -5,7 +5,7 @@
 "Autumn Wind at Odani"
 
 @2.0
-My lord, bands of scavengers hunt fallen warriors around here. I suggest you spend the night at Kenshoji temple, just ahead.
+My lord, bands of scavengers hunt fallen warriors around here. I suggest you spend the night at a temple just ahead, Kenshoji.
 
 @2.1
 Bah! That I, head of the Asakura, must flee into a temple... What a pitiful thing.
