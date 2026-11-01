@@ -383,7 +383,7 @@ Tottori Castle is a famous fortress of the realm. It cannot be taken by force.
 Indeed. So, Kanbei, have you any good plan?
 
 @91.3
-Yes. First, spread a rumour that Wakasa has had a poor harvest, and buy up rice and barley in Tottori Castle's town at high prices.
+Yes. First, spread a rumour of a poor harvest in Wakasa, and buy up rice and barley in Tottori's town at high prices.
 
 @91.4
 Then march on Tottori Castle, and when the enemy reinforcements rush into the castle, starve them out with a siege.

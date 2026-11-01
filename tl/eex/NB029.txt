@@ -428,7 +428,7 @@ Thanks to Akechi's rebellion, our house has escaped danger.
 Indeed.
 
 @78.2
-Everyone, listen. We took most of Awa last year, but Sanuki and Shozui Castle in northern Awa remain under our old rival Sogo. He was allied with the Oda, but with Akechi's rebellion the Oda are as good as finished. Now is the moment to conquer Awa.
+Listen. We took most of Awa last year, but Sanuki and Shozui Castle in northern Awa remain under our old rival Sogo. He was allied with the Oda, but with Akechi's rebellion the Oda are as good as finished. Now is the moment to conquer Awa.
 
 @78.3
 Your words are most just, my lord. Let us conquer Awa and Sanuki and achieve the unification of Shikoku we have long desired!
@@ -545,7 +545,7 @@ I am well again.
 More to the point, is it true that Katsuie and Hideyoshi are on the brink of open conflict?
 
 @99.3
-It is true. Lord Hideyoshi intends to send troops into Omi during the winter, when Lord Katsuie cannot move. If so, Lord Katsuie will surely force a march out of Echizen before the thaw. If they learn you live, my lord, both will pull back their troops.
+It is true. Lord Hideyoshi intends to send troops into Omi during the winter, when Lord Katsuie cannot move. If so, Lord Katsuie will surely force a march out of Echizen before the thaw. If they learn you live, my lord, both will pull back.
 
 @100
 Echizen - Kitanosho Castle

@@ -389,7 +389,7 @@ Do not worry. Old man, I will attend the funeral.
 Tomorrow the chief members of the Oda clan will arrive.
 
 @66.5
-You must conduct yourself in a manner fitting an heir.
+You must conduct yourself in a manner befitting an heir.
 
 @66.6
 I know.\n\n\nTell me, old man.

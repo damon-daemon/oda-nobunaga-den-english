@@ -8,7 +8,7 @@ My lord. Araki Murashige has fled, and we still cannot find where he is.
 Curse Murashige. So he ran.
 
 @4.0
-We have taken several hundred of the castle's soldiers alive, along with Murashige's kin. What shall we do with them?
+We have captured several hundred of the castle's soldiers, and Murashige's kin. What shall we do with them?
 
 @5.0
 Crucify the soldiers who resisted to the end, in Settsu. Behead Murashige's kin in Kyoto.
@@ -146,7 +146,7 @@ As to that, I hear Toshimitsu once served Ittetsu.
 Toshimitsu is called "the Spear God of Akechi". I understand you do not wish to let him go...
 
 @32.2
-...but changing lords without cause is hardly fitting for a warrior. Return Toshimitsu to Ittetsu.
+...but changing lords without cause is hardly befitting a warrior. Return Toshimitsu to Ittetsu.
 
 @33.0
 I cannot give up a man who has shared life and death with me through so many years of battle.

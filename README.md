@@ -13,7 +13,7 @@ the storehouse. The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9.2).** All of the game's text is in English and the main story has
+> **This is a beta (v0.9.3).** All of the game's text is in English and the main story has
 > been played through to the Honnoji ending, but most of the "what if" branch chapters after
 > Honnoji were only checked as text, not in play. Expect some text that is squeezed, cut
 > short or wrapped oddly.
@@ -92,8 +92,8 @@ cp "/path/to/Oda Nobunaga Den (Japan) (Track 2).bin" oda_nobunaga_den_track2.bin
 Japanese text from your disc for the translation tools. `script/` and `build/` are
 never committed.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.2` after building:
-it writes `release/Oda_Nobunaga_Den_English_v0.9.2.zip` with the versioned xdelta patch,
+To make a release package, run `.venv/bin/python tools/package.py 0.9.3` after building:
+it writes `release/Oda_Nobunaga_Den_English_v0.9.3.zip` with the versioned xdelta patch,
 the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Repository layout

@@ -32,7 +32,7 @@ Only a few soldiers are at Hamamatsu Castle, where Nobunaga is heading. You and 
 Then I will go at once.
 
 @9.0
-The rest of us will begin the pursuit as soon as we are ready. We will defeat Nobunaga and plant our banner in the capital of Kyoto!
+The rest of us will begin the pursuit as soon as we are ready. We will defeat Nobunaga and plant our banner in Kyoto!
 
 @10.0
 (Father... watch over me. I will surely take Nobunaga's head...)

@@ -95,7 +95,7 @@ but the others seem unwilling to obey you, my lord.
 Is that so? Then I have my own ideas.
 
 @15.5
-Monkey, abolish the toll barriers throughout the Kinai except Kyoto and let merchants travel freely. I will abolish most guilds too.
+Monkey, abolish the toll barriers in the Kinai except Kyoto and let merchants travel freely. I will abolish most guilds too.
 
 @15.6
 I will punish those who profit wrongly from outdated privileges.
