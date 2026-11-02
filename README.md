@@ -130,6 +130,7 @@ Tested in DuckStation only. Bug reports with a screenshot and where it happened 
 ## Credits
 
 - Translation and hacking: [damon-daemon](https://github.com/damon-daemon)
+- Playtesting and bug reports: [Rumi495](https://github.com/Rumi495)
 - Oda Nobunaga Den © Koei Tecmo. This is an unofficial fan project, not affiliated with
   or endorsed by Koei Tecmo. Please support the official releases.
 
