@@ -50,7 +50,7 @@ My lord!! A grave matter!
 What is it? Such a racket.
 
 @17.2
-Lord Yoshitatsu has rebelled! Lord Magoshiro and Lord Kiheiji have already been slain...
+Lord Yoshitatsu has rebelled! Your sons Lord Magoshiro and Lord Kiheiji have both already been slain...
 
 @17.3
 The enemy is closing in. Please hurry!!
@@ -59,10 +59,10 @@ The enemy is closing in. Please hurry!!
 What!? W-what?
 
 @18.1
-Ha ha ha, that Yoshitatsu has done well for himself.
+Hahaha, that Yoshitatsu has done well for himself.
 
 @19.0
-Gather the chief men in the council chamber.
+Gather the chief retainers in the council chamber.
 
 @20
 Sagiyama Castle - Council Chamber
@@ -71,7 +71,7 @@ Sagiyama Castle - Council Chamber
 Listen, all of you. Yoshitatsu has rebelled.
 
 @21.1
-No, it is not a rebellion. I had already handed the headship to that fool. Wa ha ha ha.
+No, it is not a rebellion. I had already handed the headship to that fool. Wahahaha.
 
 @22.0
 Those who wish to side with Yoshitatsu, leave now.
@@ -80,7 +80,7 @@ Those who wish to side with Yoshitatsu, leave now.
 We are all resolved to share life and death with you, my lord.
 
 @23.1
-Understood. I, Dosan the lay priest, accept all your lives.\n(Heh. They all have fine eyes.)
+Understood. I, Dosan the monk, accept all your lives.\n(Heh. They all have fine eyes.)
 
 @24.0
 Akechi Mitsuyasu and Hotta Doku, remain here. The rest, hurry and gather troops.
@@ -113,10 +113,10 @@ And take my children to Myokakuji in Kyoto.
 They do not have the makings of generals. Living as monks will suit them better.
 
 @27.5
-Myokakuji is the temple I ran away from.\n\n\nI was a fallen monk, but I gave it generous donations, so they should treat them decently. Wa ha ha ha ha.
+Myokakuji is the temple I ran away from.\n\n\nI was a fallen monk, but I gave it generous donations, so they should treat them decently. Wahahahaha.
 
 @28.0
-How pitiful. My lord.
+How pitiful... My lord...
 
 @28.1
 Do not weep. It is not yet decided that I will die.

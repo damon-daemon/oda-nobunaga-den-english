@@ -141,6 +141,8 @@ def warn(sc, k, en):
         for line in text.fold(en).split('\\n'):
             if text.pixels(line) > lim:
                 out.append('%d px (unwrapped label, limit %d)' % (text.pixels(line), lim))
+        if op in (0x2a, 0x2b) and len(text.fold(en)) > 63:
+            out.append('%d bytes (chapter title buffer holds 63)' % len(text.fold(en)))
     return ['%s %s: %s' % (sc.name, key_str(k), x) for x in out]
 
 

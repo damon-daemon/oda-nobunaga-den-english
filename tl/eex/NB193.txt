@@ -11,7 +11,7 @@ Pirates of Lake Biwa\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat
 Pirates of Lake Biwa\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. A village is attacked.\n  2. The Oda army is wiped out.\n  3. The Oda main camp is taken.\n  4. More than 40 turns pass.
 
 @3.0
-Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+Hahaha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
 
 @3.1
 Oh, what a disaster. The village...
@@ -23,7 +23,7 @@ Lord Nobunaga did not even have the strength to protect us...
 Lost a village to Lake Biwa pirates
 
 @6.0
-Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+Hahaha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
 
 @6.1
 Oh, what a disaster. The village...
@@ -35,7 +35,7 @@ Lord Nobunaga did not even have the strength to protect us...
 Lost a village to Lake Biwa pirates
 
 @9.0
-Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+Hahaha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
 
 @9.1
 Oh, what a disaster. The village...
@@ -47,7 +47,7 @@ Lord Nobunaga did not even have the strength to protect us...
 Lost a village to Lake Biwa pirates
 
 @12.0
-Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+Hahaha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
 
 @12.1
 Oh, what a disaster. The village...
@@ -59,7 +59,7 @@ Lord Nobunaga did not even have the strength to protect us...
 Lost a village to Lake Biwa pirates
 
 @15.0
-Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+Hahaha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
 
 @15.1
 Oh, what a disaster. The village...
@@ -71,7 +71,7 @@ Lord Nobunaga did not even have the strength to protect us...
 Lost a village to Lake Biwa pirates
 
 @18.0
-Ha ha ha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
+Hahaha, he cannot even protect one village. That is all Nobunaga's strength amounts to!
 
 @18.1
 Oh, what a disaster. The village...

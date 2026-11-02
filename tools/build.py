@@ -85,9 +85,6 @@ def patch_exe(exe):
     for va, old, new in SMITH_PANEL:
         assert peek(exe, va, 1) == [old], 'unexpected code at %#x' % va
         poke(exe, va, [new])
-    # save list line split (see SAVE_SEP): line 1 = prefix + 1 byte of the separator
-    assert peek(exe, SAVE_SPLIT_AT, 1) == [0x02028021], 'unexpected code at %#x' % SAVE_SPLIT_AT
-    poke(exe, SAVE_SPLIT_AT, [0x26100001])  # addu s0, s0, v0 (strlen) -> addiu s0, s0, 1
 
 
 IMSG_CUT_AT = (0x80029804, 0x8006d940, 0x8006dabc)
@@ -105,23 +102,130 @@ CREDIT_X = {0x80039a64: 166, 0x80039a7c: 206, 0x80039a94: 166, 0x80039aac: 206, 
             0x80039aec: 206, 0x80039b04: 206, 0x80039b1c: 166, 0x80039b34: 206}
 SAVE_SEP = 0x8012a664
 SAVE_SPLIT_AT = 0x8003df50
+# Chapter title (issue #6): the EEX title op strcpy's the current chapter title to a 30-byte
+# buffer 0x80105aa8 (cleared with 30 at TITLE_CLEAR_AT; padding, then a 0x960-byte battle
+# buffer 0x80105ac8), and the save header keeps its first 30 bytes (strcpy 0x8003e7a8, the
+# next fields overwrite the rest, so no NUL when the title is longer), restored on load by an
+# unbounded strcpy (TITLE_LOAD_AT). 12 English titles are 30-35 bytes with their quotes: the
+# title op overflowed into 0x80105ac8 and a save made after loading one had a truncated
+# title ("Masahide's Final Remonstrance lost its closing quote), so the slot list's '"Lv'
+# split failed and the whole title landed on line 2. Fix: the buffer moves to TITLE_BUF
+# (64 bytes above the blob, which the font loader re-reads from KANJITBL.BIN), the loader
+# restores it from the slot's full list title (last frame of the save: Oda Nobunaga Den +
+# title + Lv N, title_load below) with the 30-byte header field as fallback, and the list
+# splits before "Lv" so a title without its closing quote still gets two lines.
+TITLE_BUF = 0x801f8000               # = BLOB_END, 64 bytes; stack floor seen 0x801feb50
+TITLE_SITES = [(0x8001db20, 0x8001db28),   # EEX title op: strcpy dest
+               (0x80026188, 0x8002618c),   # new chapter: clear
+               (0x8003e6b0, 0x8003e6b4),   # list title builder: strcat source
+               (0x8003e798, 0x8003e7a0),   # save: strcpy source for the header
+               (0x8003e9bc, 0x8003e9c0)]   # load: copy dest
+TITLE_CLEAR_AT = 0x80026190          # addiu a1, zero, 0x1e -> 0x40
+TITLE_LOAD_AT = 0x8003e9c4           # jal strcpy -> jal title_load (delay slot: a1 = header + 5)
+ENTRY_TITLE = 0x80032124             # (slot index) -> list title of the current card's entry
+STRSTR = 0x80091fc8                  # the game's strstr (no backtracking, 1-byte needles fail)
 CLASS_X = [(0x8002855c, 0x24060068, 0x24060052),     # addiu a2, zero, icon x
            (0x8002856c, 0x24050078, 0x24050063)]     # addiu a1, zero, class x
-SMITH_PANEL = [(0x800184e4, 0x2406009c, 0x240600a6),  # clear rect width 156 -> 166
+SMITH_PANEL = [(0x800184dc, 0x24040090, 0x2404008e),  # clear rect x 144 -> 142 (class name outline at 143)
+               (0x800184e4, 0x2406009c, 0x240600a8),  # clear rect width 156 -> 168
                (0x80018570, 0x0c009a04, 0x00000000),  # class icon sprite: nop
                (0x800185a8, 0x240500a0, 0x24050090),  # class name x 160 -> 144
                (0x80018614, 0x240600d4, 0x240600cc),  # weapon icon x 212 -> 204
                (0x8001866c, 0x240500e4, 0x240500dc),  # weapon name x 228 -> 220
                # its item list 0x8001802c: icons at x 144, names at 160, clear rect 158..235,
-               # Smith Skill icons at 240 -> icons 140, names 155, clear 154..240 (names <= 84 px)
+               # Smith Skill icons at 240 -> icons 140, names 155, clear 152..240 (names <= 84 px)
                # text y is the row - 2, so its outline reached above the clear rect (specks on
-               # the next redraw): clear from y 62, not 64
-               (0x80018050, 0x2404009e, 0x2404009a),  # clear rect x 158 -> 154
+               # the next redraw): clear from y 62, not 64. The same on the left: a name at x 155 has
+               # its outline at 153 and 154 -> clear from x 152
+               (0x80018050, 0x2404009e, 0x24040098),  # clear rect x 158 -> 152
                (0x80018054, 0x24050040, 0x2405003e),  # clear rect y 64 -> 62
                (0x80018060, 0x24070082, 0x24070084),  # clear rect height 130 -> 132
-               (0x80018058, 0x2406004d, 0x24060056),  # clear rect width 77 -> 86
+               (0x80018058, 0x2406004d, 0x24060058),  # clear rect width 77 -> 88
                (0x80018070, 0x240500a0, 0x2405009b),  # name x 160 -> 155 (84-px name: outline ends at 239)
                (0x80018124, 0x24060090, 0x2406008c)]  # icon x 144 -> 140
+
+
+def title_load(at, sep):
+    """Blob routine replacing strcpy(TITLE_BUF = a0, header title = a1) in the save loader:
+    copies the chapter title out of the selected slot's list title (bytes 10.. up to "Lv"),
+    else the header field (30 bytes at most); always NUL-terminated."""
+    lines = [
+        ('addiu', 'sp', 'sp', -32),
+        ('sw', 'ra', 28, 'sp'),
+        ('sw', 'a0', 16, 'sp'),
+        ('sw', 'a1', 20, 'sp'),
+        ('lw', 'a0', 0x214, 'gp'),               # selected slot (set by the list cursor)
+        ('jal', ENTRY_TITLE),
+        ('nop',),
+        ('lbu', 't0', 0, 'v0'),                  # must start with Oda Nobunaga Den (0x9044)
+        ('lbu', 't1', 1, 'v0'),
+        ('addiu', 't2', 'zero', 0x90),
+        ('bne', 't0', 't2', 'header'),
+        ('addiu', 't2', 'zero', 0x44),
+        ('bne', 't1', 't2', 'header'),
+        ('addiu', 't3', 'v0', 10),
+        ('sw', 't3', 24, 'sp'),
+        ('lui', 'a1', asm.hi(sep)),
+        ('addiu', 'a1', 'a1', asm.lo(sep)),
+        ('jal', STRSTR),
+        ('addu', 'a0', 't3', 'zero'),
+        ('beqz', 'v0', 'header'),
+        ('lw', 't3', 24, 'sp'),
+        ('lw', 'a0', 16, 'sp'),
+        ('subu', 't4', 'v0', 't3'),              # title length (< 64 with its NUL)
+        ('sltiu', 't5', 't4', 64),
+        ('beqz', 't5', 'header'),
+        ('nop',),
+        ('beqz', 't4', 'end'),
+        ('nop',),
+        'copy:',
+        ('lbu', 't5', 0, 't3'),
+        ('addiu', 't3', 't3', 1),
+        ('sb', 't5', 0, 'a0'),
+        ('addiu', 't4', 't4', -1),
+        ('bnez', 't4', 'copy'),
+        ('addiu', 'a0', 'a0', 1),
+        ('b', 'end'),
+        ('nop',),
+        'header:',                               # fallback: the 30-byte header field
+        ('lw', 'a0', 16, 'sp'),
+        ('lw', 'a1', 20, 'sp'),
+        ('addiu', 't4', 'zero', 30),
+        'hcopy:',
+        ('lbu', 't5', 0, 'a1'),
+        ('addiu', 'a1', 'a1', 1),
+        ('beqz', 't5', 'end'),
+        ('addiu', 't4', 't4', -1),
+        ('sb', 't5', 0, 'a0'),
+        ('bnez', 't4', 'hcopy'),
+        ('addiu', 'a0', 'a0', 1),
+        'end:',
+        ('lw', 'ra', 28, 'sp'),
+        ('sb', 'zero', 0, 'a0'),
+        ('jr', 'ra'),
+        ('addiu', 'sp', 'sp', 32)]
+    return asm.assemble(at, lines)
+
+
+def patch_title(exe, code_at, sep):
+    """Chapter title buffer -> TITLE_BUF, loader -> title_load, list split before "Lv"."""
+    for lui_at, addiu_at in TITLE_SITES:
+        assert peek(exe, lui_at, 1)[0] & 0xffff == 0x8010 and peek(exe, addiu_at, 1)[0] & 0xffff == 0x5aa8, \
+            'unexpected title reference at %#x' % lui_at
+        poke(exe, lui_at, [peek(exe, lui_at, 1)[0] & 0xffff0000 | asm.hi(TITLE_BUF)])
+        poke(exe, addiu_at, [peek(exe, addiu_at, 1)[0] & 0xffff0000 | asm.lo(TITLE_BUF) & 0xffff])
+    assert peek(exe, TITLE_CLEAR_AT, 1) == [0x2405001e], 'unexpected code at %#x' % TITLE_CLEAR_AT
+    poke(exe, TITLE_CLEAR_AT, [0x24050040])
+    assert peek(exe, TITLE_LOAD_AT, 1) == [0x0c024792], 'unexpected code at %#x' % TITLE_LOAD_AT
+    exe[TITLE_LOAD_AT - EXE_BASE:TITLE_LOAD_AT - EXE_BASE + 4] = asm.assemble(TITLE_LOAD_AT, [('jal', code_at)])
+    # save list: the slot title (Oda Nobunaga Den + chapter + level) is drawn as two lines,
+    # split at the separator found by the game's strstr (pointer table SAVE_SEP; the Japanese
+    # splits after the closing bracket, SAVE_SPLIT_AT adds the separator's length to line 1).
+    # English: split before "Lv" (PROG:8012a674), nothing of the separator on line 1.
+    assert peek(exe, SAVE_SEP, 1) == [0x8012a660], 'save-list separator moved'
+    poke(exe, SAVE_SEP, [sep])
+    assert peek(exe, SAVE_SPLIT_AT, 1) == [0x02028021], 'unexpected code at %#x' % SAVE_SPLIT_AT
+    poke(exe, SAVE_SPLIT_AT, [0])             # addu s0, s0, v0 (strlen) -> nop
 
 
 # English blob: appended to DATA/KANJITBL.BIN, which the font loader 0x80016090 reads to
@@ -178,16 +282,12 @@ def build_files(disc, recs):
         sys.exit('%s\nprogstr errors (tools/progstr.py check)' % e)
     print('program strings: %d (%d moved, %d bytes in the blob)' % (n, moved, len(extra)))
     blob += extra
-    # save list: the slot title (Oda Nobunaga Den + chapter + level) is drawn as two lines,
-    # split after the separator found by the game's strstr 0x80091fc8 (separator pointer
-    # table SAVE_SEP; the Japanese splits after the closing 』). English: split at '"Lv' (the
-    # chapter's closing quote + "Lv", PROG:8012a674), keeping only the quote on line 1
-    # (SAVE_SPLIT_AT). That strstr returns the string start for 1-byte patterns, so the
-    # separator is not just '"' (PROG:8012a660, also the closing quote of battle saves).
+    # chapter title buffer, save loader and save-list split (see TITLE_BUF)
     blob += bytes(-len(blob) % 4)
-    assert peek(exe, SAVE_SEP, 1) == [0x8012a660], 'save-list separator moved'
-    poke(exe, SAVE_SEP, [BLOB + len(blob)])
-    blob += b'"Lv\0'
+    sep = BLOB + len(blob)
+    blob += b'Lv\0\0'
+    patch_title(exe, BLOB + len(blob), sep)
+    blob += title_load(BLOB + len(blob), sep)
     assert BLOB + len(blob) <= BLOB_END, 'blob too large: %d bytes' % len(blob)
     tbl = disc.file(KANJITBL, recs)
     assert KANJITBL_LOAD + len(tbl) == BLOB

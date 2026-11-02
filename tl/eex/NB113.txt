@@ -5,7 +5,7 @@ Heh heh heh, Nobunaga. He has blundered out with no idea that we are allied with
 We and the Honganji will press from the south, the Azai and Asakura from the north.
 
 @0.2
-Today is your end! Ha ha ha ha ha...
+Today is your end! Hahahahaha...
 
 @1
 Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Wipe out the enemy.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
@@ -56,7 +56,7 @@ That is the Saiga musketeer band led by Sadayu.
 Our muskets will smash Nobunaga's army.
 
 @8.4
-Ha ha ha, reassuring indeed. Very well, general attack!
+Hahaha, reassuring indeed. Very well, general attack!
 
 @9.0
 Lord Nobunaga, terrible news!
@@ -128,7 +128,7 @@ That is the Saiga musketeer band led by Sadayu.
 Our muskets will smash Nobunaga's army.
 
 @25.4
-Ha ha ha, reassuring indeed. Very well, general attack!
+Hahaha, reassuring indeed. Very well, general attack!
 
 @26.0
 They say that when war comes, Enryakuji to the north and the Honganji to the west set terrible traps.

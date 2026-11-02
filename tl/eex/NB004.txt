@@ -206,7 +206,7 @@ Are you saying that I can take the realm?
 Yes, you can. If you will give me a post.
 
 @42.0
-Ha ha ha. You know that I am Nobunaga, do you not.
+Hahaha. You know that I am Nobunaga, do you not.
 
 @43.0
 What have you been doing until now?
@@ -230,7 +230,7 @@ Your name does not matter. You are Monkey. You look just like a monkey.
 Yes, my lord. I gratefully accept the nickname. I am Monkey, for I look just like one.
 
 @48.0
-An interesting fellow. Ha ha ha.
+An interesting fellow. Hahaha.
 
 @50.0
 Lord Nobuyuki, I can no longer bear Lord Nobunaga's wild conduct...

@@ -119,7 +119,7 @@ That reminds me, you have taken the name Hashiba, have you not?
 Yes, my lord. I wished to share in the good fortune of Lord Shibata and Lord Niwa, so I took a character from each of their names.
 
 @31.2
-Ha ha ha. I cannot say I mind.
+Hahaha. I cannot say I mind.
 
 @31.3
 Now, Hideyoshi, you are lord of a province and a castle. I expect even greater service from you.
@@ -227,7 +227,7 @@ Katsuie, drink your New Year sake from Azai Nagamasa's cup!
 Katsuie, tell me how the first sake of the year tastes.
 
 @49.1
-Ha ha ha, my lord is truly bold. It tastes excellent indeed.
+Hahaha, my lord is truly bold. It tastes excellent indeed.
 
 @50.0
 Monkey, it is the New Year. I will not hear that you cannot drink! Drink from this cup of Azai Hisamasa.

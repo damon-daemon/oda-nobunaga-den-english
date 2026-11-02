@@ -5,7 +5,7 @@ I'll show that Nobunaga that I am the better man at war.
 Once Katahide and the flanking force move, Nobunaga is finished.
 
 @0.2
-Ha ha ha.
+Hahaha.
 
 @0.3
 Can we really win with this...
@@ -104,7 +104,7 @@ Grr, if only Katahide had not turned traitor, I would have won...\n\nCurse it, r
 We have taken their camp!
 
 @18.0
-Ha ha ha ha, Nobunaga!
+Hahahaha, Nobunaga!
 
 @18.1
 Now you know my strength!
@@ -119,7 +119,7 @@ How mortifying...
 We have taken their camp!
 
 @22.0
-Ha ha ha, Nobunaga!
+Hahaha, Nobunaga!
 
 @22.1
 Now you know my strength!
