@@ -26,7 +26,7 @@ The Azai have long been allied with the Asakura, and are on close terms with the
 If the Azai move, we will be in danger.
 
 @0.9
-Ha ha ha, do not worry, Lord Ieyasu.
+Hahaha, do not worry, Lord Ieyasu.
 
 @0.10
 Nagamasa is my sister's husband. He will never move.
@@ -59,7 +59,7 @@ All forces, begin retreating at once!
 The Rokkaku army has appeared
 
 @6.0
-Ha ha ha, the chance has finally come.
+Hahaha, the chance has finally come.
 
 @6.1
 Take your fill of what I owe you from Kannonji!
@@ -185,7 +185,7 @@ All forces, begin retreating at once!
 The Rokkaku army has appeared
 
 @27.0
-Ha ha ha, the chance has finally come.
+Hahaha, the chance has finally come.
 
 @27.1
 Take your fill of what I owe you from Kannonji!

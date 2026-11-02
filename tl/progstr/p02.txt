@@ -173,7 +173,7 @@ PROG:8012847c	Thank you very much.
 PROG:80128498	Father, will you not call a merchant?
 PROG:801284bc	Hm, someone\nsummon a merchant.
 PROG:801284dc	Lord Nobuhide,\nthank you for your custom.
-PROG:80128500	Call merchant.
+PROG:80128500	Call the merchant.
 PROG:80128510	Lord Nobunaga,\nthank you for your custom.
 PROG:80128534	Thank you for your custom.
 PROG:80128674	No entry

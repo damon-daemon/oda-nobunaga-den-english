@@ -32,7 +32,7 @@ Pitfall
 Pitfall
 
 @7.0
-Ha ha, you fell for it, Nobunaga!
+Haha, you fell for it, Nobunaga!
 
 @8
 The villagers were in league with them!
@@ -56,7 +56,7 @@ Damn, a trap!
 My lord, forgive me...
 
 @15.0
-Ha ha ha.\nYour main camp is ours, Nobunaga!
+Hahaha.\nYour main camp is ours, Nobunaga!
 
 @15.1
 Damn, beaten by mere Asakura remnants... There is no choice, retreat!
