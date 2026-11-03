@@ -54,10 +54,6 @@ def patch_exe(exe):
     for at, old, new in LIST_BOX:
         assert peek(exe, at, 1) == [old], 'unexpected code at %#x' % at
         poke(exe, at, [new])
-    # level-up "%s can now be equipped!" joins weapon types with ",%s": add a space
-    o = LIST_SEP - EXE_BASE
-    assert exe[o:o + 8] == b',%s\0\0\0\0\0', 'unexpected bytes at %#x' % LIST_SEP
-    exe[o:o + 5] = b', %s\0'
     # merchant wares list 0x80067400: price "%4u" printed at column 15 over the end of long
     # English item names -> column 16 (header "Wares   Price" spaced to match in tl/progstr)
     assert peek(exe, PRICE_COL_AT, 1) == [0x2405000f], 'unexpected code at %#x' % PRICE_COL_AT
@@ -99,7 +95,6 @@ LIST_BOX = [(0x8002e7a0, 0x240200e4, 0x240200b0),     # right-hand x 228 -> 176
             (0x8002e61c, 0x24060044, 0x24060078),     # box clear width 68 -> 120
             (0x8002e9a8, 0x24c60048, 0x24c6007c),     # page arrow x + 72 -> + 124
             (0x8002e9d4, 0x24c60048, 0x24c6007c)]     # R1 hint x + 72 -> + 124
-LIST_SEP = 0x8012a098
 PRICE_COL_AT = 0x80067588
 QTY_X_AT = 0x80028dc4
 CREDIT_DX = 24

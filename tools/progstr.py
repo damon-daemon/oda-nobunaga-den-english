@@ -484,8 +484,10 @@ def _is_text(b):
 
 
 # memory-card messages "slot \x82%c": %c = second byte of a full-width digit (English: {82}%c)
-# starts the scan misses: 道具一覧 (ring menu) follows colour bytes with no NUL in between
-EXTRA_STRINGS = {'PROG': (0x80120cd8, 0x80128760,)}
+# starts the scan misses: 道具一覧 (ring menu) follows colour bytes with no NUL in between;
+# ",%s" = level-up weapon-type separator (issue #12: ", %s" written in place ran into the gp
+# variable at 0x8012a09c, which the game overwrites -> moved like any longer string)
+EXTRA_STRINGS = {'PROG': (0x80120cd8, 0x80128760, 0x8012a098)}
 GAIJI_STRINGS = {'PROG': (0x80121090, 0x801210c8, 0x801210f8, 0x80121210, 0x8012136c, 0x80121424)}
 def candidates(img):
     """[(vaddr, bytes)] of the Shift-JIS strings in the image's data (mostly Japanese)."""
