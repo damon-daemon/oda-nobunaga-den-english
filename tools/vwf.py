@@ -261,6 +261,42 @@ def _code(char, widths, flag, vars):
         ('sw', 'zero', asm.lo(pend), 't7'),
 
         'border:',          # in place of the cell blit in DRAW (same arguments, passed on)
+        ('lbu', 't0', 0x14c, 'a0'),               # a background colour (boxed labels): the box
+        ('nop',),                                 # ends with the glyph's advance, not its 8-px
+        ('beqz', 't0', 'bblit'),                  # cell (issue #1: 6 blank px after a final i).
+        ('lui', 't1', asm.hi(char)),
+        ('lw', 't1', asm.lo(char), 't1'),         # The blit's stride is width / 2, so even
+        ('nop',),                                 # widths only and the rows are packed first
+        ('addiu', 't1', 't1', -0x20),
+        ('sltiu', 't2', 't1', 0x60),
+        ('beqz', 't2', 'bblit'),
+        ('lui', 't2', asm.hi(widths)),
+        ('addu', 't2', 't2', 't1'),
+        ('lbu', 't1', asm.lo(widths), 't2'),
+        ('nop',),
+        ('addiu', 't1', 't1', 1),
+        ('srl', 't1', 't1', 1),                   # t1 = bytes per row
+        ('sltiu', 't2', 't1', 4),
+        ('beqz', 't2', 'bblit'),
+        ('sll', 't3', 't1', 1),
+        ('addu', 'a3', 't3', 'zero'),
+        ('lw', 't2', 0x14, 'sp'),                 # t2 = write, t3 = read (cell rows of 4 bytes)
+        ('nop',),
+        ('addu', 't3', 't2', 'zero'),
+        ('addiu', 't0', 'zero', 16),
+        'bprow:',
+        ('addu', 't4', 'zero', 'zero'),
+        'bpcol:',
+        ('addu', 't5', 't3', 't4'),
+        ('lbu', 't5', 0, 't5'),
+        ('addiu', 't4', 't4', 1),
+        ('sb', 't5', 0, 't2'),
+        ('bne', 't4', 't1', 'bpcol'),
+        ('addiu', 't2', 't2', 1),
+        ('addiu', 't0', 't0', -1),
+        ('bnez', 't0', 'bprow'),
+        ('addiu', 't3', 't3', 4),
+        'bblit:',
         ('lui', 't7', asm.hi(svra)),
         ('sw', 'ra', asm.lo(svra), 't7'),
         ('sw', 'a1', asm.lo(svx), 't7'),
