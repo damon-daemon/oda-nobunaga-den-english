@@ -14,7 +14,7 @@ A tachi with a larger blade for greater attack power.
 A tachi with a longer blade, favouring accuracy over attack power.
 
 @5
-A wide-bladed uchigatana for high attack. Called Oni Hocho for its cleaver-like blade.
+A wide-bladed uchigatana for high attack. Called Oni Hōchō for its cleaver-like blade.
 
 @6
 An uchigatana built for easy draw-strikes. The blade gleams white.
@@ -41,7 +41,7 @@ An uchigatana modelled on the master smith Masamune. Sharp and beautiful.
 A Seki smith's skilled recreation of Izumi no Kami Kanesada. Light and easy to handle.
 
 @14
-A fine piece made with Etchu smithing skill. Well balanced and easy to handle.
+A fine piece made with Etchū smithing skill. Well balanced and easy to handle.
 
 @15
 A blade with a wave-like temper line like a surging tide. Fairly powerful.
@@ -86,7 +86,7 @@ A long spear with an upward hook on one side of the head. The hook can parry swo
 A long spear with a downward hook. The hook also strikes when the spear is pulled back.
 
 @29
-A Hozoin-school spear with a crescent-shaped hook. Highest attack among short spears.
+A Hōzōin-school spear with a crescent-shaped hook. Highest attack among short spears.
 
 @30
 A great spear with a plover-shaped head. Its hooks slant downward, unlike the cross spear.
@@ -296,7 +296,7 @@ A weapon linking a weight and a sickle with an iron chain. Wide range and high p
 A small throwing dagger. Useless in close combat.
 
 @107
-A secret Koga ninja explosive. Strong powder packed with bullets.
+A secret Kōga ninja explosive. Strong powder packed with bullets.
 
 @108
 A spherical powder ball made of oiled paper. Bursts into flames over a wide area.
@@ -308,22 +308,22 @@ A secret Iga throwing weapon. The finest among ninja weapons.
 A stronger, heavier chain sickle. Very accurate and easy to handle.
 
 @111
-A dagger shuriken of the type Koga ninja use. Low power but very light.
+A dagger shuriken of the type Kōga ninja use. Low power but very light.
 
 @112
 A cross shuriken of the type Iga ninja use. Highly accurate and very light.
 
 @113
-A larger Horoku bomb. Heavy, so accuracy is low.
+A larger Hōroku bomb. Heavy, so accuracy is low.
 
 @114
 An extremely powerful double-layered explosive. Heavy and awkward.
 
 @115
-A larger, stronger Horoku fire. Designed to spread flames when it explodes.
+A larger, stronger Hōroku fire. Designed to spread flames when it explodes.
 
 @116
-A Horoku fire filled with oil balls, made to spread flames over a wide area.
+A Hōroku fire filled with oil balls, made to spread flames over a wide area.
 
 @117
 A weapon scattered at enemy feet or thrown to attack.
@@ -389,22 +389,22 @@ A war fan inscribed with ancient strategy. No power, but raises Intelligence by 
 Simple armour of iron plates joined with rivets.
 
 @147
-Seamless domaru armour made from a single iron plate. Built for defence.
+Seamless dōmaru armour made from a single iron plate. Built for defence.
 
 @148
-An improved domaru with reinforced iron plates for extra sturdiness. Kept fairly light.
+An improved dōmaru with reinforced iron plates for extra sturdiness. Kept fairly light.
 
 @149
-A Nanban domaru with gauntlets and leg guards. A full set: sturdy but heavy.
+A Nanban dōmaru with gauntlets and leg guards. A full set: sturdy but heavy.
 
 @150
-A Nanban domaru reinforced with red lacing. Somewhat heavy.
+A Nanban dōmaru reinforced with red lacing. Somewhat heavy.
 
 @151
-An Okegawa domaru with gauntlets and leg guards. A full set, kept fairly light.
+An Okegawa dōmaru with gauntlets and leg guards. A full set, kept fairly light.
 
 @152
-An Okegawa domaru reinforced with white lacing. Very light and easy to move in.
+An Okegawa dōmaru reinforced with white lacing. Very light and easy to move in.
 
 @153
 A Nanban dogusoku with black lacing and a bear-hair helmet. A full set of armour.
@@ -413,7 +413,7 @@ A Nanban dogusoku with black lacing and a bear-hair helmet. A full set of armour
 A Nanban dogusoku reinforced with black lacing. Much more defence, but heavy.
 
 @155
-Red-laced Nanban armour with a helmet bearing Fudo Myoo. High defence but heavy.
+Red-laced Nanban armour with a helmet bearing Fudō Myōō. High defence but heavy.
 
 @156
 Red-laced Nanban armour with gauntlets and leg guards. Well balanced at a high level.
@@ -431,13 +431,13 @@ White-laced Okegawa armour with a sujikabuto helmet. Full set, very light and mo
 White-laced Okegawa armour with gauntlets and leg guards. Lightest of the full sets.
 
 @161
-Chain-woven armour worn by ninja. About as effective as a domaru.
+Chain-woven armour worn by ninja. About as effective as a dōmaru.
 
 @162
-A domaru reinforced with navy lacing. Finely made, famous armour.
+A dōmaru reinforced with navy lacing. Finely made, famous armour.
 
 @163
-A navy-laced domaru with gauntlets and leg guards. Light yet high in defence.
+A navy-laced dōmaru with gauntlets and leg guards. Light yet high in defence.
 
 @164
 A navy-laced dogusoku with a demon helmet. A full set, light yet high in defence.

@@ -35,10 +35,10 @@ Hm... The wind feels damp...
 It may rain soon...
 
 @2
-Pacification of Ise\nVictory: 1. Take Okawachi Castle.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Pacification of Ise\nVictory: 1. Take Ōkawachi Castle.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @3
-Pacification of Ise\n\nVictory: 1. Take Okawachi Castle.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Pacification of Ise\n\nVictory: 1. Take Ōkawachi Castle.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @4
 Kitabatake reinforcements have arrived!
@@ -83,7 +83,7 @@ Please make use of this.
 Provisions, sir!
 
 @16
-Provisions have reached Okawachi Castle.
+Provisions have reached Ōkawachi Castle.
 
 @17.0
 Ah, well done!
@@ -92,7 +92,7 @@ Ah, well done!
 Provisions, sir!
 
 @19
-Provisions have reached Okawachi Castle.
+Provisions have reached Ōkawachi Castle.
 
 @20.0
 Ah, well done!
@@ -101,7 +101,7 @@ Ah, well done!
 Provisions, sir!
 
 @22
-Provisions have reached Okawachi Castle.
+Provisions have reached Ōkawachi Castle.
 
 @23.0
 Ah, well done!
@@ -131,7 +131,7 @@ We have taken the Oda camp!
 Damn, the main camp...
 
 @32
-Okawachi Castle taken
+Ōkawachi Castle taken
 
 @33.0
 Hmm, there is nothing for it now. I will surrender to Lord Nobunaga.
@@ -143,7 +143,7 @@ Kitabatake Tomonori promised to hand over the headship of his house to Nobunaga'
 Defeats Kitabatake Tomonori and pacifies Ise
 
 @37.0
-Good, I will take Okawachi Castle.
+Good, I will take Ōkawachi Castle.
 
 @38
 The Kitabatake army was wiped out at Nobunaga's hands. Tomonori promised to hand his house to Nobunaga's second son, Chasenmaru. Ise was pacified.

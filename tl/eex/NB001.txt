@@ -17,7 +17,7 @@ Nobunaga was defeated in his first battle.\n"As expected of the Fool."\nThe Oda 
 Watch Chapter 1 prologue\nSkip the prologue
 
 @9
-In the year of Nobunaga's first battle, his father Nobuhide invaded Mino.\n\n\nBut he suffered a bitter defeat at the hands of Saito Dosan, nicknamed "the Viper of Mino," and fled back to Owari barely alive.\nLearning of Nobuhide's crushing defeat, Oda Nobutomo of Kiyosu Castle invited the constable Shiba Yoshimune to show that he was the head of the Oda clan.
+In the year of Nobunaga's first battle, his father Nobuhide invaded Mino.\n\n\nBut he suffered a bitter defeat at the hands of Saitō Dōsan, nicknamed "the Viper of Mino," and fled back to Owari barely alive.\nLearning of Nobuhide's crushing defeat, Oda Nobutomo of Kiyosu Castle invited the constable Shiba Yoshimune to show that he was the head of the Oda clan.
 
 @10.0
 Have you heard what people are saying about Nobunaga lately?
@@ -53,13 +53,13 @@ Right now the struggle with Mikawa is urgent. Making an enemy of Mino as well wo
 Perhaps you should seek a path to reconciliation.
 
 @15.3
-True. But does Dosan have any reason to agree?
+True. But does Dōsan have any reason to agree?
 
 @16.0
-We have Lord Nobunaga, my lord. A marriage between your heir and Dosan's daughter...
+We have Lord Nobunaga, my lord. A marriage between your heir and Dōsan's daughter...
 
 @16.1
-With his beloved daughter married into our house, Dosan would find it hard to attack us.
+With his beloved daughter married into our house, Dōsan would find it hard to attack us.
 
 @16.2
 (If he takes a wife, the young lord's foolishness may be cured.)
@@ -149,7 +149,7 @@ Nor can we afford to keep fighting a warmonger like Oda Nobuhide.
 ...I have mellowed a little, have I not? Hahaha.
 
 @31.0
-Besides, if the Fool inherits, we do him in and let Kicho's child inherit Owari.
+Besides, if the Fool inherits, we do him in and let Kichō's child inherit Owari.
 
 @31.1
 Owari will fall into our laps like a windfall.
@@ -158,7 +158,7 @@ Owari will fall into our laps like a windfall.
 You sent for me?
 
 @32.1
-Ah, Kicho. Come closer.
+Ah, Kichō. Come closer.
 
 @33.0
 I have decided to marry you to the Oda heir.
@@ -176,7 +176,7 @@ I hear the young lord of the Oda is a fool.\n\nYou would marry me to such a fool
 Heh heh heh...
 
 @33.5
-Kicho, I give you this.
+Kichō, I give you this.
 
 @34.0
 Oh.
@@ -194,7 +194,7 @@ If your husband is the fool the rumours say, stab him with that dagger.
 P-Princess.
 
 @37.0
-Hahaha. Well said.\n\nThat is my daughter, Dosan's daughter indeed.
+Hahaha. Well said.\n\nThat is my daughter, Dōsan's daughter indeed.
 
 @37.1
 (She is too good a daughter to give to a fool.)
@@ -206,7 +206,7 @@ The wedding was to be held, with each house harbouring its own designs.
 Nagoya Castle - Living Quarters
 
 @40.0
-This is the new home of Lord Nobunaga and Lady Kicho.
+This is the new home of Lord Nobunaga and Lady Kichō.
 
 @40.1
 Oh.
@@ -269,25 +269,25 @@ Enough, enough. Your sermons wear me out.\n\nI came because I have business with
 Hmm... Very well.
 
 @47.0
-I am Kicho.
+I am Kichō.
 
 @47.1
-Nohime.
+Nōhime.
 
 @47.2
-Nohime? But I am Kicho.
+Nōhime? But I am Kichō.
 
 @47.3
-You came from Mino, so you are Nohime: the lady of Mino.
+You came from Mino, so you are Nōhime: the lady of Mino.
 
 @48.0
 Oh...
 
 @49.0
-Nohime, lend me your lap.
+Nōhime, lend me your lap.
 
 @50.0
-Nohime, be my ally.
+Nōhime, be my ally.
 
 @50.1
 ...? What do you mean?
@@ -314,10 +314,10 @@ My allies are only Father and the old man.
 I will kill anyone who opposes me.
 
 @54.1
-Do not become my enemy, Nohime. If you are my ally, I will punish anyone who defies you.
+Do not become my enemy, Nōhime. If you are my ally, I will punish anyone who defies you.
 
 @55
-Nobunaga was taken far from his parents at Furuwatari Castle as soon as he was born and raised at Nagoya Castle.\n\nIn Nobunaga, who had never known parental love, Nohime saw loneliness.
+Nobunaga was taken far from his parents at Furuwatari Castle as soon as he was born and raised at Nagoya Castle.\n\nIn Nobunaga, who had never known parental love, Nōhime saw loneliness.
 
 @56.0
 Lord Nobunaga...
@@ -410,7 +410,7 @@ I am off to laugh at my old man's sorry death!\n\nDo not follow me!
 Young lord...
 
 @69
-Owari - Banshoji - Funeral of Oda Nobuhide
+Owari - Banshō-ji - Funeral of Oda Nobuhide
 
 @70.0
 Where is Nobunaga?
@@ -464,7 +464,7 @@ Hurling incense at the old lord's memorial tablet... I have never seen such a fu
 What fearlessness... But that is the mark of a man who holds a domain.
 
 @77
-Because of this incident, the rumour that Nobunaga was a great fool spread even beyond the province.\n\nBut one old monk from distant Tsukushi (northern Kyushu) saw through to his true nature. Soon afterwards, Nobunaga inherited the Oda headship.
+Because of this incident, the rumour that Nobunaga was a great fool spread even beyond the province.\n\nBut one old monk from distant Tsukushi (northern Kyūshū) saw through to his true nature. Soon afterwards, Nobunaga inherited the Oda headship.
 
 @78
 Oda Nobutomo's Seat - Kiyosu Castle

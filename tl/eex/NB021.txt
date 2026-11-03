@@ -11,10 +11,10 @@ Curse Murashige. So he ran.
 We have captured several hundred of the castle's soldiers, and Murashige's kin. What shall we do with them?
 
 @5.0
-Crucify the soldiers who resisted to the end, in Settsu. Behead Murashige's kin in Kyoto.
+Crucify the soldiers who resisted to the end, in Settsu. Behead Murashige's kin in Kyōto.
 
 @6
-All of the Araki clan except the fugitive head, Murashige, were to be executed.\n\nIt is said, however, that not one of them lost composure; each closed their eyes quietly and awaited death with admirable calm.\nMurashige, who fled to the Mori for refuge, later served Hideyoshi as a tea master and lived out his life.
+All of the Araki clan except the fugitive head, Murashige, were to be executed.\n\nIt is said, however, that not one of them lost composure; each closed their eyes quietly and awaited death with admirable calm.\nMurashige, who fled to the Mōri for refuge, later served Hideyoshi as a tea master and lived out his life.
 
 @7.0
 By the way, my lord, Kuroda Kanbei has been rescued from a cell inside the castle...
@@ -38,7 +38,7 @@ They say Lord Takenaka has secretly been sheltering Kanbei's son.
 I see.
 
 @9.1
-Hanbee defied my wishes, and ordinarily I would not forgive it, but this once I will let it pass.
+Hanbei defied my wishes, and ordinarily I would not forgive it, but this once I will let it pass.
 
 @10
 "The Mori Advance East"
@@ -110,16 +110,16 @@ My lord, it seems my escort has come.
 My lord, looking back... it was all such fun, every bit of it.
 
 @25.2
-Hanbee!
+Hanbei!
 
 @26.0
 To offer plans until the very moment of death... what a remarkable man.
 
 @27
-The 7th year of Tensho (1579)\nHideyoshi's right hand, Takenaka Hanbee, died during the siege of Miki Castle at the age of 36. The strategist Hanbee remained a strategist to his last breath. Hideyoshi adopted one of Nobunaga's sons and named him Hidekatsu.
+The 7th year of Tenshō (1579)\nHideyoshi's right hand, Takenaka Hanbei, died during the siege of Miki Castle at the age of 36. The strategist Hanbei remained a strategist to his last breath. Hideyoshi adopted one of Nobunaga's sons and named him Hidekatsu.
 
 @28.0
-My lord, a man named Saito Toshimitsu, who serves Lord Akechi, was originally my subordinate.
+My lord, a man named Saitō Toshimitsu, who serves Lord Akechi, was originally my subordinate.
 
 @28.1
 Could you not ask Lord Akechi to return my man?
@@ -137,7 +137,7 @@ My lord, the pacification of Tanba is complete.
 Good. Well done.
 
 @31.2
-I was told to bring my retainer Saito Toshimitsu with me this time...
+I was told to bring my retainer Saitō Toshimitsu with me this time...
 
 @32.0
 As to that, I hear Toshimitsu once served Ittetsu.
@@ -197,7 +197,7 @@ Hashiba Army Main Camp
 Brother, the grain stores of Miki Castle are exhausted and some are starting to starve. Shall we not attack soon?
 
 @47.1
-Hanbee is already dead, and Kanbei is ill and not here. How can we fight at such a time?
+Hanbei is already dead, and Kanbei is ill and not here. How can we fight at such a time?
 
 @47.2
 For now, we only wait for the enemy to surrender.
@@ -224,16 +224,16 @@ Miki Castle fell after a siege of starvation lasting 20 months. Bessho Nagaharu 
 Azuchi Castle - Council Hall
 
 @55
-With Yakami and Miki Castles taken, Nobunaga's power was steadily growing when sudden word came from Hideyoshi, campaigning in the Chugoku region. The Mori, the great power of the west, had suddenly advanced east.
+With Yakami and Miki Castles taken, Nobunaga's power was steadily growing when sudden word came from Hideyoshi, campaigning in the Chūgoku region. The Mōri, the great power of the west, had suddenly advanced east.
 
 @56.0
-The Mori, who have so far held back and watched, have begun to move.
+The Mōri, who have so far held back and watched, have begun to move.
 
 @56.1
-Terumoto seems to intend to march on Kyoto, backing the shogun Yoshiaki.\n\nWe will set up our main camp in Kyoto and meet this advance!
+Terumoto seems to intend to march on Kyōto, backing the shōgun Yoshiaki.\n\nWe will set up our main camp in Kyōto and meet this advance!
 
 @59.0
-Lord Hashiba's army is preparing to meet the Mori at Himeji Castle. Father, please hurry.
+Lord Hashiba's army is preparing to meet the Mōri at Himeji Castle. Father, please hurry.
 
 @60.0
 The enemy will likely attack from three directions. Shall we divide our army in three, or defeat them one at a time?
@@ -248,7 +248,7 @@ I hope Himeji Castle holds out...
 I will hold them off, even alone.
 
 @64.0
-Honganji most likely cannot move. Let us throw in all our forces and crush them at once.
+Hongan-ji most likely cannot move. Let us throw in all our forces and crush them at once.
 
 @65.0
 I am concerned about Owari. I will stay behind to guard it...

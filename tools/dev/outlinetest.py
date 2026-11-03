@@ -35,7 +35,8 @@ def decode(bits, colour):
 
 
 def main():
-    text = sys.argv[1] if len(sys.argv) > 1 else 'Help! g'
+    import text as _text
+    text = _text.fold(sys.argv[1] if len(sys.argv) > 1 else 'Help! g')
     lab, data = vwf.listing(BASE)
     uc = Uc(UC_ARCH_MIPS, UC_MODE_MIPS32 + UC_MODE_LITTLE_ENDIAN)
     uc.mem_map(0, 0x200000)

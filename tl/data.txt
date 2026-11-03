@@ -3,7 +3,7 @@ item:1	Fine Tachi
 item:2	Fine Uchigatana
 item:3	Great Tachi
 item:4	Long-Edge Tachi
-item:5	Oni Hocho
+item:5	Oni Hōchō
 item:6	White Blade
 item:7	Dai Hannya
 item:8	Kiku-ichimonji
@@ -34,13 +34,13 @@ item:32	Kikuchi Spear
 item:33	Tonbokiri
 item:34	Omodaka Spear
 item:35	Zangetsu
-item:36	Nihongo
+item:36	Nihongō
 item:37	Great Naginata
 item:38	Bamboo Spear
 item:39	Red Spear
 item:40	Great Red Spear
 item:41	Trigon Red Spear
-item:42	Jumonji Spear
+item:42	Jūmonji Spear
 item:43	Tsukushi Spear
 item:44	Small Bamboo
 item:45	Bamboo Bow
@@ -72,16 +72,16 @@ item:70	Medium Musket
 item:71	Cav Med. Musket
 item:72	Kunitomo 10-Mo
 item:73	Sakai 10-Mo
-item:74	Hayago Medium
+item:74	Hayagō Medium
 item:75	Cav Samurai Gun
-item:76	Hayago Short
+item:76	Hayagō Short
 item:77	Nanban 10-Mo
 item:78	Nanban 12-Mo
 item:79	Nanban 6-Shot
 item:80	Cav Repeater
 item:81	Nanban Rptr
 item:82	Kunitomo Rptr
-item:83	Senshu Repeater
+item:83	Senshū Repeater
 item:84	Small Folangji
 item:85	Folangji
 item:86	Haritate Cannon
@@ -92,7 +92,7 @@ item:90	Kunikuzushi
 item:91	Saker Cannon
 item:92	Culverin
 item:93	Shibatsuji Gun
-item:94	Ozutsu
+item:94	Ōzutsu
 item:95	Large Shibatsuji
 item:96	Spare Cannon 1
 item:97	Spare Cannon 2
@@ -105,15 +105,15 @@ item:103	Flying Claw
 item:104	Powder Ball
 item:105	Chain Sickle
 item:106	Hand Blade
-item:107	Horoku Bomb
-item:108	Horoku Fire
+item:107	Hōroku Bomb
+item:108	Hōroku Fire
 item:109	Shadow Slayer
 item:110	Dakon Spike
-item:111	Koga Shuriken
+item:111	Kōga Shuriken
 item:112	Iga Shuriken
-item:113	Large Horoku
-item:114	Kongo Metten
-item:115	Katon Horoku
+item:113	Large Hōroku
+item:114	Kongō Metten
+item:115	Katon Hōroku
 item:116	Shiranui
 item:117	Caltrops
 item:118	Dragon Claw
@@ -124,16 +124,16 @@ item:122	Spare Thrower 3
 item:123	Spare Thrower 4
 item:124	War Fan
 item:125	Leather War Fan
-item:126	Hokoku War Fan
+item:126	Hōkoku War Fan
 item:127	Thin Iron Fan
-item:128	Hokoku Bronze
-item:129	Tensho Leather
+item:128	Hōkoku Bronze
+item:129	Tenshō Leather
 item:130	Tenchi Eki Fan
 item:131	Great Iron Fan
-item:132	Hokoku Tessen
-item:133	Hokoku Iron Fan
-item:134	Tensho Iron
-item:135	Tensho Bronze
+item:132	Hōkoku Tessen
+item:133	Hōkoku Iron Fan
+item:134	Tenshō Iron
+item:135	Tenshō Bronze
 item:136	Chiri Leather
 item:137	Rekijin Leather
 item:138	Senjin Kunryaku
@@ -144,23 +144,23 @@ item:142	Spare Fan 2
 item:143	Spare Fan 3
 item:144	Spare Fan 4
 item:145	Spare Fan 5
-item:146	Domaru
-item:147	Nanban Domaru
-item:148	Okegawa Domaru
+item:146	Dōmaru
+item:147	Nanban Dōmaru
+item:148	Okegawa Dōmaru
 item:149	Nanban Gusoku
 item:150	Red Nanban Do
 item:151	Okegawa Gusoku
 item:152	Wht Okegawa Do
 item:153	Bear-Hair Mail
 item:154	Black Nanban
-item:155	Myoo Red Mail
+item:155	Myōō Red Mail
 item:156	Red Nanban Mail
 item:157	Antler Blue Mail
 item:158	Blue Okegawa
 item:159	Sujikabuto Mail
 item:160	White Okegawa
 item:161	Chain Mail
-item:162	Indigo Domaru
+item:162	Indigo Dōmaru
 item:163	Indigo Dogusoku
 item:164	Oni Indigo Mail
 item:165	Spare Armour 1
@@ -206,11 +206,11 @@ item:204	Red Shield
 item:205	Iron Shield
 item:206	Spare Shield 1
 item:207	Spare Shield 2
-item:208	Fujin Statue
+item:208	Fūjin Statue
 item:209	Raijin Statue
 item:210	Taishaku Statue
 item:211	Ashura Statue
-item:212	Fudo Statue
+item:212	Fudō Statue
 item:213	Miroku Statue
 item:214	Spare Statue 1
 item:215	Spare Statue 2
@@ -227,7 +227,7 @@ item:225	Loaner Armour
 item:226	Large Quiver
 item:227	Horse Armour
 item:228	Light Horse Mail
-item:229	Hayago
+item:229	Hayagō
 item:230	Large Gun Mount
 item:231	Mastery Scroll
 item:232	Ninja Tri-Blades
@@ -272,14 +272,14 @@ class:15	Gun Cdr
 class:16	Artillery
 class:17	Cann. Gen.
 class:18	Genin
-class:19	Jonin
+class:19	Jōnin
 class:20	Inspector
 class:21	Strategist
 class:22	Bandits
 class:23	Pirates
 class:24	Monks
-class:25	Ronin
-class:26	Ikko Rebel
+class:25	Rōnin
+class:26	Ikkō Rebel
 class:27	Townsfolk
 class:28	Error
 class:29	Error

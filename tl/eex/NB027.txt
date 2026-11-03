@@ -11,7 +11,7 @@
 "Securing the Home Provinces"
 
 @6
-Kyoto - Audience Hall
+Kyōto - Audience Hall
 
 @7.0
 My lord, may I have a moment?
@@ -20,7 +20,7 @@ My lord, may I have a moment?
 Very well. Come in.
 
 @8.0
-My lord, I hear a band of bandits on Mt. Arashiyama is ravaging the people around Kyoto.
+My lord, I hear a band of bandits on Mt. Arashiyama is ravaging the people around Kyōto.
 
 @8.1
 Perhaps you should wipe them out and restore order to the capital.

@@ -17,7 +17,7 @@ My lord! I... this Monkey... is overjoyed...
 Mitsuhide caught me off guard, but as you see, I am alive. Monkey!
 
 @10.2
-You returned swiftly from Bitchu and struck down the traitor Mitsuhide. A truly worthy deed.
+You returned swiftly from Bitchū and struck down the traitor Mitsuhide. A truly worthy deed.
 
 @13.0
 Is it true? That Lord Nobunaga is alive?
@@ -35,10 +35,10 @@ According to my men sent into Mino, an envoy from the Oda will arrive here at Ha
 My lord, could our invasion of Kai and Shinano be seen as treason against the Oda?
 
 @13.7
-No. We merely did what an ally must. In the wake of Akechi's revolt, Kai and Shinano fell into disorder and the Hojo forces marched in. For us to stand by and watch would have been a betrayal of the Oda. That is why our lord decided to invade Kai.
+No. We merely did what an ally must. In the wake of Akechi's revolt, Kai and Shinano fell into disorder and the Hōjō forces marched in. For us to stand by and watch would have been a betrayal of the Oda. That is why our lord decided to invade Kai.
 
 @13.8
-Indeed. We only protected the Oda's lands from the Hojo.
+Indeed. We only protected the Oda's lands from the Hōjō.
 
 @13.9
 Then we must return both Kai and Shinano to the Oda.
@@ -53,7 +53,7 @@ What are you saying, Naomasa! Do you mean to defy Nobunaga?
 I do! There will be no better moment than now for the Tokugawa to seize the realm.
 
 @13.14
-I agree with Naomasa. If we gather the troops of Tokai, Kai and Shinano and ally with the Hojo, we can match the Oda.
+I agree with Naomasa. If we gather the troops of Tōkai, Kai and Shinano and ally with the Hōjō, we can match the Oda.
 
 @13.16
 Fools! You simply do not know how terrible Nobunaga is!
@@ -68,31 +68,31 @@ Heh... It goes without saying. As Tadatsugu says, I moved my troops out of loyal
 Write to Nobunaga that we return the two provinces of Kai and Shinano. Send a messenger!
 
 @17
-This is Oko Castle in Tosa, seat of the Chosokabe. The Chosokabe once held only Tosa, but Motochika took advantage of the chaos of the Honnoji incident to invade and seize Awa. Aiming to "unify Shikoku", Motochika set his next target on Sanuki.
+This is Okō Castle in Tosa, seat of the Chōsokabe. The Chōsokabe once held only Tosa, but Motochika took advantage of the chaos of the Honnō-ji incident to invade and seize Awa. Aiming to "unify Shikoku", Motochika set his next target on Sanuki.
 
 @18.0
 With just one more province, Sanuki, our long-cherished unification of Shikoku will be complete.
 
 @18.1
-Sanuki is ruled by Sogo Nagayasu.
+Sanuki is ruled by Sogō Nagayasu.
 
 @18.2
-Sogo has shown a submissive stance toward the Oda in the home provinces. If we attack him, the Oda will surely send troops.
+Sogō has shown a submissive stance toward the Oda in the home provinces. If we attack him, the Oda will surely send troops.
 
 @18.3
-It was a miscalculation that Nobunaga, whom we thought dead, is alive. But he has enemies on all four sides: the Uesugi and Hojo to the east, the Mori to the west, and ourselves. He cannot spare a great army for Shikoku. Father, let us attack Sanuki.
+It was a miscalculation that Nobunaga, whom we thought dead, is alive. But he has enemies on all four sides: the Uesugi and Hōjō to the east, the Mōri to the west, and ourselves. He cannot spare a great army for Shikoku. Father, let us attack Sanuki.
 
 @18.4
 Yes. I am of the same mind as Nobuchika.
 
 @18.5
-Father, please order me to take Sogo Castle.
+Father, please order me to take Sogō Castle.
 
 @18.6
 Very well, Nobuchika, I leave it to you. Ask for whatever troops and provisions you need.
 
 @21.0
-Now we resume the pacification of the provinces. Monkey! With Masakatsu, resume the campaign in Chugoku.
+Now we resume the pacification of the provinces. Monkey! With Masakatsu, resume the campaign in Chūgoku.
 
 @22.1
 Katsuie!
@@ -107,7 +107,7 @@ My lord.
 Ah, Ranmaru. What is it?
 
 @24.2
-My lord. An urgent messenger has come from Sogo Nagayasu of Sanuki.
+My lord. An urgent messenger has come from Sogō Nagayasu of Sanuki.
 
 @24.3
 Understood. Show him in.
@@ -116,34 +116,34 @@ Understood. Show him in.
 Ah. What is it?
 
 @26.0
-Chosokabe Motochika of Tosa is marching on Sanuki.
+Chōsokabe Motochika of Tosa is marching on Sanuki.
 
 @27.0
 Heh heh, a bat in a land without birds. He sees the chaos as his chance to move. Tosa and Awa are evidently not enough for him.
 
 @27.1
-Our forces are holed up in Sogo Castle. I beg you, send reinforcements as soon as possible.
+Our forces are holed up in Sogō Castle. I beg you, send reinforcements as soon as possible.
 
 @27.2
 Very well. I understand. Nagahide!
 
 @28.1
-We set out now to relieve Sogo. As soon as preparations are done, we head for Izumi and cross to Shikoku from there.
+We set out now to relieve Sogō. As soon as preparations are done, we head for Izumi and cross to Shikoku from there.
 
 @29.0
 Yes, my lord.
 
 @29.1
-This war is no mere rescue of Sogo. Our true aim is to destroy the Chosokabe and pacify all of Shikoku!
+This war is no mere rescue of Sogō. Our true aim is to destroy the Chōsokabe and pacify all of Shikoku!
 
 @30
 Odawara
 
 @31
-Meanwhile, the Hojo, learning that Nobunaga lived, posted their armies in Kozuke and Musashi and took a wait-and-see stance.
+Meanwhile, the Hōjō, learning that Nobunaga lived, posted their armies in Kōzuke and Musashi and took a wait-and-see stance.
 
 @32
-Chosokabe Clan - Tosa, Oko Castle
+Chōsokabe Clan - Tosa, Okō Castle
 
 @33.0
 Nobunaga has landed in Awa?
@@ -152,7 +152,7 @@ Nobunaga has landed in Awa?
 I cannot believe it. How swift!
 
 @33.2
-I am worried about Nobuchika, who went to attack Sogo Castle. Chikayasu, Chikasada, Chikanobu!
+I am worried about Nobuchika, who went to attack Sogō Castle. Chikayasu, Chikasada, Chikanobu!
 
 @34.3
 Just in case, enter Kawanoe, Ushiki and Iwakura castles and send reinforcements toward Sanuki!
@@ -173,22 +173,22 @@ Whatever happens, Motochika will unify Shikoku. I will not let a man like Nobuna
 Awa - Oda Nobunaga's Camp
 
 @37.0
-My lord. The Ikko followers of Iga, learning of our movements, have risen in revolt. What shall we do?
+My lord. The Ikkō followers of Iga, learning of our movements, have risen in revolt. What shall we do?
 
 @39.0
 Postpone the Shikoku expedition. We go to subdue Iga.
 
 @43.0
-Now we march on Sanuki and drive off the Chosokabe forces besieging Sogo Castle!
+Now we march on Sanuki and drive off the Chōsokabe forces besieging Sogō Castle!
 
 @45.0
-Lord Shibata, stationed in Etchu, has begun his attack on the Uesugi again.
+Lord Shibata, stationed in Etchū, has begun his attack on the Uesugi again.
 
 @47.0
-Motochika has taken Shozui Castle and is marching on Sogo Castle.
+Motochika has taken Shōzui Castle and is marching on Sogō Castle.
 
 @49.0
-If Sogo Castle, held by Sogo Nagayasu, falls, we too will be forced to withdraw.
+If Sogō Castle, held by Sogō Nagayasu, falls, we too will be forced to withdraw.
 
 @50.0
 Hmph, an uprising just when I have been reunited with my lord. I will not allow it!
@@ -197,20 +197,20 @@ Hmph, an uprising just when I have been reunited with my lord. I will not allow 
 To fight at my lord's side again... I, Nagahide, am deeply moved.
 
 @53.0
-Sogo Nagayasu is holed up in Sogo Castle, where we are headed.
+Sogō Nagayasu is holed up in Sogō Castle, where we are headed.
 
 @55.0
-To pacify Shikoku, we have no choice but to crush the Chosokabe utterly.
+To pacify Shikoku, we have no choice but to crush the Chōsokabe utterly.
 
 @57.0
-The Chosokabe in Awa: Motochika, his heir Nobuchika, Kosokabe Chikayasu, Kira Chikasada and Hisatake Chikanobu.
+The Chōsokabe in Awa: Motochika, his heir Nobuchika, Kōsokabe Chikayasu, Kira Chikasada and Hisatake Chikanobu.
 
 @59.0
-Kawanoe, Ushiki and Iwakura castles have all fallen, and Sogo Castle is completely isolated.
+Kawanoe, Ushiki and Iwakura castles have all fallen, and Sogō Castle is completely isolated.
 
 @62.0
 Some of my men have been killed. This must be the scheme of the Iga ninja.
 
 @63.0
-A report says Motochika is waiting at Oko Castle with a great army.
+A report says Motochika is waiting at Okō Castle with a great army.
 

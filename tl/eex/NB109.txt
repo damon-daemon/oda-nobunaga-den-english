@@ -41,7 +41,7 @@ Takaya Castle has been taken
 Akutagawa Castle has been taken
 
 @7
-Shoryuji Castle has been taken
+Shōryūji Castle has been taken
 
 @9.0
 This should be around the place...
@@ -173,7 +173,7 @@ Nagayuki, what are you doing? Your time is over.
 Go and hide away in Awa or somewhere!
 
 @27.2
-That is my line. A country daimyo from Owari talking of the Realm Under One Sword is laughable!
+That is my line. A country daimyō from Owari talking of the Realm Under One Sword is laughable!
 
 @28.0
 Damn you, remember this!
@@ -206,7 +206,7 @@ Takaya Castle taken
 Good, we have taken all the Miyoshi castles.
 
 @37
-Oda Nobunaga took the three castles of Shoryuji, Akutagawa and Takaya. The Miyoshi Triumvirate retreated to Awa.
+Oda Nobunaga took the three castles of Shōryūji, Akutagawa and Takaya. The Miyoshi Triumvirate retreated to Awa.
 
 @38
 Takes the three Miyoshi castles
@@ -218,19 +218,19 @@ Akutagawa Castle taken
 Good, we have taken all the Miyoshi castles.
 
 @42
-Oda Nobunaga took the three castles of Shoryuji, Akutagawa and Takaya. The Miyoshi Triumvirate retreated to Awa.
+Oda Nobunaga took the three castles of Shōryūji, Akutagawa and Takaya. The Miyoshi Triumvirate retreated to Awa.
 
 @43
 Takes the three Miyoshi castles
 
 @44
-Shoryuji Castle taken
+Shōryūji Castle taken
 
 @45.0
 Good, we have taken all the Miyoshi castles.
 
 @47
-Oda Nobunaga took the three castles of Shoryuji, Akutagawa and Takaya. The Miyoshi Triumvirate retreated to Awa.
+Oda Nobunaga took the three castles of Shōryūji, Akutagawa and Takaya. The Miyoshi Triumvirate retreated to Awa.
 
 @48
 Takes the three Miyoshi castles
@@ -239,7 +239,7 @@ Takes the three Miyoshi castles
 Has the enemy been annihilated?
 
 @50.0
-We have won Shoryuji Castle.
+We have won Shōryūji Castle.
 
 @51.0
 We have won Akutagawa Castle.

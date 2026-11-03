@@ -8,7 +8,7 @@ Hidemitsu, do not let him escape!
 Yes, leave it to me.
 
 @0.3
-Toshimitsu, you go to Myokakuji, where Nobutada is!
+Toshimitsu, you go to Myōkaku-ji, where Nobutada is!
 
 @0.5
 ...(Just in case, I should post spies throughout the city...)
@@ -35,16 +35,16 @@ Oda Nobunaga lost the trait "Spirit"
 Oda Nobunaga lost the trait "Full Heal"
 
 @4
-Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n             2. Reach either Storehouse in the north-east.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+Honnō-ji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n             2. Reach either Storehouse in the north-east.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
 
 @5
-Honnoji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n             2. Reach either Storehouse in the north-east.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
+Honnō-ji Incident\nVictory: 1. Make Akechi Mitsuhide retreat.\n             2. Reach either Storehouse in the north-east.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. More than 30 turns pass.
 
 @6.0
 Grr, Mitsuhide...
 
 @7.0
-Charge Honnoji!
+Charge Honnō-ji!
 
 @8.0
 This is... We must save our lord somehow!
@@ -62,7 +62,7 @@ This is... We must save our lord somehow!
 Nobunaga, you will not escape!
 
 @12.0
-My lord, Nobunaga has escaped from Honnoji!
+My lord, Nobunaga has escaped from Honnō-ji!
 
 @12.1
 What? Do not let him get away! The whole army, pursue Nobunaga!
@@ -98,7 +98,7 @@ Ugh, what strength...
 Ugh... I somehow got out...
 
 @31
-Nobunaga went to Kyoto to pacify the Chugoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnoji and launched an all-out attack.\n\n\nOda Nobunaga shook off Akechi Mitsuhide's pursuit and escaped from Kyoto.
+Nobunaga went to Kyōto to pacify the Chūgoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnō-ji and launched an all-out attack.\n\n\nOda Nobunaga shook off Akechi Mitsuhide's pursuit and escaped from Kyōto.
 
 @32
 Gained 3000 gold
@@ -110,22 +110,22 @@ Akechi Mitsuhide rebels
 My lord, which direction will you take?
 
 @35
-Head for Omi\nHead for Tanba\nHead for Hida
+Head for Ōmi\nHead for Tanba\nHead for Hida
 
 @37
 Head for Tanba\nHead for Hida
 
 @54
-Nobunaga went to Kyoto to pacify the Chugoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnoji and launched an all-out attack.\n\n\nBefore Nobunaga, who fought like a raging god, Mitsuhide was defeated and retreated.\n\n\nNobunaga barely drove Mitsuhide off, but was gravely wounded in the fight and afterwards went missing...
+Nobunaga went to Kyōto to pacify the Chūgoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnō-ji and launched an all-out attack.\n\n\nBefore Nobunaga, who fought like a raging god, Mitsuhide was defeated and retreated.\n\n\nNobunaga barely drove Mitsuhide off, but was gravely wounded in the fight and afterwards went missing...
 
 @55
 Gained 4000 gold
 
 @56
-Defeats Akechi Mitsuhide at Honnoji
+Defeats Akechi Mitsuhide at Honnō-ji
 
 @57
-Nobunaga went to Kyoto to pacify the Chugoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnoji and launched an all-out attack.\n\n\nNobunaga tried to escape but could not, and was engulfed in flames together with his ambitions...
+Nobunaga went to Kyōto to pacify the Chūgoku region. But Akechi Mitsuhide, who harboured designs against Nobunaga, rebelled.\n\nAt dawn he surrounded Honnō-ji and launched an all-out attack.\n\n\nNobunaga tried to escape but could not, and was engulfed in flames together with his ambitions...
 
 @58.0
 Damn, is he a demon god! It cannot be helped, withdraw.

@@ -2,13 +2,13 @@
 "The Father-in-Law's Legacy"
 
 @2.0
-Nohime.
+Nōhime.
 
 @3.0
 I am back.
 
 @4
-The 3rd year of Eiroku (1560)\nImagawa Yoshimoto, hailed as the foremost bowman of the Tokai, was slain by Oda Nobunaga, a minor daimyo of Owari.\nNobunaga's name spread across the land, and some of the people of Owari even praised him as a living god.\n\nWith this victory, Nobunaga's rule over Owari became absolute. In exchange for Yoshimoto's head...
+The 3rd year of Eiroku (1560)\nImagawa Yoshimoto, hailed as the foremost bowman of the Tōkai, was slain by Oda Nobunaga, a minor daimyō of Owari.\nNobunaga's name spread across the land, and some of the people of Owari even praised him as a living god.\n\nWith this victory, Nobunaga's rule over Owari became absolute. In exchange for Yoshimoto's head...
 
 @5
 "The Father-in-Law's Legacy"
@@ -20,7 +20,7 @@ The 3rd year of Eiroku (1560)\nImagawa Yoshimoto, hailed as the foremost bowman 
 "The Father-in-Law's Legacy"
 
 @10
-After Oda Nobunaga defeated Imagawa Yoshimoto, Saito Yoshitatsu died of illness in Mino and his son Tatsuoki became head of the clan.\n\nMeanwhile, in Mikawa to the east of Owari, Matsudaira Motoyasu, who had been subject to the Imagawa, was freed by Yoshimoto's death and returned to Okazaki Castle. Nobunaga, who had been waiting for a chance to advance into Mino, resolved to ally with the Matsudaira so as to throw everything into conquering Mino.
+After Oda Nobunaga defeated Imagawa Yoshimoto, Saitō Yoshitatsu died of illness in Mino and his son Tatsuoki became head of the clan.\n\nMeanwhile, in Mikawa to the east of Owari, Matsudaira Motoyasu, who had been subject to the Imagawa, was freed by Yoshimoto's death and returned to Okazaki Castle. Nobunaga, who had been waiting for a chance to advance into Mino, resolved to ally with the Matsudaira so as to throw everything into conquering Mino.
 
 @11.0
 Ah, Motoyasu. It has been a long time.
@@ -56,10 +56,10 @@ Thus, in the 1st month of the 5th year of Eiroku (1562), the Oda and the Matsuda
 (I will take Mino and avenge the Viper.)
 
 @15.1
-(If I conquer Mino, I may be able to march on Kyoto and proclaim my hegemony over the realm.)
+(If I conquer Mino, I may be able to march on Kyōto and proclaim my hegemony over the realm.)
 
 @16.0
-Nohime, I want Mino. I want Inabayama Castle.
+Nōhime, I want Mino. I want Inabayama Castle.
 
 @16.1
 Please, take it by force. Father surely wished for it too.
@@ -89,10 +89,10 @@ Gonroku, gather the chief men.
 Leave it. For now, taking Inabayama Castle takes priority over the uprising.
 
 @27
-Ichijodani
+Ichijōdani
 
 @28
-Ichijodani - Audience Hall
+Ichijōdani - Audience Hall
 
 @29
 Akechi Mitsuhide, wandering in search of a lord to serve, had come to the lands of the Asakura, a noted house of Echizen.\n\nMitsuhide, skilled in every martial art, soon came to the notice of the head of the house, Asakura Yoshikage, and was granted an audience.
@@ -107,13 +107,13 @@ I will grant you land. From now on, serve me as instructor in musketry.
 I am deeply grateful.
 
 @34
-After Saito Dosan's death, Akechi Mitsuhide fled Mino and relied on Asakura Yoshikage, and in time he would become deeply bound up with Oda Nobunaga. It was as if the late Saito Dosan were drawing in the threads of fate.
+After Saitō Dōsan's death, Akechi Mitsuhide fled Mino and relied on Asakura Yoshikage, and in time he would become deeply bound up with Oda Nobunaga. It was as if the late Saitō Dōsan were drawing in the threads of fate.
 
 @36
 Residence of Ashikaga Yoshiteru
 
 @37
-Meanwhile, in Kyoto...\n\n\n\nThe forces of the Miyoshi Triumvirate and Matsunaga Hisahide attacked Ashikaga Yoshiteru, the 13th shogun of the Muromachi shogunate.
+Meanwhile, in Kyōto...\n\n\n\nThe forces of the Miyoshi Triumvirate and Matsunaga Hisahide attacked Ashikaga Yoshiteru, the 13th shōgun of the Muromachi shogunate.
 
 @38.0
 Let whoever wishes to die come at me first. I, Yoshiteru, will face you!
@@ -158,7 +158,7 @@ Lord Yoshiteru...
 Yoshiteru departed this world at the young age of 30.
 
 @51
-Nara - Ichijoin, Kofukuji
+Nara - Ichijōin, Kōfuku-ji
 
 @52
 The Miyoshi Triumvirate and Matsunaga Hisahide also sought the life of Yoshiteru's younger brother Kakukei, who had entered the priesthood.
@@ -212,7 +212,7 @@ Tch, a step too late.
 Right, after them.
 
 @62
-Thus Kakukei slipped out of Ichijoin and returned to lay life, taking the name Yoshiaki, later written with a different character.
+Thus Kakukei slipped out of Ichijōin and returned to lay life, taking the name Yoshiaki, later written with a different character.
 
 @63
 Komakiyama Castle - Audience Hall
@@ -239,7 +239,7 @@ Enough! Is there no one who thinks himself equal to it?
 With respect, I will do it.
 
 @68.0
-Leave it to me, Tokichiro.
+Leave it to me, Tōkichirō.
 
 @68.1
 Oh, the Monkey.
@@ -266,13 +266,13 @@ Yes, my lord. Await good news.
 (Hmph! What can a mere monkey do?)
 
 @70
-Kinoshita Tokichiro felled and worked cypress from Kiso, floated the timber down the Nagara River to Sunomata, and had only to assemble it on the spot. The castle, finished in a mere 47 days, was called by later generations the One-Night Castle of Sunomata.
+Kinoshita Tōkichirō felled and worked cypress from Kiso, floated the timber down the Nagara River to Sunomata, and had only to assemble it on the spot. The castle, finished in a mere 47 days, was called by later generations the One-Night Castle of Sunomata.
 
 @71
-Ichijodani
+Ichijōdani
 
 @72
-Ichijodani - Audience Hall
+Ichijōdani - Audience Hall
 
 @73
 Kakukei, who had changed his name to Ashikaga Yoshiaki, had come to Asakura Yoshikage in Echizen.
@@ -287,22 +287,22 @@ Please make yourself at ease.
 Hm, I am pleased. Yet I cannot linger so long.
 
 @74.3
-I need only march on Kyoto to become shogun at once.
+I need only march on Kyōto to become shōgun at once.
 
 @74.4
-But the Miyoshi and Matsunaga in Kyoto hinder my march and mean to keep me from the shogunate.
+But the Miyoshi and Matsunaga in Kyōto hinder my march and mean to keep me from the shogunate.
 
 @74.5
-If I hurry not, my cousin Yoshihide, whom they have raised up, will take the shogun's seat from me.
+If I hurry not, my cousin Yoshihide, whom they have raised up, will take the shōgun's seat from me.
 
 @74.6
-Will you lend your strength to drive out those who defy the shogunal house, and march on Kyoto with me?
+Will you lend your strength to drive out those who defy the shogunal house, and march on Kyōto with me?
 
 @74.7
 Well, you see, winter comes early here, so let us speak of it next year when the snow melts...
 
 @75.0
-(If I could be the one to set him on the shogun's seat, then perhaps...)
+(If I could be the one to set him on the shōgun's seat, then perhaps...)
 
 @76
 A flame of ambition rose in Akechi Mitsuhide's heart.\n\n\nIt was a dangerous flame, one that would burn up even himself...
@@ -317,7 +317,7 @@ As you have all heard, an uprising has broken out in eastern Mino.
 We will put it down at once and show my authority to the people of my domain.
 
 @80.0
-(If Takeda or Azai and the rest come to Saito Tatsuoki's aid while I conquer Mino, it will be troublesome.)
+(If Takeda or Azai and the rest come to Saitō Tatsuoki's aid while I conquer Mino, it will be troublesome.)
 
 @80.1
 Call Oichi.
@@ -332,7 +332,7 @@ Oichi. How old are you now?
 I am seventeen this year.
 
 @82.0
-Will you marry Azai Nagamasa in Omi? It is for the sake of the Oda.
+Will you marry Azai Nagamasa in Ōmi? It is for the sake of the Oda.
 
 @82.1
 ...I understand. I will obey your wishes, Brother.
@@ -341,13 +341,13 @@ Will you marry Azai Nagamasa in Omi? It is for the sake of the Oda.
 Oichi, Nobunaga's sister, famed as a "beauty without peer," married Azai Nagamasa, and the Oda-Azai alliance was formed.
 
 @84.0
-A messenger has come from Lord Kinoshita Tokichiro at Sunomata.
+A messenger has come from Lord Kinoshita Tōkichirō at Sunomata.
 
 @84.1
 From the Monkey? Show him in.
 
 @85.0
-Thanks to Takenaka Hanbee, we have secured promises of defection from Inaba Ittetsu, Ando Morinari and Ujiie Bokuzen.
+Thanks to Takenaka Hanbei, we have secured promises of defection from Inaba Ittetsu, Andō Morinari and Ujiie Bokuzen.
 
 @86.0
 The time is ripe. Now is the moment to take Inabayama Castle.

@@ -26,6 +26,10 @@ def main():
     old, new = disc.file(iso.EXE_NAME, recs), files[iso.EXE_NAME]
     g = G()
     g.cmd('?')
+    # the GDB port belongs to whichever DuckStation started first: make sure it runs this game
+    probe = g.read(build.EXE_BASE + 0x800, 64)
+    if probe not in (old[0x800:0x840], new[0x800:0x840]):
+        sys.exit('the emulator on the GDB port is not running Oda Nobunaga Den (pgrep -a AppRun): nothing written')
     n, o = 0, 0x800
     while o < len(new):                   # runs of changed words (gaps < 16 B), <= 0x200 B a packet
         if new[o:o + 4] == old[o:o + 4]:

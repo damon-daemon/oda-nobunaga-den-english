@@ -8,7 +8,7 @@
 "Devil King of the Sixth Heaven"
 
 @3
-In the 8th year of Tensho (1580), Ishiyama Honganji, head temple of the Ikko sect that had long troubled Nobunaga, was burned to the ground by an unknown hand. Nobunaga was 47. To everyone it seemed that his dream of the realm under one sword was close at hand.
+In the 8th year of Tenshō (1580), Ishiyama Hongan-ji, head temple of the Ikkō sect that had long troubled Nobunaga, was burned to the ground by an unknown hand. Nobunaga was 47. To everyone it seemed that his dream of the realm under one sword was close at hand.
 
 @4
 "Single-Minded Advance"
@@ -29,10 +29,10 @@ Damn Murashige, he has run away.
 We took several hundred of the castle garrison alive, together with Murashige's kin. What shall we do with them?
 
 @10.0
-Crucify the soldiers who resisted to the end, in Settsu. Behead Murashige's kin in Kyoto.
+Crucify the soldiers who resisted to the end, in Settsu. Behead Murashige's kin in Kyōto.
 
 @11
-Every member of the Araki clan except Murashige, who had fled, was to be executed.\n\nIt is said that they all met their end splendidly, none showing any agitation, closing their eyes and quietly awaiting death. Murashige, who escaped to the Mori clan, later served Hideyoshi as a tea master and ended his days in that way.
+Every member of the Araki clan except Murashige, who had fled, was to be executed.\n\nIt is said that they all met their end splendidly, none showing any agitation, closing their eyes and quietly awaiting death. Murashige, who escaped to the Mōri clan, later served Hideyoshi as a tea master and ended his days in that way.
 
 @12.0
 By the way, my lord, Lord Kuroda Kanbei has been rescued from the dungeon inside the castle...
@@ -56,7 +56,7 @@ They say Lord Takenaka has secretly been sheltering Kanbei's son.
 I see.
 
 @14.1
-Normally I would not forgive Hanbee for defying me, but this time I will let it pass.
+Normally I would not forgive Hanbei for defying me, but this time I will let it pass.
 
 @15
 A year and a half had passed since Akechi Mitsuhide laid siege to Yakami Castle in Tanba. Mitsuhide called on the castellan, Hatano Hideharu, to surrender. Hideharu agreed on condition that Mitsuhide's mother be left in Yakami Castle as a hostage, and went to Azuchi to make peace.
@@ -119,16 +119,16 @@ My lord, it seems my escort has come for me.
 My lord, looking back... it was all such fun, every bit of it.
 
 @27.2
-Hanbee!
+Hanbei!
 
 @28.0
 Offering me schemes until the very moment of his death... What a splendid man.
 
 @29
-In the 7th year of Tensho (1579), Hideyoshi's trusted right hand, Takenaka Hanbee, died during the siege of Miki Castle at the age of 36. The strategist Takenaka Hanbee remained a strategist until his dying breath. Hideyoshi adopted one of Nobunaga's sons and named him Hidekatsu.
+In the 7th year of Tenshō (1579), Hideyoshi's trusted right hand, Takenaka Hanbei, died during the siege of Miki Castle at the age of 36. The strategist Takenaka Hanbei remained a strategist until his dying breath. Hideyoshi adopted one of Nobunaga's sons and named him Hidekatsu.
 
 @30.0
-My lord, Saito Toshimitsu, who serves Lord Akechi, was originally my subordinate.
+My lord, Saitō Toshimitsu, who serves Lord Akechi, was originally my subordinate.
 
 @30.1
 Could you not tell Lord Akechi to return my man to me?
@@ -146,7 +146,7 @@ My lord, the pacification of Tanba has ended without incident.
 Hm. Well done.
 
 @33.2
-I received your summons ordering me to bring my retainer Saito Toshimitsu...
+I received your summons ordering me to bring my retainer Saitō Toshimitsu...
 
 @34.0
 It concerns that very matter. I hear Toshimitsu once served Ittetsu.
@@ -206,7 +206,7 @@ Hashiba HQ - Besieging Miki Castle
 Brother, I hear Miki Castle's provisions have run out, and men are starting to starve. Shall we not attack soon?
 
 @49.1
-Hanbee is already dead, and Kanbei is ill and not here. How can we fight at such a time?
+Hanbei is already dead, and Kanbei is ill and not here. How can we fight at such a time?
 
 @49.2
 For now, all we do is wait for the enemy to surrender.
@@ -236,61 +236,61 @@ After a siege by starvation lasting twenty months, Miki Castle fell. It is said 
 Azuchi Castle - Council Hall
 
 @58.0
-Now that the traitors of Settsu and Harima have been put down, next is Honganji.
+Now that the traitors of Settsu and Harima have been put down, next is Hongan-ji.
 
 @59.0
-Next is Honganji.
+Next is Hongan-ji.
 
 @60.0
-My lord, it is unwise to keep fighting Honganji any longer.
+My lord, it is unwise to keep fighting Hongan-ji any longer.
 
 @60.1
-We should draw them to our side and use them as a tool to suppress the Ikko uprisings.
+We should draw them to our side and use them as a tool to suppress the Ikkō uprisings.
 
 @60.2
-Now that Honganji has lost its backers, Takeda and Uesugi, I believe they would accept peace.
+Now that Hongan-ji has lost its backers, Takeda and Uesugi, I believe they would accept peace.
 
 @60.3
-Mitsuhide, are you saying you can bring about peace with Honganji?
+Mitsuhide, are you saying you can bring about peace with Hongan-ji?
 
 @60.4
 Yes. I will obtain an imperial edict of peace from the Court.
 
 @60.5
-Even the abbot of Honganji cannot defy the Emperor's authority.
+Even the abbot of Hongan-ji cannot defy the Emperor's authority.
 
 @60.6
 Hm. Mitsuhide, try it.
 
 @63.0
-An imperial edict has come down from the Court commanding that Honganji be surrendered and peace made with the Oda.
+An imperial edict has come down from the Court commanding that Hongan-ji be surrendered and peace made with the Oda.
 
 @63.1
 Kaga has also been attacked by Shibata Katsuie, and its subjugation is only a matter of time.
 
 @63.2
-Now that supplies from the Mori have been cut off as well, I think peace would be best...
+Now that supplies from the Mōri have been cut off as well, I think peace would be best...
 
 @64.0
 I see... It cannot be helped.
 
 @65.0
-Father, how can you be so weak? If we bow before Nobunaga, the enemy of the Law, Honganji's honour will not stand.
+Father, how can you be so weak? If we bow before Nobunaga, the enemy of the Law, Hongan-ji's honour will not stand.
 
 @66.0
-If we cling to honour and keep fighting, Nobunaga will slaughter us all. We have no choice but to give up Honganji.
+If we cling to honour and keep fighting, Nobunaga will slaughter us all. We have no choice but to give up Hongan-ji.
 
 @66.1
-If you wish to leave Honganji, do as you please. I will keep fighting.
+If you wish to leave Hongan-ji, do as you please. I will keep fighting.
 
 @67
-Kennyo accepted Nobunaga's peace, but Kyonyo gathered the Ikko followers and continued to resist.\n\nHowever, four months later he accepted Nobunaga's demands, left Honganji and withdrew to Saiga.\n\nThus Nobunaga had the abbot himself persuade the Ikko followers who still resisted, and succeeded in laying the foundation for unifying the realm.
+Kennyo accepted Nobunaga's peace, but Kyōnyo gathered the Ikkō followers and continued to resist.\n\nHowever, four months later he accepted Nobunaga's demands, left Hongan-ji and withdrew to Saiga.\n\nThus Nobunaga had the abbot himself persuade the Ikkō followers who still resisted, and succeeded in laying the foundation for unifying the realm.
 
 @69
 Azuchi Castle - Council Chamber
 
 @70.0
-The Honganji campaign has reached a settlement of sorts. Now I have orders for you all.
+The Hongan-ji campaign has reached a settlement of sorts. Now I have orders for you all.
 
 @71.0
 First, Hidesada.
@@ -392,7 +392,7 @@ Then march on Tottori Castle, and when the enemy reinforcements rush into the ca
 I see, as expected of Kanbei. Your wits are frightening. Hahaha.
 
 @92
-When Kikkawa Tsuneie, a reinforcement from the Mori side, entered Tottori Castle, Hideyoshi at once surrounded the castle with fences.
+When Kikkawa Tsuneie, a reinforcement from the Mōri side, entered Tottori Castle, Hideyoshi at once surrounded the castle with fences.
 
 @93
 Kikkawa Tsuneie resolved to open the castle, and despite Hashiba Hideyoshi's attempts to stop him, wrote a final testament and committed seppuku.\n\nHideyoshi praised Kikkawa Tsuneie's nobility and fed gruel to the hungry garrison.\n\nThis is one of Hideyoshi's two great starvation sieges, "the starving out of Tottori".
@@ -401,7 +401,7 @@ Kikkawa Tsuneie resolved to open the castle, and despite Hashiba Hideyoshi's att
 Hashiba Camp
 
 @95
-When Kikkawa Tsuneie, a reinforcement from the Mori side, entered Tottori Castle, Hideyoshi at once surrounded the castle with fences.
+When Kikkawa Tsuneie, a reinforcement from the Mōri side, entered Tottori Castle, Hideyoshi at once surrounded the castle with fences.
 
 @96.0
 Four months since we surrounded Tottori Castle... and not a single man will turn traitor.
@@ -410,7 +410,7 @@ Four months since we surrounded Tottori Castle... and not a single man will turn
 And the spies report that people have already starved to death.
 
 @96.2
-The Mori clan's unity has been very strong since the time of Lord Mori Motonari. However, my lord,
+The Mōri clan's unity has been very strong since the time of Lord Mōri Motonari. However, my lord,
 
 @96.3
 if you say you will spare the lives of everyone, Kikkawa Tsuneie included, they will surely give up the castle.
@@ -425,10 +425,10 @@ Shoot an arrow-letter into the castle: surrender the castle and everyone's lives
 Kikkawa Tsuneie resolved to open the castle, and despite Hashiba Hideyoshi's attempts to stop him, wrote a final testament and committed seppuku.\n\nHideyoshi praised Kikkawa Tsuneie's nobility and fed gruel to the hungry garrison.\n\nThis is one of Hideyoshi's two great starvation sieges, "the starving out of Tottori".
 
 @100
-In the 9th month of the 9th year of Tensho (1581), Nobunaga suddenly resolved to pacify Iga.
+In the 9th month of the 9th year of Tenshō (1581), Nobunaga suddenly resolved to pacify Iga.
 
 @101.0
-We invade Iga! Kazumasu, Ujisato and Nagahide attack from the Koga side, and Junkei from the Yamato side.
+We invade Iga! Kazumasu, Ujisato and Nagahide attack from the Kōga side, and Junkei from the Yamato side.
 
 @104.0
 Father, have you strengthened your weapons and armour enough?

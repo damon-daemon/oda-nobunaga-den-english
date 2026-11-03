@@ -29,28 +29,28 @@ After a hard fight, Nobunaga defeated the Takeda cavalry, reputed the strongest 
 "Sworn Enemies"
 
 @10
-Echizen - Ikko Followers
+Echizen - Ikkō Followers
 
 @11.0
 We risked our lives and took this province from the Asakura bastards.
 
 @11.1
-Yeah. But now we have to pay high alms to the Honganji priests who came later and did nothing.
+Yeah. But now we have to pay high alms to the Hongan-ji priests who came later and did nothing.
 
 @11.2
 It's no different from when the wicked lords squeezed us for rice tax.
 
 @11.3
-I can't stand it any more. Let's drive out the Honganji priests.
+I can't stand it any more. Let's drive out the Hongan-ji priests.
 
 @13.0
-Word has come that a riot has broken out in Echizen. It is our chance to destroy the Ikko followers there.
+Word has come that a riot has broken out in Echizen. It is our chance to destroy the Ikkō followers there.
 
 @14.0
 We march. Advance the troops to Tsuruga at once.
 
 @15
-Seeing the riot as a chance to destroy the Ikko followers of Echizen, Nobunaga gathered an army of 30,000 at Tsuruga.
+Seeing the riot as a chance to destroy the Ikkō followers of Echizen, Nobunaga gathered an army of 30,000 at Tsuruga.
 
 @16.0
 Hunt the rebels down, even into the mountains and forests.
@@ -77,7 +77,7 @@ Aaargh.
 They rise up with no hope of winning, and so they end up dead.
 
 @23.0
-(But what of you, Jubei? If it were you, would you have any hope of winning...?)
+(But what of you, Jūbei? If it were you, would you have any hope of winning...?)
 
 @24.0
 Echizen...
@@ -95,7 +95,7 @@ No, it is nothing. Pay it no mind.
 (I seem to be tired. I...)
 
 @26
-Having annihilated the Ikko rebels of Echizen, Nobunaga pressed his advantage and pacified two districts of Kaga as well.
+Having annihilated the Ikkō rebels of Echizen, Nobunaga pressed his advantage and pacified two districts of Kaga as well.
 
 @27.0
 You have all done well in this pacification of Echizen.
@@ -125,7 +125,7 @@ It is your father's order. Accept it, Nobutada.
 Yes, my lord. I will strive with all my might not to shame the Oda name.
 
 @33.0
-I leave Gifu Castle to Nobutada. I shall build a new castle at Azuchi, near Kyoto and well placed for travel.
+I leave Gifu Castle to Nobutada. I shall build a new castle at Azuchi, near Kyōto and well placed for travel.
 
 @33.1
 Nagahide, I appoint you commissioner of construction.
@@ -134,10 +134,10 @@ Nagahide, I appoint you commissioner of construction.
 Yes, my lord. I will build a famous castle worthy of the Realm Under One Sword.
 
 @35.0
-Now, having struck the Ikko uprising in Echizen, next is the root of it all, Honganji.
+Now, having struck the Ikkō uprising in Echizen, next is the root of it all, Hongan-ji.
 
 @35.1
-Nobumori, surround Honganji and starve it out. Leave the priests to dry in the sun.
+Nobumori, surround Hongan-ji and starve it out. Leave the priests to dry in the sun.
 
 @37.0
 I leave the conquest of Tanba and Tango to Mitsuhide. Take whatever you can.
@@ -200,7 +200,7 @@ Monkey, I leave it to you. Do as you see fit.
 Yes, my lord.
 
 @56
-The 11th month, 3rd year of Tensho (1575)\nNobunaga suddenly resolved to hand the headship of the family to his heir Nobutada.
+The 11th month, 3rd year of Tenshō (1575)\nNobunaga suddenly resolved to hand the headship of the family to his heir Nobutada.
 
 @57.0
 First I tell you all this. I have decided to hand the headship of the family to Nobutada.
@@ -218,7 +218,7 @@ It is your father's order. Accept it, Nobutada.
 Yes, my lord. I will strive with all my might not to shame the Oda name.
 
 @59.0
-I leave Gifu Castle to Nobutada. I shall build a new castle at Azuchi, near Kyoto and well placed for travel.
+I leave Gifu Castle to Nobutada. I shall build a new castle at Azuchi, near Kyōto and well placed for travel.
 
 @59.1
 Nagahide, I appoint you commissioner of construction.
@@ -227,10 +227,10 @@ Nagahide, I appoint you commissioner of construction.
 Yes, my lord. I will build a famous castle worthy of the Realm Under One Sword.
 
 @61.0
-Now, having struck the Ikko uprising in Echizen, next is the root of it all, Honganji.
+Now, having struck the Ikkō uprising in Echizen, next is the root of it all, Hongan-ji.
 
 @61.1
-Nobumori, surround Honganji and starve it out. Leave the priests to dry in the sun.
+Nobumori, surround Hongan-ji and starve it out. Leave the priests to dry in the sun.
 
 @63.0
 I leave the conquest of Tanba and Tango to Mitsuhide. Take whatever you can.
@@ -260,7 +260,7 @@ Thus Akechi Mitsuhide's daughter Otama married Hosokawa Fujitaka's heir Tadaoki.
 Yoshiaki's Hideout
 
 @70.0
-It has been years since Nobunaga drove me from the shogun's seat, and his power only grows.
+It has been years since Nobunaga drove me from the shōgun's seat, and his power only grows.
 
 @71.0
 If I do not summon the lords of the land and confront him, it will be too late.
@@ -269,22 +269,22 @@ If I do not summon the lords of the land and confront him, it will be too late.
 But Takeda Shingen is no longer in this world. Who else could take his place...
 
 @73.0
-Yes! There are the Mori. I shall ask the Mori.
+Yes! There are the Mōri. I shall ask the Mōri.
 
 @73.1
 If I call, they will surely rise... no, they must rise.
 
 @74
-Aki - Yoshida Koriyama
+Aki - Yoshida Kōriyama
 
 @75
-Yoshida Koriyama Castle - Council Hall
+Yoshida Kōriyama Castle - Council Hall
 
 @76.0
 I have gathered you all for one reason.
 
 @76.1
-It concerns the letter from the shogun, Ashikaga Yoshiaki.
+It concerns the letter from the shōgun, Ashikaga Yoshiaki.
 
 @76.2
 Strike down Nobunaga, so that power is returned to the rightful ruler of the realm, is it...
@@ -305,13 +305,13 @@ Hm. What are we to do...
 My late grandfather told me that in trouble I should consult my uncle Takakage.
 
 @76.8
-What should I do? Should we put the shogun first and fight the Oda?
+What should I do? Should we put the shōgun first and fight the Oda?
 
 @76.9
-This is not the time to fight the Oda. But if you turn the shogun away, my lord, you will lose your men's trust.
+This is not the time to fight the Oda. But if you turn the shōgun away, my lord, you will lose your men's trust.
 
 @76.10
-I think it best to keep the shogun in Bingo and support Honganji, which is at war with the Oda.
+I think it best to keep the shōgun in Bingo and support Hongan-ji, which is at war with the Oda.
 
 @76.11
 The Oda are mighty. We must avoid a direct clash and keep the road to peace open to the end.
@@ -323,10 +323,10 @@ I see. As expected of my uncle.
 Azuchi Castle
 
 @78
-Having won a promise of support from the Mori, Ishiyama Honganji called the Kii Ikko musketeers from Saiga and prepared to strike back at the Oda. Nobunaga at once sent Akechi Mitsuhide and Hosokawa Fujitaka, then campaigning in Tanba, to Honganji, and resolved to take the field himself.
+Having won a promise of support from the Mōri, Ishiyama Hongan-ji called the Kii Ikkō musketeers from Saiga and prepared to strike back at the Oda. Nobunaga at once sent Akechi Mitsuhide and Hosokawa Fujitaka, then campaigning in Tanba, to Hongan-ji, and resolved to take the field himself.
 
 @79.0
-My lord, our army attacking Ishiyama Honganji is in difficulty. What will you do?
+My lord, our army attacking Ishiyama Hongan-ji is in difficulty. What will you do?
 
 @79.1
 It seems I must take command myself.
@@ -335,7 +335,7 @@ It seems I must take command myself.
 All of you, we march!
 
 @83.0
-I hear the Mori have delivered provisions to Honganji. It looks to be a hard fight.
+I hear the Mōri have delivered provisions to Hongan-ji. It looks to be a hard fight.
 
 @84.0
 I, Nobutada, will not fight in a way that dishonours my father's name.
@@ -344,19 +344,19 @@ I, Nobutada, will not fight in a way that dishonours my father's name.
 To think there were still such rogues in my own domain.
 
 @86.0
-Because the war with the Takeda dragged on, Honganji is fully prepared.\n\nThe Saiga band has also arrived, so a frontal assault is dangerous...
+Because the war with the Takeda dragged on, Hongan-ji is fully prepared.\n\nThe Saiga band has also arrived, so a frontal assault is dangerous...
 
 @87.0
-Honganji is making ready for a siege.\n\nI think the best plan is to surround and isolate Honganji and starve it out.
+Hongan-ji is making ready for a siege.\n\nI think the best plan is to surround and isolate Hongan-ji and starve it out.
 
 @88.0
 To think there were still such rogues in my own domain. A blunder...
 
 @89.0
-My men report that Mori provisions have reached Honganji. And many Saiga musketeers can be seen inside the fort.
+My men report that Mōri provisions have reached Hongan-ji. And many Saiga musketeers can be seen inside the fort.
 
 @90.0
-My men report that Honganji is running short of provisions.
+My men report that Hongan-ji is running short of provisions.
 
 @91.0
 Fallen warriors like these are no match for us.
@@ -365,7 +365,7 @@ Fallen warriors like these are no match for us.
 Attacking the fort is difficult. How about attacking with muskets and cannon?
 
 @93.0
-If we cut the Mori's supply convoys, the war will be easier.
+If we cut the Mōri's supply convoys, the war will be easier.
 
 @94.0
 Hmm... I doubt it, but be on your guard.
@@ -374,7 +374,7 @@ Hmm... I doubt it, but be on your guard.
 Leave the defence of the castle to me.
 
 @96.0
-Ikko followers who do not fear death are troublesome foes. Be careful...
+Ikkō followers who do not fear death are troublesome foes. Be careful...
 
 @97.0
 I would like to drink that red wine once, on the battlefield...

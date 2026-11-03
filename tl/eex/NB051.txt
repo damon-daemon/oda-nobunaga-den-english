@@ -2,10 +2,10 @@
 My lord!\n\nThank heaven you are safe... The Monkey... the Monkey is so happy.
 
 @11.0
-Mitsuhide caught me off guard, but I have not given up the realm under one sword.\n\nUesugi, Hojo, Mori and Chosokabe are recovering. I declare the pacification of the provinces resumed! Monkey!
+Mitsuhide caught me off guard, but I have not given up the realm under one sword.\n\nUesugi, Hōjō, Mōri and Chōsokabe are recovering. I declare the pacification of the provinces resumed! Monkey!
 
 @13.0
-Return to Etchu and resume the campaign against the Uesugi with Toshiie, Narimasa, Nagachika and Mitsuharu!
+Return to Etchū and resume the campaign against the Uesugi with Toshiie, Narimasa, Nagachika and Mitsuharu!
 
 @14.0
 You, send a messenger to Lord Ieyasu!
@@ -14,7 +14,7 @@ You, send a messenger to Lord Ieyasu!
 In Hamamatsu, a calm eye watched Nobunaga's survival. It was Tokugawa Ieyasu.
 
 @20
-After the Honnoji Incident, Ieyasu had become a great power holding Mikawa, Totomi, Suruga, Kai and Shinano, and had secured his rear by allying with the Hojo.
+After the Honnō-ji Incident, Ieyasu had become a great power holding Mikawa, Tōtōmi, Suruga, Kai and Shinano, and had secured his rear by allying with the Hōjō.
 
 @21.0
 (But it can be taken...)\n\n(Even if Nobunaga lives, the Oda are no longer what they were...)\nIt can be taken now... The realm...
@@ -32,7 +32,7 @@ So when they learned Lord Nobunaga lives, the Shibata and Hashiba forces both pu
 My lord, does our invasion of Kai and Shinano not amount to rebellion against Lord Oda?!
 
 @22.4
-No, we only did what is natural for an ally. In the wake of Akechi's revolt, Kai and Shinano fell into disorder and the Hojo marched in. For us to sit by would be equal to betraying the Oda. That is why his lordship decided to invade Kai.
+No, we only did what is natural for an ally. In the wake of Akechi's revolt, Kai and Shinano fell into disorder and the Hōjō marched in. For us to sit by would be equal to betraying the Oda. That is why his lordship decided to invade Kai.
 
 @22.8
 B-but Kai and Shinano are lands our forces won. We cannot simply hand them back to Lord Nobunaga!
@@ -71,19 +71,19 @@ We must strike down Ieyasu at all costs!
 To think we would fight the Tokugawa...
 
 @36.0
-If we move, the Hojo, allied to the Tokugawa, will move too. Please take care.
+If we move, the Hōjō, allied to the Tokugawa, will move too. Please take care.
 
 @37.0
 Please give me a chance to restore my honour.
 
 @38.0
-Noda Castle is defended by Honda Tadakatsu and Okubo Tadayo.
+Noda Castle is defended by Honda Tadakatsu and Ōkubo Tadayo.
 
 @39.0
 Okazaki Castle is defended by Torii Mototada.
 
 @40.0
-When will Hojo reinforcements arrive...
+When will Hōjō reinforcements arrive...
 
 @41.0
 If we attack Okazaki Castle, the Tokugawa will surely move.

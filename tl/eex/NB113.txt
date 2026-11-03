@@ -1,8 +1,8 @@
 @0.0
-Heh heh heh, Nobunaga. He has blundered out with no idea that we are allied with the Azai, the Asakura and the Honganji.
+Heh heh heh, Nobunaga. He has blundered out with no idea that we are allied with the Azai, the Asakura and the Hongan-ji.
 
 @0.1
-We and the Honganji will press from the south, the Azai and Asakura from the north.
+We and the Hongan-ji will press from the south, the Azai and Asakura from the north.
 
 @0.2
 Today is your end! Hahahahaha...
@@ -11,7 +11,7 @@ Today is your end! Hahahahaha...
 Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Wipe out the enemy.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
 
 @2
-Battle of Noda-Fukushima and Sakamoto\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda home castle (Kyoto) is taken.
+Battle of Noda-Fukushima and Sakamoto\n\nVictory: 1. Wipe out the enemy.\n\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\n\nDefeat 2 (all units retreat):\n  1. The Oda home castle (Kyōto) is taken.
 
 @3
 The Azai-Asakura army has arrived!
@@ -20,10 +20,10 @@ The Azai-Asakura army has arrived!
 That Nagamasa, sending out his troops at the first chance...
 
 @4.1
-Lord Yoshikage, let us take Kyoto in one stroke.
+Lord Yoshikage, let us take Kyōto in one stroke.
 
 @4.2
-Yes. All forces, advance on Kyoto!
+Yes. All forces, advance on Kyōto!
 
 @5
 Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Make Azai Nagamasa and Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
@@ -35,22 +35,22 @@ Noda-Fukushima (condition changed)\nVictory: 1. Make Nagamasa and Yoshikage retr
 Lord Nobunaga, terrible news!
 
 @7.1
-Usayama Castle in southern Omi has been attacked by the Azai-Asakura allied army and has fallen.
+Usayama Castle in southern Ōmi has been attacked by the Azai-Asakura allied army and has fallen.
 
 @7.2
-Its commander, Mori Yoshinari, was killed in action, and the Azai-Asakura army is heading for Kyoto!
+Its commander, Mori Yoshinari, was killed in action, and the Azai-Asakura army is heading for Kyōto!
 
 @7.3
-We cannot let them seize Kyoto now. I must do something...
+We cannot let them seize Kyōto now. I must do something...
 
 @8.0
 Lord Nagayuki, we have come to your aid.
 
 @8.1
-My thanks, Lord Raisho. Oh, who is that unit?
+My thanks, Lord Raishō. Oh, who is that unit?
 
 @8.2
-That is the Saiga musketeer band led by Sadayu.
+That is the Saiga musketeer band led by Sadayū.
 
 @8.3
 Our muskets will smash Nobunaga's army.
@@ -62,13 +62,13 @@ Hahaha, reassuring indeed. Very well, general attack!
 Lord Nobunaga, terrible news!
 
 @9.1
-Usayama Castle in southern Omi has been attacked by the Azai-Asakura allied army and has fallen.
+Usayama Castle in southern Ōmi has been attacked by the Azai-Asakura allied army and has fallen.
 
 @9.2
-Its commander, Mori Yoshinari, was killed in action, and the Azai-Asakura army is heading for Kyoto!
+Its commander, Mori Yoshinari, was killed in action, and the Azai-Asakura army is heading for Kyōto!
 
 @9.3
-We cannot let them seize Kyoto now. I must do something...
+We cannot let them seize Kyōto now. I must do something...
 
 @10
 The Azai-Asakura army has arrived!
@@ -77,10 +77,10 @@ The Azai-Asakura army has arrived!
 That Nagamasa, sending out his troops at the first chance...
 
 @11.1
-Lord Yoshikage, let us take Kyoto in one stroke.
+Lord Yoshikage, let us take Kyōto in one stroke.
 
 @11.2
-Yes. All forces, advance on Kyoto!
+Yes. All forces, advance on Kyōto!
 
 @12
 Battle of Noda-Fukushima and Sakamoto\nVictory: 1. Make Azai Nagamasa retreat.\n             2. Make Asakura Yoshikage retreat.\nDefeat 1 (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 40 turns pass.\nDefeat 2 (all units retreat):\n  1. The Oda main camp is taken.
@@ -119,10 +119,10 @@ Oh yes, let me give you this medicine. It is sure to be of some use.
 Lord Nagayuki, we have come to your aid.
 
 @25.1
-My thanks, Lord Raisho. Oh, who is that unit?
+My thanks, Lord Raishō. Oh, who is that unit?
 
 @25.2
-That is the Saiga musketeer band led by Sadayu.
+That is the Saiga musketeer band led by Sadayū.
 
 @25.3
 Our muskets will smash Nobunaga's army.
@@ -131,7 +131,7 @@ Our muskets will smash Nobunaga's army.
 Hahaha, reassuring indeed. Very well, general attack!
 
 @26.0
-They say that when war comes, Enryakuji to the north and the Honganji to the west set terrible traps.
+They say that when war comes, Enryaku-ji to the north and the Hongan-ji to the west set terrible traps.
 
 @26.1
 If you fall into one, use this.
@@ -182,7 +182,7 @@ Grr... Remember this, Nobunaga!
 Curse it, if only the Azai-Asakura reinforcements had come...
 
 @32.0
-Curse it, if only the Honganji reinforcements had come...
+Curse it, if only the Hongan-ji reinforcements had come...
 
 @33.0
 There is no help for it, pull back the troops!
@@ -191,10 +191,10 @@ There is no help for it, pull back the troops!
 Good, I have driven off Nagamasa and the rest.
 
 @36
-Caught in a pincer between the Miyoshi-Honganji forces and the Azai-Asakura army, Oda Nobunaga defeated the Azai-Asakura army and won.
+Caught in a pincer between the Miyoshi-Hongan-ji forces and the Azai-Asakura army, Oda Nobunaga defeated the Azai-Asakura army and won.
 
 @37
-Defeats the Azai-Asakura army at Kyoto
+Defeats the Azai-Asakura army at Kyōto
 
 @38.0
 Damn! Again...
@@ -206,16 +206,16 @@ Is the gulf between Nobunaga's stature and mine really so great...
 Good, I have driven off Nagamasa and the rest.
 
 @41
-Caught in a pincer between the Miyoshi-Honganji forces and the Azai-Asakura army, Oda Nobunaga defeated the Azai-Asakura army and won.
+Caught in a pincer between the Miyoshi-Hongan-ji forces and the Azai-Asakura army, Oda Nobunaga defeated the Azai-Asakura army and won.
 
 @42
-Defeats the Azai-Asakura army at Kyoto
+Defeats the Azai-Asakura army at Kyōto
 
 @43.0
 We have taken their castle!
 
 @45.0
-Damn, Kyoto!
+Damn, Kyōto!
 
 @45.1
 Curse you, Nagayuki... There is no help for it, all forces retreat!
@@ -227,14 +227,14 @@ Oda Nobunaga advanced on Noda-Fukushima, but was caught in a pincer between the 
 Defeated in a pincer by the Miyoshi forces
 
 @48
-Oda Nobunaga crushed both the Miyoshi-Honganji forces and the Azai-Asakura army.
+Oda Nobunaga crushed both the Miyoshi-Hongan-ji forces and the Azai-Asakura army.
 
 @50
-Crushes 4 allied armies in Settsu, Omi
+Crushes 4 allied armies in Settsu, Ōmi
 
 @51
-Caught in a pincer between the Miyoshi-Honganji forces and the Azai-Asakura army, Oda Nobunaga was defeated.
+Caught in a pincer between the Miyoshi-Hongan-ji forces and the Azai-Asakura army, Oda Nobunaga was defeated.
 
 @52
-Oda Nobunaga was attacked by the Miyoshi-Honganji forces and defeated.
+Oda Nobunaga was attacked by the Miyoshi-Hongan-ji forces and defeated.
 

@@ -11,10 +11,10 @@
 "The End of the Warring Age"
 
 @7
-The Oda army's successful first strike in Mikawa calmed the anti-Nobunaga forces, and the tide began to turn everywhere. Peace was finally made with Chosokabe of Shikoku, and alliances were concluded with the Mori of Chugoku and the Uesugi of Echigo. The Oda had in effect brought these powers under their wing.\n\nNobunaga could now throw his entire strength against the Tokugawa and Hojo.
+The Oda army's successful first strike in Mikawa calmed the anti-Nobunaga forces, and the tide began to turn everywhere. Peace was finally made with Chōsokabe of Shikoku, and alliances were concluded with the Mōri of Chūgoku and the Uesugi of Echigo. The Oda had in effect brought these powers under their wing.\n\nNobunaga could now throw his entire strength against the Tokugawa and Hōjō.
 
 @8.0
-My lord, a report. I have made peace with Mori Terumoto on condition that the Mori cede all their lands except Suo and Nagato.
+My lord, a report. I have made peace with Mōri Terumoto on condition that the Mōri cede all their lands except Suō and Nagato.
 
 @8.1
 Monkey, well done.
@@ -26,7 +26,7 @@ My lord, Uesugi of Echigo has also offered peace. What shall we do?
 Let them keep Echigo alone and accept the peace.
 
 @8.6
-Chosokabe, who swept across Shikoku, was recently confined to Tosa. Now only the Tokugawa and Hojo still defy the Oda.
+Chōsokabe, who swept across Shikoku, was recently confined to Tosa. Now only the Tokugawa and Hōjō still defy the Oda.
 
 @8.7
 My lord, now is the time for the eastern campaign.
@@ -35,13 +35,13 @@ My lord, now is the time for the eastern campaign.
 Yes. How is Ieyasu faring?
 
 @8.9
-He has moved his seat to Sunpu and is in frequent contact with the Hojo.
+He has moved his seat to Sunpu and is in frequent contact with the Hōjō.
 
 @8.10
-If we start east, the Hojo will aid the Tokugawa with their whole army. We would face both at once.
+If we start east, the Hōjō will aid the Tokugawa with their whole army. We would face both at once.
 
 @11.0
-My lord, Uesugi, Mori and Chosokabe have bowed to the Oda.
+My lord, Uesugi, Mōri and Chōsokabe have bowed to the Oda.
 
 @11.2
 The Oda will surely hurl their full strength at Suruga.
@@ -95,7 +95,7 @@ With respect, this Monkey has an idea.
 Speak.
 
 @17.5
-Yes. If we attack Suruga, the Hojo will surely send reinforcements. How about invading Sagami from Fuchu in Kai, fighting the Hojo army and keeping the two armies from joining?
+Yes. If we attack Suruga, the Hōjō will surely send reinforcements. How about invading Sagami from Fuchū in Kai, fighting the Hōjō army and keeping the two armies from joining?
 
 @17.6
 I see... Monkey, go to Kai with Masakatsu!
@@ -119,7 +119,7 @@ The enemy's main force is at Sunpu Castle.
 Let us hit Ieyasu with everything and crush him at once!
 
 @21.0
-I am wary of the Hojo waiting behind them...
+I am wary of the Hōjō waiting behind them...
 
 @22.0
 I will fight to the death!
@@ -128,7 +128,7 @@ I will fight to the death!
 This is the last battle. Make good use of your war funds.
 
 @24.0
-My lord, leave Hanzo to me!
+My lord, leave Hanzō to me!
 
 @25.0
 When the enemy is massed in one place, cannon are effective.

@@ -5,7 +5,7 @@
 "Autumn Wind at Odani"
 
 @2.0
-My lord, bands of scavengers hunt fallen warriors around here. I suggest you spend the night at a temple just ahead, Kenshoji.
+My lord, bands of scavengers hunt fallen warriors around here. I suggest you spend the night at a temple just ahead, Kenshō-ji.
 
 @2.1
 Bah! That I, head of the Asakura, must flee into a temple... What a pitiful thing.
@@ -14,7 +14,7 @@ Bah! That I, head of the Asakura, must flee into a temple... What a pitiful thin
 Lamenting will not help us. Quickly, my lord, hurry!
 
 @3
-Echizen - Kenshoji
+Echizen - Kenshō-ji
 
 @4.0
 What of the others? What became of the maids and the pages?
@@ -65,7 +65,7 @@ Ughh!
 Now, die. Right here, right now.
 
 @16
-Omi - Odani Castle, Living Quarters
+Ōmi - Odani Castle, Living Quarters
 
 @17.0
 Are you still here? Hurry and go.
@@ -92,7 +92,7 @@ Be well.
 Gh... Oichi... We shall meet in the next life...
 
 @24
-Asakura Yoshikage and Azai Nagamasa both fell in the 8th month of the 1st year of Tensho (1573).\nYoshikage was 41, Nagamasa 29.
+Asakura Yoshikage and Azai Nagamasa both fell in the 8th month of the 1st year of Tenshō (1573).\nYoshikage was 41, Nagamasa 29.
 
 @25
 "The Mass Slaughter"
@@ -104,7 +104,7 @@ Asakura Yoshikage and Azai Nagamasa both fell in the 8th month of the 1st year o
 "The Mass Slaughter"
 
 @29.0
-Monkey, you fought splendidly against the Azai and the Asakura. For that I grant you the Azai's old lands, 120,000 koku in Omi.
+Monkey, you fought splendidly against the Azai and the Asakura. For that I grant you the Azai's old lands, 120,000 koku in Ōmi.
 
 @30.0
 My lord, I am most grateful.
@@ -134,10 +134,10 @@ Because I have a use for them.
 Monkey, send word that Echizen is to be taxed heavily. So heavily that an uprising breaks out.
 
 @35.0
-(I will draw out the Ikko followers and set them against the Asakura's old retainers. Proper rule can come after.)
+(I will draw out the Ikkō followers and set them against the Asakura's old retainers. Proper rule can come after.)
 
 @36.0
-My lord, we have captured Sugitani Zenjubo, the man who once tried to shoot you. What shall we do with him?
+My lord, we have captured Sugitani Zenjūbō, the man who once tried to shoot you. What shall we do with him?
 
 @36.1
 Ah. Have him sawn to death.
@@ -206,7 +206,7 @@ You know Oichi well, do you not? How about looking after her?
 Yes, my lord. I will gladly look after Lady Oichi.
 
 @45
-The New Year came, the 2nd year of Tensho (1574).
+The New Year came, the 2nd year of Tenshō (1574).
 
 @46.0
 Hear me, all of you. My heir Nobushige has been granted the Junior Fifth Rank, Lower Grade, and changed his name to Nobutada.
@@ -269,13 +269,13 @@ Kumquat-head, you have sobered me up.
 (Damn you...)
 
 @62.0
-My lord, the Ranjatai of Todaiji that you wanted has finally been obtained.
+My lord, the Ranjatai of Tōdai-ji that you wanted has finally been obtained.
 
 @63.0
 Oh, so this is it. What a wonderful fragrance.
 
 @64.0
-Oh, Nohime.
+Oh, Nōhime.
 
 @65.0
 ...Your conduct just now made your retainers frown.
@@ -290,7 +290,7 @@ I thought it amusing. I see. They were not pleased.
 What are you saying? You call that amusing?
 
 @67.0
-Nohime, you too have become a dull woman.
+Nōhime, you too have become a dull woman.
 
 @67.1
 The Azai and Asakura, and the monks of Mount Hiei too, would not have been killed had they not defied me.
@@ -323,7 +323,7 @@ Hmph. My father is laughing in hell.
 That is, if there is a hell.
 
 @73.0
-Nohime, do you fear me?
+Nōhime, do you fear me?
 
 @74.0
 ...No.
@@ -332,16 +332,16 @@ Nohime, do you fear me?
 Without ruthlessness, I could not take the realm, let alone protect my own life.
 
 @74.2
-I may become a skull any day. So I want to live without regret. You understand, Nohime.
+I may become a skull any day. So I want to live without regret. You understand, Nōhime.
 
 @77
-The 7th month, 2nd year of Tensho (1574)\nNobunaga resolved to launch a great offensive to crush the Nagashima Ikko.
+The 7th month, 2nd year of Tenshō (1574)\nNobunaga resolved to launch a great offensive to crush the Nagashima Ikkō.
 
 @78.0
-My lord, word has come that Echizen has fallen into the hands of the Ikko followers.
+My lord, word has come that Echizen has fallen into the hands of the Ikkō followers.
 
 @78.1
-Leave it. With Honganji's eyes turned to Echizen, now is the chance to annihilate the Ikko followers.
+Leave it. With Hongan-ji's eyes turned to Echizen, now is the chance to annihilate the Ikkō followers.
 
 @79.0
 Kazumasu, attack from the sea together with Kuki.
@@ -359,13 +359,13 @@ They do not fear death, so they are troublesome foes.
 Nagashima Castle is surrounded by shallows. Cannon cannot be used in shallows, so take care.
 
 @86.0
-I cannot believe the Honganji monks will merely stand by and watch.
+I cannot believe the Hongan-ji monks will merely stand by and watch.
 
 @87.0
 If it is a castle assault, leave it to this Monkey.
 
 @88.0
-The Ikko followers seem to have asked Honganji for reinforcements.
+The Ikkō followers seem to have asked Hongan-ji for reinforcements.
 
 @89.0
 Each may be weak, but there are so many of them. We must not be careless.
@@ -377,7 +377,7 @@ My men report that warrior monks are indeed marching to their aid.
 Rather than wipe them out, I think it best to take them into our own army...
 
 @92.0
-There is also a report that Honganji has sent supplies and they have refitted. Be careful.
+There is also a report that Hongan-ji has sent supplies and they have refitted. Be careful.
 
 @93.0
 In shallows, flooding is effective.
@@ -386,7 +386,7 @@ In shallows, flooding is effective.
 I will guard the camp.
 
 @95.0
-Ha, it seems it is my turn. I will scatter these Ikko followers!
+Ha, it seems it is my turn. I will scatter these Ikkō followers!
 
 @96.0
 Sea, river, shallows... all are terrain I am good at.

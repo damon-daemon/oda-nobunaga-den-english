@@ -5,7 +5,7 @@
 "Masahide's Final Remonstrance"
 
 @2
-In the 4th month of the 1st year of Koji (1555), Nobunaga seized Kiyosu Castle with his uncle Nobumitsu and moved his seat there from Nagoya. He was twenty-two.
+In the 4th month of the 1st year of Kōji (1555), Nobunaga seized Kiyosu Castle with his uncle Nobumitsu and moved his seat there from Nagoya. He was twenty-two.
 
 @3
 "Sorrowful Wind over the Nagara"
@@ -50,7 +50,7 @@ My lord!! A grave matter!
 What is it? Such a racket.
 
 @17.2
-Lord Yoshitatsu has rebelled! Your sons Lord Magoshiro and Lord Kiheiji have both already been slain...
+Lord Yoshitatsu has rebelled! Your sons Lord Magoshirō and Lord Kiheiji have both already been slain...
 
 @17.3
 The enemy is closing in. Please hurry!!
@@ -80,16 +80,16 @@ Those who wish to side with Yoshitatsu, leave now.
 We are all resolved to share life and death with you, my lord.
 
 @23.1
-Understood. I, Dosan the monk, accept all your lives.\n(Heh. They all have fine eyes.)
+Understood. I, Dōsan the monk, accept all your lives.\n(Heh. They all have fine eyes.)
 
 @24.0
-Akechi Mitsuyasu and Hotta Doku, remain here. The rest, hurry and gather troops.
+Akechi Mitsuyasu and Hotta Dōkū, remain here. The rest, hurry and gather troops.
 
 @26.0
-Mitsuyasu, let your nephew Mitsuhide escape to Kyoto.
+Mitsuyasu, let your nephew Mitsuhide escape to Kyōto.
 
 @26.1
-I want him to broaden his experience in Kyoto and one day become a general who commands great armies.
+I want him to broaden his experience in Kyōto and one day become a general who commands great armies.
 
 @26.2
 Yes, I will convey your words to Mitsuhide without fail.
@@ -98,7 +98,7 @@ Yes, I will convey your words to Mitsuhide without fail.
 Good. I rely on you.
 
 @27.0
-Doku, deliver this letter to my son-in-law in Owari.
+Dōkū, deliver this letter to my son-in-law in Owari.
 
 @27.1
 What is this?
@@ -107,13 +107,13 @@ What is this?
 A deed of transfer for Mino. I give Mino to my son-in-law.
 
 @27.3
-And take my children to Myokakuji in Kyoto.
+And take my children to Myōkaku-ji in Kyōto.
 
 @27.4
 They do not have the makings of generals. Living as monks will suit them better.
 
 @27.5
-Myokakuji is the temple I ran away from.\n\n\nI was a fallen monk, but I gave it generous donations, so they should treat them decently. Wahahahaha.
+Myōkaku-ji is the temple I ran away from.\n\n\nI was a fallen monk, but I gave it generous donations, so they should treat them decently. Wahahahaha.
 
 @28.0
 How pitiful... My lord...
@@ -122,7 +122,7 @@ How pitiful... My lord...
 Do not weep. It is not yet decided that I will die.
 
 @28.2
-Saito Dosan does not die so easily. Not so easily...!
+Saitō Dōsan does not die so easily. Not so easily...!
 
 @30.0
 Report.
@@ -131,13 +131,13 @@ Report.
 What is it?
 
 @30.2
-A man claiming to be an envoy from Saito Dosan requests an audience.
+A man claiming to be an envoy from Saitō Dōsan requests an audience.
 
 @30.3
 Show him in.
 
 @32.0
-I have come as an envoy from Lord Dosan. Please take this.
+I have come as an envoy from Lord Dōsan. Please take this.
 
 @33.0
 Th-this is!?
@@ -161,7 +161,7 @@ Oh...
 Bring my horse!
 
 @41.0
-Saito Yoshitatsu has rebelled.
+Saitō Yoshitatsu has rebelled.
 
 @41.1
 W-what!
@@ -188,7 +188,7 @@ With spirit, stamina recovers naturally.
 My lord, food to restore endurance and sake to restore skill points are essential on the battlefield.
 
 @49.0
-Defeating the ronin guide may yield weapons and armour.
+Defeating the rōnin guide may yield weapons and armour.
 
 @50.0
 Even if we are outnumbered, there is a chance of victory.
@@ -227,7 +227,7 @@ We will not lose to rebels!
 I will win glory.
 
 @62.0
-You are going to help Lord Dosan. The Battle of the Nagara River.
+You are going to help Lord Dōsan. The Battle of the Nagara River.
 
 @62.1
 Yes. Follow me.

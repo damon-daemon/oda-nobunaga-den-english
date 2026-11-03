@@ -5,7 +5,7 @@
 "The Mass Slaughter"
 
 @2.0
-My lord, what shall we do with the Ikko followers who have surrendered?
+My lord, what shall we do with the Ikkō followers who have surrendered?
 
 @2.1
 Execute every one of them.
@@ -14,7 +14,7 @@ Execute every one of them.
 Yes... yes, my lord.
 
 @4
-The 9th month, 2nd year of Tensho (1574)\nOda Nobunaga crushed the Ikko uprising at Nagashima in Ise. He had every surrendering follower shot down with muskets. At the forts of Nakae and Yanagashima, some 20,000 men and women who had holed up inside were burned to death along with the forts.
+The 9th month, 2nd year of Tenshō (1574)\nOda Nobunaga crushed the Ikkō uprising at Nagashima in Ise. He had every surrendering follower shot down with muskets. At the forts of Nakae and Yanagashima, some 20,000 men and women who had holed up inside were burned to death along with the forts.
 
 @5
 "The Takeda Advance"
@@ -32,7 +32,7 @@ Kai - Tsutsujigasaki Mansion
 Tsutsujigasaki Mansion - Council Hall
 
 @10.0
-I will carry on my father's will and march on Kyoto.
+I will carry on my father's will and march on Kyōto.
 
 @10.1
 Please wait, my lord. It has been only two years since the late lord died.
@@ -68,7 +68,7 @@ Win or lose, we had best make ready.
 Make ready to die.
 
 @16
-The 4th month, 3rd year of Tensho (1575)\nTakeda Katsuyori invaded eastern Mikawa and sent 15,000 men against Nagashino.
+The 4th month, 3rd year of Tenshō (1575)\nTakeda Katsuyori invaded eastern Mikawa and sent 15,000 men against Nagashino.
 
 @18.0
 A request for reinforcements has come from Mikawa.
@@ -164,7 +164,7 @@ Lord Nobunaga, I have been waiting for you.
 I hear Takeda Katsuyori is on the move again.
 
 @35.3
-Yes. This is his first attack since he took Takatenjin Castle in Totomi last year.
+Yes. This is his first attack since he took Takatenjin Castle in Tōtōmi last year.
 
 @35.4
 Why did you not help me then?

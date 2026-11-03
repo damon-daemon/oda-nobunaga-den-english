@@ -13,9 +13,9 @@ the storehouse. The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9.4).** All of the game's text is in English and the main story has
-> been played through to the Honnoji ending, but most of the "what if" branch chapters after
-> Honnoji were only checked as text, not in play. Expect some text that is squeezed, cut
+> **This is a beta (v0.9.5).** All of the game's text is in English and the main story has
+> been played through to the Honnō-ji ending, but most of the "what if" branch chapters after
+> Honnō-ji were only checked as text, not in play. Expect some text that is squeezed, cut
 > short or wrapped oddly.
 
 This repository contains the English text and the tools that build the patch.
@@ -35,7 +35,7 @@ your own copy of the game.
 
 - All event scripts: every chapter's dialogue, narration, place captions, chapter titles,
   battle victory and defeat conditions and the choices
-- Officer, retainer and speaker names (romanised), item, unit type, trait and skill names
+- Officer, retainer and speaker names (romanised, with macrons for long vowels: Saitō Dōsan, Hōjō), item, unit type, trait and skill names
 - All item descriptions
 - Menus, labels, battle messages, battle introductions, the merchant, blacksmith and
   storehouse screens, the settings menu and the memory card messages
@@ -92,8 +92,8 @@ cp "/path/to/Oda Nobunaga Den (Japan) (Track 2).bin" oda_nobunaga_den_track2.bin
 Japanese text from your disc for the translation tools. `script/` and `build/` are
 never committed.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.4` after building:
-it writes `release/Oda_Nobunaga_Den_English_v0.9.4.zip` with the versioned xdelta patch,
+To make a release package, run `.venv/bin/python tools/package.py 0.9.5` after building:
+it writes `release/Oda_Nobunaga_Den_English_v0.9.5.zip` with the versioned xdelta patch,
 the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 
 ## Repository layout
@@ -121,7 +121,7 @@ the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 - The title logo, the movies, and 完 and the series logo after the credits are unchanged.
 - The game stores its Japanese title (織田信長伝) at the start of every save, so the
   memory card screens show it before the English chapter name.
-- Most branch chapters after Honnoji and the other endings have not been seen in play, and
+- Most branch chapters after Honnō-ji and the other endings have not been seen in play, and
   neither has the sortie selection screen. Their text may overflow in places.
 - Some labels are squeezed to fit narrow boxes, and some are abbreviated.
 

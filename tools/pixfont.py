@@ -6,12 +6,16 @@ rows TOP..TOP+11 (cap/ascender top row 0, baseline row 8, x-height top row 3, de
 rows 9-11); '#' = ink. The advance is the glyph width
 plus one blank column (SPACING); digits all advance DIGIT_W + SPACING (tabular).
 
+  The unused ASCII codes ^ ~ | ` hold the macron vowels ō ū Ō Ū (text.FOLD maps the letters to
+  them; MACRONS below).
+
   glyphs() -> {char: (12 row bytes, advance)}
   python tools/pixfont.py out.png   preview
 """
 TOP = 0
 CELL_W, CELL_H = 8, 12
 SPACING = 1
+MACRONS = {'ō': '^', 'ū': '~', 'Ō': '|', 'Ū': '`'}   # letter -> ASCII code drawing it
 DIGIT_W = 5                     # digits are drawn 5 wide (tabular: number columns line up)
 
 _ART = r"""
@@ -809,15 +813,15 @@ Z 5
 ###
 ...
 ^ 5
-..#..
-.#.#.
+.....
+.###.
+.....
+.###.
 #...#
-.....
-.....
-.....
-.....
-.....
-.....
+#...#
+#...#
+#...#
+.###.
 .....
 .....
 .....
@@ -834,19 +838,19 @@ _ 5
 .....
 #####
 .....
-` 2
-#.
-.#
-..
-..
-..
-..
-..
-..
-..
-..
-..
-..
+` 5
+.###.
+.....
+#...#
+#...#
+#...#
+#...#
+#...#
+#...#
+.###.
+.....
+.....
+.....
 a 5
 .....
 .....
@@ -1198,19 +1202,19 @@ z 5
 .#.
 ..#
 ...
-| 1
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-.
+| 6
+.####.
+......
+.####.
+#....#
+#....#
+#....#
+#....#
+#....#
+.####.
+......
+......
+......
 } 3
 #..
 .#.
@@ -1226,14 +1230,14 @@ z 5
 ...
 ~ 5
 .....
+.###.
 .....
-.....
-.....
-.#..#
-#.##.
-.....
-.....
-.....
+#...#
+#...#
+#...#
+#...#
+#...#
+.####
 .....
 .....
 .....

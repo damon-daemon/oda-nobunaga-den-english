@@ -56,13 +56,13 @@ I see. He blew himself up along with the Hiragumo.
 All forces, storm Shigisan Castle and set it ablaze.
 
 @12
-The 10th month, 5th year of Tensho (1577)\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
+The 10th month, 5th year of Tenshō (1577)\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
 
 @13
 "Hisahide, Villain of the Age"
 
 @14
-The 10th month, 5th year of Tensho (1577)\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
+The 10th month, 5th year of Tenshō (1577)\nMatsunaga Hisahide met a spectacular end, blowing himself up. His ambitions were shattered along with the Hiragumo kettle.
 
 @15
 "Devil King of the Sixth Heaven"
@@ -74,22 +74,22 @@ The 10th month, 5th year of Tensho (1577)\nMatsunaga Hisahide met a spectacular 
 "Devil King of the Sixth Heaven"
 
 @18
-Kozuki Castle - Council Hall
+Kōzuki Castle - Council Hall
 
 @19
-That year, Nobunaga ordered Hideyoshi to subdue the Chugoku region, and Hideyoshi entered Harima with 15,000 men.\n\nAs previously arranged, he took up quarters in Himeji Castle, the seat of Kuroda Kanbei, chief retainer of the Kodera clan.
+That year, Nobunaga ordered Hideyoshi to subdue the Chūgoku region, and Hideyoshi entered Harima with 15,000 men.\n\nAs previously arranged, he took up quarters in Himeji Castle, the seat of Kuroda Kanbei, chief retainer of the Kodera clan.
 
 @20
-Hideyoshi then began his attack on Kozuki Castle.\n\nThe castellan, Kozuki Kagetaka, was killed by his own retainers, who wished to surrender to the Oda, and Kozuki Castle fell.
+Hideyoshi then began his attack on Kōzuki Castle.\n\nThe castellan, Kōzuki Kagetaka, was killed by his own retainers, who wished to surrender to the Oda, and Kōzuki Castle fell.
 
 @21.0
-My lord, whom will you appoint to defend Kozuki Castle?
+My lord, whom will you appoint to defend Kōzuki Castle?
 
 @21.1
 Heh...
 
 @21.2
-On that, Hanbee has found just the man for it.
+On that, Hanbei has found just the man for it.
 
 @21.3
 Come in.
@@ -104,10 +104,10 @@ I am Yamanaka Shikanosuke.
 So you are Shikanosuke. Your loyalty to the Amago is truly admirable.
 
 @23.1
-I shall give Kozuki Castle to Lord Amago Katsuhisa. Now show me that you can restore the Amago house.
+I shall give Kōzuki Castle to Lord Amago Katsuhisa. Now show me that you can restore the Amago house.
 
 @23.3
-(He means to set the Amago against the Mori!)
+(He means to set the Amago against the Mōri!)
 
 @24.0
 I, who was hailed as the incarnation of Bishamonten... ugh.
@@ -131,7 +131,7 @@ Forty-nine years, a dream in one sleep... a lifetime of glory, one cup of sake..
 Tch, Father. And just when things were beginning.
 
 @26
-The 3rd month, 6th year of Tensho (1578)\nImmediately after issuing the order to mobilise for a campaign in the Kanto, Uesugi Kenshin collapsed. He died at the age of 49. Like Takeda Shingen, the Dragon of Echigo met a bitter end on the eve of marching on Kyoto.
+The 3rd month, 6th year of Tenshō (1578)\nImmediately after issuing the order to mobilise for a campaign in the Kantō, Uesugi Kenshin collapsed. He died at the age of 49. Like Takeda Shingen, the Dragon of Echigo met a bitter end on the eve of marching on Kyōto.
 
 @28.0
 I have news. Word has come that Uesugi Kenshin of Echigo is dead.
@@ -149,7 +149,7 @@ Uesugi Kenshin, the man Nobunaga had feared most, was dead. For Nobunaga, the qu
 Nobutada. As my heir, you must show your prowess with the spear in a way that satisfies the retainers.
 
 @32.0
-I order you to attack Honganji. But there is no need to rush for glory and waste your men's lives.
+I order you to attack Hongan-ji. But there is no need to rush for glory and waste your men's lives.
 
 @32.1
 Starve them out.
@@ -176,16 +176,16 @@ Go and check\nIgnore it
 Hmm, it nags at me. Ranmaru, assemble the chief retainers in the council hall at once.
 
 @36.0
-Fool. Do not let such things distract you before the attack on Honganji.
+Fool. Do not let such things distract you before the attack on Hongan-ji.
 
 @37
-Meanwhile, in the west, half a year after the Amago remnants entered Kozuki Castle, it fell to a Mori attack.
+Meanwhile, in the west, half a year after the Amago remnants entered Kōzuki Castle, it fell to a Mōri attack.
 
 @38
-Kozuki Castle
+Kōzuki Castle
 
 @39.0
-We turned Bessho, and Kozuki Castle has fallen. Takakage's plan worked well.
+We turned Bessho, and Kōzuki Castle has fallen. Takakage's plan worked well.
 
 @39.1
 Now all that remains is to charge Hideyoshi's main camp in one sweep and relieve Miki Castle.
@@ -203,7 +203,7 @@ They say attack is the best defence. An attack made for defence does not go agai
 That is not the reason. If we go to relieve Miki Castle now, the Ukita army will strike us in the rear.
 
 @39.7
-In the attack on Kozuki Castle, Ukita Naoie feigned illness and did not take the field.
+In the attack on Kōzuki Castle, Ukita Naoie feigned illness and did not take the field.
 
 @39.8
 He is most likely already in contact with the Oda. I am sure of it.
@@ -221,13 +221,13 @@ Lord Ekei.
 Yes.
 
 @39.13
-Would you go to Araki Murashige and persuade him to defect to the Mori?
+Would you go to Araki Murashige and persuade him to defect to the Mōri?
 
 @39.14
 Understood.
 
 @40.0
-After that, if we support Honganji with our navy, the siege of Miki Castle will be lifted.
+After that, if we support Hongan-ji with our navy, the siege of Miki Castle will be lifted.
 
 @40.1
 Heh. Though you are my brother, your cunning chills me to the bone.
@@ -239,7 +239,7 @@ A schemer, just like Father. Takakage, hahahaha!
 Hashiba Hideyoshi's Camp
 
 @43.0
-I hear Kozuki Castle has fallen.
+I hear Kōzuki Castle has fallen.
 
 @43.1
 Yes, sir. Our spies say Amago Katsuhisa committed seppuku, and Yamanaka Shikanosuke was stabbed after yielding.
@@ -314,7 +314,7 @@ I, Mitsuhide, give you my word. Come what may, no harm will come to you.
 ...In truth, I never meant to rebel.
 
 @52.5
-But a rumour spread that I was plotting treason, and I had no choice but to turn to the Mori.
+But a rumour spread that I was plotting treason, and I had no choice but to turn to the Mōri.
 
 @52.6
 I am relieved to hear it. Be sure to come to Azuchi Castle in the coming days. Now, I take my leave.
@@ -362,10 +362,10 @@ Gah!
 Murashige never shows himself before me, no matter how long I wait. He must be in earnest.
 
 @60.1
-Now I must face Araki, Honganji and even the Mori all at once.
+Now I must face Araki, Hongan-ji and even the Mōri all at once.
 
 @60.2
-That Mori strategist is quite capable.
+That Mōri strategist is quite capable.
 
 @60.3
 Ranmaru, summon the missionary Organtino and Kuki Yoshitaka.
@@ -386,13 +386,13 @@ Kuki, is that matter we spoke of ready?
 Yes, sir. The armoured Atake ships and the iron-clad ships will both be finished in a few days.
 
 @63.2
-Good. As soon as they are done, sail for Osaka Bay.
+Good. As soon as they are done, sail for Ōsaka Bay.
 
 @63.3
-Cut Honganji's sea supply route.
+Cut Hongan-ji's sea supply route.
 
 @65.0
-I will show that Mori strategist that I am one step ahead of him.
+I will show that Mōri strategist that I am one step ahead of him.
 
 @65.1
 Ranmaru.
@@ -431,7 +431,7 @@ My lord, entrust that matter to me.
 I-I see. Then tell his lordship that we understand.
 
 @71.0
-Hanbee, do you have a plan?
+Hanbei, do you have a plan?
 
 @71.1
 All you need do is order me to kill the hostage child.
@@ -449,13 +449,13 @@ I know that well.
 My life is short in any case... if it can serve you, I will gladly lay it down.
 
 @71.6
-Forgive me, Hanbee.
+Forgive me, Hanbei.
 
 @71.7
 Not at all.
 
 @74
-Kuki Yoshitaka used his iron-clad ships to cut the supply line from the Mori navy to Honganji.\n\nOda Nobutada built camps around Honganji and left it completely isolated.\n\nThus Nobunaga succeeded in preparing to crush Araki, Honganji and the Mori one by one.
+Kuki Yoshitaka used his iron-clad ships to cut the supply line from the Mōri navy to Hongan-ji.\n\nOda Nobutada built camps around Hongan-ji and left it completely isolated.\n\nThus Nobunaga succeeded in preparing to crush Araki, Hongan-ji and the Mōri one by one.
 
 @75.0
 Preparations for the attack on Araki are complete. We shall punish the traitor. March out!
@@ -467,7 +467,7 @@ You have all heard the tale of East Iga.
 We march. None of you is to lag behind.
 
 @79.0
-Now we can crush Araki, Honganji and the Mori one by one.
+Now we can crush Araki, Hongan-ji and the Mōri one by one.
 
 @80.0
 It is best to carry plenty of medicine.
@@ -503,13 +503,13 @@ Leave the persuasion of Takayama Ukon to me.
 Disciplined fallen warriors... that intrigues me.
 
 @91.0
-Depending on how this battle goes, the Mori may attack.
+Depending on how this battle goes, the Mōri may attack.
 
 @92.0
 Use me in the vanguard.
 
 @93.0
-I used the iron-clad ships to cut the supply from the Mori navy to Honganji.
+I used the iron-clad ships to cut the supply from the Mōri navy to Hongan-ji.
 
 @94.0
 Hmm... I am no good in the mountains.

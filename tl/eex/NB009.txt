@@ -2,13 +2,13 @@
 "The Overlord Marches on Kyoto"
 
 @1
-Kyoto - Council Hall
+Kyōto - Council Hall
 
 @2.0
-I hear the bandit band of Arashiyama is committing outrages against the people around Kyoto.
+I hear the bandit band of Arashiyama is committing outrages against the people around Kyōto.
 
 @2.1
-Why not wipe out the bandits and restore order in Kyoto?
+Why not wipe out the bandits and restore order in Kyōto?
 
 @3
 Wipe out the bandits\nLeave the bandits
@@ -35,10 +35,10 @@ With the Miyoshi faction liable to strike at any moment, I cannot bother with ba
 From here we hunt down the Miyoshi remnants and pacify the Kinai.
 
 @10.1
-(If the Miyoshi clan is destroyed, the present shogun Yoshihide loses his backing.)
+(If the Miyoshi clan is destroyed, the present shōgun Yoshihide loses his backing.)
 
 @10.2
-(Then the Court will have no choice but to appoint Lord Yoshiaki as shogun.)
+(Then the Court will have no choice but to appoint Lord Yoshiaki as shōgun.)
 
 @10.3
 Hachiya, I give you the vanguard.
@@ -47,7 +47,7 @@ Hachiya, I give you the vanguard.
 I am most grateful for such a weighty charge.
 
 @15.0
-With bandits appearing, Kyoto has become a hard city to live in.
+With bandits appearing, Kyōto has become a hard city to live in.
 
 @16.0
 Watch well and see my martial valour.
@@ -74,7 +74,7 @@ Fighting at my age is rather hard.
 The bandits' lairs are ringed by mountains, which puts the attacker at a disadvantage.
 
 @24.0
-I shall show you the skill that won me the name Demon Goroza.
+I shall show you the skill that won me the name Demon Gorōza.
 
 @25.0
 You mean to restore order in the capital and win the hearts of the people.

@@ -32,7 +32,7 @@ Forgive me, but...\nThe young lord pays not the slightest heed to anything I tel
 He is my son.\nDo not worry. He will surely grow into a fine warrior.
 
 @10
-In those days, the power of the Shiba, the shugo (military governors) of Owari, had waned, and the province had fallen under the rule of the Oda, their deputy governors.\n\nThere were the Iwakura Oda, who ruled the four upper districts of northern Owari, and the Kiyosu Oda, who ruled the four lower districts of the south.\n\n\nThe Kiyosu Oda house had three magistrates known as the "Three Magistrates of Kiyosu." One of them was Nobunaga's father, Oda Nobuhide.\n\nThrough his valour and cunning, Nobuhide gradually rose to prominence, until his power surpassed even that of his masters, the Kiyosu Oda. Nobuhide had all but taken control of Owari, but now he faced two great warlords: Imagawa Yoshimoto of Suruga to the east, and Saito Dosan of Mino to the north.
+In those days, the power of the Shiba, the shugo (military governors) of Owari, had waned, and the province had fallen under the rule of the Oda, their deputy governors.\n\nThere were the Iwakura Oda, who ruled the four upper districts of northern Owari, and the Kiyosu Oda, who ruled the four lower districts of the south.\n\n\nThe Kiyosu Oda house had three magistrates known as the "Three Magistrates of Kiyosu." One of them was Nobunaga's father, Oda Nobuhide.\n\nThrough his valour and cunning, Nobuhide gradually rose to prominence, until his power surpassed even that of his masters, the Kiyosu Oda. Nobuhide had all but taken control of Owari, but now he faced two great warlords: Imagawa Yoshimoto of Suruga to the east, and Saitō Dōsan of Mino to the north.
 
 @11
 Owari Province
@@ -53,7 +53,7 @@ If that dolt takes over after him, Owari is finished.
 And his brother Lord Nobuyuki is such a fine young man.
 
 @15
-According to the "Shincho Koki", he wore a yukata with the sleeves torn off and half-length hakama. A flint pouch and gourds hung from his waist. His hair was tied up like a tea whisk, and a vermilion sword hung at his side.
+According to the "Shinchō Kōki", he wore a yukata with the sleeves torn off and half-length hakama. A flint pouch and gourds hung from his waist. His hair was tied up like a tea whisk, and a vermilion sword hung at his side.
 
 @16
 Owari Province - Suemori Castle
@@ -131,7 +131,7 @@ You came. It is about time you fought your first battle.
 Father, then...
 
 @29.0
-Yes. Attack Ohama in Mikawa. Well, will you do it?
+Yes. Attack Ōhama in Mikawa. Well, will you do it?
 
 @29.1
 Leave it to me.

@@ -20,10 +20,10 @@ Here.
 Take Ittetsu and the others and win yourself glory.
 
 @4
-Siege of Ichijodani and Odani\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Siege of Ichijōdani and Odani\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @5
-Siege of Ichijodani and Odani\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Siege of Ichijōdani and Odani\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @6
 Sawayama
@@ -38,13 +38,13 @@ Took Kanegasaki Castle
 Took Tezutsuyama Castle
 
 @10
-Took Ichijodani Castle
+Took Ichijōdani Castle
 
 @11.0
 (How pathetic... It seems I will have to have him die.)
 
 @11.1
-My lord, it is no longer safe here. Please flee to Ono District.
+My lord, it is no longer safe here. Please flee to Ōno District.
 
 @11.2
 Y-yes. I leave the rest to you.
@@ -56,10 +56,10 @@ Now, I shall go and fetch my gift.
 We can no longer hold the enemy here.
 
 @13.1
-The enemy should not come as far as Ono District.
+The enemy should not come as far as Ōno District.
 
 @14
-The Saito army appeared
+The Saitō army appeared
 
 @15.0
 Now, charge!
@@ -143,7 +143,7 @@ Surrender, Nagamasa. The Asakura are destroyed.
 The Azai are not destroyed yet. Nobunaga, let us settle this!
 
 @33.0
-D-damn! For now, fall back to Ono...
+D-damn! For now, fall back to Ōno...
 
 @34.0
 Wah! R-retreat!
@@ -167,13 +167,13 @@ Nagamasa... Ugh...
 Is this the end...
 
 @42
-Oda Nobunaga defeated the Azai and Asakura armies and pacified Echizen and northern Omi.
+Oda Nobunaga defeated the Azai and Asakura armies and pacified Echizen and northern Ōmi.
 
 @43
 Defeated the Azai and Asakura armies,
 
 @44
-pacified Echizen and northern Omi
+pacified Echizen and northern Ōmi
 
 @45.0
 At this rate our army will be wiped out. The whole army, withdraw to Echizen!
@@ -203,13 +203,13 @@ Damn, the main camp...
 Oda Nobunaga was defeated by the Azai-Asakura allied army
 
 @55
-Oda Nobunaga annihilated the Asakura army and pacified Echizen and northern Omi.
+Oda Nobunaga annihilated the Asakura army and pacified Echizen and northern Ōmi.
 
 @57
 Defeated the Azai and Asakura armies,
 
 @58
-pacified Echizen and northern Omi
+pacified Echizen and northern Ōmi
 
 @59
 Oda Nobunaga was defeated by the Azai-Asakura allied army.

@@ -2,7 +2,7 @@
 "The Realm Under One Sword"
 
 @2
-The 8th month, 10th year of Eiroku (1567)\nAt last Nobunaga took Inabayama Castle, the stronghold Dosan built with all his wisdom.\nHe was 34 years old.\n\nThe conquest of Mino laid the footing for seizing the realm, and it also made Nobunaga a threat to his neighbours.
+The 8th month, 10th year of Eiroku (1567)\nAt last Nobunaga took Inabayama Castle, the stronghold Dōsan built with all his wisdom.\nHe was 34 years old.\n\nThe conquest of Mino laid the footing for seizing the realm, and it also made Nobunaga a threat to his neighbours.
 
 @3
 "The Realm Under One Sword"
@@ -68,16 +68,16 @@ Now, Ieyasu, Nagamasa, look at this letter.
 Th-this is...
 
 @18.1
-A secret letter from Lord Ashikaga Yoshiaki, the late shogun's younger brother...
+A secret letter from Lord Ashikaga Yoshiaki, the late shōgun's younger brother...
 
 @18.2
-Yes. It asks me to march on Kyoto and lend my strength to restoring the shogunate.
+Yes. It asks me to march on Kyōto and lend my strength to restoring the shogunate.
 
 @18.3
-I mean to accept the invitation. It will give me just cause to march on Kyoto.
+I mean to accept the invitation. It will give me just cause to march on Kyōto.
 
 @19.0
-Well, both of you, will you lend me your strength in my march on Kyoto?
+Well, both of you, will you lend me your strength in my march on Kyōto?
 
 @20.1
 Gladly. I shall accompany you.
@@ -89,37 +89,37 @@ In Echizen, a man drew close to Ashikaga Yoshiaki through the good offices of Ho
 My lord Yoshiaki, this is Akechi Mitsuhide, of whom I have spoken before.
 
 @25.0
-I am Akechi Jubei Mitsuhide. It is an honour beyond words to behold your countenance.
+I am Akechi Jūbei Mitsuhide. It is an honour beyond words to behold your countenance.
 
 @26.0
-Lord Akechi has a plan to bring about the march on Kyoto. Would you tell us, Lord Akechi?
+Lord Akechi has a plan to bring about the march on Kyōto. Would you tell us, Lord Akechi?
 
 @27.0
-If you remain with the Asakura, you will never reach Kyoto.
+If you remain with the Asakura, you will never reach Kyōto.
 
 @27.1
-You should first leave here and move to someone who is able to make the march on Kyoto possible.
+You should first leave here and move to someone who is able to make the march on Kyōto possible.
 
 @27.2
-Who might that be? Takeda? Uesugi? Mori?
+Who might that be? Takeda? Uesugi? Mōri?
 
 @27.3
-Takeda, Uesugi and Mori are all rather far from Kyoto.
+Takeda, Uesugi and Mōri are all rather far from Kyōto.
 
 @27.4
-No one but Lord Oda of Owari can take you to Kyoto, my lord.
+No one but Lord Oda of Owari can take you to Kyōto, my lord.
 
 @27.5
 Owari? I did send him a secret letter, so I do know of him.
 
 @27.6
-But he is an upstart who toppled the shugo and made himself a daimyo.
+But he is an upstart who toppled the shugo and made himself a daimyō.
 
 @27.7
 Must I bow my head to such a man?
 
 @27.8
-If you do not, Lord Yoshihide, your cousin, will take the office of shogun.
+If you do not, Lord Yoshihide, your cousin, will take the office of shōgun.
 
 @27.9
 Hmph. Mitsuhide, was it? What must I do?
@@ -128,7 +128,7 @@ Hmph. Mitsuhide, was it? What must I do?
 Take me into your service as your retainer.
 
 @28.1
-Then I shall go to Lord Nobunaga and be sure to win his promise to march on Kyoto.
+Then I shall go to Lord Nobunaga and be sure to win his promise to march on Kyōto.
 
 @28.2
 (This fellow is useful.)
@@ -143,7 +143,7 @@ I, Fujitaka, add my own plea. Please, see to it favourably.
 Very well. Mitsuhide, I shall grant your wish. From today you join the ranks of the shogunate's retainers.
 
 @30.0
-Go to Nobunaga at once and win his promise to march on Kyoto.
+Go to Nobunaga at once and win his promise to march on Kyōto.
 
 @32
 Oda Nobunaga's Main Castle - Gifu Castle
@@ -155,7 +155,7 @@ Gifu Castle - Living Quarters
 You are Lord Akechi, who comes as Yoshiaki's envoy?
 
 @34.1
-Yes, my lord. I am Akechi Jubei Mitsuhide.
+Yes, my lord. I am Akechi Jūbei Mitsuhide.
 
 @34.2
 Come closer.
@@ -164,16 +164,16 @@ Come closer.
 Are you lame in the leg?
 
 @35.1
-(Curse it, this is the Kyoto way of manners!)
+(Curse it, this is the Kyōto way of manners!)
 
 @36.0
-I accept the matter of the march on Kyoto. However, I have two conditions.
+I accept the matter of the march on Kyōto. However, I have two conditions.
 
 @36.1
 One. You will serve me.
 
 @36.2
-Two. Lord Yoshiaki must move from Ichijodani to Mino.
+Two. Lord Yoshiaki must move from Ichijōdani to Mino.
 
 @36.3
 Well? Can you accept?
@@ -185,16 +185,16 @@ I accept. However, I have sworn loyalty to Lord Yoshiaki.
 If I may go on assisting him even after entering the Oda service, I gladly accept.
 
 @36.6
-Understood. I will surely bring Lord Yoshiaki to Kyoto.
+Understood. I will surely bring Lord Yoshiaki to Kyōto.
 
 @36.7
 Yes, my lord! I am most grateful.\n\nThen, with your leave.
 
 @37
-Thus Oda Nobunaga won over the next shogun, Ashikaga Yoshiaki, through Akechi Mitsuhide.\nThis was the start of Nobunaga's rule over the realm by force.
+Thus Oda Nobunaga won over the next shōgun, Ashikaga Yoshiaki, through Akechi Mitsuhide.\nThis was the start of Nobunaga's rule over the realm by force.
 
 @38.1
-Nohime? What is it?
+Nōhime? What is it?
 
 @38.2
 I hear Lord Akechi Mitsuhide has come here.
@@ -233,7 +233,7 @@ Mino - Gifu Castle
 Gifu Castle - Living Quarters
 
 @48.0
-My lord, I hear bandits appear along the roads to Kyoto. They claim to be messengers of the mountain god.
+My lord, I hear bandits appear along the roads to Kyōto. They claim to be messengers of the mountain god.
 
 @48.1
 We cannot risk any harm to Lord Yoshiaki. Why not wipe out these bandits?
@@ -245,28 +245,28 @@ Wipe out the bandits\nLeave the bandits
 Messengers of the mountain god, indeed! I will not forgive such mockery and villainy.
 
 @50.1
-To welcome the next shogun, I will clear the bandits from the roads from the Asakura border to Mino.
+To welcome the next shōgun, I will clear the bandits from the roads from the Asakura border to Mino.
 
 @51.0
 No. This is no time to bother with bandits.
 
 @52
-Mino - Ryuseiji
+Mino - Ryūshō-ji
 
 @53
-In the 11th year of Eiroku, persuaded by Akechi Mitsuhide, Ashikaga Yoshiaki left Asakura Yoshikage in Echizen.\nHe reached Mino safely and was to live at Ryuseiji in Mino until he could march on Kyoto.
+In the 11th year of Eiroku, persuaded by Akechi Mitsuhide, Ashikaga Yoshiaki left Asakura Yoshikage in Echizen.\nHe reached Mino safely and was to live at Ryūshō-ji in Mino until he could march on Kyōto.
 
 @54.0
 Nobunaga, must I live in such a decrepit temple?
 
 @54.1
-Please bear with it until we go up to Kyoto.
+Please bear with it until we go up to Kyōto.
 
 @54.2
 Even so, you say...
 
 @54.3
-Since I have given my word, I will have you taken to Kyoto within a few months, you may count on it.
+Since I have given my word, I will have you taken to Kyōto within a few months, you may count on it.
 
 @54.5
 Wh-what? In a mere few months?
@@ -281,13 +281,13 @@ How reassuring! Nobunaga, I rely on you.
 (What confidence...)\n\n\n(Yet perhaps Nobunaga can do it...)
 
 @55.4
-(Once I have put Yoshiaki on the shogun's seat in Kyoto, the question is how to seal his power and make it my own...)
+(Once I have put Yoshiaki on the shōgun's seat in Kyōto, the question is how to seal his power and make it my own...)
 
 @56
 Kannonji Castle
 
 @57
-To reach Kyoto, Nobunaga had to pass through Omi.\nAt that time the Azai held the northern half of Omi and the Rokkaku the southern half.\nAn alliance with the Azai of northern Omi made the passage easy.\nNobunaga sent an envoy to the Rokkaku of southern Omi, but...
+To reach Kyōto, Nobunaga had to pass through Ōmi.\nAt that time the Azai held the northern half of Ōmi and the Rokkaku the southern half.\nAn alliance with the Azai of northern Ōmi made the passage easy.\nNobunaga sent an envoy to the Rokkaku of southern Ōmi, but...
 
 @58
 Kannonji Castle - Council Hall
@@ -308,16 +308,16 @@ If he wishes to pass through our domain, let him force his way through.
 Gifu Castle - Council Hall
 
 @61.0
-You have all heard that Lord Ashikaga Yoshiaki, of the main shogun line, is coming to Gifu.
+You have all heard that Lord Ashikaga Yoshiaki, of the main shōgun line, is coming to Gifu.
 
 @61.1
-We must not let harm come to Lord Yoshiaki, so I will wipe out the bandit bands ravaging the area around the Nakasendo.
+We must not let harm come to Lord Yoshiaki, so I will wipe out the bandit bands ravaging the area around the Nakasendō.
 
 @63.0
 So, Yoshikata said to force my way through.
 
 @64.0
-The Rokkaku seem to be in league with the Miyoshi and Matsunaga. They may mean to block Lord Yoshiaki's march on Kyoto.
+The Rokkaku seem to be in league with the Miyoshi and Matsunaga. They may mean to block Lord Yoshiaki's march on Kyōto.
 
 @64.1
 Pride in their noble name must keep them from submitting to the Oda.
@@ -344,7 +344,7 @@ In a straight assault, I, Katsuie, yield to no one.
 A merchant has stocked a new medicine. Please buy some.
 
 @73.0
-The Rokkaku are allied with the Miyoshi, so they must be trying to block the Oda march on Kyoto.
+The Rokkaku are allied with the Miyoshi, so they must be trying to block the Oda march on Kyōto.
 
 @74.0
 I shall show you on the field the skill that earned me the name Mataza of the Spear.
@@ -371,7 +371,7 @@ Bandits or not, no complacency. There are rumours they are messengers of the mou
 Attacking blindly is not all there is to war.
 
 @82.0
-I, Tokichiro, know a little about bandits.
+I, Tōkichirō, know a little about bandits.
 
 @83.0
 Did the monkey used to be a bandit?
@@ -407,7 +407,7 @@ Messengers of the mountain god? Surely the bandits' lies.
 Leave the fighting to me, Yoshinari.
 
 @93.0
-The Rokkaku, descendants of the Sasaki Genji, are among the foremost houses of Omi.
+The Rokkaku, descendants of the Sasaki Genji, are among the foremost houses of Ōmi.
 
 @94.0
 The Rokkaku are enemies of the Azai, so they would never side with us.

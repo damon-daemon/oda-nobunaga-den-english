@@ -5,7 +5,7 @@ As I thought, Nobunaga is not going to let us through so easily.
 Is that not so, Masakage?
 
 @0.3
-Our vanguard will cut a path to Kyoto for you. Please watch.
+Our vanguard will cut a path to Kyōto for you. Please watch.
 
 @0.5
 Katsuyori's detachment will arrive shortly as well.
@@ -65,7 +65,7 @@ War is terrible.
 Take this too, my lord, and flee quickly.
 
 @11.0
-Lord Nobunaga, will you not kindly open the road to Kyoto for me?
+Lord Nobunaga, will you not kindly open the road to Kyōto for me?
 
 @11.1
 Lord Shingen, I wondered what you would say, and it is a whimper.
@@ -95,7 +95,7 @@ As expected of Shingen, a magnificent way of fighting.
 It seems best to withdraw for now.
 
 @15.3
-The whole army falls back to Kyoto. Prepare for Shingen's entry into the capital!
+The whole army falls back to Kyōto. Prepare for Shingen's entry into the capital!
 
 @16
 Takeda Shingen allowed to enter Mino
@@ -116,7 +116,7 @@ Gh, as expected of Shingen, a magnificent way of fighting.
 It seems best to withdraw for now.
 
 @21.2
-The whole army falls back to Kyoto. Prepare for Shingen's entry into the capital!
+The whole army falls back to Kyōto. Prepare for Shingen's entry into the capital!
 
 @22
 Takeda Shingen allowed to enter Mino

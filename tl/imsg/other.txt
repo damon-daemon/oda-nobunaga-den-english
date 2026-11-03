@@ -287,7 +287,7 @@ Curses...
 Damn it all!
 
 @451
-Battle of Kira Ohama
+Battle of Kira Ōhama
 
 @452
 Battle of Kayazu
@@ -299,7 +299,7 @@ Siege of Kiyosu Castle
 Battle of the Nagara River
 
 @455
-Battle of Inou
+Battle of Inō
 
 @456
 Battle of Ukino
@@ -332,16 +332,16 @@ Siege of Noda and Fukushima
 Expulsion of Yoshiaki
 
 @466
-Siege of Ichijodani and Odani
+Siege of Ichijōdani and Odani
 
 @467
-Nagashima Ikko Uprising
+Nagashima Ikkō Uprising
 
 @468
 Battle of Nagashino
 
 @469
-Siege of Honganji
+Siege of Hongan-ji
 
 @470
 Subduing Matsunaga Hisahide
@@ -365,16 +365,16 @@ Interception in Mino
 The Anti-Nobunaga Coalition
 
 @490
-Shingen's March on Kyoto
+Shingen's March on Kyōto
 
 @492
 Siege of Odani Castle
 
 @493
-Struggle for Omi
+Struggle for Ōmi
 
 @494
-Azai and Asakura in Kyoto
+Azai and Asakura in Kyōto
 
 @495
 Battle of Mikatagahara
@@ -386,10 +386,10 @@ Defence of Hamamatsu
 Interception in Echizen
 
 @498
-Interception of the Mori
+Interception of the Mōri
 
 @499
-Honnoji Incident
+Honnō-ji Incident
 
 @500
 Battle of Yamazaki
@@ -401,7 +401,7 @@ Battle of Shizugatake
 Pacification of Shikoku
 
 @504
-Pacification of Kanto
+Pacification of Kantō
 
 @506
 Battle of Nagakute

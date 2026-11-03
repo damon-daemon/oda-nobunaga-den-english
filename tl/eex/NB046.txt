@@ -5,7 +5,7 @@ So the Oda are this formidable.
 Father, victory and defeat are the luck of the hour. Though we were beaten, our army can still fight the Oda.
 
 @3.2
-Yes. But for now let us pull back to eastern Mikawa and settle in for a long haul. Nobunaga cannot linger in Totomi either.
+Yes. But for now let us pull back to eastern Mikawa and settle in for a long haul. Nobunaga cannot linger in Tōtōmi either.
 
 @4.1
 Father?
@@ -32,7 +32,7 @@ My lord. The Takeda forces are falling back from Mikawa toward Shinano.
 What! Shingen!?
 
 @12.2
-Has Shingen given up on marching on Kyoto?
+Has Shingen given up on marching on Kyōto?
 
 @12.3
 My lord. My men report a palanquin bearing what looks like Shingen's corpse has left the Takeda camp for a nearby temple.
@@ -44,7 +44,7 @@ My lord!
 Oh, Toshiie. What is it?
 
 @14.1
-An urgent messenger from Kyoto reports that Lord Yoshiaki is calling on the home provinces' forces to destroy the Oda.
+An urgent messenger from Kyōto reports that Lord Yoshiaki is calling on the home provinces' forces to destroy the Oda.
 
 @14.3
 Damn Yoshiaki. To defy me is the height of folly; his wretched end is decided. We return to Gifu at once. Make ready!

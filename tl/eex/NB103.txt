@@ -41,7 +41,7 @@ Village
 You are a samurai of the Oda clan, aren't you?
 
 @11.1
-Please tell Lord Nobunaga. Lord Dosan and Lord Yoshitatsu are at war. Please make them stop.
+Please tell Lord Nobunaga. Lord Dōsan and Lord Yoshitatsu are at war. Please make them stop.
 
 @12
 Treasure
@@ -83,7 +83,7 @@ Viper!
 You old Viper... Going ahead of me...
 
 @15
-Saito Dosan falls at the Battle of the Nagara River
+Saitō Dōsan falls at the Battle of the Nagara River
 
 @16
 Battle of the Nagara River\nVictory: 1. Wipe out the enemy.\n             2. Nobunaga reaches the south-east village.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
@@ -95,16 +95,16 @@ Battle of the Nagara River (condition added)\nVictory: 1. Wipe out the enemy.\n 
 Viper, forgive me...
 
 @20
-Oda Nobunaga defeated Saito Yoshitatsu's army.
+Oda Nobunaga defeated Saitō Yoshitatsu's army.
 
 @22
-Defeated Saito Yoshitatsu at the Battle of the Nagara River
+Defeated Saitō Yoshitatsu at the Battle of the Nagara River
 
 @23
-Oda Nobunaga was defeated by Saito Yoshitatsu.
+Oda Nobunaga was defeated by Saitō Yoshitatsu.
 
 @24
-Defeated by Saito Yoshitatsu
+Defeated by Saitō Yoshitatsu
 
 @25.0
 Curse you, Nobunaga! I will repay this one day!

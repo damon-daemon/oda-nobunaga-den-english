@@ -2,7 +2,7 @@
 "The Pacification of Ise"
 
 @2
-The 11th year of Eiroku (1568)\nNobunaga drove the resisting Miyoshi Triumvirate out to Awa.\n\nThe shogun Ashikaga Yoshihide, his backing lost, fled to Awa too and soon died of illness.\nNobunaga took Kyoto, claiming hegemony.
+The 11th year of Eiroku (1568)\nNobunaga drove the resisting Miyoshi Triumvirate out to Awa.\n\nThe shōgun Ashikaga Yoshihide, his backing lost, fled to Awa too and soon died of illness.\nNobunaga took Kyōto, claiming hegemony.
 
 @3
 "The Pacification of Ise"
@@ -14,25 +14,25 @@ The 11th year of Eiroku (1568)\nNobunaga drove the resisting Miyoshi Triumvirate
 "The Pacification of Ise"
 
 @6
-Kyoto - Ashikaga Yoshiaki's Residence
+Kyōto - Ashikaga Yoshiaki's Residence
 
 @7
-Nobunaga showed the Court overwhelming military might while offering enormous tribute, and had Ashikaga Yoshiaki appointed shogun.
+Nobunaga showed the Court overwhelming military might while offering enormous tribute, and had Ashikaga Yoshiaki appointed shōgun.
 
 @8.0
-I offer my heartfelt congratulations on your appointment as shogun.
+I offer my heartfelt congratulations on your appointment as shōgun.
 
 @9.0
 Mm. Raise your head.
 
 @10.0
-Nobunaga, it is thanks to you that I have become shogun. I think of you as my own father.
+Nobunaga, it is thanks to you that I have become shōgun. I think of you as my own father.
 
 @10.1
 I am honoured to have been of service.
 
 @10.2
-I would have you become vice-shogun and assist me. What say you? Will you accept?
+I would have you become vice-shōgun and assist me. What say you? Will you accept?
 
 @10.3
 With respect, I must decline.
@@ -47,25 +47,25 @@ That too I must decline.
 How unambitious! Is there nothing you desire?
 
 @10.7
-Then, if you will indulge me, I ask leave to place magistrates at Sakai, Otsu and Kusatsu.
+Then, if you will indulge me, I ask leave to place magistrates at Sakai, Ōtsu and Kusatsu.
 
 @10.8
 That is easily done. Do as you wish.
 
 @10.10
-By the way, Nobunaga, I have one favour to ask. Would you let Mitsuhide be Kyoto magistrate?
+By the way, Nobunaga, I have one favour to ask. Would you let Mitsuhide be Kyōto magistrate?
 
 @10.11
-It is only that Mitsuhide is a man I know well, and I would feel more at ease with him keeping order in Kyoto.
+It is only that Mitsuhide is a man I know well, and I would feel more at ease with him keeping order in Kyōto.
 
 @11.0
 That I cannot agree to.
 
 @12.0
-As Kyoto magistrate...
+As Kyōto magistrate...
 
 @12.1
-I appoint Kinoshita Tokichiro Hideyoshi.
+I appoint Kinoshita Tōkichirō Hideyoshi.
 
 @12.2
 (Wh-what?)
@@ -77,16 +77,16 @@ I-I see. Very well.
 (What a perverse man. He is hard to deal with.)
 
 @14.0
-(Good grief. Me, Tokichiro, set to guard the court nobles?)
+(Good grief. Me, Tōkichirō, set to guard the court nobles?)
 
 @15.0
 What has become of the levies I imposed on the various places?
 
 @15.1
-Horyuji of Yamato and Ishiyama Honganji have complied, but only Sakai refuses the demand.
+Hōryū-ji of Yamato and Ishiyama Hongan-ji have complied, but only Sakai refuses the demand.
 
 @15.2
-Among the Sakai council of merchants, Imai Sokyu is on our side,
+Among the Sakai council of merchants, Imai Sōkyū is on our side,
 
 @15.3
 but the others seem unwilling to obey you, my lord.
@@ -95,7 +95,7 @@ but the others seem unwilling to obey you, my lord.
 Is that so? Then I have my own ideas.
 
 @15.5
-Monkey, abolish the toll barriers in the Kinai except Kyoto and let merchants travel freely. I will abolish most guilds too.
+Monkey, abolish the toll barriers in the Kinai except Kyōto and let merchants travel freely. I will abolish most guilds too.
 
 @15.6
 I will punish those who profit wrongly from outdated privileges.
@@ -110,16 +110,16 @@ some of the Sakai council are in league with the Miyoshi faction and plotting mi
 No matter. This is the chance to flush out those who defy me and sweep them up in one net!
 
 @16.3
-I shall leave Kyoto for a while. Monkey, if the Miyoshi remnants attack, deal with them without fail.
+I shall leave Kyōto for a while. Monkey, if the Miyoshi remnants attack, deal with them without fail.
 
 @17.1
-Mitsuhide, I order you to guard the shogun.
+Mitsuhide, I order you to guard the shōgun.
 
 @19.0
 Well, enjoy all the trouble that comes your way.
 
 @20.0
-Lord Akechi knows Kyoto's customs well. If there is something you do not understand, rely on him.
+Lord Akechi knows Kyōto's customs well. If there is something you do not understand, rely on him.
 
 @20.1
 Lord Niwa, I am obliged to you.
@@ -140,16 +140,16 @@ Lord Akechi, I look to your guidance.
 Gifu
 
 @27.0
-Nohime, I am back.
+Nōhime, I am back.
 
 @28.0
-How was Kyoto?
+How was Kyōto?
 
 @28.1
 A nest of arrogant men clinging to outdated authority. I will smash it to pieces soon enough.
 
 @28.2
-Nohime, watch. I will build a new world.
+Nōhime, watch. I will build a new world.
 
 @28.3
 My lord, I look forward to it as well.
@@ -161,7 +161,7 @@ Awa - Castle of the Miyoshi Triumvirate
 I hear Nobunaga has gone back to Mino.
 
 @30.1
-A perfect chance to strike down Ashikaga Yoshiaki and win back Kyoto.
+A perfect chance to strike down Ashikaga Yoshiaki and win back Kyōto.
 
 @30.2
 He took my province, and I bear him a grudge. Let me join you as well.
@@ -176,10 +176,10 @@ The Sakai council also resent Nobunaga's levy and have promised to cooperate wit
 It is winter, so reinforcements from Mino cannot arrive quickly.
 
 @30.6
-Then first we do away with Ashikaga Yoshiaki, and after that occupy Kyoto. Agreed?
+Then first we do away with Ashikaga Yoshiaki, and after that occupy Kyōto. Agreed?
 
 @32
-Kyoto - Ashikaga Yoshiaki's Residence
+Kyōto - Ashikaga Yoshiaki's Residence
 
 @33.0
 My lord Yoshiaki, the Miyoshi Triumvirate is heading this way.
@@ -194,7 +194,7 @@ Heh heh heh.
 Mitsuhide, what is so funny?
 
 @34.3
-I am happy, my lord. At last I can put my talents to use for the shogun.
+I am happy, my lord. At last I can put my talents to use for the shōgun.
 
 @34.4
 Do not worry. All we need do is hold out until reinforcements arrive.
@@ -203,7 +203,7 @@ Do not worry. All we need do is hold out until reinforcements arrive.
 Watch well and see my skill with the musket.
 
 @35
-Meanwhile, learning of the Miyoshi attack, Nobunaga raced through the snow from Gifu to Kyoto in only three days.
+Meanwhile, learning of the Miyoshi attack, Nobunaga raced through the snow from Gifu to Kyōto in only three days.
 
 @36
 This event was cut from the PS version.
@@ -224,19 +224,19 @@ The Miyoshi Triumvirate has made a surprise attack on Lord Yoshiaki's residence.
 So they have come. Prepare to march at once.
 
 @41.0
-But the road to Kyoto is blocked by snow. We cannot advance as we wish.
+But the road to Kyōto is blocked by snow. We cannot advance as we wish.
 
 @41.1
 Stop your grumbling and follow.
 
 @42
-Nobunaga raced through the snow from Gifu to Kyoto in only three days.\n\nHeld off by Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate could not even take Yoshiaki's residence. At news of Nobunaga's coming, they fled without a fight.
+Nobunaga raced through the snow from Gifu to Kyōto in only three days.\n\nHeld off by Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate could not even take Yoshiaki's residence. At news of Nobunaga's coming, they fled without a fight.
 
 @44
 Held off by Akechi Mitsuhide, Hosokawa Fujitaka and others, the Miyoshi Triumvirate could not even take Yoshiaki's residence. At news of Nobunaga's coming, they fled without a fight.
 
 @45
-Kyoto - Nobunaga's Quarters
+Kyōto - Nobunaga's Quarters
 
 @46.0
 In this affair, Mitsuhide's service was foremost.
@@ -311,7 +311,7 @@ Then I am counting on you.
 This event was cut from the PS version.
 
 @60
-Kyoto - Nobunaga's Quarters
+Kyōto - Nobunaga's Quarters
 
 @61.0
 My lord, a padre requests an audience.
@@ -428,7 +428,7 @@ It often rains in Ise at this time of year. Muskets and cannon alone will make f
 I would like to guard the castle.
 
 @79.0
-Okawachi Castle is the Kitabatake's proud stronghold. If the enemy holds out in a siege, it will be troublesome.
+Ōkawachi Castle is the Kitabatake's proud stronghold. If the enemy holds out in a siege, it will be troublesome.
 
 @80.0
 For castle assaults, do use me.

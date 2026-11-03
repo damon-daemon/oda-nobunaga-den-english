@@ -83,7 +83,7 @@ def head(h):
         _heads = {jp: en[n] for n, jp in enumerate(speakers_jp()) if n in en}
     m = _HEAD.match(h)
     if m and m.group(2) in _heads:
-        return '&%s&%s' % (m.group(1), _heads[m.group(2)])
+        return '&%s&%s' % (m.group(1), text.fold(_heads[m.group(2)]))
     return h
 
 
@@ -130,7 +130,7 @@ def blob_names(base):
             return 0
         if s not in offs:
             offs[s] = head + len(strs)
-            strs.extend(s.encode('ascii') + b'\0')
+            strs.extend(text.fold(s).encode('ascii') + b'\0')
         return offs[s]
     full = [off(rows[i]['en']) if i in rows else 0 for i in range(COUNT)]
     short = [off(_short(rows[i])) if i in rows else 0 for i in range(COUNT)]

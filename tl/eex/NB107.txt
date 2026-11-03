@@ -125,7 +125,7 @@ Now we take Inabayama Castle in one stroke.
 Well done, everyone.
 
 @20
-The Oda army defeated the army of Saito Tatsuoki.
+The Oda army defeated the army of Saitō Tatsuoki.
 
 @21
 Gained 1000 gold.
@@ -134,7 +134,7 @@ Gained 1000 gold.
 Inabayama Castle taken
 
 @23
-Oda Nobunaga was defeated by Saito Tatsuoki.
+Oda Nobunaga was defeated by Saitō Tatsuoki.
 
 @24
 The Oda army took Inabayama Castle.

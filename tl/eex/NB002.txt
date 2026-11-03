@@ -14,10 +14,10 @@ In the 21st year of Tenbun (1552), Nobunaga lost the battle against Sakai Daizen
 "Masahide's Final Remonstrance"
 
 @7
-Saito Yoshitatsu's Residence
+Saitō Yoshitatsu's Residence
 
 @8
-This is the residence of Saito Yoshitatsu, Saito Dosan's eldest son and Nohime's brother.\n\n\nIn his youth Dosan was a mere oil seller, but he won the favour of Toki Yorinari, lord of Sagiyama Castle, and became his close aide.\n\nAfter placing Yorinari in the seat of constable of Mino, Dosan used every scheme and stratagem to drive out his own master and seized the whole province of Mino.\n\nDuring this time Dosan took two principal wives. The first was Yoshitatsu's mother, Miyoshino. The second was Nohime's mother, Lady Omi. Now an ill cloud was beginning to drift over this Mino that Dosan had made his own...
+This is the residence of Saitō Yoshitatsu, Saitō Dōsan's eldest son and Nōhime's brother.\n\n\nIn his youth Dōsan was a mere oil seller, but he won the favour of Toki Yorinari, lord of Sagiyama Castle, and became his close aide.\n\nAfter placing Yorinari in the seat of constable of Mino, Dōsan used every scheme and stratagem to drive out his own master and seized the whole province of Mino.\n\nDuring this time Dōsan took two principal wives. The first was Yoshitatsu's mother, Miyoshino. The second was Nōhime's mother, Lady Ōmi. Now an ill cloud was beginning to drift over this Mino that Dōsan had made his own...
 
 @9.0
 What!\n\n\nIs this true?
@@ -38,7 +38,7 @@ So I am the son of that Toki Yorinari...
 How can this be...
 
 @11.0
-Damn you, Dosan! You drove out my father!\n\nOne day I will have your head!
+Damn you, Dōsan! You drove out my father!\n\nOne day I will have your head!
 
 @13.0
 Masahide. Can nothing be done about his lordship's conduct?
@@ -110,7 +110,7 @@ Old man!
 ...\nOld man... Why did you die?
 
 @32
-Masahide took his own life in the hope of making Nobunaga aware of his duty as heir.\n\nTo repay Masahide's devotion, Nobunaga built a temple, Seishuji, and prayed for the repose of his soul. Nobunaga was twenty at the time.
+Masahide took his own life in the hope of making Nobunaga aware of his duty as heir.\n\nTo repay Masahide's devotion, Nobunaga built a temple, Seishū-ji, and prayed for the repose of his soul. Nobunaga was twenty at the time.
 
 @33
 This event was cut from the PS version.
@@ -149,7 +149,7 @@ Many in the Oda clan think ill of my son-in-law.
 If they were to put his brother up in his place...
 
 @43.6
-Then Lady Kicho would be in danger.
+Then Lady Kichō would be in danger.
 
 @43.7
 At any rate, I must meet my son-in-law once.
@@ -158,7 +158,7 @@ At any rate, I must meet my son-in-law once.
 If I meet him and he is truly a fool, a man who would be killed by his own retainers,
 
 @44.1
-then for Kicho's sake I must destroy the Oda clan and take Owari.
+then for Kichō's sake I must destroy the Oda clan and take Owari.
 
 @44.2
 Even if I must kill my son-in-law with my own hands, it cannot be helped. Is that not so, Mitsuyasu?
@@ -167,13 +167,13 @@ Even if I must kill my son-in-law with my own hands, it cannot be helped. Is tha
 As you say.
 
 @47.0
-I hear Saito Dosan has requested a meeting. What will you do?
+I hear Saitō Dōsan has requested a meeting. What will you do?
 
 @47.1
 Is that so. I will meet him.
 
 @47.2
-The request names Shotokuji on the border as the meeting place...
+The request names Shōtoku-ji on the border as the meeting place...
 
 @47.3
 No matter.
@@ -188,7 +188,7 @@ No. That will not be necessary.
 I will take five hundred spearmen and five hundred musketeers as escort. Gonroku, make ready.
 
 @50
-Dosan, who arrived before Nobunaga, entered an inn along the highway to watch Nobunaga's procession.
+Dōsan, who arrived before Nobunaga, entered an inn along the highway to watch Nobunaga's procession.
 
 @51.0
 Is my son-in-law's procession not yet in sight?
@@ -221,10 +221,10 @@ My lord?
 Even so, that outfit of my son-in-law's...
 
 @54.4
-Doku, I will meet him as I am. It would make a laughingstock of me to be the only one in formal dress.
+Dōkū, I will meet him as I am. It would make a laughingstock of me to be the only one in formal dress.
 
 @55
-Shotokuji
+Shōtoku-ji
 
 @56.0
 Lord Nobunaga has arrived.
@@ -233,7 +233,7 @@ Lord Nobunaga has arrived.
 W-what?
 
 @58.0
-This is Saito Dosan, Governor of Yamashiro.
+This is Saitō Dōsan, Governor of Yamashiro.
 
 @58.1
 ...Is that so.
@@ -245,7 +245,7 @@ This is Saito Dosan, Governor of Yamashiro.
 The Road Back to Mino
 
 @61.0
-Doku, what did you make of my son-in-law?
+Dōkū, what did you make of my son-in-law?
 
 @62.0
 A fool, as the rumours say...
@@ -257,7 +257,7 @@ The fool is your own head.
 It is a pity, but my sons will end up tethering their horses at that son-in-law's gate.
 
 @66.0
-...Say no more. He was a man fit to be Kicho's husband...
+...Say no more. He was a man fit to be Kichō's husband...
 
 @68
 Nagoya Castle - Commanders' Hall

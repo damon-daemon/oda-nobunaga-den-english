@@ -11,10 +11,10 @@ Now is the chance to strike down Nobunaga!
 Good, let us go!
 
 @1
-Defence of Omi\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Defence of Ōmi\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @2
-Defence of Omi\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Defence of Ōmi\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @3.0
 Good, we advance as well!
@@ -38,7 +38,7 @@ A-An army lay in ambush...
 Now is the chance to strike down the hateful Nobunaga!
 
 @10.2
-Kill him, and we take back Omi, the land of our forefathers!
+Kill him, and we take back Ōmi, the land of our forefathers!
 
 @10.3
 Damn you, Rokkaku Yoshikata!
@@ -50,7 +50,7 @@ Rokkaku Yoshikata's army appeared!
 Now is the chance to strike down the hateful Nobunaga!
 
 @12.1
-Kill him, and we take back Omi, the land of our forefathers!
+Kill him, and we take back Ōmi, the land of our forefathers!
 
 @12.2
 Damn you, Rokkaku Yoshikata!
@@ -89,7 +89,7 @@ Retreat!
 Oda Nobunaga defeated\nthe Azai-Asakura allied army.
 
 @24
-Azai-Asakura allied army defeated in southern Omi
+Azai-Asakura allied army defeated in southern Ōmi
 
 @25
 Oda Nobunaga was defeated by\nthe Azai-Asakura allied army.

@@ -98,7 +98,7 @@ Lord Hideyoshi. Our lord is safe.
 This is... My lord, is it really you...
 
 @9.1
-Chusaburo, what nonsense are you saying? Do you not recognise me?
+Chūsaburō, what nonsense are you saying? Do you not recognise me?
 
 @9.2
 Not at all. I was so astonished I lost myself. I will go and tell everyone at once.
@@ -131,7 +131,7 @@ Lord Hideyoshi! Our lord is safe!
 My lord... I am glad you are safe...
 
 @12.1
-Yes. Shozaburo, I have made you worry.
+Yes. Shōzaburō, I have made you worry.
 
 @12.2
 Truly, truly I am glad... I will tell everyone at once...
@@ -143,7 +143,7 @@ Lord Hideyoshi! Our lord is safe!
 My lord! I knew you were safe.
 
 @13.1
-Yes, Goroza. As if I would die.
+Yes, Gorōza. As if I would die.
 
 @13.2
 Indeed... I will tell everyone at once.

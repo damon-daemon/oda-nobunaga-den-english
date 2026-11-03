@@ -2,7 +2,7 @@
 "The Fall of the Shogunate"
 
 @2
-The 1st year of Genki (1570)\nAvoiding a decisive battle with Nobunaga, the Azai and Asakura forces made camp on the summit of Mt. Hiei. Surrounded on all four sides, Nobunaga was pinned down. Takeda Shingen, who had been waiting for a chance to march on Kyoto, began to move.
+The 1st year of Genki (1570)\nAvoiding a decisive battle with Nobunaga, the Azai and Asakura forces made camp on the summit of Mt. Hiei. Surrounded on all four sides, Nobunaga was pinned down. Takeda Shingen, who had been waiting for a chance to march on Kyōto, began to move.
 
 @3
 "The Fall of the Shogunate"
@@ -41,22 +41,22 @@ If they cannot, they are to stay neutral and drive the Azai and Asakura forces o
 And if they persist in defying us, I will burn every last hall to the ground. Tell them so.
 
 @9
-But two months later, the Ikko uprising broke out at Nagashima in Ise. Nobunaga's younger brother Nobuoki was attacked by the followers and took his own life. To make peace with the Azai and Asakura, Nobunaga sent Mitsuhide to Yoshiaki.
+But two months later, the Ikkō uprising broke out at Nagashima in Ise. Nobunaga's younger brother Nobuoki was attacked by the followers and took his own life. To make peace with the Azai and Asakura, Nobunaga sent Mitsuhide to Yoshiaki.
 
 @10
 Two months later...
 
 @11
-The Ikko uprising broke out at Nagashima in Ise. Nobunaga's younger brother Nobuoki was under attack by the followers.
+The Ikkō uprising broke out at Nagashima in Ise. Nobunaga's younger brother Nobuoki was under attack by the followers.
 
 @12.0
 My lord, Oda Nobuoki has taken his own life at Ogie Castle in Owari.
 
 @12.1
-Damn them! This is all the doing of those warrior monks of Mt. Hiei and Kennyo of Honganji. I will not let them go unpunished.
+Damn them! This is all the doing of those warrior monks of Mt. Hiei and Kennyo of Hongan-ji. I will not let them go unpunished.
 
 @13.0
-Mitsuhide, work on the shogun to urge a peace between the Oda and the Azai and Asakura.
+Mitsuhide, work on the shōgun to urge a peace between the Oda and the Azai and Asakura.
 
 @14.0
 At once. Leave it to me.
@@ -107,7 +107,7 @@ I will write a letter at once. Wait here.
 Yes, my lord. I am most grateful.
 
 @21
-After this, Akechi Mitsuhide also obtained an imperial edict of mediation from Emperor Ogimachi.\n\nThus peace was reached between the Azai and Asakura and the Oda, and Nobunaga escaped his worst crisis since Okehazama.
+After this, Akechi Mitsuhide also obtained an imperial edict of mediation from Emperor Ōgimachi.\n\nThus peace was reached between the Azai and Asakura and the Oda, and Nobunaga escaped his worst crisis since Okehazama.
 
 @22
 Mino - Gifu Castle - Living Quarters
@@ -119,13 +119,13 @@ The 1st month, 2nd year of Genki (1571)\nOda Nobunaga, under the pretext of a Ne
 Now that you are all gathered, I will say this.
 
 @24.1
-The Miyoshi faction, the Azai and Asakura, Honganji, and the Ikko followers of Nagashima in Ise must all be destroyed.
+The Miyoshi faction, the Azai and Asakura, Hongan-ji, and the Ikkō followers of Nagashima in Ise must all be destroyed.
 
 @24.2
 So must Mt. Hiei, which sides with the Azai and Asakura.
 
 @24.3
-I will start by dealing with the Ikko followers. Prepare yourselves.
+I will start by dealing with the Ikkō followers. Prepare yourselves.
 
 @25.0
 Monkey, seal off every road leading into Azai territory. And the boats on the lake as well.
@@ -143,16 +143,16 @@ A reliable fellow. I am counting on you.
 At once.\n(Haa... I will not be able to see in the New Year with Nene this year.)
 
 @27
-Before long, Isono Kazumasa, lord of Sawayama Castle, submitted to the Oda. Nobunaga now fully controlled the road between Kyoto and Gifu. With his defences against the Azai and Asakura secured, he began the campaign against the Ikko followers of Nagashima in Ise. However...
+Before long, Isono Kazumasa, lord of Sawayama Castle, submitted to the Oda. Nobunaga now fully controlled the road between Kyōto and Gifu. With his defences against the Azai and Asakura secured, he began the campaign against the Ikkō followers of Nagashima in Ise. However...
 
 @29
 Mino - Gifu Castle - Living Quarters
 
 @30
-After that, Nobunaga had Hideyoshi seal off every road into Azai territory and sound out Isono Kazumasa, lord of Sawayama Castle. Before long Isono Kazumasa submitted to the Oda. Nobunaga now fully controlled the road between Kyoto and Gifu. With his defences against the Azai and Asakura secured, he began the campaign against the Ikko followers of Nagashima in Ise. However...
+After that, Nobunaga had Hideyoshi seal off every road into Azai territory and sound out Isono Kazumasa, lord of Sawayama Castle. Before long Isono Kazumasa submitted to the Oda. Nobunaga now fully controlled the road between Kyōto and Gifu. With his defences against the Azai and Asakura secured, he began the campaign against the Ikkō followers of Nagashima in Ise. However...
 
 @31
-In the campaign against the Ikko followers of Nagashima in Ise, the followers' counterattack inflicted a crushing defeat on the Oda army.
+In the campaign against the Ikkō followers of Nagashima in Ise, the followers' counterattack inflicted a crushing defeat on the Oda army.
 
 @32.0
 My lord, through my blunder Bokuzen has lost his life.
@@ -176,13 +176,13 @@ Had they not sided with the Azai and Asakura, it would never have come to this.
 Burn Mt. Hiei\nDo not burn Mt. Hiei
 
 @36.0
-We march for Kyoto now. Make ready at once.
+We march for Kyōto now. Make ready at once.
 
 @38
-Nakasendo
+Nakasendō
 
 @39.0
-I wonder what Lord Nobunaga means to do in Kyoto.
+I wonder what Lord Nobunaga means to do in Kyōto.
 
 @39.1
 How should I know?
@@ -197,7 +197,7 @@ The whole army, head for Mt. Hiei.
 Mt. Hiei?! Surely my lord does not mean to carry out that threat from before.
 
 @40.0
-Burn Mt. Hiei. Burn down every hall, the Konpon Chudo first.
+Burn Mt. Hiei. Burn down every hall, the Konpon Chūdō first.
 
 @40.1
 Capture everyone who flees the mountain and cut them down.
@@ -209,7 +209,7 @@ My lord, is that not far too cruel?
 Monkey, what did you just say?
 
 @42.0
-Y-yes, my lord. I, Kinoshita Tokichiro Hideyoshi, willingly obey your command.
+Y-yes, my lord. I, Kinoshita Tōkichirō Hideyoshi, willingly obey your command.
 
 @43.0
 My lord, Mt. Hiei is sacred ground that protects the nation. You must not violate the Buddhist Law.
@@ -263,10 +263,10 @@ Mitsuhide, it seems nothing I say to you does any good.
 If you obey orders, very well. If you do not, I will count it as treason. Understood?
 
 @52
-Thus Nobunaga burned all of the Twenty-One Sanno Shrines of Enryakuji on Mt. Hiei and executed over three thousand monks, laymen, men and women.
+Thus Nobunaga burned all of the Twenty-One Sannō Shrines of Enryaku-ji on Mt. Hiei and executed over three thousand monks, laymen, men and women.
 
 @53
-Enryakuji - Inside the Buddha Hall
+Enryaku-ji - Inside the Buddha Hall
 
 @54.0
 P-please... spare my life...
@@ -281,7 +281,7 @@ We cannot go against my lord's command. It cannot be helped. Kill him...
 Aaargh.
 
 @57
-Enryakuji - Inside the Buddha Hall
+Enryaku-ji - Inside the Buddha Hall
 
 @58.0
 Please, spare my life.
@@ -302,7 +302,7 @@ Hm? What do you mean? I saw nothing.
 Heh.
 
 @61
-Thus Nobunaga burned all of the Twenty-One Sanno Shrines of Enryakuji on Mt. Hiei and executed over three thousand monks, laymen, men and women.
+Thus Nobunaga burned all of the Twenty-One Sannō Shrines of Enryaku-ji on Mt. Hiei and executed over three thousand monks, laymen, men and women.
 
 @62.0
 Mitsuhide, go to Mt. Hiei and capture the monks who sided with the Azai and Asakura.
@@ -314,7 +314,7 @@ Kai - Tsutsujigasaki Mansion
 Tsutsujigasaki Mansion - Council Hall
 
 @66
-Takeda Shingen, the Tiger of Kai. Nobunaga's greatest and most powerful enemy was now about to move on Kyoto...
+Takeda Shingen, the Tiger of Kai. Nobunaga's greatest and most powerful enemy was now about to move on Kyōto...
 
 @67.0
 My lord, have you heard about the burning of Mt. Hiei?
@@ -323,10 +323,10 @@ My lord, have you heard about the burning of Mt. Hiei?
 Yes. So Nobunaga has finally done it.
 
 @68.0
-Nobushige, go to Lord Hojo Ujimasa and propose an alliance.
+Nobushige, go to Lord Hōjō Ujimasa and propose an alliance.
 
 @70.0
-Once the threat at my back is removed, I will attack Totomi, using the secret letter the shogun gave me as my pretext.
+Once the threat at my back is removed, I will attack Tōtōmi, using the secret letter the shōgun gave me as my pretext.
 
 @70.1
 Only I can defeat Nobunaga. No one else.
@@ -335,7 +335,7 @@ Only I can defeat Nobunaga. No one else.
 My lord, are our defences against the Uesugi sufficient?
 
 @72.0
-I have already thought of a measure. Deliver this letter to the shogun.
+I have already thought of a measure. Deliver this letter to the shōgun.
 
 @76.0
 Hm. I fully understand Lord Takeda's request.
@@ -359,7 +359,7 @@ Yes. Will you send out some secret messengers for me?
 At once. To whom?
 
 @78.3
-To Lord Kennyo of Honganji, Lord Matsunaga, Lord Miyoshi, and the Azai and Asakura.
+To Lord Kennyo of Hongan-ji, Lord Matsunaga, Lord Miyoshi, and the Azai and Asakura.
 
 @79.0
 Hohoho. Now Nobunaga is finished.
@@ -368,7 +368,7 @@ Hohoho. Now Nobunaga is finished.
 Hoho, hohohohoho.
 
 @81
-Kennyo of Honganji, answering Yoshiaki's request, used the Ikko forces of Kaga to hold Uesugi Kenshin of Echigo in check.\n\nTaking this chance, Takeda Shingen began his march on Kyoto and invaded Ieyasu's Totomi.
+Kennyo of Hongan-ji, answering Yoshiaki's request, used the Ikkō forces of Kaga to hold Uesugi Kenshin of Echigo in check.\n\nTaking this chance, Takeda Shingen began his march on Kyōto and invaded Ieyasu's Tōtōmi.
 
 @82
 Thus the Nobunaga Encirclement was complete, and Nobunaga now had to face Takeda Shingen, said to be the strongest warlord of the Sengoku era.
@@ -380,7 +380,7 @@ The reason I have gathered you all today is simple.
 At last, Takeda Shingen of Kai has begun to move.
 
 @85.2
-A messenger from Lord Ieyasu says Shingen is preparing to invade Totomi.
+A messenger from Lord Ieyasu says Shingen is preparing to invade Tōtōmi.
 
 @85.3
 We must take some action.
@@ -404,13 +404,13 @@ Do not worry. I do not ask you to win with three thousand. Hold the castle and b
 Next, Monkey, build a fort on Mt. Toragozen and guard against the Azai and Asakura.
 
 @91.0
-Mitsuhide, build a castle at Sakamoto, hold the former Enryakuji lands, and watch Kyoto. Report the shogun's every move.
+Mitsuhide, build a castle at Sakamoto, hold the former Enryaku-ji lands, and watch Kyōto. Report the shōgun's every move.
 
 @93.0
 What will you do about Matsunaga Hisahide, who has shut himself up in Shigisan Castle and refuses to attend you?
 
 @93.1
-Hm. He may well turn on us. That villain Danjo is capable of it.
+Hm. He may well turn on us. That villain Danjō is capable of it.
 
 @93.2
 Does anyone know of someone with a grudge against Hisahide? They say the enemy of my enemy is my friend.
@@ -446,10 +446,10 @@ Well? Will you serve me? If you do, I will give you Tsutsui Castle and a just ca
 I am most grateful. I, Junkei, shall work for Lord Nobunaga's sake.
 
 @97.1
-(That settles the check on Hisahide. That leaves the scheming shogun.)
+(That settles the check on Hisahide. That leaves the scheming shōgun.)
 
 @99.0
-Mitsuhide, take these articles of remonstrance to the shogun.
+Mitsuhide, take these articles of remonstrance to the shōgun.
 
 @100.0
 Th-the wording of this...!
@@ -461,10 +461,10 @@ Do you tell Lord Yoshiaki to retire, my lord? If he sees this, he will rise in a
 No matter. Since I cannot make the first move, I would rather he rose.
 
 @100.3
-Go to the shogun at once.
+Go to the shōgun at once.
 
 @101.0
-I will now lead the whole army to Totomi!
+I will now lead the whole army to Tōtōmi!
 
 @102.0
 Forgive me, my lord, but please wait.
@@ -542,10 +542,10 @@ Well? Will you serve me? If you do, I will give you Tsutsui Castle and a just ca
 I am most grateful. I, Junkei, shall work for Lord Nobunaga's sake.
 
 @121.1
-(That settles the check on Hisahide. That leaves the scheming shogun.)
+(That settles the check on Hisahide. That leaves the scheming shōgun.)
 
 @123.0
-Mitsuhide, take these articles of remonstrance to the shogun.
+Mitsuhide, take these articles of remonstrance to the shōgun.
 
 @124.0
 Th-the wording of this...!
@@ -557,7 +557,7 @@ Do you tell Lord Yoshiaki to retire, my lord? If he sees this, he will rise in a
 No matter. Since I cannot make the first move, I would rather he rose.
 
 @124.3
-Go to the shogun at once.
+Go to the shōgun at once.
 
 @127.0
 Wh-what is this? It says nothing but ill of me!
@@ -581,7 +581,7 @@ Stop, my lord. I can no longer serve you, Lord Yoshiaki.
 Do not say such sad things. You are the only one I can rely on.
 
 @130.0
-Forgive me. The age has come when neither the shogunate nor the shogun is needed.
+Forgive me. The age has come when neither the shogunate nor the shōgun is needed.
 
 @130.1
 Therefore, I beg you to take the vows...
@@ -632,10 +632,10 @@ There are times one must fight even without hope of winning. We march.
 The 12th month, 3rd year of Genki (1572)\nTokugawa Ieyasu led his whole army after Shingen, and the two armies clashed at Mikatagahara.\n\nDespite fierce fighting, the Oda-Tokugawa army was crushed. Shingen did not pursue Ieyasu and went on west.
 
 @142
-Kyoto - Nijo
+Kyōto - Nijō
 
 @143
-A few days later, news of the Oda-Tokugawa defeat reached Kyoto.
+A few days later, news of the Oda-Tokugawa defeat reached Kyōto.
 
 @144.0
 Hohoho, as expected of Lord Shingen. Now Nobunaga is finished.
@@ -713,7 +713,7 @@ Understand, Katsuyori. Beware of Nobunaga alone.
 Father...
 
 @157
-The 4th month, 1st year of Tensho (1573)\nTakeda Shingen died of illness at Ina, aged 53. He died with his ambition unfulfilled.
+The 4th month, 1st year of Tenshō (1573)\nTakeda Shingen died of illness at Ina, aged 53. He died with his ambition unfulfilled.
 
 @159.1
 My lord, why are you so pleased?
@@ -761,13 +761,13 @@ What, Lord Yoshiaki?! I, Nobunaga, had not noticed in the slightest.
 What should I do?
 
 @164.1
-It is hard to say, but for the sake of the realm's people, I think you should remove Lord Yoshiaki as shogun.
+It is hard to say, but for the sake of the realm's people, I think you should remove Lord Yoshiaki as shōgun.
 
 @165.0
 I see. There is no other way. It cannot be helped.
 
 @166.0
-I will expel the shogun from Kyoto. Mitsuhide, lead the vanguard.
+I will expel the shōgun from Kyōto. Mitsuhide, lead the vanguard.
 
 @167.0
 At once.\n(How ironic, that these hands should destroy the shogunate...)
@@ -785,7 +785,7 @@ Everyone, we march.
 If we attack into the castle, they will surrender at once.
 
 @173.0
-We must reach Totomi before Hamamatsu Castle falls, whatever happens.
+We must reach Tōtōmi before Hamamatsu Castle falls, whatever happens.
 
 @174.0
 Do not forget to seize the storehouses and granaries of Makishima Castle...
@@ -800,7 +800,7 @@ Take Lord Yoshiaki's heir hostage.
 The Takeda main force is cavalry. Their mobility is fearsome.
 
 @178.0
-I think it better to capture the shogun than kill him.
+I think it better to capture the shōgun than kill him.
 
 @179.0
 If Hamamatsu Castle falls, we too will be forced to retreat.

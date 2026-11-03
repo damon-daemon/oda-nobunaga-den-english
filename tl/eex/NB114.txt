@@ -2,10 +2,10 @@
 Lord Yoshiaki. Will you not give up this futile resistance and surrender?
 
 @0.1
-What are you saying? I am the shogun! I will not tolerate further outrages!
+What are you saying? I am the shōgun! I will not tolerate further outrages!
 
 @0.2
-A shogun who does not even know his own position. What a nuisance.
+A shōgun who does not even know his own position. What a nuisance.
 
 @1
 Expulsion of Yoshiaki\nVictory: 1. Make Ashikaga Yoshiaki retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
@@ -32,7 +32,7 @@ The Muromachi shogunate falls
 That I should lose to Yoshiaki, of all men... Impossible...
 
 @14
-Oda Nobunaga was defeated at Makishima Castle by the shogun Yoshiaki.
+Oda Nobunaga was defeated at Makishima Castle by the shōgun Yoshiaki.
 
 @15
 Defeated by the fierce assault of the Oda army, Yoshiaki surrendered, giving his infant son Gijin as a hostage.\n\n\nNobunaga expelled Yoshiaki, and with that the Muromachi shogunate fell...
@@ -44,7 +44,7 @@ Defeats Ashikaga Yoshiaki at Makishima Castle
 The Muromachi shogunate falls
 
 @19
-Oda Nobunaga was defeated at Makishima Castle by the shogun Yoshiaki.
+Oda Nobunaga was defeated at Makishima Castle by the shōgun Yoshiaki.
 
 @20.0
 I...

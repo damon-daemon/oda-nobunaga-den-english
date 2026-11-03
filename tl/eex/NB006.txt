@@ -29,7 +29,7 @@ It is about time I made a move toward the realm.
 Toward the realm, my lord?
 
 @9.0
-I will march on Kyoto, serve as the shogun's guardian, and proclaim my hegemony over the realm.
+I will march on Kyōto, serve as the shōgun's guardian, and proclaim my hegemony over the realm.
 
 @9.1
 Born into a great house, I deserve a measure of wealth, fame and power worthy of my stature,
@@ -56,7 +56,7 @@ I do not wish to lose a single one of my own men. Ho ho ho.
 Sunpu - Residence of Matsudaira Motoyasu
 
 @12.0
-I understand: the vanguard of the march on Kyoto. Please give my regards to Lord Imagawa.
+I understand: the vanguard of the march on Kyōto. Please give my regards to Lord Imagawa.
 
 @13.0
 Yes, my lord. I take my leave.
@@ -74,13 +74,13 @@ Yes.
 And what does Lord Imagawa say?
 
 @16.3
-He means to march west on Kyoto.
+He means to march west on Kyōto.
 
 @16.4
 ......!
 
 @16.5
-Lord Imagawa marches on Kyoto...
+Lord Imagawa marches on Kyōto...
 
 @16.6
 We have been ordered to lead the van. As soon as we are ready, we march at once.
@@ -143,22 +143,22 @@ Yes, my lord.
 (What a man. With a farce he reassures his retainers, and he also has the traitor murdered.)
 
 @24
-Kyoto
+Kyōto
 
 @25.0
-A year already in Kyoto...
+A year already in Kyōto...
 
 @25.1
-Hey, I hear Imagawa Yoshimoto of Suruga is marching on Kyoto.
+Hey, I hear Imagawa Yoshimoto of Suruga is marching on Kyōto.
 
 @26.0
 ......!
 
 @26.1
-Well now, so the great Imagawa house is finally coming to Kyoto.
+Well now, so the great Imagawa house is finally coming to Kyōto.
 
 @26.2
-If the Imagawa muster Suruga, Totomi and Mikawa, that is twenty thousand at least. Nothing will stand in their way to Kyoto.
+If the Imagawa muster Suruga, Tōtōmi and Mikawa, that is twenty thousand at least. Nothing will stand in their way to Kyōto.
 
 @26.3
 The first to be offered up in blood will be the Oda of Owari, I'd say.
@@ -170,10 +170,10 @@ The first to be offered up in blood will be the Oda of Owari, I'd say.
 Could that be Lord Akechi?
 
 @29.0
-Ah, Soeki.
+Ah, Sōeki.
 
 @30.0
-So you have come to Kyoto?
+So you have come to Kyōto?
 
 @30.1
 Yes.
@@ -185,13 +185,13 @@ Thank you for your kindness in Sakai.
 Not at all, think nothing of it. Where are you headed now, Lord Akechi?
 
 @30.4
-I plan to leave Kyoto for a while and go to Echizen.
+I plan to leave Kyōto for a while and go to Echizen.
 
 @30.5
 Echizen, is it? Take care on the road.
 
 @30.6
-Thank you. Keep well, Soeki.
+Thank you. Keep well, Sōeki.
 
 @31
 Sunpu - The Imagawa
@@ -290,7 +290,7 @@ I will sally out, even alone. Those who will follow, come. Those who wish to sta
 Kiyosu Castle - Commanders' Hall
 
 @49.0
-Nohime. Lend me your lap.
+Nōhime. Lend me your lap.
 
 @50.0
 Do you think you can win?
@@ -320,7 +320,7 @@ Yes...
 (Seek to live and you die; seek to die and you live. Perhaps that is how it is.)
 
 @52.2
-(I cannot drag Nohime down with me. I will trade this life for Yoshimoto's head. There is life in the midst of death!)
+(I cannot drag Nōhime down with me. I will trade this life for Yoshimoto's head. There is life in the midst of death!)
 
 @53.0
 Report! The Imagawa host has fallen on the forts of Marune and Washizu.
@@ -437,7 +437,7 @@ Advance! To Okehazama! Yoshimoto's head is all we seek!
 Kiyosu Castle - Commanders' Hall
 
 @79.0
-Nohime. Lend me your lap.
+Nōhime. Lend me your lap.
 
 @80.0
 Do you think you can win?
@@ -467,7 +467,7 @@ Yes...
 (Seek to live and you die; seek to die and you live. Perhaps that is how it is.)
 
 @82.2
-(I cannot drag Nohime down with me. I will trade this life for Yoshimoto's head. There is life in the midst of death!)
+(I cannot drag Nōhime down with me. I will trade this life for Yoshimoto's head. There is life in the midst of death!)
 
 @83.0
 Report! The Imagawa host has fallen on the forts of Marune and Washizu.

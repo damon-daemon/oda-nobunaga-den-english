@@ -5,52 +5,52 @@
 "Wind, Forest, Fire, Mountain"
 
 @4.0
-A secret letter has just arrived from the shogun, Lord Yoshiaki.
+A secret letter has just arrived from the shōgun, Lord Yoshiaki.
 
 @4.1
-From the shogun, my lord?
+From the shōgun, my lord?
 
 @4.2
 And what is its purpose?
 
 @4.3
-It tells me to strike down Nobunaga and march on Kyoto...
+It tells me to strike down Nobunaga and march on Kyōto...
 
 @4.4
 What, to subdue Nobunaga?
 
 @4.5
-It says that once I have reached Kyoto, I shall be made vice-shogun.
+It says that once I have reached Kyōto, I shall be made vice-shōgun.
 
 @4.6
 And what is your own mind, my lord?
 
 @4.7
-I believe now is the time to march on Kyoto.
+I believe now is the time to march on Kyōto.
 
 @4.8
 Ohh.
 
 @4.9
-Nobunaga may have entered Kyoto, but many forces around the capital still stubbornly resist him. Fortunately my old rival Kenshin has sent most of his troops to the Kanto against the Hojo. There is no fear of being struck from behind.
+Nobunaga may have entered Kyōto, but many forces around the capital still stubbornly resist him. Fortunately my old rival Kenshin has sent most of his troops to the Kantō against the Hōjō. There is no fear of being struck from behind.
 
 @4.11
 But, Brother, there is Tokugawa in Mikawa.
 
 @4.12
-The young upstart of Mikawa is nothing to fear.\n\nWe will go from Shinano into Mino and first take Gifu Castle. From there we advance on Kyoto.
+The young upstart of Mikawa is nothing to fear.\n\nWe will go from Shinano into Mino and first take Gifu Castle. From there we advance on Kyōto.
 
 @4.13
-My lord, now is the time to strike down Nobunaga and reach Kyoto!
+My lord, now is the time to strike down Nobunaga and reach Kyōto!
 
 @5.0
-Yes. As soon as preparations are complete, we march for Kyoto!
+Yes. As soon as preparations are complete, we march for Kyōto!
 
 @7.0
-(Reach Kyoto, in time become Seii Taishogun and rule the realm... Until then, vice-shogun will do...) Heh heh heh heh.
+(Reach Kyōto, in time become Seii Taishōgun and rule the realm... Until then, vice-shōgun will do...) Heh heh heh heh.
 
 @8
-Kyoto - Honnoji
+Kyōto - Honnō-ji
 
 @9.0
 Monkey.
@@ -59,7 +59,7 @@ Monkey.
 The attack on Asakura failed, but we drove the Miyoshi remnants out of the home provinces and pacified Ise.
 
 @9.3
-With respect... The Omi road is an important road that we must secure, if only to travel between Kyoto and Gifu.
+With respect... The Ōmi road is an important road that we must secure, if only to travel between Kyōto and Gifu.
 
 @9.4
 Since they have joined with Asakura, there is no choice but to strike Lord Azai...
@@ -89,13 +89,13 @@ My lord! What does the letter say!
 Gather everyone! Assemble the army and return to Gifu at once!
 
 @12.6
-Shingen... Takeda Shingen has begun to march on this Kyoto.
+Shingen... Takeda Shingen has begun to march on this Kyōto.
 
 @12.7
 Shingen!?
 
 @12.8
-He marches on Kyoto!?
+He marches on Kyōto!?
 
 @12.9
 Curse you, Shingen. Will he not even give me time to rest!
@@ -128,7 +128,7 @@ It is urgent.
 ......!
 
 @19.3
-Takeda Shingen has begun his march on Kyoto, following the order of the shogun, Lord Yoshiaki.
+Takeda Shingen has begun his march on Kyōto, following the order of the shōgun, Lord Yoshiaki.
 
 @20.0
 What, Shingen!\n\nShingen has finally moved to seize the realm!
@@ -137,7 +137,7 @@ What, Shingen!\n\nShingen has finally moved to seize the realm!
 My lord, what will you do?
 
 @20.2
-......\n\nOur enemy now is Hojo Ujimasa. For the time being, we will watch and wait.
+......\n\nOur enemy now is Hōjō Ujimasa. For the time being, we will watch and wait.
 
 @21.0
 Greedy Shingen. Bishamonten is angry!\n\nIn time, I, Kenshin, the incarnation of Bishamonten, will bring down Heaven's punishment upon him!
@@ -155,7 +155,7 @@ He has already left Okazaki Castle.
 Good! We sortie now! We will meet Shingen head on!
 
 @26.0
-So Shingen has moved... It is plain that the shogun is plotting behind the scenes.
+So Shingen has moved... It is plain that the shōgun is plotting behind the scenes.
 
 @27.0
 The main force of the Takeda army is its cavalry.
@@ -170,7 +170,7 @@ We must return to Gifu at once!
 Let us ask Lord Ieyasu for aid and strike the enemy in the flank!
 
 @31.0
-The only one who can stop Shingen's advance west is Uesugi Kenshin of Echigo. But he is said to be tied up with the Hojo...
+The only one who can stop Shingen's advance west is Uesugi Kenshin of Echigo. But he is said to be tied up with the Hōjō...
 
 @32.0
 Mino is the land of my forefathers. I will defend it at all costs.

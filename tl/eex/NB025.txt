@@ -17,7 +17,7 @@ The war between Motochika, who aimed to unify Shikoku, and Nobunaga, who aimed t
 "The Eastern Campaign"
 
 @6
-Chosokabe Clan - Oko Castle, Tosa
+Chōsokabe Clan - Okō Castle, Tosa
 
 @7.0
 So you are Motochika.
@@ -38,25 +38,25 @@ Yes, my lord. I am most grateful.
 I will place my third son Nobutaka in Awa and entrust Shikoku's governance to him.
 
 @8.1
-The Mori of Chugoku have also ceded two provinces and come to submit. No one in the western provinces defies us now.
+The Mōri of Chūgoku have also ceded two provinces and come to submit. No one in the western provinces defies us now.
 
 @8.2
-Yes.\n\n\nWith no enemy left in the west, what remains is the east.\n\nUesugi Kagekatsu and Hojo Ujimasa...
+Yes.\n\n\nWith no enemy left in the west, what remains is the east.\n\nUesugi Kagekatsu and Hōjō Ujimasa...
 
 @9.0
 My lord.
 
 @9.1
-Oh! Well done, Monkey!\n\nThere is no longer any enemy in the west.\n\n\nNow we return to Kyoto in triumph. Next, the Eastern Campaign.
+Oh! Well done, Monkey!\n\nThere is no longer any enemy in the west.\n\n\nNow we return to Kyōto in triumph. Next, the Eastern Campaign.
 
 @10
-Near Uozu Castle, Etchu
+Near Uozu Castle, Etchū
 
 @11
-News of the surrender of the Mori and the Chosokabe reached Uesugi Kagekatsu in Echigo as well.\n\nIf the war dragged on any longer, Nobunaga would throw his entire army into the conquest of Echigo. Thinking so, Kagekatsu sent an envoy to Shibata Katsuie, stationed in Etchu, and offered peace on condition of ceding territory. Like the Mori and the Chosokabe, the Uesugi too surrendered to the Oda.
+News of the surrender of the Mōri and the Chōsokabe reached Uesugi Kagekatsu in Echigo as well.\n\nIf the war dragged on any longer, Nobunaga would throw his entire army into the conquest of Echigo. Thinking so, Kagekatsu sent an envoy to Shibata Katsuie, stationed in Etchū, and offered peace on condition of ceding territory. Like the Mōri and the Chōsokabe, the Uesugi too surrendered to the Oda.
 
 @12
-Hojo Clan - Odawara Castle
+Hōjō Clan - Odawara Castle
 
 @13
 Odawara Castle - Council Hall
@@ -80,7 +80,7 @@ And what does my lord intend to do?
 Father, a man like Nobunaga is nothing to fear. Let us gather the troops of Sagami and Musashi and force a decisive battle!
 
 @14.8
-Wait, I say! Nobunaga has brought the Chosokabe, the Mori and the Uesugi to their knees. If we defy him now, he will lead his whole army and swarm into this Kanto. Do we truly have any hope of winning?
+Wait, I say! Nobunaga has brought the Chōsokabe, the Mōri and the Uesugi to their knees. If we defy him now, he will lead his whole army and swarm into this Kantō. Do we truly have any hope of winning?
 
 @14.9
 Hmm.
@@ -98,10 +98,10 @@ Even if Nobunaga comes with a great army, we have many branch castles and this i
 My lord, I share Ujinao's opinion. Could you bear being confined to the single province of Sagami and standing beneath Nobunaga?
 
 @14.14
-...\n\n\nVery well. Everyone, I have decided! We will fight Nobunaga with the whole strength of the Kanto! Ujiteru!
+...\n\n\nVery well. Everyone, I have decided! We will fight Nobunaga with the whole strength of the Kantō! Ujiteru!
 
 @14.16
-Enter Hachioji Castle and stop the Oda army from invading along the Kai road!
+Enter Hachiōji Castle and stop the Oda army from invading along the Kai road!
 
 @14.17
 As you command!
@@ -116,58 +116,58 @@ You will enter Hachigata Castle and hold the northern defences!
 Ujinori!
 
 @14.24
-Nobunaga will surely order Ieyasu to advance on the Kanto too. Return quickly to Nirayama Castle and reinforce it!
+Nobunaga will surely order Ieyasu to advance on the Kantō too. Return quickly to Nirayama Castle and reinforce it!
 
 @14.25
 As you command!
 
 @15
-Having completed the pacification of Shikoku, Nobunaga returned to Kyoto in triumph.
+Having completed the pacification of Shikoku, Nobunaga returned to Kyōto in triumph.
 
 @17.0
-What reply has come from the Hojo?
+What reply has come from the Hōjō?
 
 @17.1
 Still none.
 
 @17.2
-My lord, there are signs of unrest among the Hojo. According to the ninja sent into Sagami, the Hojo are gathering troops and provisions in their castles of Sagami, Izu and Musashi.
+My lord, there are signs of unrest among the Hōjō. According to the ninja sent into Sagami, the Hōjō are gathering troops and provisions in their castles of Sagami, Izu and Musashi.
 
 @17.3
-Hmm, Ujimasa. He means to fight me to the end.\n\nVery well, we march into the Kanto and subdue the Hojo!\n\nNagahide!
+Hmm, Ujimasa. He means to fight me to the end.\n\nVery well, we march into the Kantō and subdue the Hōjō!\n\nNagahide!
 
 @17.5
-Send a messenger to Katsuie in Hokuriku! Tell him to enter Hojo territory from Shinano and take every Hojo branch castle.
+Send a messenger to Katsuie in Hokuriku! Tell him to enter Hōjō territory from Shinano and take every Hōjō branch castle.
 
 @17.7
-The Kanto will not be taken easily.\n\n\nI will ask Lord Tokugawa for reinforcements and have him attack the Hojo from Suruga.\n\nWe shall advance east along the Shinano road and attack the Kanto from Kai.
+The Kantō will not be taken easily.\n\n\nI will ask Lord Tokugawa for reinforcements and have him attack the Hōjō from Suruga.\n\nWe shall advance east along the Shinano road and attack the Kantō from Kai.
 
 @18
 Suruga - Tokugawa Ieyasu's Camp
 
 @19
-At Nobunaga's request, Tokugawa Ieyasu also began his advance east along the Tokaido.
+At Nobunaga's request, Tokugawa Ieyasu also began his advance east along the Tōkaidō.
 
 @20.0
 Our army will now advance on Odawara!
 
 @20.1
-My lord, at Nirayama Castle, on the way to Odawara, Hojo Ujinori lies in wait.
+My lord, at Nirayama Castle, on the way to Odawara, Hōjō Ujinori lies in wait.
 
 @20.2
 Yes. First, we take Nirayama!
 
 @21
-Etchu - Uozu Castle
+Etchū - Uozu Castle
 
 @22.0
-By my lord's order, we now invade Kozuke by way of Shinano! Our target is the enemy's Hachigata Castle!
+By my lord's order, we now invade Kōzuke by way of Shinano! Our target is the enemy's Hachigata Castle!
 
 @23
-Shibata Katsuie and the other Hokuriku commanders, who had been campaigning in Etchu, also marched out toward Shinano and Kozuke to subdue the Hojo.
+Shibata Katsuie and the other Hokuriku commanders, who had been campaigning in Etchū, also marched out toward Shinano and Kōzuke to subdue the Hōjō.
 
 @24
-Nobunaga's army, setting out from Kyoto, advanced along the Shinano road and entered the province of Kai, formerly the domain of the Takeda.
+Nobunaga's army, setting out from Kyōto, advanced along the Shinano road and entered the province of Kai, formerly the domain of the Takeda.
 
 @25
 Kai - Oda Nobunaga's Camp
@@ -179,25 +179,25 @@ Hidetaka, Nagayoshi, you have guarded the lands of Kai and Shinano well.
 I am honoured by your praise.
 
 @26.3
-Kazumasu, your battles against the Hojo in Kozuke were truly a great service.
+Kazumasu, your battles against the Hōjō in Kōzuke were truly a great service.
 
 @26.4
 Yes, my lord!\n\n\nTo think I would see your face again like this...\n\nFor me, Kazumasu, there is no greater happiness.
 
 @26.5
-At last the time has come for your efforts to bear fruit.\n\nNow we attack the Hojo of Sagami.\n\n\nIf we defeat the Hojo, we shall achieve our long-cherished unification of the realm!
+At last the time has come for your efforts to bear fruit.\n\nNow we attack the Hōjō of Sagami.\n\n\nIf we defeat the Hōjō, we shall achieve our long-cherished unification of the realm!
 
 @28.0
-The Hojo are shut up in Odawara Castle, holding the three castles of Nirayama, Hachigata and Hachioji. Nirayama is close to Odawara, and I fear Lord Tokugawa alone will find it hard to take. Let us send support too.
+The Hōjō are shut up in Odawara Castle, holding the three castles of Nirayama, Hachigata and Hachiōji. Nirayama is close to Odawara, and I fear Lord Tokugawa alone will find it hard to take. Let us send support too.
 
 @29.0
 This is the final battle. Use our war funds wisely.
 
 @30.0
-To attack Odawara Castle, we must take at least one of Nirayama, Hachigata or Hachioji...
+To attack Odawara Castle, we must take at least one of Nirayama, Hachigata or Hachiōji...
 
 @31.0
-If we take the three castles of Nirayama, Hachigata and Hachioji, the enemy's morale will fall.
+If we take the three castles of Nirayama, Hachigata and Hachiōji, the enemy's morale will fall.
 
 @32.0
 A long campaign is certain. Be sure to carry plenty of medicine and the like.
@@ -215,7 +215,7 @@ Why not lure the enemy out and strike Odawara Castle in one sudden assault?
 Father, order me to lead the vanguard.
 
 @37.0
-My lord, beware of Fuma Kotaro.
+My lord, beware of Fūma Kotarō.
 
 @38.0
 Leave fire attacks and healing to me.

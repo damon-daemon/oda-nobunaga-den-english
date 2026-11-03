@@ -35,7 +35,8 @@ _SENT_END = re.compile(r'^(?!\d\.$).+[.!?][)"\']*$')       # not a list number '
 KIND = {0x12: 'choice', 0x17: 'str17', 0x27: 'talk', 0x28: 'narr', 0x29: 'place', 0x2a: 'title',
         0x2b: 'title2', 0x2c: 'battle', 0x4f: 'history'}
 FOLD = {'‘': "'", '’': "'", '“': '"', '”': '"', '—': '--', '–': '-',
-        '…': '...', ' ': ' '}
+        '…': '...', ' ': ' ',
+        'ō': '^', 'ū': '~', 'Ō': '|', 'Ū': '`'}   # macron vowels: pixfont.MACRONS
 _SPEECH = re.compile(r'\n(?=&)')
 
 

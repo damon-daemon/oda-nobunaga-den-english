@@ -1,17 +1,17 @@
 @7.0
-Uncle's plan of joining the Honganji and the Uesugi to strike down the Oda has worked well.
+Uncle's plan of joining the Hongan-ji and the Uesugi to strike down the Oda has worked well.
 
 @7.1
-Should we use this chance to bear the shogun to Kyoto and seek a decisive battle with the Oda?
+Should we use this chance to bear the shōgun to Kyōto and seek a decisive battle with the Oda?
 
 @7.2
 No, we must not confront the Oda directly. For now we should gather as many allies as we can.
 
 @7.3
-Our late father left word that the Mori must never put themselves forward and reach for the realm.
+Our late father left word that the Mōri must never put themselves forward and reach for the realm.
 
 @7.4
-Ekei, would you take a secret letter from the shogun, Lord Yoshiaki, and go to meet Lord Matsunaga Hisahide in Yamato?
+Ekei, would you take a secret letter from the shōgun, Lord Yoshiaki, and go to meet Lord Matsunaga Hisahide in Yamato?
 
 @8.0
 You mean I am to win Lord Matsunaga over?
@@ -20,7 +20,7 @@ You mean I am to win Lord Matsunaga over?
 With Lord Matsunaga you need only hand over the secret letter. But I would like you to meet Lord Hashiba Hideyoshi.
 
 @8.2
-According to my men, the one who will lead troops into Chugoku is...
+According to my men, the one who will lead troops into Chūgoku is...
 
 @8.3
 Lord Hashiba Hideyoshi, is it?
@@ -35,7 +35,7 @@ Understood. I, Ekei, will go and judge what sort of man this Hideyoshi is.
 Shigisan
 
 @11.0
-Cooperate with the Uesugi and the Honganji and strike down Nobunaga, he says...
+Cooperate with the Uesugi and the Hongan-ji and strike down Nobunaga, he says...
 
 @11.1
 My blood stirs again. I seem unable to cast off my own ambition no matter what.
@@ -59,16 +59,16 @@ I am delighted to meet the famed Hashiba Hideyoshi. I am...
 I know. You are Ekei, the abbot of Ankokuji. I have long heard of you.
 
 @13.2
-I know too that you are deeply connected with neighbouring lords such as the Ukita and Otomo,
+I know too that you are deeply connected with neighbouring lords such as the Ukita and Ōtomo,
 
 @13.3
-and that of late you have been keeping up busy contact with the Honganji.
+and that of late you have been keeping up busy contact with the Hongan-ji.
 
 @13.4
 (This man is no ordinary man.)
 
 @14.0
-Lord Nobunaga is a man of fierce temper. If the Mori were subdued by force and then surrendered,
+Lord Nobunaga is a man of fierce temper. If the Mōri were subdued by force and then surrendered,
 
 @14.1
 Lord Terumoto could not escape seppuku. I do not want to see Terumoto cut down.
@@ -77,16 +77,16 @@ Lord Terumoto could not escape seppuku. I do not want to see Terumoto cut down.
 Whether Lord Terumoto lives or dies depends on you, Ekei. Will you lend me your strength?
 
 @15
-Won over by Hideyoshi, that master at charming people, Ankokuji Ekei from then on secretly cooperated with Hideyoshi while serving the Mori house openly.
+Won over by Hideyoshi, that master at charming people, Ankokuji Ekei from then on secretly cooperated with Hideyoshi while serving the Mōri house openly.
 
 @16.0
 Father, this is serious.
 
 @16.1
-Matsunaga Hisahide and his son Hisamichi have abandoned the Honganji siege lines and shut themselves in Shigisan Castle.
+Matsunaga Hisahide and his son Hisamichi have abandoned the Hongan-ji siege lines and shut themselves in Shigisan Castle.
 
 @16.2
-Damn that villain Danjo. He surrendered twice and still he betrays me. I shall have to teach him a lesson.
+Damn that villain Danjō. He surrendered twice and still he betrays me. I shall have to teach him a lesson.
 
 @18.0
 Give me any order you wish.
@@ -137,7 +137,7 @@ Perhaps this came about because of me...
 Weapons that strike from afar, such as muskets and cannon, are effective for assaulting castles.
 
 @34.0
-Might the Mori have put him up to it?
+Might the Mōri have put him up to it?
 
 @35.0
 We attack Matsunaga Hisahide. Sortie.

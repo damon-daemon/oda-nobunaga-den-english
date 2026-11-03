@@ -158,7 +158,7 @@ Oh, that is Father's army!
 Men, follow me! Do not fear an enemy like this!
 
 @30.0
-Kosaka! You are too valuable a man to kill.
+Kōsaka! You are too valuable a man to kill.
 
 @30.1
 Submit to my banner!
