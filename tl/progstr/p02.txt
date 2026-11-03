@@ -25,7 +25,7 @@ PROG:801250b8	But he is quickly beaten by\nNobunaga's siege and makes peace\nthr
 PROG:80125100	Nobunaga at once crosses Lake Biwa,\nenters Kyōto and advances his\ntroops on Makishima Castle.
 PROG:80125138	Nobunaga sends reinforcements at once. Joining the Tokugawa on the way, he advances to Shidarahara, west of Nagashino, and deploys along the Rengo River.
 PROG:801251ac	As the war with the Takeda drags on,\nthe Hongan-ji is reinforced with\nSaiga musketeers, and the Mōri also bring in provisions.
-PROG:80125214	Nobunaga tries to surround and\nattack the Hongan-ji, but the plan\nfails against the reinforced\nIkko forces.
+PROG:80125214	Nobunaga tries to surround and\nattack the Hongan-ji, but the plan\nfails against the reinforced\nIkkō forces.
 PROG:80125268	Unable to settle into a war of\nattrition, the Oda army is forced\nto fight a short, decisive battle.
 PROG:801252b0	Before the Imagawa advance, the forts\nof Washizu and Marune fall, and\nYoshimoto enters Odaka Castle.
 PROG:801252f8	The vanguard of Asahina and Matsudaira,\nmeeting at Narumi Castle, ravage\nNobunaga's domain.
@@ -43,7 +43,7 @@ PROG:80125620	Learning of Shingen's advance,\nNobunaga hurries back to Gifu\nand
 PROG:80125668	Shingen attacks from two directions,\nIwamura and Naeki. Can Nobunaga hold him?
 PROG:801256b4	Defeated in the fighting in Mino,\nNobunaga withdraws to Kyōto.
 PROG:801256e0	After occupying Gifu, Shingen begins\nto push west towards Ōmi and\nreaches Kannonji Castle.
-PROG:80125724	In response to Shingen's entry into\nOmi, the Miyoshi Triumvirate raise\ntroops again in Settsu and march\non Kyōto.
+PROG:80125724	In response to Shingen's entry into\nŌmi, the Miyoshi Triumvirate raise\ntroops again in Settsu and march\non Kyōto.
 PROG:80125770	The Oda army camps on Mt.\nToragozen, south of the castle, to\ntake Odani Castle.
 PROG:801257b0	But the Azai forces keep to the castle,\nawaiting Asakura reinforcements.
 PROG:801257e0	Nobunaga decides to attack the\nimpregnable Odani Castle.
@@ -59,7 +59,7 @@ PROG:801259d8	But the Hongan-ji and Ikkō followers,\nthe Azai and the Asakura, 
 PROG:80125a20	Surrounded by the anti-Nobunaga\nalliance, Nobunaga falls into a\ncrisis, enemies on all four sides.
 PROG:80125a5c	To make matters worse, the Azai-Asakura\nallied army has occupied Kyōto\nwhile Nobunaga was away.
 PROG:80125ab4	The Tiger of Kai finally rises!\nTakeda Shingen sets out westward\nto march on Kyōto.
-PROG:80125af8	With overwhelming destructive power,\nthe Takeda army ravages Tokugawa\nTotomi and closes on Ieyasu's seat,\nHamamatsu Castle.
+PROG:80125af8	With overwhelming destructive power,\nthe Takeda army ravages Tokugawa\nTōtōmi and closes on Ieyasu's seat,\nHamamatsu Castle.
 PROG:80125b48	Ieyasu asks Nobunaga in Kyōto for\nreinforcements. Nobunaga leads the\nmain Oda force into Tōtōmi.
 PROG:80125b94	Meanwhile Shingen leaves part of his\nforce besieging Hamamatsu Castle and\ndeploys at Mikatagahara, north of it,\nready to meet the relief army.
 PROG:80125bfc	Nobunaga, child of revolution; Shingen, giant of the age.\nThe two heroes clash at last!
@@ -69,11 +69,11 @@ PROG:80125cd4	Did the spirit of the late Shingen\nguide Katsuyori, Nobunaga and 
 PROG:80125d1c	The place is Mikatagahara, where\nthey once fought Shingen.
 PROG:80125d4c	Uesugi Kenshin, victorious in the\nBattle of Tedori River, pushes\nfurther south along the Hokkoku Road.
 PROG:80125d8c	Meanwhile, Katsuie and the defeated\nretreat to Daishōji Castle near the\nKaga border to hold it, and ask\nNobunaga at Azuchi to send\nreinforcements.
-PROG:80125dfc	By the time Nobunaga enters Echizen,\nDaishoji Castle is already\nsurrounded by Uesugi forces, and\nKenshin deploys south of the castle\nto meet Nobunaga.
+PROG:80125dfc	By the time Nobunaga enters Echizen,\nDaishōji Castle is already\nsurrounded by Uesugi forces, and\nKenshin deploys south of the castle\nto meet Nobunaga.
 PROG:80125e68	Here, the battle between Nobunaga,\nchild of revolution, and Uesugi\nKenshin, the Dragon of Echigo,\nbegins.
-PROG:80125eb4	In the home provinces, Ishiyama\nHonganji still resists Nobunaga.
+PROG:80125eb4	In the home provinces, Ishiyama\nHongan-ji still resists Nobunaga.
 PROG:80125ee8	Mōri Terumoto gathers the two Mōri\nrivers at Kōriyama Castle and decides\nto begin an eastward campaign.
-PROG:80125f30	Terumoto devises the Three-Road\nAdvance, moving at once along the\nSanyo and San'in roads and the\nInland Sea.
+PROG:80125f30	Terumoto devises the Three-Road\nAdvance, moving at once along the\nSan'yō and San'in roads and the\nInland Sea.
 PROG:80125f80	Terumoto and Kobayakawa Takakage,\nescorting Yoshiaki, go by the San'yō\nRoad through Bingo and Harima.
 PROG:80125fc0	Kikkawa Motoharu goes by the San'in Road through\nTajima and Tanba, each aiming for Kyōto.
 PROG:80126004	The Mōri navy on the Inland Sea also\nbegins to advance on Settsu.\n"When the Mōri move, the realm moves."\nThe Mōri, power of the west, have moved!
@@ -90,7 +90,7 @@ PROG:80126324	Hearing this, Hideyoshi hurries back\nfrom Ōgaki Castle to Kinomo
 PROG:80126374	Learning of this, Nobunaga and his\nparty are sure of Hideyoshi's victory\nand head south along the Tsuruga Road\nto join him.
 PROG:801263cc	Nobunaga, informed by Soga Masayasu\nof the Chōsokabe invasion, sets out\nfrom Azuchi Castle for Shikoku.
 PROG:8012641c	The Chōsokabe army that invaded Awa,\nusing Ushiki Castle as a base,\nbegins to advance on Shōzui Castle\nfurther north.
-PROG:80126474	Battle is joined between the\nChosokabe vanguard and the Soga army.\nThe Oda army arrives and begins\nto advance to pacify Shikoku.
+PROG:80126474	Battle is joined between the\nChōsokabe vanguard and the Soga army.\nThe Oda army arrives and begins\nto advance to pacify Shikoku.
 PROG:801264e4	Chōsokabe Motochika, having taken Awa,\nbegins his conquest of Sanuki to\nunify Shikoku.
 PROG:8012652c	Battle is joined between the Chōsokabe\nvanguard under Nobuchika and the Soga\narmy. The Oda army arrives and begins\nto advance to pacify Shikoku.
 PROG:801265a0	To conquer the Kantō, Oda Nobunaga\nbegins to advance by three roads:\nHokuriku, Tōkaidō and Kōshin.
@@ -102,7 +102,7 @@ PROG:80126694	The battle for the unification begins...
 PROG:801266b8	Allied with Nobukatsu, Ieyasu gains\nstanding and legitimacy as Nobunaga's\nsuccessor, and resolves to confront\nHideyoshi.
 PROG:80126714	Nobukatsu kills Hideyoshi's senior\nretainers and breaks with Hideyoshi.\nIeyasu joins Nobukatsu at Kiyosu\nand faces Hideyoshi's army in Mino-Owari.
 PROG:8012677c	Hideyoshi sends Ikeda Tsuneoki to\nbegin the attack on Nobukatsu's\nInuyama Castle.
-PROG:801267b4	Ieyasu moves his main camp to\nKomakiyama Castle; Hideyoshi leaves\nOsaka and sets up at Gakuden Castle\nto face him.
+PROG:801267b4	Ieyasu moves his main camp to\nKomakiyama Castle; Hideyoshi leaves\nŌsaka and sets up at Gakuden Castle\nto face him.
 PROG:8012680c	As the stand-off continues,\nMori Nagayoshi urges Hideyoshi to invade\nMikawa. Hideyoshi accepts and sends\nTsuneoki and Nagayoshi into Mikawa.
 PROG:8012687c	Though defeated at Komaki-Nagakute,\nIeyasu still keeps great power.
 PROG:801268c8	He is also strengthening the bonds\nof the forces around the Oda, slowly\ntightening the encirclement to draw\nout unrest within the Oda.

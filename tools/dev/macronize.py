@@ -68,7 +68,8 @@ D = {
     'Kofukuji': ('Kōfuku-ji', A, ()), 'Todaiji': ('Tōdai-ji', A, ()), 'Horyuji': ('Hōryū-ji', A, ()),
     'Ryuseiji': ('Ryūshō-ji', A, ()),               # 立政寺
 }
-PAT = re.compile(r'\b(' + '|'.join(sorted(map(re.escape, D), key=len, reverse=True)) + r')\b')
+# start boundary: not after a letter, or after a literal \n line break ("Ishiyama\nHonganji")
+PAT = re.compile(r'(?:(?<![A-Za-z])|(?<=\\n))(' + '|'.join(sorted(map(re.escape, D), key=len, reverse=True)) + r')\b')
 counts, flags, titles = {}, [], []
 
 

@@ -65,7 +65,7 @@ Kōsaka. You have come to urge peace, have you not?
 Hmm, you have judged rightly. Lord Shingen desires an alliance with the Oda.
 
 @10.4
-Heh heh... (Should I ally with Shingen...?)\n\nKosaka! Tell Lord Shingen this.
+Heh heh... (Should I ally with Shingen...?)\n\nKōsaka! Tell Lord Shingen this.
 
 @11
 Ally with the Takeda\nDo not ally

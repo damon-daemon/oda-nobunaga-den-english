@@ -14,8 +14,8 @@ the storehouse. The game was only released in Japan.
 > phrasing and inconsistent terms. Corrections are welcome.
 
 > **This is a beta (v0.9.5).** All of the game's text is in English and the main story has
-> been played through to the Honnoji ending, but most of the "what if" branch chapters after
-> Honnoji were only checked as text, not in play. Expect some text that is squeezed, cut
+> been played through to the Honnō-ji ending, but most of the "what if" branch chapters after
+> Honnō-ji were only checked as text, not in play. Expect some text that is squeezed, cut
 > short or wrapped oddly.
 
 This repository contains the English text and the tools that build the patch.
@@ -121,7 +121,7 @@ the `.cue` and a plain-text README.txt. No disc data is ever packaged.
 - The title logo, the movies, and 完 and the series logo after the credits are unchanged.
 - The game stores its Japanese title (織田信長伝) at the start of every save, so the
   memory card screens show it before the English chapter name.
-- Most branch chapters after Honnoji and the other endings have not been seen in play, and
+- Most branch chapters after Honnō-ji and the other endings have not been seen in play, and
   neither has the sortie selection screen. Their text may overflow in places.
 - Some labels are squeezed to fit narrow boxes, and some are abbreviated.
 

@@ -318,7 +318,7 @@ PROG:801237b8	Defeated at Kayazu, Nobutomo\nplots to win over Nobunaga's\nuncle 
 PROG:801237fc	Yoshikane, whose father Shiba Yoshimune\nwas slain, seeks help from Nobunaga\nat Nagoya Castle.
 PROG:80123838	Given grounds to take Kiyosu,\nNobunaga schemes with his uncle\nNobumitsu and sorties for Kiyosu Castle.
 PROG:80123878	Yoshitatsu, long shunned by his\nfather Dōsan, is seized by suspicion\nand raises troops to overthrow him.
-PROG:801238c4	Learning of Yoshitatsu's revolt,\nDosan shuts himself in Sagiyama\nCastle and asks Nobunaga for aid.
+PROG:801238c4	Learning of Yoshitatsu's revolt,\nDōsan shuts himself in Sagiyama\nCastle and asks Nobunaga for aid.
 PROG:80123908	Nobunaga sorties from Kiyosu\nfor Mino, but is blocked\nby a swollen river.
 PROG:8012394c	Resolved to die, Dōsan\nsorties from Sagiyama Castle\nand faces Yoshitatsu at the Nagara.
 PROG:8012398c	Hayashi Hidesada and Shibata\nKatsuie, hereditary Oda retainers,\nplot to disinherit Nobunaga\nand back his brother Nobuyuki.
@@ -331,7 +331,7 @@ PROG:80123b2c	Bent on uniting Owari, Nobunaga\nuses this chance to take Iwakura\
 PROG:80123b74	To meet Nobunaga, Nobukata\nallies with Saitō Yoshitatsu\nof Mino and seeks reinforcements.
 PROG:80123bc0	Imagawa Yoshimoto, having entered\nOwari, sets up camp at Kutsukake.
 PROG:80123bec	He orders Matsudaira Motoyasu and Asahina\nYasutomo to lead and attack the\nforts of Marune and Washizu.
-PROG:80123c2c	Hearing that fighting had begun at\nboth forts, Nobunaga rushes to\nZenshoji Fort.
+PROG:80123c2c	Hearing that fighting had begun at\nboth forts, Nobunaga rushes to\nZenshōji Fort.
 PROG:80123c68	To conquer Mino, Nobunaga\norders a castle built at Sunomata.
 PROG:80123c94	Building in enemy land is\nextremely hard. Sakuma Nobumori and\nShibata Katsuie fail at it.
 PROG:80123cdc	But Hideyoshi, taking over,\nbuilds Sunomata in a month\nand a half by a clever ruse.
@@ -343,7 +343,7 @@ PROG:80123e2c	But the Rokkaku, siding with the\nMiyoshi Triumvirate, refuse.
 PROG:80123e60	Resolved to crush the Rokkaku,\nNobunaga leaves Gifu Castle,\nleading Ieyasu of Mikawa and others.
 PROG:80123ea8	Camped near the Echi River,\nNobunaga, claiming to attack Kannonji\nCastle, sweeps into Minotsukuri Castle.
 PROG:80123ef4	Driven from Kyōto by Nobunaga's march,\nthe 14th shōgun Yoshihide flees to\nthe Miyoshi's Tomita Castle in Settsu.
-PROG:80123f48	The Miyoshi Triumvirate, backing\nShogun Yoshihide, refuse to\nrecognise Shōgun Yoshiaki.
+PROG:80123f48	The Miyoshi Triumvirate, backing\nShōgun Yoshihide, refuse to\nrecognise Shōgun Yoshiaki.
 PROG:80123f80	They resist Nobunaga at Shōryūji in\nYamashiro, Akutagawa in Settsu and\nTakaya in Kawachi.
 PROG:80123fc0	Nobunaga leaves Kyōto to crush\nthe Miyoshi Triumvirate and begins\nhis attack on Shōryūji Castle.
 PROG:80124010	Kozukuri Tomomasa, lord of Kozukuri Castle\nin Ise, turns on his lord Kitabatake\nTomonori and secretly joins Nobunaga.
@@ -375,5 +375,5 @@ PROG:80124730	Nobunaga sends reinforcements at once. Joining the Tokugawa on the
 PROG:801247b0	Hearing this, Takeda Katsuyori also\nmoves to Shidarahara for the decisive battle.
 PROG:801247ec	Heeding Ieyasu's retainer Sakai\nTadatsugu, Nobunaga forms a separate\nforce to attack the Nagashino besiegers.
 PROG:80124854	The Hongan-ji rises in answer to the\nformer shōgun Yoshiaki and Mōri Terumoto,\nand even wins over Uesugi Kenshin\nof Echigo, forming the Nobunaga Encirclement.
-PROG:801248c0	In response, Nobunaga besieges Ishiyama\nHonganji and crushes the Ikkō forces,\nbut they flee into Ishiyama Hongan-ji\nand hold the castle.
+PROG:801248c0	In response, Nobunaga besieges Ishiyama\nHongan-ji and crushes the Ikkō forces,\nbut they flee into Ishiyama Hongan-ji\nand hold the castle.
 PROG:80124928	Nobunaga settles into a long siege\nto starve them out, but Kennyo\nasks the Mōri to ship provisions.
