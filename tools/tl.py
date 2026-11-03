@@ -143,6 +143,8 @@ def warn(sc, k, en):
                 out.append('%d px (unwrapped label, limit %d)' % (text.pixels(line), lim))
         if op in (0x2a, 0x2b) and len(text.fold(en)) > 63:
             out.append('%d bytes (chapter title buffer holds 63)' % len(text.fold(en)))
+        if op in (0x2a, 0x2b) and set(text.fold(en)) & set(text.FOLD[c] for c in 'ōūŌŪ'):
+            out.append('macron letters: the BIOS save list shows the raw codes, use plain vowels in titles')
     return ['%s %s: %s' % (sc.name, key_str(k), x) for x in out]
 
 

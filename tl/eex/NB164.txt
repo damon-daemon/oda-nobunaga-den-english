@@ -1,5 +1,5 @@
 @0.0
-With the Mori and the Two Kawa advancing along three roads, the Oda forces are nothing to fear.
+With the Mōri and the Two Kawa advancing along three roads, the Oda forces are nothing to fear.
 
 @0.1
 Lord Motoharu's army and the Seto Inland Sea navy will join us shortly.
@@ -11,16 +11,16 @@ First, give the Hashiba forces at Himeji Castle a taste of blood!
 The time has finally come to avenge my years of resentment.
 
 @0.5
-Kanbei! We must stop the Mori advance here at all costs!
+Kanbei! We must stop the Mōri advance here at all costs!
 
 @0.7
-No matter how many arrows the Mori bundle together, I will snap them!
+No matter how many arrows the Mōri bundle together, I will snap them!
 
 @1
-Interception of the Mori\nVictory: 1. Make Mori Terumoto retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+Interception of the Mōri\nVictory: 1. Make Mōri Terumoto retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
 
 @2
-Interception of the Mori\n\nVictory: 1. Make Mori Terumoto retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
+Interception of the Mōri\n\nVictory: 1. Make Mōri Terumoto retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 50 turns pass.
 
 @3.0
 Good, we too begin our advance!
@@ -29,16 +29,16 @@ Good, we too begin our advance!
 Kikkawa Motoharu's army appears!
 
 @5.0
-Advance! Our goal is the capital, Kyoto!
+Advance! Our goal is the capital, Kyōto!
 
 @5.1
-Oh! So Uncle in San'in has also marched on Kyoto!
+Oh! So Uncle in San'in has also marched on Kyōto!
 
 @6
-The Mori navy appears!
+The Mōri navy appears!
 
 @7.0
-Now we sail for Kyoto! Head east across the Inland Sea and land in Settsu!
+Now we sail for Kyōto! Head east across the Inland Sea and land in Settsu!
 
 @7.1
 Advance!
@@ -95,7 +95,7 @@ Lord Nobunaga, prepare yourself.
 Terumoto! Defying me is the height of folly.
 
 @18.1
-The Mori's wretched end is decided!
+The Mōri's wretched end is decided!
 
 @18.2
 What nonsense, Nobunaga!
@@ -125,13 +125,13 @@ Damn, to retreat here is the height of regret!
 Is my head still on my shoulders?
 
 @28
-Oda Nobunaga defeated the Mori army.
+Oda Nobunaga defeated the Mōri army.
 
 @30
-Defeats the Mori in Harima
+Defeats the Mōri in Harima
 
 @31
-Oda Nobunaga was defeated by the Mori army.
+Oda Nobunaga was defeated by the Mōri army.
 
 @32.0
 W-why? Why did I...

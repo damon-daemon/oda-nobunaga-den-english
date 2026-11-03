@@ -8,7 +8,7 @@
 The 6th month, 1st year of Genki (1570)\nHaving defeated the Azai-Asakura allied army, Nobunaga pressed on with his momentum and closed in on Odani Castle.
 
 @6
-Northern Omi - Nobunaga's Camp
+Northern Ōmi - Nobunaga's Camp
 
 @7.0
 My lord, Odani Castle is an impregnable stronghold. The Kinai is stirring, and our troops are weary from battle after battle.
@@ -47,19 +47,19 @@ Odani Castle was an impregnable stronghold, and the Oda troops were worn out by 
 After Nobunaga returned to Gifu, Azai Nagamasa proclaimed that the battle had ended in victory for the Azai-Asakura army and that Nobunaga had fled back to Gifu.
 
 @15.0
-A secret letter has come from the shogun, Lord Ashikaga Yoshiaki, telling us to strike Nobunaga.
+A secret letter has come from the shōgun, Lord Ashikaga Yoshiaki, telling us to strike Nobunaga.
 
 @15.1
 Oh? I hear he was beaten by the Azai and Asakura at the Anegawa. It may be a good chance to attack.
 
 @15.2
-And he is said to have fled back to Gifu. The defence of Kyoto must be thin now.
+And he is said to have fled back to Gifu. The defence of Kyōto must be thin now.
 
 @15.3
 The chance to avenge myself on Nobunaga has finally come. I shall lend you my strength as well.
 
 @16
-Not one of the Miyoshi Triumvirate and their allies came forward to deny the rumour of Nobunaga's defeat.\n\nThey did not blindly believe it. They simply wanted to believe it.\nIn the 7th month of the 1st year of Genki (1570), the Miyoshi Triumvirate took Saito Tatsuoki with them into Nakajima in Settsu and built forts at Noda and Fukushima.
+Not one of the Miyoshi Triumvirate and their allies came forward to deny the rumour of Nobunaga's defeat.\n\nThey did not blindly believe it. They simply wanted to believe it.\nIn the 7th month of the 1st year of Genki (1570), the Miyoshi Triumvirate took Saitō Tatsuoki with them into Nakajima in Settsu and built forts at Noda and Fukushima.
 
 @17
 Gifu Castle
@@ -68,22 +68,22 @@ Gifu Castle
 Gifu Castle - Council Hall
 
 @19.0
-My lord, the Miyoshi Triumvirate have built forts in Settsu and are showing signs of moving on Kyoto.
+My lord, the Miyoshi Triumvirate have built forts in Settsu and are showing signs of moving on Kyōto.
 
 @19.1
-Hmph. No doubt on the orders of that scheming shogun.
+Hmph. No doubt on the orders of that scheming shōgun.
 
 @19.2
-I will crush the Miyoshi in the Kinai before the Azai. And I will have the shogun do it with his own hand.
+I will crush the Miyoshi in the Kinai before the Azai. And I will have the shōgun do it with his own hand.
 
 @20.0
-Mitsuhide, go to the shogun and request that he take the field against the Miyoshi. Mind you, drag him out without fail.
+Mitsuhide, go to the shōgun and request that he take the field against the Miyoshi. Mind you, drag him out without fail.
 
 @22.0
 The rest of you, prepare for battle. Do not be late.
 
 @24
-Kyoto - Nijo Castle
+Kyōto - Nijō Castle
 
 @25.0
 It is an honour to be received in audience. My liege, I trust you are well...
@@ -128,7 +128,7 @@ I refuse.
 ...What would happen if I said that?
 
 @32.2
-The army heading for Settsu would turn on this Nijo Castle.
+The army heading for Settsu would turn on this Nijō Castle.
 
 @33.0
 ......\nThen it cannot be helped. Tell Lord Nobunaga that I agree.
@@ -161,13 +161,13 @@ Yes, my lord. This Monkey will take those words to heart.
 You alone are enough to deal with lake pirates. I cannot be bothered with them.
 
 @40
-Ishiyama Honganji
+Ishiyama Hongan-ji
 
 @41
-Honganji
+Hongan-ji
 
 @42.0
-I hear Oda Nobunaga's army is heading for this Honganji.
+I hear Oda Nobunaga's army is heading for this Hongan-ji.
 
 @42.1
 They must mean to strike the Miyoshi holed up in the Noda and Fukushima forts. There is nothing to worry about.
@@ -179,7 +179,7 @@ No. I do not trust the man Nobunaga.
 He protects only the teachings of a foreign god, while demanding war levies from us temples and shrines.
 
 @42.4
-Marching 30,000 men against 8,000 Miyoshi... Could his true aim be this Honganji?
+Marching 30,000 men against 8,000 Miyoshi... Could his true aim be this Hongan-ji?
 
 @42.5
 Now that you say it... Then, before it is too late, we must send a call to arms to the followers in all provinces.
@@ -191,7 +191,7 @@ In any case, we must watch for now. But do not neglect preparations.
 In case the worst comes, go and strike a deal with the Saiga band of Kii.
 
 @44
-Nobunaga's true aim lay in Honganji, the head temple of the Ikko sect.\n\n\nA plausible rumour from no one knew where swelled Kennyo's suspicion. When Nobunaga's army surrounded Honganji, doubt became certainty.\n\nKennyo called on followers in all provinces: "Fight Nobunaga. Whoever does not will be excommunicated."
+Nobunaga's true aim lay in Hongan-ji, the head temple of the Ikkō sect.\n\n\nA plausible rumour from no one knew where swelled Kennyo's suspicion. When Nobunaga's army surrounded Hongan-ji, doubt became certainty.\n\nKennyo called on followers in all provinces: "Fight Nobunaga. Whoever does not will be excommunicated."
 
 @45
 Odani Castle
@@ -200,10 +200,10 @@ Odani Castle
 Odani Castle - Council Hall
 
 @47
-Azai Nagamasa, learning of the Miyoshi Triumvirate's rebellion, was preparing to strike Nobunaga.\n\nThen, as if to add to it, word came of the uprising of the Honganji Ikko followers.
+Azai Nagamasa, learning of the Miyoshi Triumvirate's rebellion, was preparing to strike Nobunaga.\n\nThen, as if to add to it, word came of the uprising of the Hongan-ji Ikkō followers.
 
 @48.0
-My lord, Ishiyama Honganji has risen!
+My lord, Ishiyama Hongan-ji has risen!
 
 @49.0
 What? Is that true?
@@ -221,13 +221,13 @@ Kazumasa, go at once and ask Lord Asakura for reinforcements.
 Ask Lord Yoshikage to take the field himself. Understood?
 
 @52
-The Azai-Asakura army closed in on Usayama Castle in Omi, held by Mori Yoshinari.
+The Azai-Asakura army closed in on Usayama Castle in Ōmi, held by Mori Yoshinari.
 
 @53
 Later, Yoshinari would meet a magnificent end as the Azai-Asakura forces attacked his castle. He was 48 years old. His eldest son, Nagayoshi, succeeded him.
 
 @54
-Omi - Usayama Castle
+Ōmi - Usayama Castle
 
 @56.0
 All of you, thank you for serving me so well until now.
@@ -245,22 +245,22 @@ Ugh...
 After this, Mori Yoshinari would meet a magnificent end. He was 48 years old.
 
 @61
-Kyoto - Nijo Castle
+Kyōto - Nijō Castle
 
 @62.0
-First the Miyoshi, and now Honganji and even the Azai and Asakura are in arms against Nobunaga, I hear.
+First the Miyoshi, and now Hongan-ji and even the Azai and Asakura are in arms against Nobunaga, I hear.
 
 @62.1
 How loyal they all are. The days and days I spent writing secret letters were worth it.
 
 @62.2
-Yes, while I am at it, let me send secret letters to the Takeda, Uesugi and Mori too.
+Yes, while I am at it, let me send secret letters to the Takeda, Uesugi and Mōri too.
 
 @63.0
 This will be the end of Nobunaga. Serves him right. Ho ho ho ho ho.
 
 @63.1
-(To think the man I risked my life to rescue from Kofukuji was a man like this...)
+(To think the man I risked my life to rescue from Kōfuku-ji was a man like this...)
 
 @63.2
 (Does he not see that his letters only give Nobunaga a pretext, not a reason?)
@@ -281,10 +281,10 @@ As lord, I cannot let this pass. I will march at once to put down the lake pirat
 Nobunaga's Camp
 
 @68.0
-My lord! I hear the Azai and Asakura are making ominous moves to take Usayama Castle in Omi.
+My lord! I hear the Azai and Asakura are making ominous moves to take Usayama Castle in Ōmi.
 
 @69.0
-I have ordered Yoshinari to defend Usayama Castle. Dealing with the Miyoshi and Honganji comes first.
+I have ordered Yoshinari to defend Usayama Castle. Dealing with the Miyoshi and Hongan-ji comes first.
 
 @72.0
 If we lose even one village, it is all over!
@@ -305,13 +305,13 @@ Until the Miyoshi Triumvirate are defeated, the unrest in the Kinai will not end
 Let us save the villages as quickly as we can.
 
 @78.0
-Their target is Honganji, is it not.
+Their target is Hongan-ji, is it not.
 
 @79.0
 The bandits always stir at times like this. I cannot forgive it!
 
 @80.0
-The link between Honganji and the Saiga cannot be ignored.
+The link between Hongan-ji and the Saiga cannot be ignored.
 
 @81.0
 Lake pirates, I will make them prey for my spear.
@@ -329,7 +329,7 @@ If you visit the villages, something good may come of it.
 Let us take back the profits of the lake trade.
 
 @86.0
-What will Honganji do...
+What will Hongan-ji do...
 
 @87.0
 Let us scatter them.

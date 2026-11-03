@@ -11,22 +11,22 @@ The problem is Terumoto's supply convoy. Yoshitaka, Kazumasu! Do not let them ge
 Yes, my lord. Leave it to me.
 
 @1
-Siege of Honganji\nVictory: 1. Make Kennyo retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Siege of Hongan-ji\nVictory: 1. Make Kennyo retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-Siege of Honganji\n\nVictory: 1. Make Kennyo retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Siege of Hongan-ji\n\nVictory: 1. Make Kennyo retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @4
 Warrior monks appeared
 
 @5.0
-Ohh! The Mori supply convoy!
+Ohh! The Mōri supply convoy!
 
 @6
-A Mori supply convoy appeared.
+A Mōri supply convoy appeared.
 
 @7
-A Honganji outer fort fell.
+A Hongan-ji outer fort fell.
 
 @8.0
 Will I reach the Pure Land if I die chanting the nembutsu? I cannot believe it.
@@ -35,7 +35,7 @@ Will I reach the Pure Land if I die chanting the nembutsu? I cannot believe it.
 How long will this go on... It is sad.
 
 @9.0
-W-we are not Ikko followers! Whether the ones above us are samurai or the Abbot, it is all the same to us...
+W-we are not Ikkō followers! Whether the ones above us are samurai or the Abbot, it is all the same to us...
 
 @9.1
 If you stay alive, something good will come. Samurai, take care too.
@@ -44,55 +44,55 @@ If you stay alive, something good will come. Samurai, take care too.
 Lord Kennyo, we have delivered the provisions as promised!
 
 @11
-Provisions reached Honganji.
+Provisions reached Hongan-ji.
 
 @13.0
 Lord Kennyo, we have delivered the provisions as promised!
 
 @14
-Provisions reached Honganji.
+Provisions reached Hongan-ji.
 
 @16.0
 Tch, we failed! There is no help for it, retreat!
 
 @17
-Defeated the Mori supply convoy
+Defeated the Mōri supply convoy
 
 @18.0
 Damn, so close... There is no help for it, retreat!
 
 @19
-Defeated the Mori supply convoy
+Defeated the Mōri supply convoy
 
 @20.0
 Ugh, damn. I let my guard down...
 
 @23.0
-Curse you, Ikko rabble, remember this... All units, retreat!
+Curse you, Ikkō rabble, remember this... All units, retreat!
 
 @24
-Oda Nobunaga was defeated by the Ikko forces at Ishiyama Honganji.
+Oda Nobunaga was defeated by the Ikkō forces at Ishiyama Hongan-ji.
 
 @25
-Defeated by the Ikko forces at Ishiyama Honganji
+Defeated by the Ikkō forces at Ishiyama Hongan-ji
 
 @26
-Unable to learn Uesugi Kenshin's movements, Nobunaga could not afford to lose more troops. He accepted peace with Honganji and had to withdraw.
+Unable to learn Uesugi Kenshin's movements, Nobunaga could not afford to lose more troops. He accepted peace with Hongan-ji and had to withdraw.
 
 @28
-Defeated the Ikko forces at Ishiyama Honganji
+Defeated the Ikkō forces at Ishiyama Hongan-ji
 
 @29
 Oda Nobunaga was defeated by the enemy.
 
 @30
-Defeated by the Ikko forces at Ishiyama Honganji
+Defeated by the Ikkō forces at Ishiyama Hongan-ji
 
 @31.0
 Hmm, I was caught off guard... There is no help for it. Send an envoy to Nobunaga to ask for peace!
 
 @31.2
-Lord Nobunaga, an envoy has come from Honganji to ask for peace. What will you do?
+Lord Nobunaga, an envoy has come from Hongan-ji to ask for peace. What will you do?
 
 @31.3
 Oh, an envoy for peace...

@@ -35,7 +35,7 @@ Campaign against the Rokkaku\n\nVictory: 1. Take Kannonji Castle.\n             
 Oh, you are from Owari, are you?
 
 @4.1
-You must be the one escorting Lord Yoshiaki to Kyoto.
+You must be the one escorting Lord Yoshiaki to Kyōto.
 
 @4.2
 Well then, please take this.
@@ -56,7 +56,7 @@ Tch, the front line has collapsed...
 All forces, meet them head on!
 
 @8.0
-So you are Gamo Katahide?
+So you are Gamō Katahide?
 
 @8.1
 If you surrender quietly, well and good. If not...
@@ -68,7 +68,7 @@ Ugh... Understood...
 (I am sorry, Lord Yoshikata, but fighting this man would cost me more lives than I have.)
 
 @9
-Gamo Katahide has surrendered
+Gamō Katahide has surrendered
 
 @10.0
 Katahide, you coward!
@@ -137,7 +137,7 @@ Oda Nobunaga defeated the army of Rokkaku Yoshikata.
 Gained 1000 gold
 
 @27
-Defeats Rokkaku Yoshikata, who blocked the march on Kyoto
+Defeats Rokkaku Yoshikata, who blocked the march on Kyōto
 
 @28
 Oda Nobunaga was defeated by Rokkaku Yoshikata.
@@ -158,7 +158,7 @@ Curse it, there is no help for it. Retreat!
 Having lost Kannonji Castle, Rokkaku Yoshikata slipped out of the castle and fled to Iga.
 
 @33
-Oda Nobunaga has subdued southern Omi.
+Oda Nobunaga has subdued southern Ōmi.
 
 @34
 Takes Kannonji Castle and defeats Rokkaku Yoshikata

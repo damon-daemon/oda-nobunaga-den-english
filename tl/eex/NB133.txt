@@ -1,5 +1,5 @@
 @0.0
-Hmm... I never thought Nobunaga would attack... I should not have ignored the order to come to Kyoto after all...
+Hmm... I never thought Nobunaga would attack... I should not have ignored the order to come to Kyōto after all...
 
 @0.1
 Heh heh, Yoshikage's indecision is useful at times. Thanks to him, I have a just cause to attack him.
@@ -11,7 +11,7 @@ Lord Nobunaga, one thing worries me...
 It concerns Lord Azai. He has long been allied and on close terms with the Asakura. If Lord Azai moves, we are in danger.
 
 @0.5
-Hahaha, do not worry, Lord Ieyasu. Nagamasa is my sister's husband. He will never move. Rest easy. Now, we take Tezutsuyama and Kanegasaki, and then Ichijodani Castle in one stroke! Everyone, follow me!
+Hahaha, do not worry, Lord Ieyasu. Nagamasa is my sister's husband. He will never move. Rest easy. Now, we take Tezutsuyama and Kanegasaki, and then Ichijōdani Castle in one stroke! Everyone, follow me!
 
 @4.0
 Lord Yoshikage, we three have come to assist you on Lord Nagamasa's orders.

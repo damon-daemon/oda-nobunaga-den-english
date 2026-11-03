@@ -5,7 +5,7 @@
 "Wise Brother, Foolish Brother"
 
 @2
-The 8th month, 2nd year of Koji (1556)\nNobunaga won the struggle against his kin and secured his position as clan head.\nHe was only 23.
+The 8th month, 2nd year of Kōji (1556)\nNobunaga won the struggle against his kin and secured his position as clan head.\nHe was only 23.
 
 @3
 "The Unification of Owari"
@@ -143,7 +143,7 @@ You there.
 Yes, my lord.
 
 @30.0
-Go to Saito Yoshitatsu in Mino and ask him to send reinforcements should the worst happen.
+Go to Saitō Yoshitatsu in Mino and ask him to send reinforcements should the worst happen.
 
 @30.1
 They say the enemy of my enemy is my friend. This time I will do away with my brother...
@@ -314,7 +314,7 @@ It is done. Report to his lordship.
 Yes, well done.
 
 @59
-The 3rd year of Koji (1557)\nOda Nobunaga killed his brother Nobuyuki.\nTo unify Owari, he judged the sacrifice unavoidable.
+The 3rd year of Kōji (1557)\nOda Nobunaga killed his brother Nobuyuki.\nTo unify Owari, he judged the sacrifice unavoidable.
 
 @60
 Killed his brother Oda Nobuyuki

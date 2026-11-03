@@ -1,20 +1,20 @@
 @0.0
-Hmm, what a swift advance. So we could not take Sogo Castle and meet them head-on...
+Hmm, what a swift advance. So we could not take Sogō Castle and meet them head-on...
 
 @1
-Pacification of Shikoku\nVictory: 1. Make Chosokabe Motochika retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. Sogo Castle is taken.\n  4. More than 40 turns pass.
+Pacification of Shikoku\nVictory: 1. Make Chōsokabe Motochika retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. Sogō Castle is taken.\n  4. More than 40 turns pass.
 
 @2
-Pacification of Shikoku\n\nVictory: 1. Make Chosokabe Motochika retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. Sogo Castle is taken.\n  4. More than 40 turns pass.
+Pacification of Shikoku\n\nVictory: 1. Make Chōsokabe Motochika retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. Sogō Castle is taken.\n  4. More than 40 turns pass.
 
 @6
 Kawanoe Castle was taken.
 
 @7
-Shozui Castle was taken.
+Shōzui Castle was taken.
 
 @8
-Oko Castle was taken.
+Okō Castle was taken.
 
 @9
 Ushiki Castle was taken.
@@ -26,26 +26,26 @@ Iwakura Castle was taken.
 Damn, a detached force... Order the ambush troops to attack!
 
 @15.0
-Hm, it cannot be helped... We will meet Nobunaga at Oko Castle. Withdraw the main force!
+Hm, it cannot be helped... We will meet Nobunaga at Okō Castle. Withdraw the main force!
 
 @18.0
-Damn, we could not take Sogo Castle...
+Damn, we could not take Sogō Castle...
 
 @21
 Oda reinforcements have arrived.
 
 @22.0
-You seem to be in great difficulty. Good, let us scatter the Chosokabe army in one stroke!
+You seem to be in great difficulty. Good, let us scatter the Chōsokabe army in one stroke!
 
 @26.0
-We have taken Sogo Castle!
+We have taken Sogō Castle!
 
 @27
-Sogo Castle was taken by the enemy.
+Sogō Castle was taken by the enemy.
 
 @28.0
-Damn, Sogo Castle has...
+Damn, Sogō Castle has...
 
 @30
-Chosokabe Motochika surrendered to Nobunaga, and Shikoku was pacified.
+Chōsokabe Motochika surrendered to Nobunaga, and Shikoku was pacified.
 

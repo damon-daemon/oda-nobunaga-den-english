@@ -52,8 +52,8 @@ def font():
 
 
 def width(s):
-    """Pixel width of an ASCII string."""
-    return sum(WIDTHS[ord(c) - 0x20] for c in s)
+    """Pixel width of an ASCII string (macron letters count as their ASCII codes)."""
+    return sum(WIDTHS[ord(pixfont.MACRONS.get(c, c)) - 0x20] for c in s)
 
 
 SETMODE, SETCOL = 0x800167d4, 0x80016668

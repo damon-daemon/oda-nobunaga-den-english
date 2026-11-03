@@ -104,7 +104,7 @@ def english():
             errs += ['@%d: %s' % (n, e) for e in es]
             continue
         w = text.wrap(en, WIDTH[s])
-        b = w.encode('ascii')
+        b = text.fold(w).encode('ascii')
         if len(b) > REC - 1:
             errs.append('@%d: %d bytes > %d' % (n, len(b), REC - 1))
         if w.count('\n') + 1 > LINES[s]:
@@ -124,7 +124,7 @@ def build(data):
         sys.exit('\n'.join(errs) + '\n%d errors in tl/imsg/ (tools/imsg.py)' % len(errs))
     d = bytearray(data)
     for n, w in en.items():
-        d[n * REC:(n + 1) * REC] = w.encode('ascii').ljust(REC, b'\0')
+        d[n * REC:(n + 1) * REC] = text.fold(w).encode('ascii').ljust(REC, b'\0')
     return bytes(d), len(en)
 
 

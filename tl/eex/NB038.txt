@@ -41,7 +41,7 @@ No, that is not so.\n\nThe time will come again.
 Nagara River - Riverbank
 
 @6.0
-(To reach Kyoto from Mino, we must cross Omi. The northern Azai are allies, but the southern Rokkaku are the problem...)
+(To reach Kyōto from Mino, we must cross Ōmi. The northern Azai are allies, but the southern Rokkaku are the problem...)
 
 @7.0
 My lord.
@@ -53,13 +53,13 @@ So you are here. A messenger has come from the Takeda.
 Heh, he has come to urge peace. It seems Shingen will give up on Mino for a while.
 
 @10.0
-I kept you waiting. You are Kosaka?
+I kept you waiting. You are Kōsaka?
 
 @10.1
-Yes, my lord. I am Kosaka Masanobu.
+Yes, my lord. I am Kōsaka Masanobu.
 
 @10.2
-Kosaka. You have come to urge peace, have you not?
+Kōsaka. You have come to urge peace, have you not?
 
 @10.3
 Hmm, you have judged rightly. Lord Shingen desires an alliance with the Oda.

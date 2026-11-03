@@ -11,13 +11,13 @@ Hmm, while I was fighting Katsuyori, they have grown this powerful...
 Now that the encirclement has failed, a long war is to our disadvantage... It cannot be helped. Let us settle this in one stroke.
 
 @1
-Siege of Honganji\nVictory: 1. Make Kennyo retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Siege of Hongan-ji\nVictory: 1. Make Kennyo retreat.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @2
-Siege of Honganji\n\nVictory: 1. Make Kennyo retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Siege of Hongan-ji\n\nVictory: 1. Make Kennyo retreat.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @16
-Ikko forces defeated at Ishiyama Honganji
+Ikkō forces defeated at Ishiyama Hongan-ji
 
 @17.0
 Urgh, a blunder... It cannot be helped... Send an envoy to Nobunaga to sue for peace!

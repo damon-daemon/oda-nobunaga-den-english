@@ -17,10 +17,10 @@
 Takeda Shingen, having scattered the Oda army in Mino, entered Gifu Castle.
 
 @8.0
-It seems Nobunaga has pulled his troops back as far as Kyoto.
+It seems Nobunaga has pulled his troops back as far as Kyōto.
 
 @8.1
-Father, let us enter Kyoto before Nobunaga can regroup.
+Father, let us enter Kyōto before Nobunaga can regroup.
 
 @9.0
 My lord.
@@ -44,13 +44,13 @@ Heh heh. Katsuyori, we have won this war.
 Nobunaga's fate is sealed. Hahahaha.
 
 @15.0
-You say Nobunaga returned to Kyoto because he lost to Shingen in Mino?
+You say Nobunaga returned to Kyōto because he lost to Shingen in Mino?
 
 @15.1
 Yes, my lord. Lord Shingen has already entered Gifu Castle.
 
 @15.2
-Before long he will march on this Kyoto.
+Before long he will march on this Kyōto.
 
 @15.3
 What!
@@ -71,13 +71,13 @@ Now, now even that Nobunaga...
 Hahaha! Now I can wield power to my heart's content!
 
 @19.0
-Report! Shingen has entered Gifu Castle and is waiting for a chance to invade Omi.
+Report! Shingen has entered Gifu Castle and is waiting for a chance to invade Ōmi.
 
 @19.1
 A blunder. To have Mino taken by Shingen.
 
 @20.0
-We must prevent Shingen from entering Kyoto at all costs. If we are driven from Kyoto, only ruin awaits us.
+We must prevent Shingen from entering Kyōto at all costs. If we are driven from Kyōto, only ruin awaits us.
 
 @20.1
 My lord. This Monkey has a good idea.

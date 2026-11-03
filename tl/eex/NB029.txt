@@ -26,7 +26,7 @@ Ugh!
 My lord!
 
 @8.0
-A wound I took escaping Kyoto. It is nothing serious. Hurry to Fujitaka...
+A wound I took escaping Kyōto. It is nothing serious. Hurry to Fujitaka...
 
 @8.1
 Yes, my lord! I will return at once. Now, I take my leave.
@@ -35,10 +35,10 @@ Yes, my lord! I will return at once. Now, I take my leave.
 I count on you, Ranmaru... Ugh...
 
 @10
-Meanwhile, Mitsuhide in Kyoto...
+Meanwhile, Mitsuhide in Kyōto...
 
 @11
-Kyoto - Akechi Mitsuhide's Camp
+Kyōto - Akechi Mitsuhide's Camp
 
 @12.0
 Damn it! Has Nobunaga still not been found!
@@ -47,7 +47,7 @@ Damn it! Has Nobunaga still not been found!
 We have sent riders in every direction, but still no good news...
 
 @12.3
-My lord, though he escaped Kyoto, Nobunaga must be wounded. He cannot have got far.
+My lord, though he escaped Kyōto, Nobunaga must be wounded. He cannot have got far.
 
 @12.4
 You are right. We must find Nobunaga, whatever it takes!
@@ -65,7 +65,7 @@ Hm!
 My lord.
 
 @15.2
-Hanzo.
+Hanzō.
 
 @16.0
 What is it?
@@ -86,7 +86,7 @@ Yes, without a doubt...
 And Lord Nobunaga?
 
 @18.2
-He is said to have died at Honnoji, engulfed in raging flames.
+He is said to have died at Honnō-ji, engulfed in raging flames.
 
 @19.0
 How can this be... Lord Nobunaga...
@@ -113,22 +113,22 @@ Y-yes.
 Preparations to leave for Mikawa are already made. Quickly, my lord, quickly!
 
 @20.0
-Very well. Hanzo, lead the way.
+Very well. Hanzō, lead the way.
 
 @21
-Meanwhile, Hideyoshi was besieging Takamatsu Castle in Bitchu, held by Shimizu Muneharu of the Mori. He built embankments around it and diverted the nearby Ashimori River into them, and the castle soon became a floating island. At news of its peril, Mori Terumoto himself took the field and faced Hideyoshi across the castle.
+Meanwhile, Hideyoshi was besieging Takamatsu Castle in Bitchū, held by Shimizu Muneharu of the Mōri. He built embankments around it and diverted the nearby Ashimori River into them, and the castle soon became a floating island. At news of its peril, Mōri Terumoto himself took the field and faced Hideyoshi across the castle.
 
 @23.0
-Kanbei, the negotiations with the Mori seem to be dragging.
+Kanbei, the negotiations with the Mōri seem to be dragging.
 
 @23.1
-Yes. They have agreed to cede Bitchu, Mimasaka, Hoki, Bingo and Izumo, but as for Shimizu Muneharu's seppuku...
+Yes. They have agreed to cede Bitchū, Mimasaka, Hōki, Bingo and Izumo, but as for Shimizu Muneharu's seppuku...
 
 @23.2
 You mean that making peace in exchange for the life of a general loyal to the end would cost them their honour as warriors.
 
 @23.3
-Well, once our lord arrives here, the Mori will make up their minds. Until then, let us wait patiently.
+Well, once our lord arrives here, the Mōri will make up their minds. Until then, let us wait patiently.
 
 @24.1
 Hm...?
@@ -140,7 +140,7 @@ My lord! We caught a suspicious man lurking near our camp, and he was carrying t
 Hmm, this is it.
 
 @27.0
-What! A letter from Akechi to the Mori! Why would such a thing...
+What! A letter from Akechi to the Mōri! Why would such a thing...
 
 @27.1
 And what does it say?
@@ -179,19 +179,19 @@ My lord! We cannot grieve forever.
 Grr... Y-you are right.
 
 @31.0
-We return to Kyoto at once and strike down the traitor Akechi Mitsuhide! Kanbei! Hurry the peace with the Mori!
+We return to Kyōto at once and strike down the traitor Akechi Mitsuhide! Kanbei! Hurry the peace with the Mōri!
 
 @32.1
 We fight to avenge our lord! Masakatsu, make ready!
 
 @34
-Etchu - Shibata Katsuie's Camp
+Etchū - Shibata Katsuie's Camp
 
 @35.0
 Is that true!
 
 @35.1
-Yes. Akechi Mitsuhide attacked Honnoji at dawn, and Lord Nobunaga has died!
+Yes. Akechi Mitsuhide attacked Honnō-ji at dawn, and Lord Nobunaga has died!
 
 @35.2
 Our lord...
@@ -212,13 +212,13 @@ Y-yes.
 But if we pull back now, the Uesugi will pursue us.
 
 @36
-Hearing of the upheaval in Kyoto, Katsuie's Hokuriku army was in the midst of besieging Uozu Castle in Etchu and could not march on Kyoto at once.
+Hearing of the upheaval in Kyōto, Katsuie's Hokuriku army was in the midst of besieging Uozu Castle in Etchū and could not march on Kyōto at once.
 
 @37
-Mori Army Main Camp
+Mōri Army Main Camp
 
 @38
-Unaware of the incident in Kyoto, the Mori made peace on Hideyoshi's terms: cession of territory and the seppuku of the castle lord, Shimizu Muneharu. As soon as they had witnessed Muneharu's seppuku, the Hashiba forces left Takamatsu in Bitchu.
+Unaware of the incident in Kyōto, the Mōri made peace on Hideyoshi's terms: cession of territory and the seppuku of the castle lord, Shimizu Muneharu. As soon as they had witnessed Muneharu's seppuku, the Hashiba forces left Takamatsu in Bitchū.
 
 @39.0
 My lord, the Hashiba army has withdrawn.
@@ -227,13 +227,13 @@ My lord, the Hashiba army has withdrawn.
 Yes. But we lost a fine general... Forgive me, Muneharu.
 
 @40.0
-Your pardon, my lord. An urgent messenger has come from Kyoto.
+Your pardon, my lord. An urgent messenger has come from Kyōto.
 
 @40.1
-An urgent messenger from Kyoto? What is it? Speak!
+An urgent messenger from Kyōto? What is it? Speak!
 
 @40.2
-Yes, my lord. The other day, Akechi Mitsuhide rebelled, and Oda Nobunaga has died at Honnoji!
+Yes, my lord. The other day, Akechi Mitsuhide rebelled, and Oda Nobunaga has died at Honnō-ji!
 
 @41.1
 Nobunaga is dead...
@@ -245,13 +245,13 @@ So that is why Hashiba was so eager for peace!
 He tricked us, that Monkey!
 
 @43.0
-My lord! Pursue the Hashiba forces! If we destroy Hideyoshi and Mitsuhide, the realm will be the Mori's.
+My lord! Pursue the Hashiba forces! If we destroy Hideyoshi and Mitsuhide, the realm will be the Mōri's.
 
 @44.0
 Wait, Brother! To break the oath before the ink is dry would be a disgrace to our warrior house.
 
 @44.1
-Takakage, the oath was not made with Hideyoshi but with Nobunaga, through Hideyoshi. With Nobunaga gone, that oath is as good as blank paper. Breaking it would not make the Mori faithless. Now is the chance to reach for the realm!
+Takakage, the oath was not made with Hideyoshi but with Nobunaga, through Hideyoshi. With Nobunaga gone, that oath is as good as blank paper. Breaking it would not make the Mōri faithless. Now is the chance to reach for the realm!
 
 @44.2
 Brother, have you forgotten Lord Motonari's dying words?
@@ -290,16 +290,16 @@ My lord, a report!
 What is it!?
 
 @49.2
-Hashiba Hideyoshi has made peace with the Mori and is marching on Kyoto!
+Hashiba Hideyoshi has made peace with the Mōri and is marching on Kyōto!
 
 @50.0
-What! What are the Mori doing? They must have heard of the incident in Kyoto by now.
+What! What are the Mōri doing? They must have heard of the incident in Kyōto by now.
 
 @50.1
-The Mori show no sign at all of pursuing Hideyoshi.
+The Mōri show no sign at all of pursuing Hideyoshi.
 
 @51.0
-I do not understand... Why do the Mori not move...
+I do not understand... Why do the Mōri not move...
 
 @51.1
 And where is Hideyoshi's army now?
@@ -311,16 +311,16 @@ They should be reaching Himeji very soon.
 Hm, what incredible speed...
 
 @51.4
-There is no time. Let us enter Kyoto at once and meet Hideyoshi's army!
+There is no time. Let us enter Kyōto at once and meet Hideyoshi's army!
 
 @51.5
 My lord! Prepare yourself!
 
 @52.0
-Yes. We march on Kyoto now.
+Yes. We march on Kyōto now.
 
 @53
-But Mitsuhide was defeated by Hideyoshi's army at the Battle of Yamazaki. Escaping Shoryuji Castle with his retainers, Mitsuhide was at Ogurisu, south of Kyoto.
+But Mitsuhide was defeated by Hideyoshi's army at the Battle of Yamazaki. Escaping Shōryūji Castle with his retainers, Mitsuhide was at Ogurisu, south of Kyōto.
 
 @54
 Ogurisu
@@ -395,28 +395,28 @@ Well. With Mitsuhide struck down, there is no need for us to advance. We withdra
 My lord, is it true that Nobunaga is dead?
 
 @73.2
-Then lend me troops, and I will advance into Kai and Kozuke and take all the Oda lands.
+Then lend me troops, and I will advance into Kai and Kōzuke and take all the Oda lands.
 
 @73.3
-Indeed, as Ujinao says. Now is the perfect chance to take Kai and Kozuke.
+Indeed, as Ujinao says. Now is the perfect chance to take Kai and Kōzuke.
 
 @73.4
-Kozuke is held by Takigawa Kazumasu, and Kai by Kawajiri Hidetaka, if I recall.
+Kōzuke is held by Takigawa Kazumasu, and Kai by Kawajiri Hidetaka, if I recall.
 
 @73.5
 But I hear Kawajiri of Kai is unpopular. Moreover, Nobunaga's army's atrocities in the attack on the Takeda made the warriors of Kai hate the Oda. If we incite them to revolt, we can drive the Oda out of Kai without moving our own forces.
 
 @73.6
-I see, an excellent plan. Kotaro!
+I see, an excellent plan. Kotarō!
 
 @74.1
 Slip into Kai and incite an uprising against Kawajiri Hidetaka!
 
 @75.0
-My lord, and what of Takigawa Kazumasu in Kozuke?
+My lord, and what of Takigawa Kazumasu in Kōzuke?
 
 @75.1
-Ujinao, lead troops with Ujinori and go to Kozuke!
+Ujinao, lead troops with Ujinori and go to Kōzuke!
 
 @76.2
 Send Takigawa Kazumasu a letter pledging friendship! Lull him thoroughly!
@@ -428,7 +428,7 @@ Thanks to Akechi's rebellion, our house has escaped danger.
 Indeed.
 
 @78.2
-Listen. We took most of Awa last year, but Sanuki and Shozui Castle in northern Awa remain under our old rival Sogo. He was allied with the Oda, but with Akechi's rebellion the Oda are as good as finished. Now is the moment to conquer Awa.
+Listen. We took most of Awa last year, but Sanuki and Shōzui Castle in northern Awa remain under our old rival Sogō. He was allied with the Oda, but with Akechi's rebellion the Oda are as good as finished. Now is the moment to conquer Awa.
 
 @78.3
 Your words are most just, my lord. Let us conquer Awa and Sanuki and achieve the unification of Shikoku we have long desired!
@@ -440,7 +440,7 @@ Father, let us attack Awa.
 Yes. We march on Awa now. Chikayasu! Chikasada!
 
 @79.2
-I give you the vanguard for the attack on Shozui!
+I give you the vanguard for the attack on Shōzui!
 
 @79.4
 Nobuchika!
@@ -452,7 +452,7 @@ We attack from both Iwakura and Ushiki! Prepare to march!
 Tango - Miyazu Castle
 
 @82
-Nobunaga and Ranmaru, having fled Kyoto, reached Miyazu Castle in Tango and were being sheltered by its lord, Hosokawa Fujitaka.
+Nobunaga and Ranmaru, having fled Kyōto, reached Miyazu Castle in Tango and were being sheltered by its lord, Hosokawa Fujitaka.
 
 @83.0
 Lord Ranmaru.
@@ -467,7 +467,7 @@ How is our lord's condition?
 The wound is more serious than I had thought.
 
 @84.3
-...Hm. A messenger has just come from Omi. Mitsuhide was defeated by the army led by Lord Hideyoshi and died while fleeing.
+...Hm. A messenger has just come from Ōmi. Mitsuhide was defeated by the army led by Lord Hideyoshi and died while fleeing.
 
 @84.4
 What, Mitsuhide!
@@ -479,16 +479,16 @@ And sad news too: Lord Kawajiri of Kai was killed in an uprising by the warriors
 Hidetaka...
 
 @84.7
-Further, the Hojo, hearing of the Kyoto incident, have attacked Kazumasu's Kozuke, and he is fleeing to Nagashima in Ise.
+Further, the Hōjō, hearing of the Kyōto incident, have attacked Kazumasu's Kōzuke, and he is fleeing to Nagashima in Ise.
 
 @84.8
-Damn the Hojo! Fujitaka, could the uprising in Kai also have been stirred up by the Hojo?
+Damn the Hōjō! Fujitaka, could the uprising in Kai also have been stirred up by the Hōjō?
 
 @84.9
 Quite possibly.
 
 @84.11
-A messenger came from Lord Hashiba a while ago. Within a few days I too must go up to Kyoto to meet him.
+A messenger came from Lord Hashiba a while ago. Within a few days I too must go up to Kyōto to meet him.
 
 @84.12
 Lord Hosokawa, please keep it strictly secret that our lord lives.
@@ -512,13 +512,13 @@ You were on close terms with Mitsuhide. Why did you not lend him your strength, 
 ...Lord Ranmaru. The world says of me that I am a man who always betrays when danger comes. But it is my nature never to fight a battle I cannot win. That is why I did not lend my strength to Mitsuhide.
 
 @89
-A few days after the Battle of Yamazaki, a council of four Oda retainers was held at Kiyosu Castle: the famous Kiyosu Council. Katsuie, Hideyoshi, Nagahide and Tsuneoki attended, but Kazumasu, defeated by the Hojo, was busy fleeing back to Nagashima.
+A few days after the Battle of Yamazaki, a council of four Oda retainers was held at Kiyosu Castle: the famous Kiyosu Council. Katsuie, Hideyoshi, Nagahide and Tsuneoki attended, but Kazumasu, defeated by the Hōjō, was busy fleeing back to Nagashima.
 
 @90
-The council's business was whom to set up as Nobunaga's successor and how to divide his territories, and the outcome would decide who held real power in the Oda house. Hideyoshi, who had struck down Mitsuhide and led the council, backed Nobutada's son, Sanboshi, as heir.\n\nKatsuie backed Nobutaka, but the weakness of having missed the war to avenge Nobunaga dragged down his voice at the council.
+The council's business was whom to set up as Nobunaga's successor and how to divide his territories, and the outcome would decide who held real power in the Oda house. Hideyoshi, who had struck down Mitsuhide and led the council, backed Nobutada's son, Sanbōshi, as heir.\n\nKatsuie backed Nobutaka, but the weakness of having missed the war to avenge Nobunaga dragged down his voice at the council.
 
 @91
-Katsuie was pushed around by Hideyoshi throughout and the council ended. Nagahide was granted his old domain of Wakasa plus part of Omi, and Tsuneoki was given military command over all of Settsu. But Katsuie was left confined to his old domain of Echizen.\n\nHideyoshi, meanwhile, held Kyoto and took Yamashiro and Tanba, the heart of the home provinces.
+Katsuie was pushed around by Hideyoshi throughout and the council ended. Nagahide was granted his old domain of Wakasa plus part of Ōmi, and Tsuneoki was given military command over all of Settsu. But Katsuie was left confined to his old domain of Echizen.\n\nHideyoshi, meanwhile, held Kyōto and took Yamashiro and Tanba, the heart of the home provinces.
 
 @92
 Oda Nobutaka's Seat - Gifu Castle
@@ -527,7 +527,7 @@ Oda Nobutaka's Seat - Gifu Castle
 Enraged at the outcome of the Kiyosu Council, Katsuie plotted to attack Hideyoshi from three sides. His allies were Nobutaka in Gifu and Kazumasu in Nagashima in Ise, also dissatisfied with their treatment. But snow kept Katsuie from marching out of Echizen in winter, so he planned to open war on Hideyoshi in spring. With Nobunaga's death, the Oda retainer corps began to split apart.
 
 @96
-A cool eye was watching the Oda split from Hamamatsu: Tokugawa Ieyasu, the man who tests even a stone bridge before crossing. Learning of Hideyoshi's victory at Yamazaki, Ieyasu judged that he must secure the east. Marching into Kai and Shinano, left a power vacuum after the Honnoji incident, he won the contest with the Hojo forces and took most of the old Takeda lands. In the west, signs appeared that Hideyoshi would clash with Katsuie, Nobutaka and others. Nobukatsu, discontented with his treatment by Hideyoshi, drew close to Ieyasu. Visiting Hamamatsu, Nobukatsu urged Ieyasu to make peace with the Hojo in order to stand against Hideyoshi, and Ieyasu resolved to do so.
+A cool eye was watching the Oda split from Hamamatsu: Tokugawa Ieyasu, the man who tests even a stone bridge before crossing. Learning of Hideyoshi's victory at Yamazaki, Ieyasu judged that he must secure the east. Marching into Kai and Shinano, left a power vacuum after the Honnō-ji incident, he won the contest with the Hōjō forces and took most of the old Takeda lands. In the west, signs appeared that Hideyoshi would clash with Katsuie, Nobutaka and others. Nobukatsu, discontented with his treatment by Hideyoshi, drew close to Ieyasu. Visiting Hamamatsu, Nobukatsu urged Ieyasu to make peace with the Hōjō in order to stand against Hideyoshi, and Ieyasu resolved to do so.
 
 @97.0
 Hashiba Hideyoshi is surely fit to be Nobunaga's successor, but whether he can complete the pacification of the realm is not yet clear. Is now the perfect chance to declare myself a contender for the realm...
@@ -545,19 +545,19 @@ I am well again.
 More to the point, is it true that Katsuie and Hideyoshi are on the brink of open conflict?
 
 @99.3
-It is true. Lord Hideyoshi intends to send troops into Omi during the winter, when Lord Katsuie cannot move. If so, Lord Katsuie will surely force a march out of Echizen before the thaw. If they learn you live, my lord, both will pull back.
+It is true. Lord Hideyoshi intends to send troops into Ōmi during the winter, when Lord Katsuie cannot move. If so, Lord Katsuie will surely force a march out of Echizen before the thaw. If they learn you live, my lord, both will pull back.
 
 @100
-Echizen - Kitanosho Castle
+Echizen - Kitanoshō Castle
 
 @101
-As Hosokawa Fujitaka predicted, Hashiba Hideyoshi moved during the winter, when the Shibata forces could not.\n\nFirst Shibata Katsutoyo defected to Hideyoshi, then Nobutaka in Gifu surrendered, and Kazumasu in Ise was pinned down by Hideyoshi's great army. Unable to watch the encirclement of Hideyoshi collapse, Katsuie marched south into northern Omi without waiting for spring.
+As Hosokawa Fujitaka predicted, Hashiba Hideyoshi moved during the winter, when the Shibata forces could not.\n\nFirst Shibata Katsutoyo defected to Hideyoshi, then Nobutaka in Gifu surrendered, and Kazumasu in Ise was pinned down by Hideyoshi's great army. Unable to watch the encirclement of Hideyoshi collapse, Katsuie marched south into northern Ōmi without waiting for spring.
 
 @104
-Learning that Katsuie had left Echizen, Hideyoshi led his main force into Omi. The two armies faced each other around Shizugatake in northern Omi. Hideyoshi set Shibata Katsutoyo and Niwa Nagahide to guard against Katsuie and Gamo Ujisato to hold Kazumasu. He himself went to Ogaki Castle to put down Nobutaka, who had risen again.
+Learning that Katsuie had left Echizen, Hideyoshi led his main force into Ōmi. The two armies faced each other around Shizugatake in northern Ōmi. Hideyoshi set Shibata Katsutoyo and Niwa Nagahide to guard against Katsuie and Gamō Ujisato to hold Kazumasu. He himself went to Ōgaki Castle to put down Nobutaka, who had risen again.
 
 @105
-In the Shibata main camp, having learned that Hideyoshi had entered Ogaki...
+In the Shibata main camp, having learned that Hideyoshi had entered Ōgaki...
 
 @106
 Shibata Army Main Camp
@@ -578,7 +578,7 @@ Morimasa, what if this is a trap?
 A trap...?
 
 @107.5
-Yes. Common sense does not work on a man like Hideyoshi. He may have feigned a march on Gifu and hidden troops somewhere. Have you forgotten the great return from Chugoku?
+Yes. Common sense does not work on a man like Hideyoshi. He may have feigned a march on Gifu and hidden troops somewhere. Have you forgotten the great return from Chūgoku?
 
 @107.6
 Hm... But we cannot stand by while Gifu Castle is attacked. My lord! Order me to march!
@@ -587,16 +587,16 @@ Hm... But we cannot stand by while Gifu Castle is attacked. My lord! Order me to
 ... Morimasa, if I order you to march, where would you attack?
 
 @107.8
-Oiwayama fort.
+Ōiwayama fort.
 
 @107.9
-Oiwayama!
+Ōiwayama!
 
 @107.10
 Are you sane?! That fort is in the very midst of the enemy army!
 
 @107.11
-Indeed. Oiwayama is not the enemy's front line, so its garrison will be off guard. If we take it, the enemy's shock will be immense.
+Indeed. Ōiwayama is not the enemy's front line, so its garrison will be off guard. If we take it, the enemy's shock will be immense.
 
 @107.12
 Hmm...
@@ -608,13 +608,13 @@ My lord, a report! Hashiba Hideyoshi has surrounded Gifu Castle!
 So it was not a trap after all!
 
 @108.5
-Yes. Morimasa, take Oiwayama!
+Yes. Morimasa, take Ōiwayama!
 
 @108.6
-Yes, my lord! After Oiwayama falls, I will take each of the other forts!
+Yes, my lord! After Ōiwayama falls, I will take each of the other forts!
 
 @108.7
-No! Once you have taken Oiwayama, withdraw to your own camp at once!
+No! Once you have taken Ōiwayama, withdraw to your own camp at once!
 
 @108.8
 Why...
@@ -629,7 +629,7 @@ Miyazu Castle
 My lord, with Hideyoshi gone to attack Gifu, the Shibata forces have begun to move too. There is not a moment to lose.
 
 @111.0
-Yes. We march for northern Omi now!
+Yes. We march for northern Ōmi now!
 
 @112.0
 Only you can stop Lord Shibata and Lord Hashiba, my lord.

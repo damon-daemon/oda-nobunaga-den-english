@@ -11,16 +11,16 @@ The root of this evil must be cut out.
 Then there is no help for it. They must all die...
 
 @1
-Suppression of the Nagashima Ikko Uprising\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Suppression of the Nagashima Ikkō Uprising\nVictory: 1. Wipe out the enemy.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-Suppression of the Nagashima Ikko Uprising\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Suppression of the Nagashima Ikkō Uprising\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @3.0
 Namu Amida Butsu. Strike down Nobunaga, enemy of the Buddha!
 
 @4
-Otorii Fort's Ikko forces sallied out!
+Ōtorii Fort's Ikkō forces sallied out!
 
 @5
 Took Nakae Fort.
@@ -29,7 +29,7 @@ Took Nakae Fort.
 Took Yanagashima Fort.
 
 @7
-Took Otorii Fort.
+Took Ōtorii Fort.
 
 @8
 Took Nagashima Castle.
@@ -119,19 +119,19 @@ Shinohashi Fort has fallen and we have no food... At this rate we will all starv
 Is surrender the only way...
 
 @20
-Nagashima's Ikko forces surrendered.
+Nagashima's Ikkō forces surrendered.
 
 @21
-The Ikko forces appeared
+The Ikkō forces appeared
 
 @22
-The Ikko forces appeared
+The Ikkō forces appeared
 
 @23
-The Ikko forces appeared
+The Ikkō forces appeared
 
 @24
-The Ikko forces appeared
+The Ikkō forces appeared
 
 @25.0
 N-namu Amida Butsu...
@@ -149,20 +149,20 @@ N-namu Amida Butsu...
 N-namu Amida Butsu...
 
 @31
-The Ikko forces took the Oda camp.
+The Ikkō forces took the Oda camp.
 
 @32.0
-That I, Nobunaga, should lose to mere Ikko rabble...
+That I, Nobunaga, should lose to mere Ikkō rabble...
 
 @33
-Oda Nobunaga was defeated by the Nagashima Ikko forces.
+Oda Nobunaga was defeated by the Nagashima Ikkō forces.
 
 @34
-Oda Nobunaga annihilated the Nagashima Ikko forces.
+Oda Nobunaga annihilated the Nagashima Ikkō forces.
 
 @36
-Annihilated the Nagashima Ikko forces
+Annihilated the Nagashima Ikkō forces
 
 @37
-Oda Nobunaga was defeated by the Ikko forces.
+Oda Nobunaga was defeated by the Ikkō forces.
 

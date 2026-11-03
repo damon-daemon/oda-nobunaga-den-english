@@ -23,19 +23,19 @@ Yes. Monkey, you did well to avenge me.
 My lord, to see you again is the greatest joy I could ask.
 
 @12.0
-Mitsuhide caught me off guard, but I have not given up the realm under one sword. My ally Ieyasu is now an enemy, and Uesugi, Hojo, Mori, Chosokabe and others grow strong again. The pacification of the provinces resumes! Monkey!
+Mitsuhide caught me off guard, but I have not given up the realm under one sword. My ally Ieyasu is now an enemy, and Uesugi, Hōjō, Mōri, Chōsokabe and others grow strong again. The pacification of the provinces resumes! Monkey!
 
 @13.1
-Go to Bitchu with Masakatsu and resume the Chugoku campaign!
+Go to Bitchū with Masakatsu and resume the Chūgoku campaign!
 
 @13.2
-Yes, my lord! I will bring the Mori under your banner.
+Yes, my lord! I will bring the Mōri under your banner.
 
 @13.3
 Narimasa!
 
 @14.0
-Return to Etchu and resume the subjugation of the Uesugi with Mitsuharu!
+Return to Etchū and resume the subjugation of the Uesugi with Mitsuharu!
 
 @14.2
 Finish what Katsuie left undone!
@@ -50,10 +50,10 @@ Send many spies into Ieyasu's lands and report every move in Hamamatsu!
 Nagahide!
 
 @16.1
-Cross to Shikoku with Yoritaka and the Kuki fleet! Bring the bat of the birdless isle, Chosokabe, to heel!
+Cross to Shikoku with Yoritaka and the Kuki fleet! Bring the bat of the birdless isle, Chōsokabe, to heel!
 
 @19
-Though beaten at Komaki, Ieyasu strengthened his ties with the Hojo further, and his power was not to be taken lightly.
+Though beaten at Komaki, Ieyasu strengthened his ties with the Hōjō further, and his power was not to be taken lightly.
 
 @20.0
 So that man was alive after all...
@@ -62,7 +62,7 @@ So that man was alive after all...
 But there is no turning back now.
 
 @20.2
-The Oda have begun sending troops to the provinces again. Armies are heading for Chugoku, Shikoku and Hokuriku.
+The Oda have begun sending troops to the provinces again. Armies are heading for Chūgoku, Shikoku and Hokuriku.
 
 @20.3
 I think now is the time to seek a decisive battle.
@@ -89,10 +89,10 @@ Lord Sakakibara, you have come a long way.
 Lord Ujimasa, forgive my haste, but I would have your answer.
 
 @23.2
-Yes. If anything befalls Ieyasu, the Hojo are in danger too. We will send reinforcements at any time.
+Yes. If anything befalls Ieyasu, the Hōjō are in danger too. We will send reinforcements at any time.
 
 @24
-Hojo Ujimasa readily agreed to Ieyasu's request.\n\nAfter that there was no movement in the Oda and Tokugawa camps, and several months passed...
+Hōjō Ujimasa readily agreed to Ieyasu's request.\n\nAfter that there was no movement in the Oda and Tokugawa camps, and several months passed...
 
 @29.0
 We postpone the attack on Okazaki and go to put down Iga.
@@ -149,7 +149,7 @@ An uprising in Iga is rather suspicious...
 The commander of Okazaki Castle is Torii Mototada.
 
 @52.0
-The Hojo seem to be scheming something. Be careful.
+The Hōjō seem to be scheming something. Be careful.
 
 @53.0
 Iga is full of mountains and hard to move through.
@@ -158,7 +158,7 @@ Iga is full of mountains and hard to move through.
 Just in case, why not have the rear guard protect the camp?
 
 @56.0
-The shadow of the Hojo flickers behind Ieyasu.
+The shadow of the Hōjō flickers behind Ieyasu.
 
 @57.0
 One of my men was cut down by someone. This must be the work of the Iga men.

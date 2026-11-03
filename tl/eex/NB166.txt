@@ -5,7 +5,7 @@ Hm? That is... our lord!
 What! Koroku, where? Where is our lord!
 
 @0.2
-Over there. Our lord is between Mitsuhide's main camp and Shoryuji Castle...
+Over there. Our lord is between Mitsuhide's main camp and Shōryūji Castle...
 
 @0.3
 Oh, that is certainly our lord! He is alive!
@@ -86,7 +86,7 @@ So you were alive after all, Nobunaga!
 Did you think you could kill me, Mitsuhide?
 
 @11.2
-Heh heh, I will repay you for Honnoji.
+Heh heh, I will repay you for Honnō-ji.
 
 @11.3
 Grr...

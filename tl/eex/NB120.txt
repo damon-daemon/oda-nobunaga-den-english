@@ -53,7 +53,7 @@ Ugh... If I am captured, who knows what they will do to me...
 (I have no choice but to slip out of the castle in secret...)
 
 @9.0
-Lord Kiyohide, even if you ally with the Mori and Honganji, no reinforcements will come.
+Lord Kiyohide, even if you ally with the Mōri and Hongan-ji, no reinforcements will come.
 
 @9.1
 Trust me and return to our side.
@@ -71,7 +71,7 @@ I understand. I will trust your word and surrender to Lord Nobunaga.
 Nakagawa Kiyohide returned to Nobunaga.
 
 @11.0
-Lord Kiyohide, even if you ally with the Mori and Honganji, no reinforcements will come.
+Lord Kiyohide, even if you ally with the Mōri and Hongan-ji, no reinforcements will come.
 
 @11.1
 Trust me and return to our side.

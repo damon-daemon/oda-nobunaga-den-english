@@ -1,11 +1,11 @@
 @0.0
-At last we march on the Kanto.
+At last we march on the Kantō.
 
 @0.1
-After taking Sunpu Castle, we join the Monkey, who has gone to Fuchu, and take Odawara Castle in one stroke!
+After taking Sunpu Castle, we join the Monkey, who has gone to Fuchū, and take Odawara Castle in one stroke!
 
 @0.2
-If we bring the Tokugawa and Hojo under our banner, the realm will be ours.
+If we bring the Tokugawa and Hōjō under our banner, the realm will be ours.
 
 @0.3
 Everyone, stay sharp! Sally forth!
@@ -44,7 +44,7 @@ Nirayama Castle was taken.
 Ujiteru, you too will support Lord Tokugawa. Stay sharp.
 
 @7.0
-Nobunaga, I will not allow you to set foot in the Kanto.
+Nobunaga, I will not allow you to set foot in the Kantō.
 
 @7.1
 What can these eastern barbarians do? Get out of my way.
@@ -92,13 +92,13 @@ Odawara Castle was taken.
 Odawara Castle was taken.
 
 @20
-Sunpu Castle and Odawara Castle were taken, and the Kanto was pacified.
+Sunpu Castle and Odawara Castle were taken, and the Kantō was pacified.
 
 @21
 Gained 10000 gold
 
 @22
-Tokugawa-Hojo alliance defeated
+Tokugawa-Hōjō alliance defeated
 
 @23
 Sunpu Castle was taken.
@@ -107,13 +107,13 @@ Sunpu Castle was taken.
 Sunpu Castle was taken.
 
 @25
-Sunpu Castle and Odawara Castle were taken, and the Kanto was pacified.
+Sunpu Castle and Odawara Castle were taken, and the Kantō was pacified.
 
 @26
 Gained 10000 gold
 
 @27
-Tokugawa-Hojo alliance defeated
+Tokugawa-Hōjō alliance defeated
 
 @29
 The Oda main camp was taken by the enemy
@@ -125,16 +125,16 @@ Damn... Kakegawa Castle...
 Oda Nobunaga was defeated by the enemy.
 
 @32
-Oda Nobunaga defeated the Tokugawa-Hojo alliance and pacified the Kanto.
+Oda Nobunaga defeated the Tokugawa-Hōjō alliance and pacified the Kantō.
 
 @33
 Gained 10000 gold
 
 @34
-Tokugawa-Hojo alliance defeated
+Tokugawa-Hōjō alliance defeated
 
 @35
-Oda Nobunaga was defeated by the Tokugawa-Hojo alliance.
+Oda Nobunaga was defeated by the Tokugawa-Hōjō alliance.
 
 @36.0
 Guah!

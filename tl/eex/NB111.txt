@@ -2,7 +2,7 @@
 Hmm... To think Nobunaga would attack...
 
 @0.1
-I should never have ignored the order to come to Kyoto...
+I should never have ignored the order to come to Kyōto...
 
 @0.2
 Heh heh heh. Even Yoshikage's indecision proves useful at times.
@@ -32,7 +32,7 @@ Hahaha, do not worry, Lord Ieyasu.
 Nagamasa is my sister's husband. He will never move.
 
 @0.11
-Very well, we take Tezutsuyama and Kanegasaki, and then Ichijodani Castle in one stroke! Everyone, follow me!
+Very well, we take Tezutsuyama and Kanegasaki, and then Ichijōdani Castle in one stroke! Everyone, follow me!
 
 @1
 Retreat from Kanegasaki\nVictory: 1. Make Asakura Yoshikage retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. More than 99 turns pass.

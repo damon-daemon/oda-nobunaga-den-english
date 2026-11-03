@@ -5,10 +5,10 @@
 "Unification of the Whole Country"
 
 @4
-The Oda army, having crushed the combined forces of Tokugawa and Hojo, returned in triumph to Gifu.\n\nNobunaga's power now reached from the Kanto to Chugoku and Shikoku, and even the lords of the far frontiers swore allegiance to him.\n\nThe land of Japan had been unified by Nobunaga.
+The Oda army, having crushed the combined forces of Tokugawa and Hōjō, returned in triumph to Gifu.\n\nNobunaga's power now reached from the Kantō to Chūgoku and Shikoku, and even the lords of the far frontiers swore allegiance to him.\n\nThe land of Japan had been unified by Nobunaga.
 
 @5
-Having defeated the Hojo and pacified the Kanto, Nobunaga returned in triumph to Gifu.\n\nNobunaga's power now reached from the Kanto to Chugoku and Shikoku, and even the lords of the far frontiers swore allegiance to him.\n\nThe land of Japan had been unified by Nobunaga.
+Having defeated the Hōjō and pacified the Kantō, Nobunaga returned in triumph to Gifu.\n\nNobunaga's power now reached from the Kantō to Chūgoku and Shikoku, and even the lords of the far frontiers swore allegiance to him.\n\nThe land of Japan had been unified by Nobunaga.
 
 @6.0
 My lord, our heartfelt congratulations on unifying the realm. All your retainers share in the joy.
@@ -44,10 +44,10 @@ From now on, devote your strength to peace in the realm.
 (I cannot believe Lord Nobunaga will be content with a peaceful age as it is...)
 
 @10
-A few days later, Nobunaga, having unified the realm, went up to Kyoto.
+A few days later, Nobunaga, having unified the realm, went up to Kyōto.
 
 @11
-Honnoji Incident occurs\nNo Honnoji Incident
+Honnō-ji Incident occurs\nNo Honnō-ji Incident
 
 @12
 Katsuie and Nobutada live\nKatsuie and Nobutada die
@@ -56,7 +56,7 @@ Katsuie and Nobutada live\nKatsuie and Nobutada die
 Ieyasu is an ally\nIeyasu rebels
 
 @15
-Day after day, nobles of Kyoto, wealthy merchants and tea masters came to greet Nobunaga, who had come up to the capital.
+Day after day, nobles of Kyōto, wealthy merchants and tea masters came to greet Nobunaga, who had come up to the capital.
 
 @16.0
 Our congratulations on your unification of the realm.
@@ -77,7 +77,7 @@ Hah... I am tired.
 Ranmaru, what comes next?
 
 @17.2
-My lord. Next Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
+My lord. Next Sen no Rikyū is waiting, then Kamiya Sōtan, then Chaya Shirōjirō, then...
 
 @18.0
 Enough! That will do!
@@ -98,13 +98,13 @@ What! Who are you?
 Have you forgotten me, my lord?
 
 @20.3
-......?! Nohime... Nohime, is it you!
+......?! Nōhime... Nōhime, is it you!
 
 @20.4
-You are alive, then, Nohime!
+You are alive, then, Nōhime!
 
 @20.5
-...Yes. Sen no Rikyu saved me when I was in grave danger, and I have been recovering ever since.
+...Yes. Sen no Rikyū saved me when I was in grave danger, and I have been recovering ever since.
 
 @20.6
 Why did you send no word?
@@ -116,7 +116,7 @@ I could not rise from my bed... and I did not wish to hinder the unification of 
 Just as ever. You are as strong-willed as the viper.
 
 @23
-Day after day, nobles of Kyoto, wealthy merchants and tea masters came to greet Nobunaga, who had come up to the capital.
+Day after day, nobles of Kyōto, wealthy merchants and tea masters came to greet Nobunaga, who had come up to the capital.
 
 @24.0
 Our congratulations on your unification of the realm.
@@ -137,7 +137,7 @@ Hah... I am tired.
 Ranmaru, what comes next?
 
 @25.2
-My lord. Next Sen no Rikyu is waiting, then Kamiya Sotan, then Chaya Shirojiro, then...
+My lord. Next Sen no Rikyū is waiting, then Kamiya Sōtan, then Chaya Shirōjirō, then...
 
 @26.0
 Enough! That will do!
@@ -179,7 +179,7 @@ At yourself, for being unable to take a step toward an even greater ambition.
 You want the world, do you not?
 
 @30.0
-...Yes. You are right, Nohime. I want the world.
+...Yes. You are right, Nōhime. I want the world.
 
 @31.1
 I am going out to take the night air.

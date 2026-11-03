@@ -1,5 +1,5 @@
 @0.0
-A blunder. To think the Azai and Asakura would take Kyoto from me...
+A blunder. To think the Azai and Asakura would take Kyōto from me...
 
 @0.1
 Even the Oda forces cannot break through this defence.
@@ -8,10 +8,10 @@ Even the Oda forces cannot break through this defence.
 We will cut Nobunaga down as an example for all generations.
 
 @1
-Azai and Asakura in Kyoto\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Azai and Asakura in Kyōto\nVictory: 1. Make Azai Nagamasa retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @2
-Azai and Asakura in Kyoto\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
+Azai and Asakura in Kyōto\n\nVictory: 1. Make Azai Nagamasa retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 40 turns pass.
 
 @3.0
 We sally out now! Do not let Nobunaga slip away!
@@ -35,7 +35,7 @@ Go home at once and compose poems in Echizen.
 D-Damn you!
 
 @8.0
-Nagamasa, I commend you for striking where I was unguarded and taking Kyoto.
+Nagamasa, I commend you for striking where I was unguarded and taking Kyōto.
 
 @8.1
 Lord Nobunaga, I shall take your head.
@@ -62,7 +62,7 @@ They preach no Buddhist way, yet they side with the Azai and Asakura!
 Enough, I will make them feel the terror of Nobunaga!
 
 @17
-Azai-Asakura allied army defeated in Kyoto
+Azai-Asakura allied army defeated in Kyōto
 
 @19.0
 Grr, to be beaten after coming this far...

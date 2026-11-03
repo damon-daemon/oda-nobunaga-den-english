@@ -1,5 +1,5 @@
 @4
-Day after day, merchants and eminent monks of Kyoto came to greet Nobunaga, who had entered the capital.
+Day after day, merchants and eminent monks of Kyōto came to greet Nobunaga, who had entered the capital.
 
 @5.0
 Lord Nobunaga, it has been a long time. Today I have come to present these two fans.
@@ -38,13 +38,13 @@ As proof of my loyalty, please accept this Tsukumo Eggplant.
 The famous tea caddy said to be "peerless in this land." Truly magnificent.
 
 @12.3
-There is a persistent rumour that it was you who killed the late shogun, Lord Yoshiteru.
+There is a persistent rumour that it was you who killed the late shōgun, Lord Yoshiteru.
 
 @12.4
 Hahaha. I know nothing of such a rumour.
 
 @12.5
-I, Matsunaga Danjo Hisahide, had no part whatever in the assassination of Lord Yoshiteru.
+I, Matsunaga Danjō Hisahide, had no part whatever in the assassination of Lord Yoshiteru.
 
 @12.6
 Is that so. (He feigns innocence. Well, no matter.)
@@ -62,7 +62,7 @@ The past does not matter. I am not fool enough to cut down a man who submits to 
 Mitsuhide.
 
 @14.2
-You and the Monkey are ordered to guard the city of Kyoto. Show them how strict the Oda army's discipline is.
+You and the Monkey are ordered to guard the city of Kyōto. Show them how strict the Oda army's discipline is.
 
 @14.3
 Needless to say, anyone who abuses women or children, or steals even a single sen, is to be cut down on the spot.
@@ -74,7 +74,7 @@ Because of the strict military discipline of Nobunaga's army, known as "cutting 
 My lord.\n\nThe Miyoshi Triumvirate, who back Yoshihide, still resist us in the home provinces. What will you do?
 
 @18
-Prepare to subdue the Miyoshi\nMake Yoshiaki shogun
+Prepare to subdue the Miyoshi\nMake Yoshiaki shōgun
 
 @19.0
 Heh, it is obvious. Prepare to subdue the Miyoshi.
@@ -86,5 +86,5 @@ Subduing the Miyoshi can wait.
 Th-then...
 
 @20.2
-First, Lord Yoshiaki must take the post of shogun.\n\nOnly after that will we sweep away the fools who defy us.
+First, Lord Yoshiaki must take the post of shōgun.\n\nOnly after that will we sweep away the fools who defy us.
 

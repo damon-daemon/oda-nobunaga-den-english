@@ -5,25 +5,25 @@
 "Retreat from Echizen"
 
 @2
-The 4th month, 1st year of Genki (1570)\nNobunaga withdrew from Kanegasaki to Kyoto, barely escaping with his life.\nHe was 37.
+The 4th month, 1st year of Genki (1570)\nNobunaga withdrew from Kanegasaki to Kyōto, barely escaping with his life.\nHe was 37.
 
 @3
 Faced with Nobunaga's fierce assault, Kitabatake Tomonori surrendered. He made peace with the Oda on the condition that Nobunaga's second son, Nobukatsu, be adopted into the Kitabatake as heir. Thus the Kitabatake, hereditary governors of Ise and a noble house since the Northern and Southern Courts, fell before Nobunaga.
 
 @4
-Takeda Shingen had taken Mino from Nobunaga, but Nobunaga defeated him in Omi and recovered Gifu Castle.\n\nHaving stopped Shingen's march on Kyoto and removed the threat at his back, Nobunaga resolved to attack the Azai and the Asakura.
+Takeda Shingen had taken Mino from Nobunaga, but Nobunaga defeated him in Ōmi and recovered Gifu Castle.\n\nHaving stopped Shingen's march on Kyōto and removed the threat at his back, Nobunaga resolved to attack the Azai and the Asakura.
 
 @5
 Nobunaga met his greatest and most powerful enemy, Takeda Shingen, in Mino and defeated him.\n\nWith the threat at his back removed, he resolved to attack the Azai and the Asakura.
 
 @9
-Between Omi and Ise - the Chigusa Pass
+Between Ōmi and Ise - the Chigusa Pass
 
 @10
-Having reached Kyoto safely, Nobunaga at once decided to return to Gifu and attack the Azai.\n\nTo get from Kyoto to Gifu he had to pass through Azai territory, but he did not flinch and forced his way along roads that were no roads at all.
+Having reached Kyōto safely, Nobunaga at once decided to return to Gifu and attack the Azai.\n\nTo get from Kyōto to Gifu he had to pass through Azai territory, but he did not flinch and forced his way along roads that were no roads at all.
 
 @11.0
-My lord, men of the Azai and the Rokkaku are lurking in Omi.
+My lord, men of the Azai and the Rokkaku are lurking in Ōmi.
 
 @11.1
 It would be best to take this back road through to Ise.
@@ -107,7 +107,7 @@ What do you say, my lord?
 Hmm.
 
 @25
-Adopt Katsuie's plan\nAdopt Tokichiro's plan
+Adopt Katsuie's plan\nAdopt Tōkichirō's plan
 
 @26.0
 I take Katsuie's counsel. We storm Odani Castle.
@@ -236,7 +236,7 @@ I hear a request for reinforcements has come from the Azai.
 We have been allied with the Azai for many years. Besides, we owe them thanks for Kanegasaki, so we must go.
 
 @67.2
-But we may need to guard against the Ikko followers in Kaga, and I am not eager.
+But we may need to guard against the Ikkō followers in Kaga, and I am not eager.
 
 @67.3
 This is a matter for our house. If the Azai are destroyed, the Asakura will be next.
@@ -341,7 +341,7 @@ At once, ask the Asakura for reinforcements!
 Ah, Oichi.
 
 @87.1
-Is it true that my brother's army is marching on Omi?
+Is it true that my brother's army is marching on Ōmi?
 
 @87.2
 Yes... \n\n\nI knew it would come to this sooner or later...

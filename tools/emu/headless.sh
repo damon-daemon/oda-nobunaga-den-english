@@ -11,6 +11,9 @@ if [ "$1" = stop ]; then
   pkill -TERM -x AppRun; timeout 3 tail -f /dev/null; pkill -x gamescope; pkill -x gamescopereaper
   "$PY" "$ROOT/tools/emu/vpad.py" stop 2>/dev/null; exit 0
 fi
+if pgrep -x AppRun >/dev/null; then
+  echo "another DuckStation is running (pgrep -a AppRun): it holds the GDB port and gets the pad input; stop it first" >&2; exit 1
+fi
 [ -f "$T/duckstation/settings.ini" ] || "$PY" "$ROOT/tools/emu/datapath.py" "$T" >/dev/null
 [ -S "$XDG_RUNTIME_DIR/ond-vpad.sock" ] || ("$PY" "$ROOT/tools/emu/vpad.py" serve >/dev/null 2>&1 &)
 timeout 1 tail -f /dev/null

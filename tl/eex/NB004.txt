@@ -2,13 +2,13 @@
 Kiyosu Castle - Living Quarters
 
 @3.0
-Nohime. Are you grieving?
+Nōhime. Are you grieving?
 
 @3.1
 There is no one who does not grieve when their father dies.
 
 @4.0
-I see. ...Nohime.
+I see. ...Nōhime.
 
 @4.1
 Do not die.
@@ -17,13 +17,13 @@ Do not die.
 ...
 
 @5
-In the 4th month of the 2nd year of Koji (1556), Saito Dosan, who rose from oil seller to lord of Mino and was feared as the Viper, died a demon at sixty-three.\n\n\nNobunaga had lost his father-in-law and patron, and now even his kin were about to turn on him.
+In the 4th month of the 2nd year of Kōji (1556), Saitō Dōsan, who rose from oil seller to lord of Mino and was feared as the Viper, died a demon at sixty-three.\n\n\nNobunaga had lost his father-in-law and patron, and now even his kin were about to turn on him.
 
 @9
 Mino - Akechi Castle
 
 @10
-This is Akechi Castle in Mino, seat of Akechi Mitsuyasu, a general of the late Dosan. Mitsuyasu was the elder brother of Lady Omi, Dosan's legal wife. Yoshitatsu, who overthrew his father Dosan and became head of the Saito clan, sent Mitsuyasu a letter urging him to surrender.
+This is Akechi Castle in Mino, seat of Akechi Mitsuyasu, a general of the late Dōsan. Mitsuyasu was the elder brother of Lady Ōmi, Dōsan's legal wife. Yoshitatsu, who overthrew his father Dōsan and became head of the Saitō clan, sent Mitsuyasu a letter urging him to surrender.
 
 @11.0
 Uncle, what does Yoshitatsu say?
@@ -107,7 +107,7 @@ D-delicious.
 Heh heh, is that so...\n\n\nAre you on your way somewhere?
 
 @24.0
-Munch munch... I should have introduced myself. I am Tokichiro, a needle seller. I am heading to Owari to do some trade.
+Munch munch... I should have introduced myself. I am Tōkichirō, a needle seller. I am heading to Owari to do some trade.
 
 @24.1
 Owari...
@@ -116,7 +116,7 @@ Owari...
 Owari draws crowds and is lively, so it is easy to do business. What about you, samurai?
 
 @24.3
-Me? I am a masterless ronin. I mean to wander the provinces for a while and broaden my experience.
+Me? I am a masterless rōnin. I mean to wander the provinces for a while and broaden my experience.
 
 @24.4
 Hmm.
@@ -137,7 +137,7 @@ Farewell.
 I should be going too.
 
 @27.0
-...\nFirst, the capital, Kyoto.
+...\nFirst, the capital, Kyōto.
 
 @29
 Kiyosu Castle - Castle Town
@@ -251,7 +251,7 @@ Strike before you are struck, such is the way of the Sengoku. If you do not take
 Please make your decision.
 
 @50.6
-Is this the fate of a man born a daimyo's son...
+Is this the fate of a man born a daimyō's son...
 
 @51.0
 I will rise! For the sake of the Oda clan!!\nWeeping, I will... cut down my brother!!!
@@ -272,7 +272,7 @@ Splitting our troops in two is one option.
 A fight between kin is painful.
 
 @60.0
-Inou is grassland. Fire attacks will work well.
+Inō is grassland. Fire attacks will work well.
 
 @61.0
 To think that Lord Nobuyuki...

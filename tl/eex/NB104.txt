@@ -29,10 +29,10 @@ You who cannot see that are the one unfit to lead!
 B-Brother...!
 
 @1
-Battle of Inou\nVictory: 1. Make Oda Nobuyuki retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Battle of Inō\nVictory: 1. Make Oda Nobuyuki retreat.\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @2
-Battle of Inou\n\nVictory: 1. Make Oda Nobuyuki retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
+Battle of Inō\n\nVictory: 1. Make Oda Nobuyuki retreat.\n\nDefeat (game over):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 30 turns pass.
 
 @3.0
 Ah, I don't know which side to cheer for.
@@ -77,7 +77,7 @@ Oda Nobunaga defeated Oda Nobuyuki's army.
 The villagers gave you Healing Beans, Healing Barley and Healing Rice.
 
 @14
-Defeated Oda Nobuyuki on the plain of Inou
+Defeated Oda Nobuyuki on the plain of Inō
 
 @15
 Oda Nobunaga was defeated by Oda Nobuyuki.

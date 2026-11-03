@@ -5,7 +5,7 @@ The 8th month, 12th year of Eiroku (1569)\nWith an overwhelming army, Nobunaga f
 The Ise campaign is done. You have all done well.
 
 @6.1
-Following the example of the Mori, I will have Nobukatsu succeed to the Kitabatake house and guard the Oda.
+Following the example of the Mōri, I will have Nobukatsu succeed to the Kitabatake house and guard the Oda.
 
 @7.0
 Nobukatsu, govern Ise and support the Oda house.
@@ -17,7 +17,7 @@ Yes, Father. I will do all I can to meet your expectations.
 Ujisato, come in.
 
 @10.0
-This is Ujisato, son of Gamo Katahide, lord of Hino Castle in Omi.
+This is Ujisato, son of Gamō Katahide, lord of Hino Castle in Ōmi.
 
 @10.1
 He came as a hostage, but shows promise. I will give him my youngest daughter in marriage and add him to my army.
@@ -26,7 +26,7 @@ He came as a hostage, but shows promise. I will give him my youngest daughter in
 Ujisato, greet them all.
 
 @11.0
-Yes, my lord. I am Gamo Ujisato. I am glad to make your acquaintance.
+Yes, my lord. I am Gamō Ujisato. I am glad to make your acquaintance.
 
 @12.0
 Mitsuhide, stay. The rest of you may withdraw.
@@ -35,13 +35,13 @@ Mitsuhide, stay. The rest of you may withdraw.
 Mitsuhide, come closer.
 
 @15.0
-Are the articles for the shogun drawn up?
+Are the articles for the shōgun drawn up?
 
 @15.2
 Show me.
 
 @16.0
-What is this! Do you think rules this feeble can bind the shogun? Too soft, Kumquat-head!
+What is this! Do you think rules this feeble can bind the shōgun? Too soft, Kumquat-head!
 
 @17.0
 Look at this letter.
@@ -50,7 +50,7 @@ Look at this letter.
 Th-this is...!
 
 @19.0
-A secret letter the shogun sent to the Asakura. The fellow means to gather all who defy me.
+A secret letter the shōgun sent to the Asakura. The fellow means to gather all who defy me.
 
 @19.1
 Add to the articles: he must not send letters to the provinces without Nobunaga's permission,
@@ -74,10 +74,10 @@ Send for Monkey.
 My lord, you summoned me?
 
 @23.0
-Take the articles to the shogun with Mitsuhide and make him swear to them.
+Take the articles to the shōgun with Mitsuhide and make him swear to them.
 
 @24.0
-I am not versed in the shogun's household customs, and I fear the task is too heavy for me.
+I am not versed in the shōgun's household customs, and I fear the task is too heavy for me.
 
 @25.0
 What did you say!
@@ -86,7 +86,7 @@ What did you say!
 Y-yes, my lord. I, Hideyoshi, will stake my life to obtain Lord Yoshiaki's approval.
 
 @27
-Kyoto - Yoshiaki's Residence
+Kyōto - Yoshiaki's Residence
 
 @28.0
 Wh-wh-what is this pledge! Is Nobunaga making a fool of me!
@@ -131,10 +131,10 @@ You have made... a wise decision.
 (Just you wait, Nobunaga.)
 
 @35.0
-The shogun, Lord Ashikaga Yoshiaki, has ordered me to come to Kyoto to repair the Imperial Palace. What should I do?
+The shōgun, Lord Ashikaga Yoshiaki, has ordered me to come to Kyōto to repair the Imperial Palace. What should I do?
 
 @35.1
-The shogun's order is only a pretext. It is Nobunaga's scheme. There is no need to go to Kyoto.
+The shōgun's order is only a pretext. It is Nobunaga's scheme. There is no need to go to Kyōto.
 
 @35.2
 But he may use this as an excuse to attack us.
@@ -155,13 +155,13 @@ From now on, whatever Nobunaga demands, the Asakura will ignore it entirely.
 Mino - Gifu Castle, Living Quarters
 
 @40.0
-The Asakura of Echizen have ignored every one of my repeated orders to come to Kyoto.
+The Asakura of Echizen have ignored every one of my repeated orders to come to Kyōto.
 
 @40.1
 So, using this as a pretext, I will attack the Asakura by way of the Hokkoku Road.
 
 @40.2
-(I cannot kill the shogun, so I will punish those who side with him.)
+(I cannot kill the shōgun, so I will punish those who side with him.)
 
 @40.3
 But my lord, is it wise to invade Echizen without any word to Lord Azai?
@@ -197,7 +197,7 @@ I worry about Lord Azai...
 I wonder if Lady Oichi is well...
 
 @50.0
-I will not lose to Tokichiro.
+I will not lose to Tōkichirō.
 
 @51.0
 My lord, retreat too is part of strategy.
@@ -233,7 +233,7 @@ We agreed that should he ever fight the Asakura, he would obtain our consent fir
 B-but...
 
 @58.4
-Besides, the shogun Lord Yoshiaki has sent a secret letter ordering us to strike Nobunaga together with the Asakura.
+Besides, the shōgun Lord Yoshiaki has sent a secret letter ordering us to strike Nobunaga together with the Asakura.
 
 @59.0
 There will be no better chance to do away with Nobunaga than now.
@@ -263,7 +263,7 @@ But we are allied with Lord Nobunaga as well.
 We agreed that should he ever fight the Asakura, he would obtain our consent first. By breaking it, the Oda alliance is void.
 
 @63.6
-The shogun Lord Yoshiaki has sent a secret letter ordering us to strike Nobunaga together with the Asakura.
+The shōgun Lord Yoshiaki has sent a secret letter ordering us to strike Nobunaga together with the Asakura.
 
 @63.7
 There will be no better chance to do away with Nobunaga than now.

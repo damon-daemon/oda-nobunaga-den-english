@@ -24,7 +24,7 @@ conversions must match; sprintf targets are checked by fmtlimit.py.
 import collections, json, os, re, struct, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-import fmtlimit, iso
+import fmtlimit, iso, text
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TL = os.path.join(ROOT, 'tl', 'progstr')
@@ -329,7 +329,7 @@ def encode(en):
         return b''.join(t.encode('ascii') if i % 2 else
                         ''.join('\u3000' if c == ' ' else chr(ord(c) + 0xFEE0) for c in t).encode('cp932')
                         for i, t in enumerate(parts))
-    return en.replace('\\-', '-').encode('ascii').replace(b'{82}', b'\x82')
+    return text.fold(en).replace('\\-', '-').encode('ascii').replace(b'{82}', b'\x82')
 
 
 class Pool:

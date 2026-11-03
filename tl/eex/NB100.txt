@@ -14,10 +14,10 @@ Coming out here just to be killed. How very dutiful of him.
 Show him the terror of the Mikawa warriors!
 
 @1
-Battle of Kira Ohama\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 20 turns pass.
+Battle of Kira Ōhama\nVictory: 1. Wipe out the enemy.\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 20 turns pass.
 
 @2
-Battle of Kira Ohama\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 20 turns pass.
+Battle of Kira Ōhama\n\nVictory: 1. Wipe out the enemy.\n\nDefeat (all units retreat):\n  1. Oda Nobunaga retreats.\n  2. The Oda main camp is taken.\n  3. More than 20 turns pass.
 
 @3.0
 Young lord! Please wait.
@@ -116,25 +116,25 @@ Damn, I let my guard down...
 The Oda main camp was taken by the enemy
 
 @15
-Defeated in the Battle of Kira Ohama
+Defeated in the Battle of Kira Ōhama
 
 @16.0
 Well, that will do. Withdraw!
 
 @17
-Oda Nobunaga defeated the enemy at the Battle of Kira Ohama.\nHe won glory in his first battle.
+Oda Nobunaga defeated the enemy at the Battle of Kira Ōhama.\nHe won glory in his first battle.
 
 @18
 Gained 500 gold
 
 @19
-Great victory at the Battle of Kira Ohama
+Great victory at the Battle of Kira Ōhama
 
 @20
-Oda Nobunaga was defeated at the Battle of Kira Ohama.
+Oda Nobunaga was defeated at the Battle of Kira Ōhama.
 
 @21
-Defeated at the Battle of Kira Ohama
+Defeated at the Battle of Kira Ōhama
 
 @22.0
 Damn it, I let my guard down...
