@@ -7,7 +7,7 @@ PROG:8011f24c	Gave up %s.
 PROG:8011f264	%s reached level %u!\n\n
 PROG:8011f280	%s up by %2u\n
 PROG:8011f294	Learned trait "%s"!
-PROG:8011f2ac	can now be equipped!
+PROG:8011f2ac	 can now be equipped!
 PROG:8011f2c4	%s learned "%s"!
 PROG:8011f2dc	%s gained trait "%s"!
 PROG:8011f2f8	%s lost trait "%s"!

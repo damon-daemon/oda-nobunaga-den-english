@@ -17,7 +17,7 @@ Do not die.
 ...
 
 @5
-In the 4th month of the 2nd year of Kōji (1556), Saitō Dōsan, who rose from oil seller to lord of Mino and was feared as the Viper, died a demon at sixty-three.\n\n\nNobunaga had lost his father-in-law and patron, and now even his kin were about to turn on him.
+In the 4th month of the 2nd year of Kōji (1556), Saitō Dōsan, who rose from oil seller to lord of Mino and was feared as the Viper, died as he had lived, a demon, at sixty-three.\n\n\nNobunaga had lost his father-in-law and patron, and now even his kin were about to turn on him.
 
 @9
 Mino - Akechi Castle
@@ -44,7 +44,7 @@ Uncle! I will fight beside you!
 W-why?
 
 @11.7
-I intend to die in this battle with the castle as my pillow.
+I intend to fall in this battle with the castle as my deathbed.
 
 @11.8
 You must escape and raise the name of Akechi.
@@ -92,7 +92,7 @@ I was having such a nice sleep!
 Pardon me. By way of apology, though it is little, will you join me?
 
 @21.0
-Gulp. R-rice balls!\n\nLet us let bygones be bygones!
+*Drool* R-rice balls!\n\nLet us let bygones be bygones!
 
 @22.0
 Here.
@@ -116,7 +116,7 @@ Owari...
 Owari draws crowds and is lively, so it is easy to do business. What about you, samurai?
 
 @24.3
-Me? I am a masterless rōnin. I mean to wander the provinces for a while and broaden my experience.
+Me? I am but a rōnin. I mean to wander the provinces for a while and broaden my experience.
 
 @24.4
 Hmm.
@@ -161,7 +161,7 @@ Well then, time for me to start trading too.\n\n\nNow, where is a good spot...
 Oh, that one is good!
 
 @36.0
-Why, Lord Nobunaga.
+Why, if it isn't Lord Nobunaga.
 
 @36.1
 Hm? Lord Nobunaga...?
@@ -236,7 +236,7 @@ An interesting fellow. Hahaha.
 Lord Nobuyuki, I can no longer bear Lord Nobunaga's wild conduct...
 
 @50.1
-There is nothing left but to rise for the sake of the Oda clan.
+There is nothing left but to rise up against him for the sake of the Oda clan.
 
 @50.2
 Do not speak rashly. I do not wish to fight my brother.
@@ -254,7 +254,7 @@ Please make your decision.
 Is this the fate of a man born a daimyō's son...
 
 @51.0
-I will rise! For the sake of the Oda clan!!\nWeeping, I will... cut down my brother!!!
+I will rise up! For the sake of the Oda clan!!\nWith tears in my eyes, I will... cut down my brother!!!
 
 @54.0
 My lord, I hear your brother has raised troops!
