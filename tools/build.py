@@ -78,6 +78,11 @@ def patch_exe(exe):
     for va, old, new in CLASS_X:
         assert peek(exe, va, 1) == [old], 'unexpected code at %#x' % va
         poke(exe, va, [new])
+    # its item rows: icon x 24, name x 40, the stat labels at x 120 cover names over 80 px ->
+    # icon 20 (the panel's clear rect starts there), name 36 (item names <= 84 px)
+    for va, old, new in STORE_ITEMS:
+        assert peek(exe, va, 1) == [old], 'unexpected code at %#x' % va
+        poke(exe, va, [new])
     # blacksmith officer panel 0x800184c0 (issue #1): the equipped weapon's name at x 228 had
     # 72 px to the frame (item names up to 85 px ran over it and outside the 156-px clear
     # rect). Class icon dropped (the officer list shows it), class name at x 144, weapon icon
@@ -126,6 +131,8 @@ ENTRY_TITLE = 0x80032124             # (slot index) -> list title of the current
 STRSTR = 0x80091fc8                  # the game's strstr (no backtracking, 1-byte needles fail)
 CLASS_X = [(0x8002855c, 0x24060068, 0x24060052),     # addiu a2, zero, icon x
            (0x8002856c, 0x24050078, 0x24050063)]     # addiu a1, zero, class x
+STORE_ITEMS = [(0x80028840, 0x24060018, 0x24060014),   # addiu a2, zero, icon x
+               (0x80028850, 0x24050028, 0x24050024)]   # addiu a1, zero, name x
 SMITH_PANEL = [(0x800184dc, 0x24040090, 0x2404008e),  # clear rect x 144 -> 142 (class name outline at 143)
                (0x800184e4, 0x2406009c, 0x240600a8),  # clear rect width 156 -> 168
                (0x80018570, 0x0c009a04, 0x00000000),  # class icon sprite: nop
