@@ -29,7 +29,7 @@ Ujisato, greet them all.
 Yes, my lord. I am Gamō Ujisato. I am glad to make your acquaintance.
 
 @12.0
-Mitsuhide, stay. The rest of you may withdraw.
+Mitsuhide, stay. The rest of you may go.
 
 @14.0
 Mitsuhide, come closer.

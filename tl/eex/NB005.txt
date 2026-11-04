@@ -50,19 +50,19 @@ Is that so... I am relieved to hear it. Then I am counting on you.
 Bring Nobuyuki to me.
 
 @11.0
-Nobuyuki, as you commanded.
+Nobuyuki, here as you commanded.
 
 @11.1
 I have nothing to say about this affair. I leave my life or death to my brother's judgement alone.
 
 @11.2
-What is past is forgiven. Return to Suemori Castle at once.
+Let bygones be bygones. Return to Suemori Castle at once.
 
 @12.0
 B-Brother... You forgive me?
 
 @13.0
-If you understand, withdraw.
+If you understand, then go.
 
 @14.0
 Summon Shibata and Hayashi.
@@ -86,13 +86,13 @@ Yes, my lord.\n(This man and I are cast in different moulds altogether...)
 Yes, and I am grateful. From now on I intend to serve you with all my heart.
 
 @19.1
-Enough. Withdraw.
+Enough. Leave us.
 
 @20
 Suemori Castle - Audience Hall
 
 @21.0
-My brother said it is forgiven. But...
+My brother said to let bygones be bygones. But...
 
 @21.1
 Knowing his nature, he will surely not let it rest here. Is that not so, Hidesada?
@@ -137,7 +137,7 @@ Go to Oda Nobuyasu of Iwakura Castle and ask for his cooperation.
 At once, my lord.
 
 @28.0
-You there.
+And you there.
 
 @29.0
 Yes, my lord.
@@ -188,7 +188,7 @@ Gonroku, I need you to do something for me.
 Return to Suemori Castle as you are and tell him that I lie sick in bed.
 
 @39.1
-Mark me, you must make sure Nobuyuki comes to visit me.
+Listen well: you must make sure Nobuyuki comes to visit me.
 
 @39.2
 But, my lord...
@@ -233,7 +233,7 @@ The truth is...
 (W-What!)
 
 @46.0
-Gonroku, you may withdraw.
+Gonroku, you may go.
 
 @47.0
 Yes, my lord.
@@ -266,7 +266,7 @@ Now is not the time to provoke Lord Nobunaga. I, Katsuie, will accompany you.
 Very well. In case the worst should happen, let us ask Mother to come with us.
 
 @49.8
-Even my brother would not think of punishing his brother in front of Mother.
+Even my brother would not think of punishing me in front of Mother.
 
 @49.9
 (Is Lord Nobuyuki so afraid of Lord Nobunaga?)
