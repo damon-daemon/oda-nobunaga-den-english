@@ -185,7 +185,7 @@ Very well. I forgive you.
 !?
 
 @39.8
-You may withdraw.
+You may go.
 
 @40.0
 Is that all right, my lord?
@@ -194,7 +194,7 @@ Is that all right, my lord?
 It does not matter. Somehow, I cannot bring myself to dislike that man.
 
 @41.0
-Good, this council is over. Katsuie, stay. The rest may withdraw.
+Good, this council is over. Katsuie, stay. The rest of you may go.
 
 @43.0
 Katsuie.

@@ -119,7 +119,7 @@ I have ordered him to strike the enemy's rear when Yoshimoto attacks. Rest easy.
 All of you, post more watchers so that no true traitor emerges.
 
 @20.7
-Yoshinari, I have a word with you. The rest may withdraw.
+Yoshinari, I have a word with you. The rest of you may go.
 
 @21.0
 Yoshinari, come closer.
@@ -386,7 +386,7 @@ We have prepared sake and fish to celebrate Lord Imagawa's first victory. Please
 Ho ho ho. There is no need for that. Your lands are secure, so do not worry.
 
 @66.3
-You may withdraw.
+You may go.
 
 @67.0
 Such fine sake and fish. I think I shall hold a small victory banquet, but...
