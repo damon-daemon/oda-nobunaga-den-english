@@ -85,8 +85,8 @@ def triangle(sh, labels, f):
     return t
 
 
-def text_pixels(text, g):
-    """{(x, y)} of text in the pixel font, x from 0, y 0 = cap top."""
+def text_pixels(text, g, kern=0):
+    """{(x, y)} of text in the pixel font, x from 0, y 0 = cap top; kern = extra advance."""
     ink, x = set(), 0
     for c in text:
         rows, adv = g[c]
@@ -94,7 +94,16 @@ def text_pixels(text, g):
             for i in range(pixfont.CELL_W):
                 if rows[r] & (0x80 >> i):
                     ink.add((x + i, r))
-        x += adv
+        x += adv + kern
+    return ink
+
+
+def fitting(text, g):
+    """text_pixels of text, 1 px tighter (Wound, Immob.) when the normal spacing is too wide
+    for the 32-px label with its outline."""
+    ink = text_pixels(text, g)
+    if max(x for x, _ in ink) - min(x for x, _ in ink) + 1 > W - 2:
+        ink = text_pixels(text, g, -1)
     return ink
 
 
@@ -166,7 +175,7 @@ def inpaint_rings(fr, y0, y1):
 
 def status(sh, n, text, g):
     """Status label: scaled text on the empty frames 0-1, text over the inpainted glow on 2."""
-    full = text_pixels(text, g)
+    full = fitting(text, g)
     for f in range(FRAMES):
         orig = sh.frame(n, f)
         colour = dominant(orig, *TEXT_ROWS)
