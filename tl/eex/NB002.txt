@@ -125,7 +125,7 @@ Go and suppress it\nDo not go
 Hmph. An uprising the moment I take over the house... They think little of me.
 
 @37.0
-Nagahide, assemble the chief men in the council chamber at once.
+Nagahide, assemble the chief retainers in the council chamber at once.
 
 @39.0
 Leave it. This is no time to bother with uprisings.

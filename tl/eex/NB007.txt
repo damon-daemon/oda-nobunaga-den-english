@@ -64,6 +64,9 @@ Nōhime, I want Mino. I want Inabayama Castle.
 @16.1
 Please, take it by force. Father surely wished for it too.
 
+@16.2
+Indeed!
+
 @17.0
 Kiyosu is too far to attack Inabayama.
 
@@ -80,10 +83,10 @@ We will put it down at once. A spark must be put out while it is still small.
 Even so, an uprising at this time... Someone must be pulling the strings behind it.
 
 @23.0
-No doubt it is that priest Shingen, hindering my conquest of Mino.
+No doubt it is that monk Shingen, hindering my conquest of Mino.
 
 @24.0
-Gonroku, gather the chief men.
+Gonroku, gather the chief retainers.
 
 @26.0
 Leave it. For now, taking Inabayama Castle takes priority over the uprising.
@@ -95,7 +98,7 @@ Ichijōdani
 Ichijōdani - Audience Hall
 
 @29
-Akechi Mitsuhide, wandering in search of a lord to serve, had come to the lands of the Asakura, a noted house of Echizen.\n\nMitsuhide, skilled in every martial art, soon came to the notice of the head of the house, Asakura Yoshikage, and was granted an audience.
+Akechi Mitsuhide, wandering in search of a lord to serve, had come to the lands of the Asakura, a noted clan of Echizen.\n\nMitsuhide, skilled in all manner of arms, soon came to the notice of the head of the clan, Asakura Yoshikage, and was granted an audience.
 
 @30.0
 So you are this Akechi Mitsuhide. Your skill with the musket is splendid.
@@ -131,13 +134,13 @@ Too weak!
 Gwaah!
 
 @43.0
-I hold a full licence from Tsukahara Bokuden. Taste my swordsmanship well, as a keepsake for the underworld.
+I trained under the sword saint Tsukahara Bokuden. Taste my swordsmanship well, as a keepsake for the underworld.
 
 @44.0
-Gweh.
+Gweh!
 
 @45.0
-Ugh.
+Ugh...
 
 @46.0
 Lord Yoshiteru!
@@ -170,7 +173,7 @@ Why must I, the main heir of the Ashikaga, train to be a mere priest?
 Lord Kakukei, flee from here at once!
 
 @55.0
-Wh-What is this, what is this?
+Wh-What? What is happening?
 
 @55.1
 I am Hosokawa Fujitaka, who served Lord Yoshiteru. Please calm yourself and hear me.
@@ -188,7 +191,7 @@ Men who would seize the next shogunate now seek your life.
 What am I to do?
 
 @57.0
-Help me.
+Help me...
 
 @57.1
 For now, please flee with me.
@@ -278,7 +281,7 @@ Ichijōdani - Audience Hall
 Kakukei, who had changed his name to Ashikaga Yoshiaki, had come to Asakura Yoshikage in Echizen.
 
 @74.0
-That you should honour so remote a country is the height of distinction for us.
+That you should honour so remote a province is the height of distinction for us.
 
 @74.1
 Please make yourself at ease.

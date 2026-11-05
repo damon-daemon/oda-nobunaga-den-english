@@ -86,6 +86,13 @@ def patch_exe(exe):
     for va, old, new in SMITH_PANEL:
         assert peek(exe, va, 1) == [old], 'unexpected code at %#x' % va
         poke(exe, va, [new])
+    # upgrade tree names 0x8001ccb4 (issue #17): sprintf(sp+0x18, "%s", name) into a 16-byte
+    # buffer just below the slot's x at sp+0x28 (then a no-op strcmp loop), so a 16-char name
+    # (Antler Blue Mail, Fine Short Spear) zeroed x and was drawn at the left edge. Pass the
+    # name pointer to the printer instead.
+    for va, old, new in TREE_NAME:
+        assert peek(exe, va, 1) == [old], 'unexpected code at %#x' % va
+        poke(exe, va, [new])
 
 
 IMSG_CUT_AT = (0x80029804, 0x8006d940, 0x8006dabc)
@@ -128,6 +135,16 @@ CLASS_X = [(0x8002855c, 0x24060068, 0x24060052),     # addiu a2, zero, icon x
            (0x8002856c, 0x24050078, 0x24050063)]     # addiu a1, zero, class x
 STORE_ITEMS = [(0x80028840, 0x24060018, 0x24060014),   # addiu a2, zero, icon x
                (0x80028850, 0x24050028, 0x24050024)]   # addiu a1, zero, name x
+TREE_NAME = [(0x8001cd1c, 0x3c058013, 0x8e060b58),    # lui a1 (fmt) -> lw a2, 0xb58(s0) (name)
+             (0x8001cd20, 0x27a40018, 0x00000000),    # addiu a0, sp, 0x18 -> nop
+             (0x8001cd24, 0x8e060b58, 0xafa60018),    # lw a2 -> sw a2, 0x18(sp) (pointer)
+             (0x8001cd28, 0x0c024a8e, 0x00000000),    # jal sprintf -> nop
+             (0x8001cd2c, 0x24a5a0d0, 0x00000000),    # (delay slot) -> nop
+             (0x8001cd30, 0x00111042, 0x00001021),    # strlen / 2 -> 0 (skip the strcmp loop)
+             (0x8001cd64, 0x2402000c, 0x8fa80018),    # lw t0, 0x18(sp) (the name)
+             (0x8001cd68, 0xafa20010, 0x2402000c),    # addiu v0, zero, 12
+             (0x8001cd6c, 0x27a20018, 0xafa20010),    # sw v0, 0x10(sp)
+             (0x8001cd70, 0xafa20014, 0xafa80014)]    # sw t0, 0x14(sp): text = the name
 SMITH_PANEL = [(0x800184dc, 0x24040090, 0x2404008e),  # clear rect x 144 -> 142 (class name outline at 143)
                (0x800184e4, 0x2406009c, 0x240600a8),  # clear rect width 156 -> 168
                (0x80018570, 0x0c009a04, 0x00000000),  # class icon sprite: nop

@@ -63,6 +63,7 @@ OUTLINED = [(0x80016d50, 0x80016dec), (0x80016f2c, 0x80016fc8), (0x80017108, 0x8
 SHADOW = 0x80015ec0               # ANK glyph: jal SETCOL with a1 = 8 (1-px shadow colour)
 GLCOL = 0x80015ef4                # then jal SETCOL with a1 = the text colour
 OUTLINE_AT = 0x80015ee8           # ANK glyph: jal 0x80015d5c (shadow copy, mode 1) -> outline
+LABEL_RIGHT = 312                 # council-room name label: rightmost pixel + 1 (screen 320)
 BORDER_AT = 0x80016600            # DRAW 0x800164f4: jal CELL_BLIT -> border
 CELL_BLIT = 0x80016a84            # (ctx, x, y, w, [sp+0x10] h, [sp+0x14] cell) -> 0x8003112c
 BITMAP, BM_W, BM_H = 0x8018c388, 320, 240    # 4bpp text bitmap, 160 bytes per row
@@ -214,6 +215,24 @@ def _code(char, widths, flag, vars):
         ('nop',),
         ('jr', 't4'),
         ('addu', 'v0', 't5', 'zero'),
+
+        'labx:',            # council-room name label over an officer: a0 = name, a1 = sprite
+        ('addu', 't4', 'ra', 'zero'),             # x -> v0 = offset o with label x = a1 + o -
+        ('jal', 'pixw'),                          # 16: centred on a1 + 20 like the JP, right
+        ('nop',),                                 # edge kept <= 312 (the game clamps the left
+        ('srl', 't1', 'v0', 1),                   # edge to 8 itself)
+        ('addiu', 't3', 'a1', 20),
+        ('subu', 't3', 't3', 't1'),
+        ('addu', 't1', 't3', 'v0'),
+        ('slti', 't2', 't1', LABEL_RIGHT + 1),
+        ('bnez', 't2', 'lxok'),
+        ('nop',),
+        ('addiu', 't3', 'zero', LABEL_RIGHT),
+        ('subu', 't3', 't3', 'v0'),
+        'lxok:',
+        ('subu', 'v0', 't3', 'a1'),
+        ('jr', 't4'),
+        ('addiu', 'v0', 'v0', 16),
 
         'outline:',         # in place of the shadow copy: a0 = ctx, a1 = glyph (12 rows of 4
         ('lbu', 't5', 0x14c, 'a0'),               # bytes, nibbles = shadow colour or 0),
@@ -473,6 +492,17 @@ def _sites(lab):
             ('nop',)]),                                               # (load delay before sltu)
         (0x8005f778, [0x0c0247a6, 0x02202021, 0x000210c0], [           # council room label:
             ('jal', pixw), None, ('nop',)]),                          # x = (0x128 - strlen*8)/2
+        (0x8002e44c, [0x0c0247a6, 0x00402021, 0x00021400, 0x00021403,  # name label over an
+                      0x2403000c, 0x00621823, 0x000317c2, 0x00621821,  # officer: x offset
+                      0x00031843, 0x00038040, 0x02038021, 0x0c005aee,  # ((12 - strlen) / 2) * 6
+                      0x00108040], [                                   # -> lab labx (pixels,
+            ('lhu', 'a1', 0x40, 'sp'),                                 # right edge clamped)
+            ('jal', lab['labx']),
+            ('addu', 'a0', 'v0', 'zero'),
+            ('addu', 's0', 'v0', 'zero'),
+            ('nop',), ('nop',), ('nop',), ('nop',), ('nop',), ('nop',), ('nop',),
+            None,                                                      # jal 0x80016bb8 (clear)
+            ('nop',)]),
         (SHADOW, [0x0c00599a], [('jal', lab['shcol'])]),
         (GLCOL, [0x0c00599a], [('jal', lab['glcol'])]),
         (OUTLINE_AT, [0x0c005757], [('jal', lab['outline'])]),
